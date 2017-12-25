@@ -1,0 +1,197 @@
+CACM-1519
+----------------------------------------------------------------
+<hl>sharing</hl> <hl>operating</hl> <hl>system</hl>
+<hl>operating</hl> <hl>system</hl> run wide variety
+configurations 19 handle large number online console users
+<hl>time</hl> running line background oriented mode batch
+processing <hl>system</hl> atlas supervisor ibsys gecos
+multiaccess <hl>system</hl> resembling user ctss multics
+simultaneously depending installation adjust schedulers
+
+CACM-1410
+----------------------------------------------------------------
+<hl>sharing</hl> <hl>operating</hl> <hl>system</hl>
+<hl>operating</hl> <hl>system</hl> run wide variety
+configurations 19 handle large number online console users
+<hl>time</hl> running line background oriented mode batch
+processing <hl>system</hl> atlas supervisor ibsys gecos
+multiaccess <hl>system</hl> resembling user ctss multics
+simultaneously depending installation adjust schedulers ...
+<hl>sharing</hl> systems optimization timeshared <hl>system</hl>
+performance requires description stochastic processes governing
+user inputs program activity paper statistical description user
+input <hl>tss</hl> input process assumed stationary defined
+interarrival <hl>time</hl> distribution data obtained justify
+satisfactorily common assumption interarrival times serially
+independent data ... includes multilevel deviceindependent store
+cacm november 1967 oestreicher bailey strauss ca67111 jb
+february 27 1978 1:47 pm 1519 5 1519
+
+CACM-1506
+----------------------------------------------------------------
+<hl>sharing</hl> <hl>operating</hl> <hl>system</hl>
+<hl>operating</hl> <hl>system</hl> run wide variety
+configurations 19 handle large number online console users
+<hl>time</hl> running line background oriented mode batch
+processing <hl>system</hl> atlas supervisor ibsys gecos
+multiaccess <hl>system</hl> resembling user ctss multics
+simultaneously depending installation adjust schedulers ...
+<hl>sharing</hl> systems optimization timeshared <hl>system</hl>
+performance requires description stochastic processes governing
+user inputs program activity paper statistical description user
+input <hl>tss</hl> input process assumed stationary defined
+interarrival <hl>time</hl> distribution data obtained justify
+satisfactorily common assumption interarrival times serially
+independent data ... <hl>sharing</hl> online dialogues laconiq
+laboratory computer online inquiry monitor developed primarily
+support nonnumerical applications retrieval large means dialogue
+<hl>system</hl> user
+
+CACM-1605
+----------------------------------------------------------------
+<hl>sharing</hl> <hl>operating</hl> <hl>system</hl>
+<hl>operating</hl> <hl>system</hl> run wide variety
+configurations 19 handle large number online console users
+<hl>time</hl> running line background ... <hl>sharing</hl> batch
+processing effectiveness program development mit compatible
+timesharing <hl>system</hl> ctss compared <hl>ibm</hl> ibsys
+batchprocessing <hl>system</hl> means statistically designed
+experiment computer <hl>time</hl> elapsed <hl>time</hl>
+considered definitive <hl>system</hl> effectiveness analysis
+variance techniques employed estimate <hl>system</hl>
+differences variables differences due design factors ...
+oriented mode batch processing <hl>system</hl> atlas supervisor
+ibsys gecos multiaccess <hl>system</hl> resembling user ctss
+multics simultaneously depending installation adjust schedulers
+... <hl>sharing</hl> systems optimization timeshared
+<hl>system</hl> performance requires description stochastic
+processes governing user inputs program activity paper
+statistical description user input
+
+CACM-1161
+----------------------------------------------------------------
+<hl>sharing</hl> <hl>operating</hl> <hl>system</hl>
+<hl>operating</hl> <hl>system</hl> run wide variety
+configurations 19 handle large number online console users
+<hl>time</hl> running line background ... <hl>sharing</hl> batch
+processing effectiveness program development mit compatible
+timesharing <hl>system</hl> ctss compared <hl>ibm</hl> ibsys
+batchprocessing <hl>system</hl> means statistically designed
+experiment computer <hl>time</hl> elapsed <hl>time</hl>
+considered definitive <hl>system</hl> effectiveness analysis
+variance techniques employed estimate <hl>system</hl>
+differences variables differences due design factors ...
+system36 model 3 generation storedprogram <hl>computers</hl>
+<hl>ibm</hl> 14 series part brought edp mass market
+<hl>time</hl> large scale era unfolded rapid ... oriented mode
+batch processing <hl>system</hl> atlas supervisor ibsys gecos
+multiaccess <hl>system</hl> resembling user ctss multics
+simultaneously depending installation adjust schedulers
+
+CACM-3048
+----------------------------------------------------------------
+<hl>sharing</hl> <hl>operating</hl> <hl>system</hl>
+<hl>operating</hl> <hl>system</hl> run wide variety
+configurations 19 handle large number online console users
+<hl>time</hl> running line background ... <hl>sharing</hl> batch
+processing effectiveness program development mit compatible
+timesharing <hl>system</hl> ctss compared <hl>ibm</hl> ibsys
+batchprocessing <hl>system</hl> means statistically designed
+experiment computer <hl>time</hl> elapsed <hl>time</hl>
+considered definitive <hl>system</hl> effectiveness analysis
+variance techniques employed estimate <hl>system</hl>
+differences variables differences due design factors ...
+system36 model 3 generation storedprogram <hl>computers</hl>
+<hl>ibm</hl> 14 series part brought edp mass market
+<hl>time</hl> large scale era unfolded rapid ... oriented mode
+batch processing <hl>system</hl> atlas supervisor ibsys gecos
+multiaccess <hl>system</hl> resembling user ctss multics
+simultaneously depending installation adjust schedulers
+
+CACM-1680
+----------------------------------------------------------------
+<hl>sharing</hl> <hl>operating</hl> <hl>system</hl>
+<hl>operating</hl> <hl>system</hl> run wide variety
+configurations 19 handle large number online console users
+<hl>time</hl> running line background ... <hl>sharing</hl> batch
+processing effectiveness program development mit compatible
+timesharing <hl>system</hl> ctss compared <hl>ibm</hl> ibsys
+batchprocessing <hl>system</hl> means statistically designed
+experiment computer <hl>time</hl> elapsed <hl>time</hl>
+considered definitive <hl>system</hl> effectiveness analysis
+variance techniques employed estimate <hl>system</hl>
+differences variables differences due design factors ...
+system36 model 4 <hl>ibm</hl> 225 display unit
+<hl>operating</hl> system36 adept cataloged program controls
+standard <hl>operating</hl> <hl>system</hl> terminating
+rescheduling relinquishing computer ... system36 model 3
+generation storedprogram <hl>computers</hl> <hl>ibm</hl> 14
+series part brought edp mass market <hl>time</hl> large scale
+era unfolded rapid
+
+CACM-1591
+----------------------------------------------------------------
+<hl>sharing</hl> <hl>operating</hl> <hl>system</hl>
+<hl>operating</hl> <hl>system</hl> run wide variety
+configurations 19 handle large number online console users
+<hl>time</hl> running line background ... teaching
+<hl>system</hl> model incorporated <hl>operating</hl>
+<hl>system</hl> large computer model transferred control
+<hl>operating</hl> <hl>system</hl> execute functions teaching
+recovered control order resume abacii written run
+<hl>operating</hl> <hl>system</hl> ibsys <hl>ibm</hl> 744
+graphic <hl>system</hl> teaching <hl>system</hl> terminated
+rescheduled student studying course presented cathoderay display
+... <hl>sharing</hl> batch processing effectiveness program
+development mit compatible timesharing <hl>system</hl> ctss
+compared <hl>ibm</hl> ibsys batchprocessing <hl>system</hl>
+means statistically designed experiment computer <hl>time</hl>
+elapsed <hl>time</hl> considered definitive <hl>system</hl>
+effectiveness analysis variance techniques employed estimate
+<hl>system</hl> differences variables differences due design
+factors
+
+CACM-3025
+----------------------------------------------------------------
+<hl>sharing</hl> <hl>operating</hl> <hl>system</hl>
+<hl>operating</hl> <hl>system</hl> run wide variety
+configurations 19 handle large number online console users
+<hl>time</hl> running line background ... teaching
+<hl>system</hl> model incorporated <hl>operating</hl>
+<hl>system</hl> large computer model transferred control
+<hl>operating</hl> <hl>system</hl> execute functions teaching
+recovered control order resume abacii written run
+<hl>operating</hl> <hl>system</hl> ibsys <hl>ibm</hl> 744
+graphic <hl>system</hl> teaching <hl>system</hl> terminated
+rescheduled student studying course presented cathoderay display
+... <hl>sharing</hl> batch processing effectiveness program
+development mit compatible timesharing <hl>system</hl> ctss
+compared <hl>ibm</hl> ibsys batchprocessing <hl>system</hl>
+means statistically designed experiment computer <hl>time</hl>
+elapsed <hl>time</hl> considered definitive <hl>system</hl>
+effectiveness analysis variance techniques employed estimate
+<hl>system</hl> differences variables differences due design
+factors
+
+CACM-0585
+----------------------------------------------------------------
+<hl>sharing</hl> <hl>operating</hl> <hl>system</hl>
+<hl>operating</hl> <hl>system</hl> run wide variety
+configurations 19 handle large number online console users
+<hl>time</hl> running line background ... teaching
+<hl>system</hl> model incorporated <hl>operating</hl>
+<hl>system</hl> large computer model transferred control
+<hl>operating</hl> <hl>system</hl> execute functions teaching
+recovered control order resume abacii written run
+<hl>operating</hl> <hl>system</hl> ibsys <hl>ibm</hl> 744
+graphic <hl>system</hl> teaching <hl>system</hl> terminated
+rescheduled student studying course presented cathoderay display
+... <hl>sharing</hl> batch processing effectiveness program
+development mit compatible timesharing <hl>system</hl> ctss
+compared <hl>ibm</hl> ibsys batchprocessing <hl>system</hl>
+means statistically designed experiment computer <hl>time</hl>
+elapsed <hl>time</hl> considered definitive <hl>system</hl>
+effectiveness analysis variance techniques employed estimate
+<hl>system</hl> differences variables differences due design
+factors
+

@@ -1,0 +1,984 @@
+CACM-1433
+----------------------------------------------------------------
+<hl>linear</hl> <hl>programming</hl> <hl>algorithm</hl> design
+combinatorial problem <hl>linear</hl> <hl>programming</hl>
+models grow bigger bigger size actual <hl>data</hl> memorized
+put magnetic tape disk ... <hl>data</hl> tape core memory
+considered simplification problem restated general
+<hl>generating</hl> function probability distribution moment
+<hl>generating</hl> function number repetitions found asymptotic
+... <hl>computer</hl> timeo cut expense increasing effort made
+design efficient <hl>algorithms</hl> paper meant support effort
+attempted find characteristics pivot column found
+
+CACM-2325
+----------------------------------------------------------------
+<hl>numerical</hl> mathematics <hl>computer</hl>
+<hl>science</hl> <hl>numerical</hl> mathematics viewed analysis
+continuous <hl>algorithms</hl> components <hl>numerical</hl>
+mathematics discussed foundations finite precision number
+systems computational
+
+CACM-2324
+----------------------------------------------------------------
+<hl>algorithms</hl> demonstrate techniques specific problems
+cacm july 1972 shanno weil integer <hl>programming</hl>
+<hl>linear</hl> <hl>programming</hl> mathematical
+<hl>programming</hl> nonlinear <hl>programming</hl> quadratic
+<hl>programming</hl> ... <hl>science</hl> view nonlinear
+<hl>programming</hl> history integer continuous nonlinear
+<hl>programming</hl> presented obstacles practical mathematical
+<hl>programming</hl> techniques forecast contributions nonlinear
+<hl>programming</hl> actually
+
+CACM-2699
+----------------------------------------------------------------
+<hl>data</hl> <hl>structures</hl> <hl>methods</hl> employed
+based extend known techniques <hl>data</hl> flow analysis cacm
+december 1975 schwartz program <hl>optimization</hl> automatic
+<hl>programming</hl> highlevel ... <hl>data</hl> structure
+choice language high level setl settheoretically oriented
+language high level repertoire semantic objects
+<hl>includes</hl> finite sets ordered ntuples <hl>methods</hl>
+interest optimizer techniques allow relations inclusion
+membership established domains ranges tabulated mappings
+estimated singlevaluedness tabulated mappings proved facts kind
+
+CACM-1066
+----------------------------------------------------------------
+<hl>programming</hl> matrix coefficients <hl>data</hl>
+transmission direct <hl>computer</hl> entry <hl>data</hl>
+<hl>computer</hl> center <hl>data</hl> processing editing prior
+solving simplex <hl>algorithm</hl> efficient reliable ...
+<hl>linear</hl> <hl>programming</hl> <hl>linear</hl>
+<hl>programming</hl> models grown extensively recent years
+concept organizing <hl>computer</hl> code undergone radical
+change longer adequate merely reduce <hl>algorithm</hl> simplex
+method <hl>computer</hl> code advanced code cope variety
+situations respective <hl>computer</hl> subprograms organized
+integrated system emphasis paper devoted underlying
+<hl>linear</hl> <hl>programming</hl> systems based viewpoints
+influenced demands applications petroleum industry placing
+systems components system translation problem statement terms
+basic <hl>data</hl>
+
+CACM-2646
+----------------------------------------------------------------
+<hl>algorithms</hl> restricted classes programs predictable
+behavior <hl>methods</hl> restricted <hl>numerical</hl>
+computations matrix partial differential equation
+<hl>methods</hl> typical examples shown latency masked ...
+<hl>algorithms</hl> masking rotational latency disk drum
+discusses anticipatory input output blocks <hl>data</hl> buffer
+primary memories monoprogrammed <hl>computer</hl> system basic
+permutation
+
+CACM-3124
+----------------------------------------------------------------
+<hl>algorithms</hl> cacm february 1979 gullw jenkins nested
+arrays apl arrays recursive <hl>data</hl> <hl>structures</hl>
+trees datadriven <hl>algorithms</hl> theory arrays 4.22 5.29 ...
+<hl>data</hl> structure equivalent tree structure <hl>data</hl>
+stored leaves homogeneous arrays numbers characters extension
+apl proposed <hl>includes</hl> primitive functions manipulate
+nesting
+
+CACM-2592
+----------------------------------------------------------------
+<hl>linear</hl> <hl>programming</hl> codes users <hl>linear</hl>
+<hl>programming</hl> <hl>computer</hl> codes realized necessity
+evaluating capacity effectiveness accuracy solutions provided
+codes large scale <hl>linear</hl> ... <hl>generating</hl>
+<hl>linear</hl> <hl>programming</hl> test problems known
+solutions method permits generation test problems arbitrary size
+wide range <hl>numerical</hl> characteristics cacm october
+<hl>linear</hl> <hl>programming</hl> test problem generation lp
+program evaluation lp program validation 5.41 ca7416 jb january
+16 1978 12:28 pm 2592
+
+CACM-3010
+----------------------------------------------------------------
+<hl>computer</hl> <hl>science</hl> students technological
+nontechnological orientations investigated special attention
+<hl>complexity</hl> <hl>structures</hl> <hl>computer</hl>
+<hl>science</hl> students closely technology contrast social
+<hl>science</hl> students
+
+CACM-3037
+----------------------------------------------------------------
+<hl>linear</hl> sieve <hl>algorithm</hl> finding prime numbers
+<hl>algorithm</hl> presented finding primes 2 <hl>algorithm</hl>
+executes time proportional assuming multiplication integers
+larger performed ... <hl>algorithms</hl> <hl>data</hl>
+<hl>structures</hl> 5.25 5.24 5.29 ca78122 dh january 22 1979
+11:12 2896 4 337 2972 4 337 337 4
+
+CACM-2904
+----------------------------------------------------------------
+<hl>algorithms</hl> fit integrated package local
+<hl>optimization</hl> <hl>algorithms</hl> cacm november 1977
+cocke compilers <hl>optimization</hl> compiled code program
+analysis operator strength reduction
+
+CACM-2142
+----------------------------------------------------------------
+<hl>linear</hl> <hl>programming</hl> mathematical
+<hl>programming</hl> monte carlo techniques
+<hl>optimization</hl> picture compression picture description
+picture processing stereology xray analysis 3.12 3.13 3.15
+
+CACM-1658
+----------------------------------------------------------------
+<hl>algorithms</hl> zeroone <hl>programming</hl> problem paper
+concerned review examination existing <hl>algorithms</hl>
+zeroone <hl>programming</hl> problem computational experience
+summarized machine time storage requirements ...
+<hl>programming</hl> zeroone variables <hl>algorithms</hl> 5.39
+5.41 ca68128 jb february 21 1978 1:31 pm 1658 4 1658 188 5 1658
+1658
+
+CACM-2932
+----------------------------------------------------------------
+<hl>complexity</hl> computations framework research theory
+<hl>complexity</hl> computations emphasizing terrelation
+seemingly diverse problems <hl>methods</hl> illustrative
+examples practical theoretical significance directions research
+
+CACM-3032
+----------------------------------------------------------------
+<hl>algorithms</hl> add reverse path forwarding broadcast
+routing method exploits routing procedures <hl>data</hl>
+<hl>structures</hl> packet switching reverse path forwarding
+practical <hl>algorithm</hl> <hl>computer</hl> networks
+<hl>algorithm</hl> practical optimal according metrics developed
+analysis paper implemented existing networks <hl>complexity</hl>
+required known alternatives cacm december 1978 ...
+<hl>algorithms</hl> accomplishing delivery storeandforward
+packet switching <hl>computer</hl> network include transmission
+separately addressed packets multidestination addressing hot
+potato forwarding spanning tree
+
+CACM-1809
+----------------------------------------------------------------
+<hl>numerical</hl> analysis ph <hl>computer</hl>
+<hl>science</hl> program <hl>numerical</hl> analysis study
+<hl>methods</hl> procedures obtain approximate solutions
+mathematical problems emphasis scientific calculation
+difficulties <hl>numerical</hl> analysis program
+<hl>computer</hl> <hl>science</hl> department emphasize
+awareness problems <hl>computer</hl> implementation experimental
+procedures need solid background applied mathematics cacm
+december
+
+CACM-2314
+----------------------------------------------------------------
+<hl>programming</hl> languages design <hl>programming</hl>
+languages interactive systems control <hl>structures</hl>
+<hl>data</hl> <hl>structures</hl> <hl>programming</hl>
+primitives semantics advanced <hl>programming</hl> systems 1.3
+4.2 4.22 ... <hl>data</hl> forms storage management
+extensibility stressed duality <hl>data</hl> retrieval function
+evaluation syntax directed input output <hl>data</hl> facilitate
+complex <hl>data</hl> stores ... <hl>algorithms</hl> coded
+language form debugged modified made efficient run <hl>data</hl>
+general frameworkthe requirements applicable design advanced
+<hl>programming</hl> systems wide range <hl>programming</hl>
+systems highlighted good interactive facilities programmable
+control <hl>structures</hl> sophisticated <hl>data</hl>
+communication mechanisms interactive features facilitate program
+composition entry testing <hl>optimization</hl> packaging
+implementation generalized environment structure model allow
+<hl>programming</hl> control regimes including multiprocesses
+coroutines backtracking alternative <hl>methods</hl> procedure
+invocation required
+
+CACM-2433
+----------------------------------------------------------------
+<hl>data</hl> layout <hl>algorithm</hl> structure discussed
+conclusion drawn <hl>data</hl> allocation code structuring
+crucial illiac <hl>optimization</hl> problem satisfactory method
+<hl>data</hl> allocation presented <hl>structures</hl> utilize
+storage method express parallel <hl>algorithms</hl> cacm october
+1973 millstein array processing parallelism detection explicit
+parallelism array allocation parallel ... <hl>structures</hl>
+illiac iv fortran part effort design implement fortran compiler
+illiac iv extended fortran called ivtran developed language
+means expressing <hl>structures</hl> suitable exploiting illiac
+iv parallelism paper reviews hardware characteristics illiac
+singles unconventional features expected influence language
+compiler design implications
+
+CACM-2081
+----------------------------------------------------------------
+<hl>data</hl> <hl>structures</hl> <hl>linear</hl>
+<hl>programming</hl> matrix matrix concatenation matrix
+sequences <hl>programming</hl> languages sequence operations
+symbol manipulation 4.12 4.22 5.14 5.41 ca743 ... <hl>data</hl>
+<hl>structures</hl> suitable high level algorithmic language
+mathematical <hl>programming</hl> paper investigates special
+structure matrices utilized efficient computing saving memory
+space
+
+CACM-2903
+----------------------------------------------------------------
+<hl>algorithms</hl> solve pattern matching problems recursion
+troduction <hl>algorithms</hl> manipulate stack translated
+recursive <hl>algorithms</hl> stack operations occur
+<hl>algorithms</hl> subjected transformation method
+<hl>linear</hl> pattern matching <hl>algorithm</hl> knuth morris
+pratt derived steps simple nonlinear stack <hl>algorithm</hl>
+cacm november 1977 bird program transformation
+<hl>optimization</hl>
+
+CACM-3018
+----------------------------------------------------------------
+<hl>algorithm</hl> solves combinatorial <hl>optimization</hl>
+problem connection method <hl>optimization</hl> problem shown
+equivalent problem covering edges graph complete subgraphs
+objective minimizing number <hl>algorithms</hl> problems
+constructed <hl>algorithm</hl> consequences relationship keyword
+conflict problem edgecliquecover problem shown npcomplete pnp
+admit polynomialtime approximation <hl>algorithms</hl> produce
+solutions
+
+CACM-2226
+----------------------------------------------------------------
+<hl>algorithms</hl> zeroone <hl>programming</hl> problem purpose
+note report computational experience additional recently
+summarized gue al <hl>algorithms</hl> zeroone <hl>linear</hl>
+<hl>programming</hl> problem error
+
+CACM-2766
+----------------------------------------------------------------
+<hl>structures</hl> <hl>linear</hl> time bounded workspace
+bounded workspace copying <hl>algorithm</hl> arbitrary list
+<hl>structures</hl> <hl>algorithm</hl> operates <hl>linear</hl>
+time require tag bits previous <hl>algorithms</hl> achieved n2
+time tag bits log time tag restriction <hl>algorithm</hl> copy
+contiguous section memory method applicable fixed variable size
+
+CACM-3132
+----------------------------------------------------------------
+<hl>algorithms</hl> finding central hyperplanes tested
+<hl>data</hl> sets frequently practice modified relaxation
+<hl>algorithm</hl> poor <hl>algorithms</hl> defined paper found
+good cacm march ... <hl>algorithms</hl> find central solutions
+pattern classification twoclass pattern recognition standard
+technique <hl>algorithm</hl> finding hyperplanes separates
+classes linearly separable training set ... <hl>linear</hl>
+discriminants central hyperplanes centering centrality criteria
+dead zone hyperplane linearly separable relaxation
+<hl>algorithm</hl> accelerated relaxation 3.62 3.63 ca7933 dh
+
+CACM-2877
+----------------------------------------------------------------
+<hl>data</hl> structure handles reducible irreducible graphs
+indistinguishably cacm march 1976 allen cocke program
+<hl>optimization</hl> <hl>data</hl> flow analysis flow graphs
+<hl>algorithms</hl>
+
+CACM-1171
+----------------------------------------------------------------
+<hl>algorithms</hl> <hl>linear</hl> <hl>programming</hl>
+statistical comparison primaldual commonly primalsimplex
+<hl>algorithm</hl> solving <hl>linear</hl> <hl>programming</hl>
+problems made assumption starting full artificial basis
+conditions
+
+CACM-2832
+----------------------------------------------------------------
+<hl>data</hl> viewed hierarchy contexts note presents
+<hl>algorithm</hl> improves previous context tree retrieval
+<hl>algorithms</hl> based observation typical context infrequent
+relative retrievals <hl>structures</hl> built make search rapid
+<hl>algorithms</hl> addition deletion <hl>data</hl> garbage
+collection outlined cacm september 1976 wegbreit context trees
+frame problem
+
+CACM-2389
+----------------------------------------------------------------
+<hl>algorithms</hl> solve problems expressed language rely
+heuristic <hl>programming</hl> language search
+<hl>algorithms</hl> detailed cacm february 1972 eastman
+automated design architecture heuristic
+
+CACM-2522
+----------------------------------------------------------------
+<hl>computer</hl> system largely dependent <hl>algorithms</hl>
+employed allocate system resources processes competing recent
+research timesharing paging systems developed working set model
+<hl>principles</hl> reported case results announced report
+discusses design implementation dispatcher based working set
+principle presents <hl>data</hl> permit analysis behavior future
+
+CACM-0950
+----------------------------------------------------------------
+<hl>algorithms</hl> replaced <hl>algorithm</hl> consist subtasks
+computed knowledge results subtasks method proposed
+parallelizing <hl>numerical</hl> integration ordinary
+differential equation process standard <hl>methods</hl>
+
+CACM-3086
+----------------------------------------------------------------
+<hl>complexity</hl> computing measure uai bi decision tree
+<hl>complexity</hl> computing measure union possibly overlapping
+intervals shown log comparisons <hl>linear</hl> functions
+interval
+
+CACM-2828
+----------------------------------------------------------------
+<hl>algorithms</hl> hidden surface <hl>algorithms</hl>
+hierarchical <hl>data</hl> <hl>structures</hl> geometric models
+5.31 8.2 ca7613 jb january 3 1978 4:42 pm 1892 4 ...
+<hl>algorithm</hl> finally geometric structure suggests
+recursive descent visible surface <hl>algorithm</hl> computation
+time potentially grows linearly visible <hl>complexity</hl>
+scene cacm october ... <hl>algorithms</hl> geometric structure
+inherent definition shapes threedimensional objects environments
+define relative motion placement assist solving problems systems
+producing pictures <hl>computer</hl>
+
+CACM-2936
+----------------------------------------------------------------
+<hl>algorithms</hl> paper event scheduling <hl>algorithm</hl>
+presented improves aspects previously published
+<hl>algorithms</hl> <hl>algorithms</hl> performance insensitive
+skewed distributions worstcase <hl>complexity</hl> number events
+... <hl>data</hl> structure simulation event set recently
+<hl>algorithms</hl> presented realization event scheduling
+routines suitable general purpose discrete event simulation
+systems exhibited
+
+CACM-2884
+----------------------------------------------------------------
+<hl>algorithms</hl> classical permutation enumeration
+<hl>algorithms</hl> encounter special cases requiring additional
+computation nth permutation <hl>generating</hl> permutations
+marks <hl>algorithms</hl> attribute special cases ...
+<hl>algorithms</hl> compared boothroyds implementation wells
+<hl>algorithm</hl> ehrlichs implementation johnsontrotter
+<hl>algorithm</hl> cacm february 1976 ives permutations loopfree
+<hl>algorithms</hl> 5.3 ca7623 jb
+
+CACM-2276
+----------------------------------------------------------------
+<hl>computer</hl> <hl>methods</hl> sampling exponential normal
+distributions <hl>methods</hl> known transforming uniformly
+distributed random numbers exponentially distributed quantities
+efficient compared terms memory ... <hl>algorithms</hl> faster
+space consuming <hl>methods</hl> cacm october 1972 ahrens dieter
+random numbers pseudorandom normal distribution exponential
+distribution exponential distribution simulation
+
+CACM-1873
+----------------------------------------------------------------
+<hl>algorithms</hl> shown method computing related products
+accelerate pricing phase lp <hl>algorithms</hl> lp applications
+cacm july 1969 fox <hl>linear</hl> <hl>programming</hl> revised
+
+CACM-2135
+----------------------------------------------------------------
+<hl>linear</hl> functional attempt made approximate polynomial
+approximating <hl>algorithms</hl> developed rapid computation
+wide class selections <hl>includes</hl> lagrangian hermitian
+rules special cases
+
+CACM-2953
+----------------------------------------------------------------
+<hl>algorithms</hl> method recursion removal involves stacks
+solutions compared basis running time cacm june 1977 bird
+recursion elimination <hl>optimization</hl> programs stacks ...
+<hl>methods</hl> recursion elimination applied schematic
+recursive procedure proc sx px nx sfx sgx mx fi procedures
+general form arise connection
+
+CACM-2665
+----------------------------------------------------------------
+<hl>algorithm</hl> assuming tag bit cell delivers attractive
+practical speed noncyclic structure copied <hl>linear</hl> speed
+cyclic <hl>structures</hl> copied average time nlogn ...
+<hl>structures</hl> bounded workspace <hl>algorithms</hl>
+presented list structure copying bounded workspace primarily
+theoretical interest shows cell tag bits task performed time ...
+<hl>linear</hl> speed variation <hl>algorithm</hl> solves open
+problem concerning list structure marking result demonstrates
+marking average time nlogn aid supplemental tag
+
+CACM-2883
+----------------------------------------------------------------
+<hl>optimization</hl> problems dynamic <hl>programming</hl>
+shortest path heuristic search <hl>methods</hl> problem solving
+<hl>methods</hl> 3.63 3.64 3.66 5.42 ca7624 jb january 5 ...
+<hl>algorithms</hl> relations representation minimization
+problem dynamic <hl>programming</hl> approach discussed showing
+graph search method lead substantial improvements computing time
+heuristic search
+
+CACM-2997
+----------------------------------------------------------------
+<hl>algorithms</hl> divide conquer technique recursively apply
+merge procedure nonin tersecting convex hulls convex hull
+<hl>algorithm</hl> requires log operations time
+<hl>complexity</hl>
+
+CACM-3130
+----------------------------------------------------------------
+<hl>computer</hl> sciences courses <hl>computer</hl>
+<hl>science</hl> curriculum <hl>computer</hl> <hl>science</hl>
+education <hl>computer</hl> <hl>science</hl> undergraduate
+degree programs service courses continuing education 1.52 ca7931
+... <hl>computer</hl> <hl>science</hl> contained report
+recommendations undergraduate degree program <hl>computer</hl>
+<hl>science</hl> curriculum committee <hl>computer</hl>
+<hl>science</hl> association computing machinery acm core
+curriculum ... <hl>computer</hl> <hl>science</hl> component
+material presented <hl>issues</hl> related undergraduate
+<hl>computer</hl> <hl>science</hl> education service courses
+supporting areas continuing education facilities staff
+articulation
+
+CACM-3055
+----------------------------------------------------------------
+<hl>algorithm</hl> meyer shown expected swap <hl>complexity</hl>
+59n cacm october 1978 mcmaster algorithmic analysis dutch
+national flag problem refinement structured <hl>programming</hl>
+
+CACM-0409
+----------------------------------------------------------------
+<hl>data</hl> sets <hl>algorithms</hl> defined <hl>data</hl>
+sets <hl>data</hl> <hl>algorithms</hl> expressed family command
+descriptive languages concept distinct <hl>data</hl>
+descriptions content descriptions discussed
+
+CACM-2701
+----------------------------------------------------------------
+<hl>linear</hl> <hl>algorithm</hl> global flow analysis abstract
+onlycomplete paper jacm 231 january 1976 <hl>algorithm</hl>
+global flow analysis reducible graphs presented
+<hl>algorithm</hl> ... <hl>structures</hl> linearity
+<hl>algorithm</hl> extended larger classes function spaces
+graphs relaxing time bound examples code improvement problems
+solved <hl>algorithm</hl> cacm december <hl>data</hl> flow code
+<hl>optimization</hl> common subexpression elimination livedead
+analysis information propagation flow graph reducibility
+gotoless <hl>programming</hl> depthfirst search path compression
+
+CACM-2273
+----------------------------------------------------------------
+<hl>algorithms</hl> <hl>generating</hl> <hl>computer</hl>
+programs decision tables <hl>algorithms</hl> allow handling
+limited entry extended entry mixed entry tables
+<hl>algorithms</hl> based rule mask
+
+CACM-1457
+----------------------------------------------------------------
+<hl>data</hl> manipulation <hl>programming</hl> problems
+automatic information retrieval automatic information retrieval
+programs require manipulation variety <hl>data</hl>
+<hl>structures</hl> including <hl>linear</hl> text sparse
+<hl>structures</hl> main <hl>data</hl> manipulations performed
+automatic information systems briefly reviewed variety
+<hl>data</hl> representations describe structured information
+examined characteristics processing languages
+
+CACM-2337
+----------------------------------------------------------------
+<hl>complexity</hl> technique proving minmax norms sorting
+<hl>algorithms</hl> <hl>algorithm</hl> finding minimum maximum
+elements set fewest comparisons proved optimal technique cacm
+june
+
+CACM-3107
+----------------------------------------------------------------
+<hl>generating</hl> beta variates nonintegrel shape parameters
+rejection method <hl>generating</hl> beta variates method
+compared previously published <hl>methods</hl> theoretically
+<hl>computer</hl> timings suggested
+
+CACM-1385
+----------------------------------------------------------------
+<hl>computer</hl> applications trend automation control
+production processes <hl>data</hl> processing yun chou hsueh
+<hl>science</hl> operation <hl>programming</hl> campaign 19586
+attempt made bring <hl>linear</hl> <hl>programming</hl> ordinary
+chinese workers peasants communist china adjudged marginal
+<hl>computer</hl> capability machines binary nature turning
+point reached mid1965 cacm ... <hl>computer</hl> technology
+communist china 19561965 based information translations
+communist chinese news items periodical literature 1965 period
+<hl>computer</hl> technology china reviewed
+
+CACM-2306
+----------------------------------------------------------------
+<hl>algorithms</hl> early origins mathematics discussed
+emphasizing aspects greatest interest standpoint
+<hl>computer</hl> <hl>science</hl> number babylonian tablets
+translated english quoted cacm july
+
+CACM-1651
+----------------------------------------------------------------
+<hl>linear</hl> <hl>programming</hl> descriptive article input
+code presented greatly simplifies <hl>data</hl> input
+<hl>linear</hl> <hl>programming</hl> solution routine subsequent
+pedagogical device solving small ... <hl>data</hl> preparation
+required user general requirements liberally editorial comments
+input deck aid identification row constraints article
+<hl>includes</hl> examples input output
+
+CACM-3166
+----------------------------------------------------------------
+<hl>algorithms</hl> <hl>numerical</hl> computation standard
+deviation unweighted sampled <hl>data</hl> analyzed
+<hl>algorithms</hl> wellknown statistical computational
+literature <hl>algorithms</hl> specifically intended automatic
+computation discussion
+
+CACM-2253
+----------------------------------------------------------------
+<hl>optimization</hl> transforming original <hl>algorithm</hl>
+machine code goal generate code handling tedious address
+calculations necessitated complicated <hl>data</hl>
+<hl>structures</hl> paper preoccupied indexing
+<hl>algorithm</hl> transformation compilation <hl>data</hl>
+<hl>structures</hl> indexing indexing position index domain
+index map index range matrix expressions normal form
+<hl>programming</hl> languages
+
+CACM-1353
+----------------------------------------------------------------
+<hl>linear</hl> <hl>programming</hl> technical note
+<hl>numerical</hl> steps simplex method <hl>linear</hl>
+<hl>programming</hl> reviewed tolerances needed
+<hl>numerical</hl> procedure defined objective criteria
+accomplishing <hl>numerical</hl>
+
+CACM-2484
+----------------------------------------------------------------
+<hl>algorithm</hl> constructing subsets set <hl>algorithm</hl>
+selecting element set objects relations <hl>algorithms</hl>
+results information <hl>structures</hl> list tree ring problem
+information organization ... <hl>data</hl> base represented tree
+graph natural view process designing <hl>data</hl> base
+constructing tree graph general method constructing tree graph
+provided
+
+CACM-1769
+----------------------------------------------------------------
+<hl>computer</hl> developments hardware <hl>programming</hl>
+timesharing education <hl>data</hl> communication displays
+judged effectively remove barriers barriersmashing
+potentialities continued rapid expansion problemoriented
+languages ... <hl>data</hl> communication education
+<hl>computer</hl> <hl>science</hl> forecast survey introduction
+1 1.3 2.1 3.24 4 6.2 6.3 ca6841 jb february 23 1978 ...
+<hl>complexity</hl> manmachine communication inadequate sensors
+lack understanding distance time size main incentive breaching
+barriers universal need processing information urgent greater
+
+CACM-2722
+----------------------------------------------------------------
+<hl>data</hl> structure storage information retrieved
+associative searches kd tree defined examples shown storage
+requirements significant advantage structure single
+<hl>data</hl> structure <hl>algorithms</hl> developed proven
+average running times record insertion log deletion root
+deletion random node log <hl>optimization</hl> guarantees
+logarithmic performance searches ... <hl>algorithms</hl> tasks
+<hl>algorithm</hl> presented handle general intersection query
+main focus paper theoretical felt kd trees applications examples
+potential cacm september
+
+CACM-3103
+----------------------------------------------------------------
+<hl>issues</hl> <hl>data</hl> structure selection reviewed cacm
+1978 low abstract <hl>data</hl> types automatic
+<hl>programming</hl> <hl>data</hl> <hl>structures</hl>
+optimizing compilers sets lists 4.12 ... <hl>data</hl> structure
+selection overview levels abstraction proved helpful
+constructing maintaining programs programs designed abstract
+<hl>data</hl> types sets lists programmer time
+
+CACM-2094
+----------------------------------------------------------------
+<hl>algorithm</hl> nonlinear minimax approximation nonlinear
+minimax approximation problems characterize properties permit
+application special <hl>algorithms</hl> mainly based exchange
+<hl>algorithms</hl> remes 1934 <hl>algorithm</hl> due osborne
+watson considered examples illustrate <hl>algorithm</hl> give
+satisfactory results successfully solve problems lead
+difficulties conventional specialist method cacm
+
+CACM-1195
+----------------------------------------------------------------
+<hl>linear</hl> tandem system series <hl>computer</hl> programs
+developed operational processing national aeronautics space
+administration <hl>linear</hl> system ibm 14179 combined
+<hl>data</hl> processing
+
+CACM-2195
+----------------------------------------------------------------
+<hl>methods</hl> global recognition parallel processing dynamic
+<hl>programming</hl> interaction graph secondary
+<hl>optimization</hl> problem 3.63 3.66 5.42 ca7154 jb february
+3 1978 ... <hl>complexity</hl> <hl>optimization</hl> process
+discussed method suitable parallel processing operations
+relative state computed parallel number stages equal length
+curves log2 approximate
+
+CACM-2402
+----------------------------------------------------------------
+<hl>data</hl> application standard pattern recognition
+<hl>algorithms</hl> hindered fact crosscorrelation model correct
+structure computed fundamental incompleteness measured
+<hl>data</hl> compute upper bound ... <hl>computer</hl> graphics
+systems coupled powerful digital computers encourages
+development <hl>algorithms</hl> adapted environment pictorial
+pattern recognition techniques make number approaches xray
+
+CACM-2267
+----------------------------------------------------------------
+<hl>algorithms</hl> reveal properties floatingpoint arithmetic
+<hl>algorithms</hl> presented form fortran subroutines
+subroutine computes radix number digits floatingpoint numbers
+rounding chopping machine
+
+CACM-3138
+----------------------------------------------------------------
+<hl>linear</hl> <hl>programming</hl> <hl>numerical</hl>
+<hl>linear</hl> algebra modified givens transformations
+<hl>linear</hl> <hl>programming</hl> test cases 5 5.4 5.41 5.1
+5.14 ca7944 dh 21 ... <hl>data</hl> <hl>linear</hl> squares
+problem column row dropped formal scaling imaginary unit 1
+squares addition column row elimination process procedure
+successive <hl>algorithm</hl> general purpose account structure
+sparsity equations suggested computational tests determining
+signs controlling parameters revised simplex <hl>algorithm</hl>
+mentioned simple means
+
+CACM-3165
+----------------------------------------------------------------
+<hl>data</hl> processing analyzed <hl>data</hl> organization
+representing polygonal maps widely segmentbased <hl>data</hl>
+structure class labels identify regions bordering segment side
+approximation ... <hl>data</hl> <hl>structures</hl>
+computational geometry <hl>computer</hl> cartography automated
+cartography 3.14 4.34 8.2 ca7996 db january 14 198 12:4 pm 163 4
+
+CACM-2899
+----------------------------------------------------------------
+<hl>computer</hl> <hl>science</hl> offerings small liberal arts
+colleges recent curricular development <hl>computer</hl>
+<hl>science</hl> student terest pursuing topics
+<hl>computer</hl> <hl>science</hl> usual <hl>programming</hl>
+<hl>computer</hl> <hl>science</hl> programs offered colleges
+results half colleges <hl>computer</hl> <hl>science</hl> program
+offer <hl>programming</hl> courses cacm december 1977 lopez
+raymond tardiff
+
+CACM-1744
+----------------------------------------------------------------
+<hl>numerical</hl> <hl>methods</hl> obtaining chebyshev solution
+overdetermined system equations implementation stiefels exchange
+<hl>algorithm</hl> determining chebyshev solution overdetermined
+system <hl>linear</hl> equations presented
+
+CACM-2494
+----------------------------------------------------------------
+<hl>data</hl> consisting correlations 24 psychological tests
+illustrate comparison groupings <hl>methods</hl> factor analysis
+<hl>methods</hl> cluster analysis cacm june 1973 ling
+<hl>computer</hl> ... <hl>computer</hl> generated aid cluster
+analysis <hl>computer</hl> generated graphic method conjunction
+hierarchical scheme cluster analysis illustrated graphic
+principle representation elements <hl>data</hl>
+<hl>computer</hl> printed symbols character overstrikes shades
+darkness dark symbol corresponds small dissimilarity plots
+applied <hl>data</hl> matrix clustering rearranged matrix
+clustering
+
+CACM-1886
+----------------------------------------------------------------
+<hl>algorithms</hl> applicable problem factoring boolean
+switching expressions factoring polynomials encountered symbol
+manipulating systems cacm june 1969 breuer factorization
+<hl>algorithms</hl> code ... <hl>methods</hl> presented
+increasing efficiency object code produced factoring expressions
+finding set subexpressions occurs expressions subexpressions
+factors ascertained sequencing procedure applied
+
+CACM-2200
+----------------------------------------------------------------
+<hl>algorithm</hl> theorem expressed form permits serve basis
+devising division operations produce quotient remainder
+complement form <hl>algorithms</hl> division yielding complement
+results <hl>algorithms</hl> <hl>includes</hl> twos complement
+implementation problem quotient overflow complement results
+dealt selecting form remainder condition complement division
+cacm april 1971
+
+CACM-2716
+----------------------------------------------------------------
+<hl>optimization</hl> inverted automatic <hl>programming</hl>
+query language <hl>data</hl> manipulation language high level
+language 3.7 4.13 4.33 ca7513 jb january 6 1978 ...
+<hl>data</hl> proposed basic idea employ automatic
+<hl>programming</hl> techniques interface analyzes efficiently
+refines high level query specification supplied user relational
+algebra
+
+CACM-3163
+----------------------------------------------------------------
+<hl>algorithm</hl> onesided heightbalanced binary search trees
+<hl>algorithm</hl> inserting element onesided heightbalanced
+oshb binary search tree presented <hl>algorithm</hl> operates
+time olog <hl>algorithms</hl> hirschberg kosaraju require time
+olog 2n olog <hl>complexity</hl> optimal earlier results shown
+deletion structure performed olog time result paper
+<hl>complexity</hl> insertion concluded insertion deletion
+retrieval oshb trees performed time operations general avl trees
+constant factor insertion deletion <hl>algorithms</hl> oshb
+
+CACM-2837
+----------------------------------------------------------------
+<hl>complexity</hl> vin ith selection problem considered upper
+bound vin improves bound standard hadiansobel <hl>algorithm</hl>
+generalization kirkpatrickhadiansobel <hl>algorithm</hl> extends
+kirkpatricks method
+
+CACM-2366
+----------------------------------------------------------------
+<hl>algorithm</hl> <hl>includes</hl> objecttime estimation
+roundoff errors experimental <hl>data</hl> regard effectiveness
+error control presented fortran program <hl>algorithm</hl>
+appears <hl>algorithms</hl> section issue
+
+CACM-2931
+----------------------------------------------------------------
+<hl>complexity</hl> theory applications logic big question
+<hl>methods</hl> logic significance direction applied parts
+computability theory <hl>programming</hl> languages offer
+obvious opportunity syntactic ... <hl>programming</hl> languages
+logic long terested answers questions computable principle
+outcome puts bounds possibilities formalization recently precise
+comparisons efficiency decision <hl>methods</hl> ...
+<hl>structures</hl> experience independent workers method
+<hl>data</hl> types lattices partial orderings information
+content ordering continuous mappings demonstrated flexibility
+approach providing definitions
+
+CACM-1719
+----------------------------------------------------------------
+<hl>complexity</hl> number types cost <hl>data</hl> processing
+systems causing reexamination government industry criteria
+<hl>methods</hl> calculating optimizing <hl>data</hl> processing
+system cost performance <hl>data</hl> processing systems
+typified automated airline reservation system discussed paper
+criteria evaluating performance methodology calculating
+optimizing outlined method illustrated carrying
+
+CACM-2819
+----------------------------------------------------------------
+<hl>data</hl> viewed strings characters presented method general
+applies equally english pli digital <hl>data</hl> system
+consists encoder analysis program decoder <hl>algorithms</hl>
+<hl>algorithms</hl> operation compared parameters
+<hl>algorithms</hl> optimized obtain high degree compression
+sample texts cacm november 1976 rubin text compression
+<hl>data</hl> compaction
+
+CACM-2570
+----------------------------------------------------------------
+<hl>algorithms</hl> suggested literature vary significantly
+execution time bschedule coffman graham nearoptimal dynamic
+<hl>programming</hl> solution case execution times random
+variables presented
+
+CACM-3046
+----------------------------------------------------------------
+<hl>computer</hl> generation gamma random variables ii rejection
+method proposed <hl>generating</hl> gamma variates nonintegral
+shape parameter 1 method similar <hl>methods</hl> fishman
+<hl>methods</hl> 2 core storage requirements
+<hl>programming</hl> effort proposed method similar wallaces
+tadikamallas <hl>methods</hl> computational times proposed
+method remain fairly constant
+
+CACM-0095
+----------------------------------------------------------------
+<hl>numerical</hl> solution electronic <hl>computer</hl> tabular
+<hl>data</hl> <hl>numerical</hl> solution hand calculation
+function generators analog <hl>methods</hl> applied expanded
+equivalent set equations functions
+
+CACM-2890
+----------------------------------------------------------------
+<hl>algorithms</hl> analytic models storeandforward
+communications network constructed find optimal message routing
+illustrate equilibrium stationary state maintained adaptive
+routing <hl>algorithm</hl> models <hl>algorithm</hl> result
+optimality modification requires substitution quadratic bias
+term <hl>linear</hl> routing table maintained network node
+simulation results presented confirm theoretical
+
+CACM-1959
+----------------------------------------------------------------
+<hl>structures</hl> interrupt <hl>generating</hl> conditions
+items <hl>data</hl> base <hl>algorithm</hl> resolving conflicts
+arise scheduling interrupt processing routines presented dpl
+<hl>programming</hl> language supervisory ...
+<hl>programming</hl> structure language constructs supervisory
+system organization proposed design coding large shared
+<hl>data</hl> base systems bases organization generalized
+interrupt structure
+
+CACM-2362
+----------------------------------------------------------------
+<hl>linear</hl> equation solver <hl>algorithm</hl> a423 cacm
+april 1972 moler matrix <hl>algorithms</hl> <hl>linear</hl>
+equations fortran paged memory virtual memory array processing
+
+CACM-3098
+----------------------------------------------------------------
+<hl>computer</hl> generation gamma random variables method
+<hl>generating</hl> random variables gamma distribution
+nonintegral shape parameter proposed method similar
+<hl>methods</hl> recently wallace <hl>methods</hl> core storage
+requirements <hl>programming</hl> effort method similar fishmans
+method proposed method fishmans method 1 2 faster fishmans
+method 3
+
+CACM-2767
+----------------------------------------------------------------
+<hl>algorithms</hl> <hl>algorithms</hl> considered schedule
+events general purpose discrete simulation system
+<hl>algorithms</hl> based endorder tree structure event notices
+indexed <hl>linear</hl> list <hl>algorithms</hl> endorder tree
+<hl>algorithm</hl> shown advantageous replacement
+<hl>algorithm</hl> simulation languages promising
+<hl>algorithm</hl> indexed list concept require adaptive routine
+employed general
+
+CACM-2924
+----------------------------------------------------------------
+<hl>computer</hl> graphics approach surface representation
+teractive <hl>computer</hl> graphics method developed rapid
+generation arbitrary shaped threedimensional surfaces method
+synthesis spline theory ... <hl>computer</hl> graphics
+threedimensional surface representation splines loftingfinite
+element input <hl>methods</hl> 3.2 3.23 3.34 8.1 8.2 ca7712 jb
+december 27 1977
+
+CACM-1977
+----------------------------------------------------------------
+<hl>linear</hl> <hl>programming</hl> interactive program
+graphical display developed approximation <hl>data</hl> means
+<hl>linear</hl> combination functions including splines selected
+user coefficients approximation determined ... <hl>data</hl>
+fitting functional approximation <hl>linear</hl>
+<hl>programming</hl> interactive graphical display spline
+functions 5.13 5.41 ca7111 jb february 1 1978 9:6 1977
+
+CACM-2285
+----------------------------------------------------------------
+<hl>computer</hl> routine quadratic <hl>linear</hl>
+<hl>programming</hl> problems <hl>algorithm</hl> a431
+<hl>computer</hl> program based lemkes complementary pivot
+<hl>algorithm</hl> presented solve <hl>linear</hl> quadratic
+<hl>programming</hl>
+
+CACM-2344
+----------------------------------------------------------------
+<hl>algorithm</hl> effects variations measure system performance
+ascertain parameters controllable jobscheduling
+<hl>algorithm</hl> including scheduling require
+<hl>optimization</hl> parameters controllable scheduling
+<hl>algorithm</hl> marked <hl>optimization</hl> parameters
+controllable scheduling <hl>algorithm</hl> affect system
+performance predictable manner benefit <hl>optimization</hl>
+features control scheduling <hl>algorithm</hl> marked effect
+measure performance <hl>optimization</hl> measure performance
+scheduling <hl>algorithms</hl> 3.8 4.3 4.32 ca7261 jb january 31
+1978 9:19 2219 4 2344 2344 4 2344
+
+CACM-0047
+----------------------------------------------------------------
+<hl>russian</hl> visit computers cacm november 1959 zaitzeff
+astrahan ca59111 jb march 22 1978 3:59 pm 47 5 47 47 5
+
+CACM-1677
+----------------------------------------------------------------
+<hl>programming</hl> systems system program <hl>data</hl>
+representation rice university <hl>computer</hl> years logical
+entity storage occupies block consecutive memory locations block
+labeled <hl>data</hl> vector codewords turn label blocks form
+arrays storage arrangement discussed realized advantages
+<hl>programming</hl> systems simplicity programmed addressing
+flexibility <hl>data</hl> ... <hl>data</hl> representation
+program representation <hl>data</hl> <hl>structures</hl> storage
+protection addressing mechanisms paging segmentation handling
+4.3 4.4 6.2 ca68112 jb february 21
+
+CACM-1692
+----------------------------------------------------------------
+<hl>numerical</hl> solution thin plate heat transfer problem
+<hl>numerical</hl> solution system <hl>linear</hl> equations
+resulting discrete approximation thin plate heat transfer
+problem
+
+CACM-1476
+----------------------------------------------------------------
+<hl>data</hl> <hl>generating</hl> receiving systems
+interconnected communication system effort primarily directed
+systems employing american standard code information interchange
+ascii paper represents <hl>data</hl> communication task group
+document x3.3.444 1964: transparentmode control procedures
+<hl>data</hl> communication task group document x3.3.458
+december 1964: comm acm <hl>data</hl> communications task group
+document x3.3.46 march 1965 retained summary form concepts
+<hl>principles</hl> submitted international organization
+standardization earlier papers embodied
+
+CACM-2490
+----------------------------------------------------------------
+<hl>algorithms</hl> graph manipulation <hl>algorithm</hl> a447
+efficient <hl>algorithms</hl> presented partitioning graph
+connected components biconnected components simple paths
+<hl>algorithm</hl> partitioning graph simple
+
+CACM-1196
+----------------------------------------------------------------
+<hl>computer</hl> processing formulated terms <hl>numerical</hl>
+solution systems ordinary differential equations powerful
+<hl>methods</hl> existence solution systems good general purpose
+routine solution
+
+CACM-1504
+----------------------------------------------------------------
+<hl>algorithms</hl> finding fundamental set cycles undirected
+<hl>linear</hl> graph adjacency matrix graph <hl>algorithm</hl>
+presented paper finds spanning tree constructs set fundamental
+<hl>algorithm</hl> slower <hl>algorithm</hl> presented welch
+ratio n3 number nodes requires storage graphs large number nodes
+edges storage limited <hl>algorithm</hl> superior
+
+CACM-1619
+----------------------------------------------------------------
+<hl>methods</hl> statistical computations neely discussed
+computational error generated <hl>algorithms</hl> compute
+statistics present paper <hl>methods</hl> errorfree simple
+concept costly machine time
+
+CACM-1835
+----------------------------------------------------------------
+<hl>principles</hl> student language cacm october 1969 dewar
+hochsprung languages <hl>programming</hl> languages student
+<hl>programming</hl> systems language design high school
+programs college
+
+CACM-3151
+----------------------------------------------------------------
+<hl>algorithm</hl> planar convex hulls <hl>algorithm</hl>
+construction realtime convex hull set points plane <hl>data</hl>
+structure <hl>algorithm</hl> constructs convex hull successive
+updates
+

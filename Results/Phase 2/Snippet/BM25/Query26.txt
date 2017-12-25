@@ -1,0 +1,793 @@
+CACM-2626
+----------------------------------------------------------------
+<hl>control</hl> information sharing multics design
+<hl>mechanisms</hl> <hl>control</hl> sharing information multics
+system design principles help provide insight tradeoffs designs
+key <hl>mechanisms</hl> <hl>control</hl> lists hierarchical
+<hl>control</hl> access specifications identification
+authentication users primary memory protection paper ends
+discussion known weaknesses protection mechanism design
+
+CACM-1750
+----------------------------------------------------------------
+<hl>systems</hl> extended core storage multiprogrammed
+<hl>operating</hl> <hl>systems</hl> multiprocessor
+<hl>operating</hl> <hl>systems</hl> <hl>control</hl> data
+corporation 66 <hl>operating</hl> system ecs 4.3 4.32 ca6856
+
+CACM-1677
+----------------------------------------------------------------
+<hl>control</hl> basis experience rice ideas extensions
+presented cacm november 1968 jodeit storage allocation storage
+organization storage <hl>control</hl> codewords data
+representation ... <hl>systems</hl> system program data
+representation rice university computer years logical entity
+storage occupies block consecutive memory locations block
+labeled codeword <hl>systems</hl> simplicity programmed
+addressing flexibility data structures efficiency memory
+utilization variability system composition execution means
+linkage programs programs data basis
+
+CACM-2878
+----------------------------------------------------------------
+<hl>control</hl> limit policy single <hl>control</hl> number
+queue users class newly arriving user join queue filled
+<hl>control</hl> number queue users class <hl>control</hl>
+numbers lower upper bounds <hl>control</hl> numbers capacities
+<hl>systems</hl> queues derived cacm march 1976 babad modiano
+priority queues semimarkov process
+
+CACM-2372
+----------------------------------------------------------------
+<hl>control</hl> confidentiality <hl>operating</hl>
+<hl>systems</hl> access management data banks management
+information <hl>systems</hl> 3.5 3.73 4.12 4.22 4.39 ca7241 jb
+january 31 ... <hl>systems</hl> serves framework proposal
+general security system implementation todays languages
+<hl>operating</hl> <hl>systems</hl> cacm april 1972 conway
+maxwell morgan security privacy
+
+CACM-1680
+----------------------------------------------------------------
+<hl>operating</hl> system36 adept cataloged program controls
+standard <hl>operating</hl> system terminating rescheduling
+relinquishing computer resources allocated surrendering
+<hl>control</hl> <hl>operating</hl> system perform ...
+<hl>systems</hl> programming simulation modeling information
+retrieval <hl>operating</hl> <hl>systems</hl> graphics displays
+manmachine interface online computing graphic programming 1.5
+3.3 3.5 3.8
+
+CACM-2939
+----------------------------------------------------------------
+<hl>mechanisms</hl> support data <hl>control</hl> abstractions
+paper troduction abstraction <hl>mechanisms</hl> clu means
+programming examples utility kinds abstractions program
+construction illustrated shown ... <hl>mechanisms</hl> clu clu
+programming language designed support abstractions program
+construction work programming methodology led realization kinds
+abstractionsprocedural <hl>control</hl> especially data
+
+CACM-3105
+----------------------------------------------------------------
+<hl>operating</hl> <hl>systems</hl> access <hl>control</hl>
+<hl>mechanisms</hl> paper shows extend programming languages
+provide controlled sharing extension permits expression access
+constraints shared data
+
+CACM-2314
+----------------------------------------------------------------
+<hl>systems</hl> wide range applications aspects programming
+<hl>systems</hl> highlighted good interactive facilities
+programmable <hl>control</hl> structures sophisticated data
+communication <hl>mechanisms</hl> interactive features ...
+<hl>systems</hl> <hl>control</hl> structures data structures
+programming primitives semantics advanced programming
+<hl>systems</hl> 1.3 4.2 4.22 4.3 4.32 5.23 5.24 ca72714 jb ...
+<hl>systems</hl> list processing list processing
+<hl>systems</hl> designed facilitate production large programs
+manipulate large complex symbolic data stores paper presents
+overview
+
+CACM-2541
+----------------------------------------------------------------
+<hl>systems</hl> addressing structure centralized communication
+<hl>mechanisms</hl> enabling construction hierarchical
+subsystems suggested important concept <hl>operating</hl>
+<hl>systems</hl> separation scheduling maintenance functions
+resource
+
+CACM-2870
+----------------------------------------------------------------
+<hl>systems</hl> facilitate construction <hl>mechanisms</hl>
+enforce security model unifying view <hl>systems</hl> restrict
+information flow enables classification according security
+objectives suggests approaches ... <hl>mechanisms</hl> guarantee
+secure information flow computer system <hl>mechanisms</hl>
+examined mathematical framework suitable formulating
+requirements secure information flow security classes central
+
+CACM-1591
+----------------------------------------------------------------
+<hl>operating</hl> system large computer model transferred
+<hl>control</hl> <hl>operating</hl> system execute functions
+teaching recovered <hl>control</hl> order resume teaching
+teaching system abacii ... <hl>operating</hl> system language
+processors compilers library users programs disposal write
+assemble debug execute terminal program written language
+processed <hl>operating</hl> system
+
+CACM-2840
+----------------------------------------------------------------
+<hl>operating</hl> <hl>systems</hl> model protection
+<hl>mechanisms</hl> computing <hl>systems</hl> presented
+appropriateness argued safety problem protection
+<hl>systems</hl> model determine situation subject acquire
+object
+
+CACM-3128
+----------------------------------------------------------------
+<hl>control</hl> ordering events directly mutual exclusion
+protect manipulations shared variables <hl>control</hl> ordering
+events direct <hl>control</hl> ordering simplify correctness
+arguments simplifies <hl>systems</hl> mechanism defined formally
+examples relationship mechanism protection <hl>mechanisms</hl>
+system explained eventcounts shown applicable situations
+confinement information matters implementation eventcount
+
+CACM-3026
+----------------------------------------------------------------
+<hl>systems</hl> sperry univacs largescale main frame computer
+<hl>systems</hl> beginning 117 1962 11 series progressed
+succession compatible computer models latest system ...
+<hl>systems</hl> end user facilities executive <hl>control</hl>
+software 1.3 4 4.2 4.3 4.32 4.33 4.35 6 6.21 6.3 ca7814 jb march
+
+CACM-2036
+----------------------------------------------------------------
+<hl>systems</hl> cacm july 197 grant timesharing command
+languages pseudoteletype interaction conditional job
+<hl>control</hl> <hl>operating</hl> <hl>systems</hl> 3.8 3.81
+4.29 4.39 ca771
+
+CACM-2938
+----------------------------------------------------------------
+<hl>concurrency</hl> execution time constrain ts drastically
+reduced practical make realtime <hl>systems</hl> analytically
+verifiable ultimately reliable discipline outlined expressed
+terms language
+
+CACM-3068
+----------------------------------------------------------------
+<hl>operating</hl> <hl>systems</hl> model suitable basis
+verifying properties <hl>operating</hl> system assure reliable
+enforcement security application approach ucla secure
+<hl>operating</hl> system discussed ... <hl>operating</hl>
+<hl>systems</hl> program verification applied kernel
+architectures forms promising method providing uncircumventably
+secure shared computer <hl>systems</hl> precise definition data
+security
+
+CACM-2320
+----------------------------------------------------------------
+<hl>control</hl> scheduling resources competing processes degree
+desired concepts sufficiently safe <hl>operating</hl>
+<hl>systems</hl> user programs cacm july 1972 hansen structured
+multiprogramming
+
+CACM-1747
+----------------------------------------------------------------
+<hl>operating</hl> <hl>systems</hl> <hl>operating</hl>
+<hl>systems</hl> design multiprogramming multiprogrammed
+<hl>systems</hl> multiprogrammed system design virtual computers
+programming languages programming language design program
+semantics ... <hl>systems</hl> assignment capability indexes
+cacm 1968 van horn computer design computer design criteria
+computer <hl>systems</hl> computer <hl>systems</hl> design input
+equipment ... <hl>systems</hl> facilitate debugging designer
+computing system adopt explicit criteria accepting rejecting
+proposed system features criteria kind input recordability input
+specifiability
+
+CACM-2632
+----------------------------------------------------------------
+<hl>operating</hl> system paper describes design philosophy
+hydrathe kernel <hl>operating</hl> system cmmp carnegiemellon
+multiminiprocessor philosophy realized introduction generalized
+notion resource physical ... <hl>mechanisms</hl> provide
+coherent basis extension system directions introduction
+facilities creation highly secure <hl>systems</hl> cacm june
+1974 wulf cohen corwin jones ... <hl>mechanisms</hl> presented
+dealing objects including creation types specification
+operations applicable type sharing protection reference object
+improper application operations defined respect
+
+CACM-2377
+----------------------------------------------------------------
+<hl>mechanisms</hl> implementing rings protection
+<hl>mechanisms</hl> implementing rings protection
+<hl>mechanisms</hl> allow crossring calls subsequent occur
+trapping supervisor automatic hardware validation references
+
+CACM-1534
+----------------------------------------------------------------
+<hl>operating</hl> system design implementation
+<hl>operating</hl> system dad detail system designed
+<hl>control</hl> data 36 large drum backing store intended allow
+integration
+
+CACM-1476
+----------------------------------------------------------------
+<hl>systems</hl> interconnected communication system effort
+primarily directed <hl>systems</hl> employing american standard
+code information interchange ascii paper represents progress
+report work <hl>control</hl> procedures describes work task
+group work presented detail work presented earlier papers
+<hl>control</hl> procedures data communication task group
+document <hl>control</hl> procedures data communication task
+group document x3.3.458 december 1964: comm acm 8 apr 1965 2326
+<hl>control</hl> procedures data communications
+
+CACM-1461
+----------------------------------------------------------------
+<hl>operating</hl> <hl>systems</hl> cacm march 1966 ca66311 jb
+march 3 1978 1:26 pm 1461 5 1461 1461 5 1461 1461 1461
+
+CACM-0696
+----------------------------------------------------------------
+<hl>operating</hl> data central data processing center rca 31
+edp <hl>systems</hl> record <hl>control</hl> flow data
+transmitted data processing center large capacity
+
+CACM-2849
+----------------------------------------------------------------
+<hl>systems</hl> viewed local computer networks loosely coupled
+multiprocessors ethernets shared communication facility ether
+passive broadcast medium central <hl>control</hl> coordination
+access <hl>operating</hl> ethernet 1 nodes kilometer coaxial
+cable model estimating performance heavy loads packet protocol
+error controlled communication included completeness cacm
+
+CACM-0104
+----------------------------------------------------------------
+<hl>systems</hl> discrete flow <hl>systems</hl> discussed
+characterized movement randomly arriving items interacting
+channels programing digital computer simulate <hl>systems</hl>
+utilizes techniques common
+
+CACM-2578
+----------------------------------------------------------------
+<hl>systems</hl> spite distributed <hl>control</hl> cacm
+november 1974 dijkstra multiprocessing networks
+selfstabilization synchronization mutual exclusion robustness
+sharing error recovery distributed <hl>control</hl>
+
+CACM-2936
+----------------------------------------------------------------
+<hl>mechanisms</hl> event scanning <hl>mechanisms</hl>
+multilinked lists 3.34 4.22 5.5 8.1 ca7787 jb december 28 1977
+7:15 2844 4 2936 2844
+
+CACM-3050
+----------------------------------------------------------------
+<hl>systems</hl> design education gaming approach problems
+facing managers computer installations problem configuring
+computer system meet demands made mix jobs computer
+<hl>control</hl> game administrator varied simulate variety
+realworld situations io bound jobs compute bound jobs player
+game receives set detailed reports
+
+CACM-2985
+----------------------------------------------------------------
+<hl>systems</hl> computer services chargeout <hl>systems</hl>
+user management attitudes computerbased information
+<hl>systems</hl> investigated evidence provided relationship
+conforms general pattern expected hypothesis ...
+<hl>control</hl> computerbased <hl>systems</hl> development main
+tenance computerbased <hl>systems</hl> asserted category
+organizational change felt need change part usermanager
+prerequisite change taking ... <hl>systems</hl> characteristic
+advanced edp stage environments high levels positive user
+attitudes marked increases edp training users factors important
+usermanager involvement
+
+CACM-1290
+----------------------------------------------------------------
+<hl>control</hl> characters outlined previous paper mentioned
+goes cover additional <hl>control</hl> problems handling
+material line encrypted data nonascii codes means
+<hl>systems</hl> ... <hl>control</hl> procedures data
+communication american standard code information interchange
+tutorial paper considerations task group x3.3.4 area
+transparentmode data communication <hl>control</hl>
+<hl>control</hl> earlier tutorial paper <hl>control</hl>
+procedures data communications task group document x3.3.4.44
+dated 1964 present paper elaborates solutions problems
+transparency
+
+CACM-2321
+----------------------------------------------------------------
+<hl>systems</hl> required interfaces consideration problems
+coordination synchronization error <hl>control</hl> signaling
+stream multiplexing switch <hl>control</hl> addition minimizing
+technological interdependence specific subsystem
+
+CACM-2876
+----------------------------------------------------------------
+<hl>systems</hl> traditionally privacy protection database
+<hl>systems</hl> understood <hl>control</hl> information user
+database paper concerned independent dimension privacy
+protection <hl>control</hl> user allowed
+
+CACM-2080
+----------------------------------------------------------------
+<hl>control</hl> hierarchy processes communication cacm april
+197 hansen multiprogramming <hl>operating</hl> <hl>systems</hl>
+parallel processes process concept process communication message
+buffering process
+
+CACM-2621
+----------------------------------------------------------------
+<hl>operating</hl> <hl>systems</hl> time sharing
+<hl>systems</hl> security cryptography 4.35 ca7483 jb january 17
+1978 1:1 2621 5 2621 2621 5 2621
+
+CACM-1341
+----------------------------------------------------------------
+<hl>systems</hl> building computer <hl>systems</hl> tend break
+levels <hl>control</hl> command communication system break
+problems correspondingly continued structure raises questions
+effects usefulness
+
+CACM-1247
+----------------------------------------------------------------
+<hl>operating</hl> environment dynamicrecursive computer
+programming <hl>systems</hl> presented paper nontechnical
+introduction oedipus computer programming system serve
+<hl>operating</hl> environment dynamic andor recursive
+
+CACM-2949
+----------------------------------------------------------------
+<hl>control</hl> network topology routing problem networks
+distributed <hl>operating</hl> system store forward packet
+switching store forward message switching traffic
+<hl>control</hl> 3.81
+
+CACM-3025
+----------------------------------------------------------------
+<hl>systems</hl> covering price range origin evolution hardware
+<hl>operating</hl> system languages terms technological change
+user requirements user developments pdp1s contributions
+computing <hl>systems</hl> transferring hardware technology dec
+minicomputer design manufacturing supporting minicomputer
+hardware software development serving model single user
+timeshared interactive minicomputermicrocomputer
+
+CACM-1844
+----------------------------------------------------------------
+<hl>systems</hl> terminal oriented <hl>systems</hl> multiple
+processor <hl>systems</hl> high availability conversational
+<hl>systems</hl> general purpose timesharing <hl>systems</hl>
+realtime response system modular constructed <hl>systems</hl>
+graphics switch intercomputer communications <hl>control</hl>
+computer problem computer rollin rollout 6.21 ca6912 jb february
+15 1978 3:52 pm 1844 ... <hl>control</hl> computer supervises
+collection distribution messages remote terminals simplest form
+disk drive connected terminal crosspoint switching network disk
+drive connected
+
+CACM-2020
+----------------------------------------------------------------
+<hl>systems</hl> led broader concern means resources
+<hl>systems</hl> allocated user community means suggested
+frequently pricing procedure paper manner allocate computing
+resources
+
+CACM-2424
+----------------------------------------------------------------
+<hl>operating</hl> <hl>systems</hl> data security fault
+tolerance software reliability data privacy program verification
+modular computer <hl>systems</hl> 4.32 ca73112 jb january 2 ...
+<hl>operating</hl> system decisions dynamic verification
+decision implies time decision made consistency check performed
+decision independent hardware software dynamic verification
+<hl>operating</hl>
+
+CACM-1226
+----------------------------------------------------------------
+<hl>systems</hl> selection organization data critical
+<hl>systems</hl> <hl>operating</hl> efficiency paper
+<hl>systems</hl> designer information source describes ten
+techniques employed organizing structured data
+
+CACM-2817
+----------------------------------------------------------------
+<hl>systems</hl> users access shared data assumption data
+satisfies consistency constraints paper defines concepts
+transaction consistency schedule shows consistency requires
+transaction
+
+CACM-0059
+----------------------------------------------------------------
+<hl>control</hl> <hl>systems</hl> federal government december
+1957iii cacm september 1959 ca5991 jb march 22 1978 4:41 pm 59 5
+59 59
+
+CACM-3127
+----------------------------------------------------------------
+<hl>operating</hl> system thoth isa realtime <hl>operating</hl>
+system designed portable large set machines running
+minicomputers architectures system application programs written
+highlevel
+
+CACM-2069
+----------------------------------------------------------------
+<hl>operating</hl> <hl>systems</hl> memory management 2.44 4.32
+4.39 6.2 6.21 ca7415 jb february 13 1978 2:36 pm 269 5 269 269
+
+CACM-1264
+----------------------------------------------------------------
+<hl>operating</hl> system braille capabilities blnsys
+<hl>operating</hl> system designed 4k 141 common optional
+features attached tape drives printed output system executing
+
+CACM-0084
+----------------------------------------------------------------
+<hl>control</hl> <hl>systems</hl> federal government december
+1957ii part 2 ca5946 cacm 1959 ca5952 jb march 22 1978 6:42 pm
+84 5
+
+CACM-3153
+----------------------------------------------------------------
+<hl>control</hl> response times multiclass <hl>systems</hl>
+memory allocations possibility giving quality service jobs
+classes regulating memory allocation examined context paged
+computer
+
+CACM-2439
+----------------------------------------------------------------
+<hl>control</hl> timesharing environment userwritten programs
+dartmouth timesharing system communicate remote terminals
+simultaneously <hl>control</hl> interactions terminals programs
+written standard input output
+
+CACM-3183
+----------------------------------------------------------------
+<hl>control</hl> eft evaluating monitoring eft <hl>systems</hl>
+cacm december 1979 kraemer colton efts research agenda conflicts
+impacts people economic impacts regulation
+
+CACM-0618
+----------------------------------------------------------------
+<hl>systems</hl> <hl>control</hl> industrial viewpoint
+manmanmachine processes characterized main types markets type
+shown 195 196 estimated 197 cacm march 1962 carlson
+
+CACM-3141
+----------------------------------------------------------------
+<hl>systems</hl> <hl>operating</hl> <hl>systems</hl> 4.32 4.35
+5.25 5.32 ca7952 dh june 5 1979 2:35 pm 3141 5 3141 3141 5 3141
+
+CACM-0086
+----------------------------------------------------------------
+<hl>control</hl> <hl>systems</hl> federal government december
+1957 cacm april 1959 controller general united states congress
+united states ca5946 jb march 22
+
+CACM-1236
+----------------------------------------------------------------
+<hl>operating</hl> ibm 794 system characterized fact hundred
+methods analyze documents search requests feature retrieval
+process leaving exact sequence operations initially
+<hl>operating</hl> environment test effectiveness processing
+methods results obtained combination analysis procedures general
+relied retrieve wanted information typical search request
+present
+
+CACM-0322
+----------------------------------------------------------------
+<hl>operating</hl> computer efficiently view growing number
+programming <hl>systems</hl> programming <hl>systems</hl> coded
+utilize fixed set hardware components recognizing fact occupying
+storage
+
+CACM-2844
+----------------------------------------------------------------
+<hl>mechanisms</hl> cacm july 1976 gonnet discrete event
+simulation eventscanning <hl>mechanisms</hl> priority queues
+heaps 4.34 8.1 ca7679 jb january 4 1978
+
+CACM-2184
+----------------------------------------------------------------
+<hl>systems</hl> assumed similarity function data names
+programming language names <hl>operating</hl> system functions
+discussed terms basic concepts order identify extent overlap
+
+CACM-2950
+----------------------------------------------------------------
+<hl>operating</hl> <hl>systems</hl> policydriven scheduler
+bernstein sharp discussed implementation cacm july 1977
+ruschitzka fabry scheduling algorithms scheduling models
+priority <hl>operating</hl> systemsprocessor
+
+CACM-1962
+----------------------------------------------------------------
+<hl>control</hl> digital <hl>control</hl> time functions
+interactive software hybrid <hl>systems</hl> conductor program
+3.44 3.8 7.3 ca7121 jb february 9 1978 4:19
+
+CACM-1923
+----------------------------------------------------------------
+<hl>operating</hl> <hl>systems</hl> interfaces inputoutput high
+level languages command language 4.22 4.3 4.31 4.41 ca6934 jb
+february 2 1978 9:12 1923
+
+CACM-2821
+----------------------------------------------------------------
+<hl>control</hl> sample set cobol programming standards offered
+standards constrain code developed structured form data
+<hl>control</hl> structures require syntax existing cobol
+
+CACM-1636
+----------------------------------------------------------------
+<hl>systems</hl> ordinary differential equations diverse areas
+radiative transfer planetary atmospheres optimal guidance
+<hl>control</hl> twopoint boundaryvalue problems unstable
+<hl>systems</hl> arise greatly
+
+CACM-2522
+----------------------------------------------------------------
+<hl>systems</hl> resource allocation software evaluation
+<hl>operating</hl> <hl>systems</hl> supervisory <hl>systems</hl>
+4.31 4.32 ca7346 jb january 24 1978 9:36 2522 5 2522
+
+CACM-2740
+----------------------------------------------------------------
+<hl>operating</hl> <hl>systems</hl> project management
+performance discussed <hl>operating</hl> system large rc 4
+multiprogramming system cacm july 1975 lauesen cooperating
+processes <hl>operating</hl> ... <hl>operating</hl> system paper
+describes internal structure large <hl>operating</hl> system set
+cooperating sequential processes processes synchronize means
+semaphores extended semaphores queue
+
+CACM-0300
+----------------------------------------------------------------
+<hl>control</hl> problem chosen presenting cobol users potential
+users computing <hl>systems</hl> mythical department store
+language bros programming cobol language runs computer
+
+CACM-3011
+----------------------------------------------------------------
+<hl>systems</hl> mis bear relation information <hl>systems</hl>
+top management local governments exists managementoriented
+computing involving unsophisticated applications despite
+unsophisticated nature <hl>systems</hl>
+
+CACM-1033
+----------------------------------------------------------------
+<hl>operating</hl> system includes display entry program data
+sequence <hl>control</hl> aided interrupt switch user interact
+program execution addition normal stored program
+
+CACM-0251
+----------------------------------------------------------------
+<hl>control</hl> <hl>systems</hl> cam profile generated
+introduces superelevation angle required tank main armament type
+ammunition cacm november 1961 archambault ca611117 jb
+
+CACM-2624
+----------------------------------------------------------------
+<hl>systems</hl> implemented limited number generation computer
+<hl>systems</hl> cp67 ibm 3667 previous empirical studies known
+generation computer <hl>systems</hl> dec pdp1 support
+
+CACM-2111
+----------------------------------------------------------------
+<hl>systems</hl> programs specialized techniques shown
+efficiently incorporating spelling correction algorithms
+compilers <hl>operating</hl> <hl>systems</hl> include syntax
+semantics information organization restricted keyword ...
+<hl>operating</hl> <hl>systems</hl> diagnostics error detection
+misspelling lexical analysis <hl>systems</hl> programming 4.42
+4.12 3 3.79 ca724 jb february 14 1978 1:4
+
+CACM-1462
+----------------------------------------------------------------
+<hl>operating</hl> <hl>systems</hl> basic software newer
+computers built wellestablished need standard <hl>operating</hl>
+<hl>systems</hl> implies applicationsno matter large complex
+time consumingmust operate
+
+CACM-2742
+----------------------------------------------------------------
+<hl>mechanisms</hl> discrete event simulation simulation models
+large complex realworld applications occasionally earned
+reputation eating hours computer time problem attributed part
+
+CACM-2867
+----------------------------------------------------------------
+<hl>operating</hl> <hl>systems</hl> paper describes design
+philosophy construction family <hl>operating</hl>
+<hl>systems</hl> shown concepts module level coincide hierarchy
+functions family members share
+
+CACM-2151
+----------------------------------------------------------------
+<hl>systems</hl> provide similar measuring facilities cacm
+october 1971 nemeth rovner <hl>operating</hl> <hl>systems</hl>
+multiprogramming <hl>systems</hl> timesharing <hl>systems</hl>
+software measurement user program
+
+CACM-2721
+----------------------------------------------------------------
+<hl>mechanisms</hl> involved simulation parameters varied
+illustrating response ecosystem conditions including types
+chemical thermal pollution investigation accuracy simulation
+methods simulation actual
+
+CACM-3014
+----------------------------------------------------------------
+<hl>operating</hl> programs cacm february 1978 manna waldinger
+intermittent assertions correctness programs termination
+programs program verification program transformation
+continuously <hl>operating</hl> programs
+
+CACM-1432
+----------------------------------------------------------------
+<hl>systems</hl> fortran system readily modified handle
+inputoutput nonstandard media basis handles standard media
+providing characterhandling subroutine suited nonstandard medium
+arranged
+
+CACM-3028
+----------------------------------------------------------------
+<hl>operating</hl> <hl>systems</hl> ferranti manchester mark
+atlas icl 1.2 4.22 4.32 6.21 6.3 ca7812 jb march 281978 5:5 pm
+328 4
+
+CACM-1485
+----------------------------------------------------------------
+<hl>mechanisms</hl> linking elementary statements means program
+obtain data inputs alternative forms components compared
+evaluated examples frequently list processing languages
+illustrate
+
+CACM-3137
+----------------------------------------------------------------
+<hl>systems</hl> macro model distributed information system
+presented model describes major costs information system
+perspective enduser making evident effect design
+<hl>operating</hl>
+
+CACM-1754
+----------------------------------------------------------------
+<hl>systems</hl> recent computer system designs hardware
+facilities provided easing problems storage allocation method
+characterizing dynamic storage allocation systemsaccording
+functional capabilities <hl>systems</hl> included appendix cacm
+1968 randell kuehner segmentation paging multiprogramming
+storage allocation storage management virtual memories storage
+fragmentation storage hierarchies
+
+CACM-1922
+----------------------------------------------------------------
+<hl>control</hl> procedures data communication pollingselection
+procedures communication communication <hl>control</hl>
+procedures communication establishmenttermination procedures
+communication message transfer procedures communication error
+<hl>control</hl> ... <hl>control</hl> procedures usa standarad
+code information interchange cacm march 1969 data communication
+data communication <hl>control</hl> procedures data
+communication establishmenttermination procedures ...
+<hl>control</hl> procedures link establishmenttermination
+procedures link message transfer procedures link error
+<hl>control</hl> procedures link pollingselection procedures
+data link data link
+
+CACM-2482
+----------------------------------------------------------------
+<hl>operating</hl> system constructing mixtures suggests
+subsystems frequently occurring resource allocation problems
+cacm july 1973 howard jr deadlocks resource allocation
+<hl>operating</hl>
+
+CACM-1951
+----------------------------------------------------------------
+<hl>systems</hl> studied cacm december 197 fuchs jackson
+computer communications timesharing <hl>operating</hl>
+<hl>systems</hl> optimization models 3.8 3.81 6.2 ca71212 jb
+february
+
+CACM-2438
+----------------------------------------------------------------
+<hl>control</hl> access environment structures require storage
+procedure activation exist times <hl>control</hl> nested
+procedure activated straightforward implement dynamic storage
+allocation linked ... <hl>control</hl> explicitly multiprocessor
+implementation requires basic technique cacm october 1973 bobrow
+wegbreit <hl>control</hl> structures environments stack
+allocation dendrarchy retention dynamic <hl>systems</hl>
+extensible <hl>control</hl> structures 4.1 4.2 4.22 4.3 4.32
+5.24 ca7312 jb january 23 1978 8:27 1972 4 2438 2156
+
+CACM-2622
+----------------------------------------------------------------
+<hl>operating</hl> <hl>systems</hl> user authenticates entering
+secret password known solely system system compares password
+recorded password table authentication program integrity system
+
+CACM-2558
+----------------------------------------------------------------
+<hl>mechanisms</hl> protect subprogram anothers malfunctioning
+functionproducing functions typetagging schemes considered
+attempt made distinguish access limitation authentication cacm
+january 1973 morris
+
+CACM-2378
+----------------------------------------------------------------
+<hl>operating</hl> system based concept supervisory computer
+<hl>operating</hl> system organized small supervisor set
+independent processes supervisor handles io external devicesthe
+directory
+
+CACM-3174
+----------------------------------------------------------------
+<hl>operating</hl> <hl>systems</hl> passwords computer security
+2.41 4.35 ca79112 db january 18 198 1:3 2626 4 3174 2786 4 3174
+284
+
+CACM-1728
+----------------------------------------------------------------
+<hl>systems</hl> paging dynamic program behavior program
+behavior virtual memory <hl>systems</hl> singlelevel storage
+onelevel storage <hl>operating</hl> system simulation
+<hl>operating</hl> <hl>systems</hl> supervisor
+
+CACM-2317
+----------------------------------------------------------------
+<hl>operating</hl> <hl>systems</hl> programming <hl>systems</hl>
+multiprogramming history 1.2 4.22 4.32 ca72711 jb january 3 1978
+1:47 pm 1665 4 2317 1768 ... <hl>operating</hl> system area
+major computer manufacturers set produce ambitious
+multiprogramming <hl>systems</hl> ran similar problems number
+university projectsthough directly comparable manufacturers ...
+<hl>systems</hl> languages 19651975 spite impressive gains pli
+fortran cobol remain languages worlds production programs
+written remain foreseeable future great deal
+
+CACM-2379
+----------------------------------------------------------------
+<hl>operating</hl> system simply paper development system
+emphasis principles guided design cacm march 1972 liskov
+<hl>operating</hl> <hl>systems</hl> system design levels
+abstraction
+
+CACM-1199
+----------------------------------------------------------------
+<hl>systems</hl> difficult base decisions experience instances
+benefits comparable experience problem situation paper
+mathematical model lockheed central computer center formulated
+describes
+
+CACM-2629
+----------------------------------------------------------------
+<hl>operating</hl> system digital equipment corporation pdp114
+1145 computers offers number features seldom found larger
+<hl>operating</hl> <hl>systems</hl> including hierarchical
+system incorporating
+
+CACM-2342
+----------------------------------------------------------------
+<hl>control</hl> cooperating processes formal programs
+interference mutual exclusion <hl>operating</hl>
+<hl>systems</hl> parallel processes 4 4.1 4.3 4.32 4.42 5.24 6.2
+ca7263
+
+CACM-3072
+----------------------------------------------------------------
+<hl>systems</hl> multiprogrammed multiprocessor computer
+<hl>systems</hl> presented basic <hl>control</hl> variables
+dataflow rates processes executing cpu model <hl>systems</hl>
+feature simulated continuousflow preemptresume
+

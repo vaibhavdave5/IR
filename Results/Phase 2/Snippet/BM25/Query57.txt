@@ -1,0 +1,856 @@
+CACM-3077
+----------------------------------------------------------------
+<hl>programming</hl> <hl>liberated</hl> <hl>von</hl>
+<hl>neumann</hl> <hl>style</hl> <hl>functional</hl>
+<hl>style</hl> <hl>algebra</hl> <hl>programs</hl> conventional
+<hl>programming</hl> languages growing enormous stronger
+inherent defects basic level fat ... <hl>programs</hl> build
+higher level <hl>style</hl> conventional languages
+<hl>functional</hl> <hl>style</hl> <hl>programming</hl>
+<hl>algebra</hl> <hl>programs</hl> variables range
+<hl>programs</hl> operations combining forms <hl>algebra</hl>
+transform ... <hl>programs</hl> existing lack mathematical
+properties reasoning <hl>programs</hl> alternative
+<hl>functional</hl> <hl>style</hl> <hl>programming</hl> founded
+combining forms creating <hl>programs</hl> <hl>functional</hl>
+<hl>programs</hl> deal structured ... <hl>von</hl>
+<hl>neumann</hl> languages systems semantics loosely coupled
+statesonly state transition occurs major computation
+<hl>cacm</hl> august 1978 <hl>backus</hl> <hl>functional</hl>
+<hl>programming</hl> <hl>algebra</hl> ... <hl>algebra</hl> give
+detailed behavior termination conditions large classes
+<hl>programs</hl> class computing systems <hl>functional</hl>
+<hl>programming</hl> <hl>style</hl> <hl>programming</hl>
+language state transition rules
+
+CACM-3140
+----------------------------------------------------------------
+<hl>programs</hl> make form al verification process difficult
+justify manage felt ease formal verification dominate program
+language design <hl>cacm</hl> 1979 <hl>de</hl> ...
+<hl>programs</hl> argued formal verifications <hl>programs</hl>
+matter obtained play key role development computer science
+software engineering proofs mathematics absence continuity
+inevitability
+
+CACM-1705
+----------------------------------------------------------------
+<hl>cacm</hl> august 1968 <hl>de</hl> vogelaere input output
+transput input output procedures input echo quality output
+decompose integer decompose real <hl>style</hl> ... <hl>acm</hl>
+1 nov 67 729 basic set inputoutput procedures defined aiming
+quality flexibility outreal instance written derived procedure
+outputs fixed <hl>style</hl> providing information form output
+prior calls procedures real format defined parameter outchannel
+provide information simultaneous output channels suggested
+interrelationship ... <hl>style</hl> procedures relationship
+output documentation equivalent algol statements algol algol 6
+integer format real formatout integer read real input output
+
+CACM-2705
+----------------------------------------------------------------
+<hl>programs</hl> general utility studies questions related
+program <hl>style</hl> <hl>cacm</hl> december 1975 naur
+analogies related social aspectspure applied mathematics
+language quality ... <hl>programming</hl> languages natural
+languages mathematics social aspects <hl>programming</hl>
+illuminated analogies similar aspects mathematics natural
+languages split pure applied mathematics found
+<hl>programming</hl> development natural languages flexion
+wordorder based language types speaks <hl>programming</hl>
+language design based general abstract constructs analogy
+incidents history
+
+CACM-2922
+----------------------------------------------------------------
+<hl>programming</hl> basic ideas nondeterministic
+<hl>programming</hl> critically reconsidered single proper
+attitude <hl>programming</hl> <hl>style</hl> language allowing
+direct control nondeterministic features proposed attitude
+<hl>programming</hl> <hl>style</hl> generative function choice
+poin expresses desired choice strategy main advantage approach
+localization search strategies nonterminal node tree keeps
+
+CACM-2850
+----------------------------------------------------------------
+<hl>programs</hl> written simple pli <hl>style</hl>
+<hl>programming</hl> language includes standard debugging
+features ability manage prove things symbolic expressions simple
+program testing ... <hl>21</hl> 6 285 285 285 ...
+<hl>programs</hl> supplying normal inputs program numbers
+supplies symbols representing arbitrary values execution
+proceeds normal execution values symbolic formulas input symbols
+
+CACM-0209
+----------------------------------------------------------------
+<hl>cacm</hl> april 196 <hl>perlis</hl> thornton ca642 jb march
+<hl>22</hl> 1978 1:56 pm 15 5 29 112 5 29 29 5
+
+CACM-0196
+----------------------------------------------------------------
+<hl>backus</hl> <hl>cacm</hl> 196 ca651 jb march <hl>22</hl>
+1978 1:34 pm 123 5 196 14 5 196 196 5 196 196
+
+CACM-1764
+----------------------------------------------------------------
+<hl>cacm</hl> april 1968 organick computer appreciation students
+liberal arts courses survey courses beginning
+<hl>programming</hl> course content computer courses dropout
+rates ... <hl>acm</hl> 2 th anniversary conference august 31
+1967 entitled education design experiments computer appreciation
+half consisted panel discussion computer appreciation
+
+CACM-0210
+----------------------------------------------------------------
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> ...
+<hl>21</hl> 1 5 <hl>21</hl> 124 5 <hl>21</hl> 151 5 <hl>21</hl>
+112 5 <hl>21</hl> 1132 5 <hl>21</hl> <hl>21</hl> 5 <hl>21</hl>
+<hl>21</hl> ... <hl>21</hl> 29 6 <hl>21</hl> 29 6 <hl>21</hl>
+1826 6 <hl>21</hl> 1826 6 <hl>21</hl> 1826 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+
+CACM-0001
+----------------------------------------------------------------
+<hl>cacm</hl> december 1958 <hl>perlis</hl> samelsonk ca58123 jb
+march <hl>22</hl> 1978 8:28 pm 1 5 1 123 5 1 164 5
+
+CACM-2060
+----------------------------------------------------------------
+<hl>programming</hl> examples illustrates generality language
+limitations extensions discussed briefly <hl>cacm</hl> 197
+reynolds <hl>programming</hl> language data structure reference
+assignment coroutine quasiparallel ... <hl>21</hl> 6 26
+<hl>21</hl> 6 26 <hl>21</hl> 6 26 1834 6 26 378 6 26 246 6 26 26
+6 ... <hl>programming</hl> language characteristics permitted
+context language permissible meaningful context functions labels
+permissible results functions values variables assignment
+indirect addressing formalized <hl>functional</hl> approach data
+structures references insure process accepts data structure
+accept logically equivalent structure regardless internal
+representation generally data structure
+
+CACM-2700
+----------------------------------------------------------------
+<hl>cacm</hl> december 1975 <hl>lipton</hl> deadlock free
+reduction interruptible indivisible parallel program semaphore
+verification method process computation sequence 4.32 4.35 5.24
+
+CACM-1469
+----------------------------------------------------------------
+<hl>programs</hl> generally physical representation choice
+abstract entities numbers characterstrings lists
+<hl>functional</hl> relations referred language system biased
+expressions statements includes nonproceduralpurely ...
+<hl>21</hl> 6 1469 1834 6 1469 1869 6 1469 26 6 1469 211 6 1469
+2264 1469 ... <hl>programming</hl> languages family
+unimplemented computing languages intended span differences
+application area unified framework framework dictates rules
+usercoined names conventions characterizing
+
+CACM-0406
+----------------------------------------------------------------
+<hl>21</hl> 6 46 <hl>21</hl> 6 46 <hl>21</hl> 6 46 378 6 46 46 6
+46 46 6 46 46 6
+
+CACM-1771
+----------------------------------------------------------------
+<hl>programs</hl> computer science report <hl>acm</hl>
+curriculum committee computer science report recommendations
+academic <hl>programs</hl> computer science developed
+<hl>acm</hl> curriculum committee computer <hl>programs</hl>
+graduate <hl>programs</hl> computer science discussed
+recommendations presented development masters degree
+<hl>programs</hl> ways developing guidelines doctoral
+<hl>programs</hl> discussed specific recommendations
+<hl>programs</hl> <hl>cacm</hl> march 1968 computer science
+courses computer science curriculum computer science education
+computer science academic <hl>programs</hl> computer science
+graduate
+
+CACM-1132
+----------------------------------------------------------------
+<hl>cacm</hl> february 1964 <hl>perlis</hl> iturriaga ca64211 jb
+march 1 1978 3:45 124 4 1132 151 4 1132 186 4 1132
+
+CACM-2802
+----------------------------------------------------------------
+<hl>programming</hl> structured <hl>programming</hl> proved
+important methodology systematic program design development
+structured <hl>programs</hl> identified compound function
+expressions <hl>algebra</hl> functions algebraic properties ...
+<hl>programs</hl> <hl>cacm</hl> january 1975 mills structured
+<hl>programming</hl> <hl>algebra</hl> functions stepwise
+refinement program correctness 4.6 5.21 5.24 ca7519 jb january
+12
+
+CACM-0731
+----------------------------------------------------------------
+<hl>21</hl> 6 731 <hl>21</hl> 6 731 <hl>21</hl> 6 731
+<hl>21</hl> 6 731 <hl>21</hl> 6 731 <hl>21</hl> 6 731 186 6 ...
+<hl>programs</hl> depending limited set fortran
+<hl>programs</hl> depending limited set primitive machine
+language subroutines defined finally set field character
+manipulation primitives
+
+CACM-1626
+----------------------------------------------------------------
+<hl>21</hl> 6 1626 <hl>21</hl> 6 1626 <hl>21</hl> 6 1626 224 6
+1626 1853 6 1626 1853 6 1626 249 6 ... <hl>programs</hl> special
+declarations <hl>cacm</hl> march 1967 bobrow murphy ca6733 jb
+february 28 1978 1:39 pm 1626 4 1626 178 4 ... <hl>programs</hl>
+paper number techniques build lisp system utilizing drum
+principal storage medium surprisingly low time penalty slow
+storage device techniques
+
+CACM-3008
+----------------------------------------------------------------
+<hl>cacm</hl> march 1978 demillo eisenstat <hl>lipton</hl>
+arrays graph embedding linear lists proximity average proximity
+trees 4.34 5.24 5.25 5.32 ca7835
+
+CACM-1945
+----------------------------------------------------------------
+<hl>programming</hl> references included <hl>cacm</hl> january
+1969 arden graduatelevel <hl>programming</hl> graduate
+<hl>programs</hl> course content course sequence graduate
+curriculum <hl>programming</hl> research topics
+
+CACM-1323
+----------------------------------------------------------------
+<hl>functional</hl> application <hl>functional</hl> abstraction
+analogues imperative language features model abstract object
+language algol 6 mapped algol 6s features emerge arrangements
+
+CACM-1614
+----------------------------------------------------------------
+<hl>cacm</hl> april 1967 galler <hl>perlis</hl> ca6741 jb
+february 28 1978 11:43 186 4 1614 1132 4 1614 1234 4 1614
+
+CACM-3184
+----------------------------------------------------------------
+<hl>21</hl> 6 3184 <hl>21</hl> 6 3184 224 6 3184 249 6 3184 267
+6 3184 288 6 3184 288 6 ... <hl>cacm</hl> january 1963 nuar
+ca63117 es march 17 1982 1:1 1781 4 3184 1828 4 3184 1854 4 3184
+1877
+
+CACM-1781
+----------------------------------------------------------------
+<hl>programming</hl> languages presented formal study syntax
+application translator writing discussed section ii approaches
+automating post syntactic semantic aspects translator writing
+
+CACM-1491
+----------------------------------------------------------------
+<hl>programming</hl> languages developed introduces rigorous
+relationship structure meaning structure language defined phrase
+structure syntax meaning terms effects execution sequence
+interpretation <hl>cacm</hl> january 1966 wirth weber ca6614 jb
+march 3 1978 4:22 pm 249 4 1491 254 4 1491 272 4
+
+CACM-1834
+----------------------------------------------------------------
+<hl>programming</hl> proofs <hl>programs</hl> formal language
+definition <hl>programming</hl> language design
+machineindependent <hl>programming</hl> program documentation 4
+4.21 4.22 5.2 5.21 5.23 5.24 ... <hl>programming</hl> paper
+attempt made explore logical foundations computer
+<hl>programming</hl> techniques applied study geometry later
+extended branches mathematics involves elucidation sets
+<hl>programs</hl> examples axioms rules formal proof simple
+theorem displayed finally argued important advantages
+theoretical practical follow pursuance topics <hl>cacm</hl>
+october
+
+CACM-0065
+----------------------------------------------------------------
+<hl>cacm</hl> september 1959 dijkstra heise <hl>perlis</hl>
+samelson ca5994 jb march <hl>22</hl> 1978 4:49 pm 65 5 65 65 5
+65
+
+CACM-2181
+----------------------------------------------------------------
+<hl>cacm</hl> july 1971 mckenney tonge university
+<hl>programs</hl> management education curriculum design
+business administration curricula graduate business school
+resource planning 1.52 ... <hl>acm</hl> committee computer
+education management supported national science foundation grant
+established appraise state art develop series recommendations
+improving computer education
+
+CACM-2716
+----------------------------------------------------------------
+<hl>algebra</hl> database interface approach implementing smart
+interface support relational view data proposed basic idea
+employ automatic <hl>programming</hl> techniques interface
+analyzes ... <hl>algebra</hl> presented methodology composing
+optimize performance user query <hl>cacm</hl> october 1975 smith
+yentang chang relational database database optimization inverted
+automatic
+
+CACM-2113
+----------------------------------------------------------------
+<hl>functional</hl> classification items composing input
+hierarchical structures <hl>cacm</hl> february 197 <hl>von</hl>
+glasersfeld parsing syntactic analysis naturallanguage analysis
+linguistic data processing
+
+CACM-1046
+----------------------------------------------------------------
+<hl>articles</hl> published past years brooker morris joined
+rohl recent paper presented interesting <hl>programming</hl>
+system developed ferranti atlas computer present paper
+
+CACM-1700
+----------------------------------------------------------------
+<hl>abstracts</hl> handled multiple masks <hl>cacm</hl>
+september1968 hutton peekaboo superimposed coding natural
+language searching text searching information compaction
+computer search technique <hl>22</hl> 1978 9:38 17 5 17 17 5 17
+17 17
+
+CACM-0437
+----------------------------------------------------------------
+<hl>cacm</hl> december 1962 galler <hl>perlis</hl> ca62122 jb
+march 17 1978 5:17 pm 249 4 437 254 4 437 272 4
+
+CACM-1549
+----------------------------------------------------------------
+<hl>21</hl> 6 1549 <hl>21</hl> 6 1549 <hl>21</hl> 6 1549 1972 6
+1549 1972 6 1549 1972 6 1549 2513 6 ... <hl>cacm</hl> august
+1967 schorr waite ca6786 jb february 27 1978 4:28 pm 124 4 1549
+124 4 1549 15 4
+
+CACM-2842
+----------------------------------------------------------------
+<hl>programming</hl> languages paper tutorial introduction
+theory <hl>programming</hl> language semantics developed scott
+strachey application theory formal language specification
+demonstrated applications surveyed <hl>programming</hl> language
+features underlying mathematical theory computation due scott
+motivated outlined finally paper presents formal definition
+language gedanken <hl>cacm</hl> august <hl>programming</hl>
+language applicative imperative environment store continuation
+theory computation higherorder function recursive definition
+loop gedanken 4.22 5.24 ca7682 jb january
+
+CACM-2732
+----------------------------------------------------------------
+<hl>programs</hl> expressed terms constructs calculus shown
+<hl>cacm</hl> august 1975 dijkstra <hl>programming</hl>
+languages sequencing primitives program semantics
+<hl>programming</hl> language semantics nondeterminacy
+<hl>programs</hl> <hl>programming</hl> methodology 4.2 4.22
+ca7583 jb january 6 1978 4:46 pm 249 4 2732 254 4 2732 272 4
+
+CACM-1728
+----------------------------------------------------------------
+<hl>programs</hl> paging environment results summarized
+empirical study directed measurement program operating behavior
+multiprogramming systems <hl>programs</hl> organized fixed
+length pages data ... <hl>programs</hl> <hl>cacm</hl> july 1968
+coffman varian paging systems paging dynamic program behavior
+program behavior virtual memory systems singlelevel storage
+onelevel ... <hl>programs</hl> describe frequency page faults
+frequency instants executing program requires page data
+instructions main core memory data evaluation page replacement
+
+CACM-1106
+----------------------------------------------------------------
+<hl>programming</hl> digital computers <hl>cacm</hl> april 1964
+<hl>perlis</hl> ca6442 jb march 1 1978 1:54 116 5 116 116 5 116
+116
+
+CACM-3138
+----------------------------------------------------------------
+<hl>cacm</hl> april 1979 hanson wisniewski linear
+<hl>programming</hl> numerical linear <hl>algebra</hl> modified
+givens transformations linear <hl>programming</hl> test cases 5
+5.4 5.41 ... <hl>programming</hl> updating method modified
+givens transformations applied lp problems efficient numerically
+stable method presented problem updating orthogonal
+decomposition matrix column
+
+CACM-2723
+----------------------------------------------------------------
+<hl>cacm</hl> september 1975 steele jr garbage collection
+storage reclamation reclaimer storage allocation multiprocessing
+synchronization semaphores parallel processing compactification
+relocation lisp <hl>21</hl> 5 2723 1549 5 2723 1749 5 2723 1826
+5 2723 2651 5 2723 2723 5 2723 2723 5
+
+CACM-1826
+----------------------------------------------------------------
+<hl>21</hl> 6 1826 <hl>21</hl> 6 1826 <hl>21</hl> 6 1826 1853 6
+1826 1853 6 1826 1853 6 1826 1878 6 ... <hl>cacm</hl> november
+1969 fenichel yochelson garbagecollector virtual memory
+listprocessing storageallocation 4.19 4.49 ca69114 jb february
+15 1978 12:57 pm 124
+
+CACM-0616
+----------------------------------------------------------------
+<hl>algebra</hl> developed primarily bosak hoped report read
+avid interest <hl>programming</hl> language designers
+implementors interested developing theoretical approach data
+processing interest ... <hl>algebra</hl> phase reportlanguage
+structure group codasyl development committee report represents
+results phase work language structure group goal work arrive
+proper
+
+CACM-1265
+----------------------------------------------------------------
+<hl>programming</hl> languages lisp algol made means program
+simulates turing machine univac m46 computer algorithms
+producing grammars equivalent contextfree grammar considered
+
+CACM-2645
+----------------------------------------------------------------
+<hl>programs</hl> presented program efficiency wishes estimate
+written language gotoless <hl>programming</hl> language includes
+features algol 6 language consists interactive commands enabling
+<hl>cacm</hl> june 1974 ccohen zuckerman <hl>programming</hl>
+languages syntaxdirected translation symbolic manipulation
+program efficiency analysis algorithms 4.12 4.2 5.24 5.25 ca7461
+
+CACM-1397
+----------------------------------------------------------------
+<hl>acm</hl> symposium symbolic algebraic manipulation
+<hl>acm</hl> symposium symbolic algebraic manipulation brought
+hundred people interested <hl>programming</hl> languages
+designed manipulation algebraic formulas <hl>acm</hl> special
+interest committee symbolic algebraic manipulation program
+committee consisted chairman jean sammet paul abrahams thomas
+cheatham max goldstein douglas
+
+CACM-0679
+----------------------------------------------------------------
+<hl>21</hl> 5 679 3184 5 679 679 5 679 679 5 679 679 679 ...
+<hl>programming</hl> language admitting subscripts superscripts
+forms displayed formulas basic implementation language previous
+paper madcap scientific compiler displayed formula textbook
+language <hl>acm</hl> 4 jan 61 3136 paper discusses recent
+improvements language areas complex display logical control
+subprogramming area complex display prominent
+
+CACM-1693
+----------------------------------------------------------------
+<hl>cacm</hl> september 1968 garwick <hl>programming</hl>
+language general purpose selfextending macro algol 4.2 ca6898 jb
+february <hl>22</hl> 1978 8:4 1379 4 ... <hl>programming</hl>
+language gpl facilities constructing language data types
+facilities operations performed basic language minimal sense
+basic element derived high efficiency
+
+CACM-2719
+----------------------------------------------------------------
+<hl>cacm</hl> september 1975 wegbreit analysis <hl>programs</hl>
+performance analysis execution time execution behavior
+difference equations generating functions list processing lisp
+algebraic ... <hl>programs</hl> produce closedform expressions
+running time expressed terms size input paper presents reasons
+mechanizing program analysis describes operation metric explains
+... <hl>programming</hl> languages analysis algorithms 3.69 4.22
+5.24 5.25 ca7595 jb january 6 1978 2:11 pm 124 4 2719 151 4
+
+CACM-1854
+----------------------------------------------------------------
+<hl>programming</hl> pitfalls errors heavily contribute
+unreliability <hl>programs</hl> making <hl>programming</hl>
+scheme presented avoids concept interrupt permits specification
+concurrent pseudoconcurrent activities supposedly ...
+<hl>programs</hl> instructions written pl36 presented
+<hl>cacm</hl> september 1969 wirth multiprogramming parallelism
+interrupt inputoutput computer organization handling pl36 4.21
+4.22 4.32
+
+CACM-2053
+----------------------------------------------------------------
+<hl>programs</hl> inadequate regard ambiguity detection
+algorithms <hl>programming</hl> decision tables merits
+simplicity implementation detection ambiguities execution time
+presented algorithm limited entry ... <hl>programs</hl>
+execution time diagnostics pinpointing ambiguities decision
+tables discussed pointed attempt resolving ambiguities compile
+time general impossible shown consequence tree ...
+<hl>programs</hl> mixed entry decision table directly going
+intermediate step conversion limited entry form resulting
+storage economy comparison algorithms proposed literature
+
+CACM-1787
+----------------------------------------------------------------
+<hl>cacm</hl> january 1968 gries transition matrices compilation
+translation grammar contextfree language formal language parsing
+4.12 5.23 ca6817 jb february 23
+
+CACM-1380
+----------------------------------------------------------------
+<hl>programming</hl> language designed provide systems analyst
+unified concepts facilitate concise description discrete event
+systems system description serves source language simulation
+<hl>cacm</hl> september 1966 dahl nygaard ca6697 jb march 2 1978
+6:21 pm 124 4 138 151 4 138 186 4
+
+CACM-2538
+----------------------------------------------------------------
+<hl>acm</hl> subcommittee small college <hl>programs</hl>
+committee curriculum computer science cccs appointed 1969
+consider unique problems small colleges universities make
+recommendations ... <hl>cacm</hl> march 1973 austing engel
+computer science education course proposals small colleges
+<hl>programming</hl> course social implications course computer
+organization course
+
+CACM-0224
+----------------------------------------------------------------
+<hl>programs</hl> statements algorithmic language sequential
+treatment feasible case optimizing processes recursive address
+calculation <hl>cacm</hl> february 196 samelson bauer ca628 jb
+
+CACM-0627
+----------------------------------------------------------------
+<hl>21</hl> 6 627 <hl>21</hl> 6 627 367 6 627 2198 6 627 2452 6
+627 2651 6 627 46 6 ... <hl>cacm</hl> march 1962 weizenbaum
+ca6235 jb march 2 1978 3:7 pm 249 4 627 254 4 627 272 4 627
+
+CACM-1477
+----------------------------------------------------------------
+<hl>cacm</hl> february 1966 wirth weber ca6627 jb march 3 1978
+3:1 pm 1379 5 1477 1477 5 1477 1477 5
+
+CACM-2679
+----------------------------------------------------------------
+<hl>acm</hl> algorithms quicksort 64 shellsort <hl>21</hl>
+stringsort 27 treesort3 245 quickersort 271 qsort 42 algorithms
+271 42 refinements algorithm 64
+
+CACM-2317
+----------------------------------------------------------------
+<hl>programming</hl> system functions <hl>cacm</hl> july 1972
+rosen languages operating systems <hl>programming</hl> systems
+multiprogramming history 1.2 4.22 4.32 ca72711 jb january
+
+CACM-2959
+----------------------------------------------------------------
+<hl>programming</hl> language <hl>cacm</hl> june 1977 zloof
+<hl>de</hl> jong <hl>programming</hl> language graphics user
+terface data flow forms flow data abstraction database ...
+<hl>programming</hl> language system business automation sba
+system application expertsnonprogrammerscan describe execute
+applications computer user sba views application manipulation
+information twodimensional
+
+CACM-2718
+----------------------------------------------------------------
+<hl>functional</hl> approach design data structures conforming
+data base task group specifications automatic
+<hl>programming</hl> technology utilized program typically
+generate procedure generate <hl>cacm</hl> october 1975 gerritsen
+network model databases data base task group database design
+data structure automatic <hl>programming</hl> translation
+nonprocedural languages
+
+CACM-1680
+----------------------------------------------------------------
+<hl>programs</hl> operating system language processors compilers
+simulation models mathematical solution techniques stored data
+library user <hl>programs</hl> incorporated instructional
+material reprogramming <hl>cacm</hl> october 1968 engvold hughes
+computerassisted instruction tutorial systems
+<hl>programming</hl> simulation modeling information retrieval
+operating systems graphics displays manmachine interface
+<hl>programming</hl> 1.5 3.3 3.5 3.8 4 4.3 ca6817 jb february
+<hl>21</hl> 1978 3:36 pm 168 4 168 1591 5 168
+
+CACM-2856
+----------------------------------------------------------------
+<hl>cacm</hl> june 1976 schumacher sevcik decision tables
+decision trees dynamic <hl>programming</hl> optimal
+<hl>programs</hl> 3.5 4.12 5.3 8.3 ca7666 jb january ...
+<hl>programming</hl> synthesize optimal decision tree program
+created approach efficiency creating optimal program increased
+substantially permitting generation optimal <hl>programs</hl>
+decision tables
+
+CACM-1860
+----------------------------------------------------------------
+<hl>cacm</hl> august 1969 feldman algol associative
+<hl>programming</hl> language data structure 4.22 ca6983 jb
+february 15 1978 6:2 pm 151 4
+
+CACM-0483
+----------------------------------------------------------------
+<hl>cacm</hl> september 1962 floyd ca6299 jb march 17 1978 7:33
+pm 249 4 483 254 4 483 272 4 483
+
+CACM-2314
+----------------------------------------------------------------
+<hl>cacm</hl> july 1972 bobrow list processing
+<hl>programming</hl> languages design <hl>programming</hl>
+languages interactive systems control structures data structures
+<hl>programming</hl> primitives semantics ...
+<hl>programming</hl> systems list processing list processing
+systems designed facilitate production large <hl>programs</hl>
+manipulate large complex symbolic data stores paper presents
+<hl>programming</hl> systems wide range applications aspects
+<hl>programming</hl> systems highlighted good interactive
+facilities programmable control structures sophisticated data
+communication mechanisms interactive <hl>programming</hl>
+control regimes including multiprocesses coroutines backtracking
+alternative methods procedure invocation required include
+invocation pattern monitoring condition need extended data
+
+CACM-2438
+----------------------------------------------------------------
+<hl>functional</hl> arguments discussed initial model single
+real processor assumed implementation assumes multipleprocesses
+coordinate passing control explicitly multiprocessor
+implementation requires basic <hl>cacm</hl> october 1973 bobrow
+wegbreit control structures environments stack allocation
+dendrarchy retention dynamic storage allocation access
+environments funarg problem multitasking
+
+CACM-2479
+----------------------------------------------------------------
+<hl>programs</hl> information systems recommended addendum
+information systems administration addendum report <hl>acm</hl>
+curriculum committee computer education management proposed
+proposed addendum include <hl>cacm</hl> july 1973 mcfarlan nolan
+education management information systems information systems
+administration information systems management computer
+management 1.52 3.51 ca7377
+
+CACM-2852
+----------------------------------------------------------------
+<hl>programs</hl> computer science information systems mcfarlan
+nolan made strong case adding course information systems
+administration 13 courses proposed <hl>acm</hl> curriculum
+<hl>programs</hl> information systems paper report course
+entitled technology computer center management offered purdue
+past years course suitable graduate professional
+<hl>programs</hl>
+
+CACM-1396
+----------------------------------------------------------------
+<hl>programs</hl> solve specific applications discussed
+<hl>cacm</hl> august 1966 sammet ca6682 jb march 2 1978 8:7 pm
+128 4 1396 128
+
+CACM-1665
+----------------------------------------------------------------
+<hl>programs</hl> accomplish task lexical processors aedo mad
+produced techniques employed independent nature items evaluated
+word events substituted character string processors
+<hl>cacm</hl> december 1968 johnson porter ackley ross character
+string compiler finitestate automata finitestate machine lexical
+processor nondeterministic machine parsing plex
+
+CACM-1496
+----------------------------------------------------------------
+<hl>cacm</hl> january 1966 feldman ca6611 jb march 3 1978 4:31
+pm 146 4 1496 186 4 1496 115 4 1496
+
+CACM-3073
+----------------------------------------------------------------
+<hl>programming</hl> exercises <hl>cacm</hl> august 1978 hoare
+<hl>programming</hl> <hl>programming</hl> languages
+<hl>programming</hl> primitives program structures parallel
+<hl>programming</hl> concurrency input output guarded commands
+
+CACM-1421
+----------------------------------------------------------------
+<hl>programming</hl> language similar respects algol 6
+incorporating large number improvements based years experience
+language detail part consists introduction language summary
+<hl>cacm</hl> june 1966 wirth hoare ca6661 jb march 3 1978 9:7
+138 5 1421 1421 5 1421 1421 5 1421
+
+CACM-0680
+----------------------------------------------------------------
+<hl>cacm</hl> november 1963 irons ca631112 jb march 13 1978 3:4
+pm 249 4 68 254 4 68 272 4 68
+
+CACM-0763
+----------------------------------------------------------------
+<hl>cacm</hl> august 1963 eickel bauer paul samelson ca63835 jb
+march 13 1978 8:8 pm 249 4 763 254 4 763
+
+CACM-2470
+----------------------------------------------------------------
+<hl>abstracts</hl> notions data item function relation argued
+system suitable set theory derivatives concise accurate
+description program semantics shown system build
+
+CACM-1706
+----------------------------------------------------------------
+<hl>cacm</hl> august 1968 storm symbol manipulation string
+handling character manipulation conditional expressions
+procedures structure matching recursive <hl>programming</hl>
+quantifiers 4.22 4.13 ... <hl>21</hl> 5 176 176 5 176 176 5 176
+176 176 ... <hl>programming</hl> language facility symbol
+manipulation string procedures declared called standard algol
+context algol procedures turn called string procedures numeric
+symbolic
+
+CACM-0205
+----------------------------------------------------------------
+<hl>cacm</hl> april 196 mcilroy ca646 jb march <hl>22</hl> 1978
+1:49 pm 25 4 25 25 4 25 <hl>21</hl> 4 25
+
+CACM-2046
+----------------------------------------------------------------
+<hl>programs</hl> remain unaffected internal representation data
+changed aspects external representation changed change data
+representation needed result query update report traffic
+<hl>cacm</hl> june 197 codd data bank data base data structure
+data organization hierarchies data networks data relations
+derivability redundancy consistency
+
+CACM-1051
+----------------------------------------------------------------
+<hl>cacm</hl> june 1964 comfort ca64616 jb march 9 1978 9:15 pm
+124 4 151 124 4 151 151 4 151 <hl>21</hl> 5 151 1549 5 151 196 5
+151 378 5 151 292 5 151 46 5 151 731 5
+
+CACM-2998
+----------------------------------------------------------------
+<hl>programs</hl> measured 1 15 bits linearization 7 12 bits
+<hl>cacm</hl> february 1977 clark green list structure
+measurement lisp list structure <hl>21</hl> 6 2998 <hl>21</hl> 6
+2998 1972 6 2998 1972 6 2998 2513 6 2998 2665 6 2998 2766 6
+
+CACM-1788
+----------------------------------------------------------------
+<hl>programming</hl> languages efforts made develop implementing
+higher level <hl>programming</hl> language construction compiler
+proved generally satisfactory paper contended
+<hl>programming</hl> language functionally ... <hl>cacm</hl>
+january 1968 halpern <hl>programming</hl> language translator
+<hl>programming</hl> language processor general translator
+general processor macro instruction processor meta processor
+meta
+
+CACM-2017
+----------------------------------------------------------------
+<hl>programs</hl> analysis performance measurement results
+obtained presented insight gained experimental effort arrive set
+broad guidelines writing sort <hl>programs</hl> paging
+environment
+
+CACM-2155
+----------------------------------------------------------------
+<hl>programming</hl> language programmer expressed semantics
+algorithm terms graphs implementation data structures order gain
+efficiency <hl>cacm</hl> october1971 earley data structures
+graph <hl>programming</hl> language 4.22 4.9 5.24 ca7111 jb
+february 2 1978 1:35 pm 124 4 2155 151 4 2155 151 4
+
+CACM-0123
+----------------------------------------------------------------
+<hl>cacm</hl> november 196 masterson jr ca61112 jb march 2 1978
+7:3 pm 25 4 123 <hl>21</hl> 4 123 214 4
+
+CACM-1007
+----------------------------------------------------------------
+<hl>cacm</hl> september 1964 benett <hl>neumann</hl> ca6494 jb
+march 9 1978 6:13 pm 17 5 17 17 5 17 17 5
+
+CACM-2546
+----------------------------------------------------------------
+<hl>programming</hl> languages designing <hl>programming</hl>
+language extending existing language designer faced problem
+deriving natural grammar language proposing interactive approach
+grammar design
+
+CACM-1029
+----------------------------------------------------------------
+<hl>programs</hl> derivatives <hl>cacm</hl> august 1964 wengert
+ca6481 jb march 9 1978 7:38 pm 128 5 129 129 5 129 129
+
+CACM-2972
+----------------------------------------------------------------
+<hl>programs</hl> method describing structuring
+<hl>programs</hl> simplifies proofs correctness presented method
+formally represents program terms levels abstraction level
+selfcontained nonprocedural specification <hl>programs</hl>
+structured levels proofs paper method applicable semiautomatic
+automatic proofs preliminary results encouraging indicating
+method applied large <hl>programs</hl> operating systems
+
+CACM-1476
+----------------------------------------------------------------
+<hl>cacm</hl> february 1966 ca6628jb march 3 1978 3:4 pm 1476 5
+1476 1476 5 1476 1476 1476 ... <hl>functional</hl> control
+requirements characteristics governing operation digital data
+generating receiving systems interconnected communication system
+effort primarily directed systems employing american
+
+CACM-0799
+----------------------------------------------------------------
+<hl>cacm</hl> july 1963 conway ca63725 jb march 14 1978 8:11 222
+4 799 146 4 799 115 4 799 1139
+
+CACM-1486
+----------------------------------------------------------------
+<hl>programming</hl> system directed <hl>programming</hl>
+language library storing users items rules transforming
+<hl>programs</hl> written language rearranging items library
+share common parts ... <hl>21</hl> 5 1486 1486 5 1486 1486 5
+1486 1486 1486
+
+CACM-2698
+----------------------------------------------------------------
+<hl>programming</hl> <hl>cacm</hl> january 1974 lyon arbitrary
+input strings contextfree grammars parsing dynamic
+<hl>programming</hl> stored subanalyses separability state
+merging leasterrors correction
+
+CACM-2939
+----------------------------------------------------------------
+<hl>programming</hl> language designed support abstractions
+program construction work <hl>programming</hl> methodology led
+realization kinds abstractionsprocedural control especially data
+abstractionsare <hl>programming</hl> process ... <hl>cacm</hl>
+august 1977 liskov snyder atkinson schaffert
+<hl>programming</hl> languages data types data abstractions
+control abstractions <hl>programming</hl> methodology separate
+compilation 4
+
+CACM-3080
+----------------------------------------------------------------
+<hl>programs</hl> implement recursion bypassing start program
+detection pinpointing wide class errors low level language
+<hl>programs</hl> examples demonstrate optimization genre paper
+... <hl>21</hl> 5 38 285 5 38 38 5 38 38 5 38 38 38 ...
+<hl>programs</hl> written high level language correctly
+translated low level language primary system post optimization
+step code generation low level language
+
+CACM-1749
+----------------------------------------------------------------
+<hl>cacm</hl> 1968 dijkstra operating system multiprogramming
+system system hierarchy system structure realtime debugging
+program verification synchronizing primitives cooperating
+sequential processes
+
+CACM-0106
+----------------------------------------------------------------
+<hl>21</hl> 6 16 <hl>21</hl> 6 16 1878 6 16 296 6 16 1972 6 16
+367 6 16 2438 6 ... <hl>cacm</hl> december 196 collins ca6121 jb
+march 2 1978 6:33 pm 124 4 16 151 4 16 112 4 16
+
+CACM-1354
+----------------------------------------------------------------
+<hl>programs</hl> rule mark techniques rule mask technique
+method converting limited entry decision tables computer
+<hl>programs</hl> recent discussion suggest circumstances
+preferred <hl>programs</hl> longer run time paper modification
+technique discussed takes account rule frequencies relative
+times evaluating conditions materially improve object program
+

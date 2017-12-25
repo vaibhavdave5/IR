@@ -1,0 +1,963 @@
+CACM-2940
+----------------------------------------------------------------
+<hl>specifications</hl> <hl>programming</hl> <hl>languages</hl>
+<hl>programming</hl> methodology <hl>proofs</hl>
+<hl>correctness</hl> <hl>types</hl> verification 4.2 5.24 ca7783
+jb december 28 1977 7:59 294 5 294 ... <hl>abstract</hl>
+<hl>data</hl> <hl>types</hl> paper abstraction techniques
+extended simple <hl>data</hl> representation function definition
+iteration statement important poin interaction <hl>data</hl>
+control structure ... <hl>languages</hl> means showing generator
+terminate provided cacm august 1977 shaw wulf abstraction
+representation <hl>abstract</hl> <hl>data</hl> <hl>types</hl>
+assertions control specialization <hl>correctness</hl>
+
+CACM-2931
+----------------------------------------------------------------
+<hl>abstract</hl> conceptualizations actualized say unified
+theory cacm september 1977 scott logic <hl>programming</hl>
+<hl>languages</hl> automata <hl>denotational</hl>
+<hl>semantics</hl> acalculus models computability partial ...
+<hl>data</hl> <hl>types</hl> lattices partial orderings
+information content ordering continuous mappings demonstrated
+flexibility approach providing definitions <hl>proofs</hl> clean
+undue dependence implementations ... <hl>programming</hl>
+<hl>languages</hl> logic long terested answers questions
+computable principle outcome puts bounds possibilities
+formalization recently precise comparisons efficiency decision
+methods
+
+CACM-2470
+----------------------------------------------------------------
+<hl>semantics</hl> formal systems lambdacalculus extensible
+<hl>languages</hl> <hl>data</hl> <hl>types</hl> modes axioms
+<hl>correctness</hl> formal language definition formal
+description <hl>data</hl> structures description
+<hl>languages</hl> ... <hl>data</hl> <hl>types</hl> simper
+operations rowing structuring uniting demonstrated completely
+primitive <hl>types</hl> introduced <hl>languages</hl> mechanism
+singleton <hl>data</hl> <hl>types</hl> deterministic
+nondeterministic functions ... <hl>semantics</hl> formal system
+presented abstracts notions <hl>data</hl> item function relation
+argued system suitable set theory derivatives concise accurate
+description program ... <hl>data</hl> item imperative statements
+considered functions environment nature recursive functions
+briefly discussed technique presented introduced system
+technique contrasted paradoxical combinator
+
+CACM-3031
+----------------------------------------------------------------
+<hl>abstract</hl> <hl>data</hl> <hl>types</hl> software
+validation <hl>data</hl> abstraction naturally algebraic axioms
+virtue axioms permit representationindependent formal
+specification <hl>data</hl> type shows employ
+<hl>correctness</hl> implementation <hl>abstract</hl>
+<hl>data</hl> type semiautomatic tools automate <hl>proofs</hl>
+<hl>correctness</hl> derive implementation axioms implementation
+limited testing programs design time conventional
+
+CACM-2958
+----------------------------------------------------------------
+<hl>abstract</hl> <hl>data</hl> <hl>types</hl> development
+<hl>data</hl> structures <hl>abstract</hl> <hl>data</hl>
+<hl>types</hl> play significant role development software
+reliable efficient flexible paper presents discusses ...
+<hl>specifications</hl> consistent complete cacm june 1977
+guttag <hl>abstract</hl> <hl>data</hl> type <hl>correctness</hl>
+proof <hl>data</hl> type <hl>data</hl> structure specification
+software specification 4.34
+
+CACM-2295
+----------------------------------------------------------------
+<hl>semantics</hl> algol 68 cacm august 1972 van der poel
+<hl>programming</hl> primitives <hl>programming</hl>
+<hl>languages</hl> algol <hl>semantics</hl> recursive
+composition design <hl>programming</hl> <hl>languages</hl>
+
+CACM-2264
+----------------------------------------------------------------
+<hl>correctness</hl> <hl>programming</hl> <hl>languages</hl>
+<hl>semantics</hl> 4.22 5.23 5.24 ca72115 jb january 27 1978
+2:19 pm 2264 5 2264 2264 5 2264 ... <hl>semantics</hl>
+<hl>programming</hl> language constructs constructs simple
+<hl>programming</hl> language introduced informally terms values
+sideeffects translator defined translates language flowcharts
+simple machine
+
+CACM-3103
+----------------------------------------------------------------
+<hl>abstract</hl> <hl>types</hl> library implementations
+discussed process discussed detail program general issues
+<hl>data</hl> structure selection reviewed cacm 1978 low
+<hl>abstract</hl> <hl>data</hl> ... <hl>data</hl> structure
+selection overview levels abstraction proved helpful
+constructing maintaining programs programs designed
+<hl>abstract</hl> <hl>data</hl> <hl>types</hl> sets lists
+programmer time <hl>programming</hl> systems provided single
+general purpose implementation <hl>abstract</hl> type programs
+produced <hl>abstract</hl> <hl>types</hl> inefficient space time
+paper system choosing efficient
+
+CACM-2265
+----------------------------------------------------------------
+<hl>types</hl> lambda calculus models <hl>programming</hl>
+<hl>languages</hl> syntax <hl>semantics</hl> compiler writing
+language implementation formal definition 4.12 4.22 5.2 5.21
+5.23 ca72114 ... <hl>programming</hl> <hl>languages</hl> treat
+computation classes objects numbers strings labels functions
+correct compilation execution question arises program properly
+constructed operations operands
+
+CACM-2148
+----------------------------------------------------------------
+<hl>programming</hl> primitives <hl>programming</hl>
+<hl>languages</hl> algol <hl>semantics</hl> recursive
+composition design <hl>programming</hl> <hl>languages</hl>
+<hl>data</hl> structures 1.3 4.2 4.22 5.23 5.24 ca71111 jb
+
+CACM-2703
+----------------------------------------------------------------
+<hl>including</hl> <hl>semantics</hl> contextfree language
+syntax language circularity problem grammar determine
+<hl>semantics</hl> sentences programs fact defined proved
+problem general computationally intractable
+
+CACM-3105
+----------------------------------------------------------------
+<hl>languages</hl> support notion <hl>abstract</hl>
+<hl>data</hl> <hl>types</hl> cacm 1978 jones liskovb
+<hl>programming</hl> <hl>languages</hl> access control
+<hl>data</hl> <hl>types</hl> <hl>abstract</hl> <hl>data</hl>
+<hl>types</hl> type ... <hl>data</hl> access controlled sharing
+information needed desirable applications supported operating
+systems access control mechanisms paper shows extend
+<hl>programming</hl> <hl>languages</hl> provide
+
+CACM-2886
+----------------------------------------------------------------
+<hl>programming</hl> language lefttoright evaluation scheme
+discussed cacm february 1976 bochmann attribute grammars
+<hl>semantics</hl> <hl>programming</hl> <hl>languages</hl>
+semantic attributes lefttoright parsing multipass ...
+<hl>programming</hl> <hl>languages</hl> compilers formal
+definition attribute grammars discussion important aspects
+included paper concentrates evaluation semantic attributes
+passes left derivation tree
+
+CACM-2326
+----------------------------------------------------------------
+<hl>correctness</hl> termination equivalence cacm july 1972
+manna vuillemin verification techniques <hl>semantics</hl>
+<hl>programming</hl> <hl>languages</hl> fix points recursive
+programs computational induction 5.23
+
+CACM-3133
+----------------------------------------------------------------
+<hl>semantics</hl> inference rules procedural interpretation
+hand regarding semantic networks <hl>abstract</hl> <hl>data</hl>
+structure representation clauses provide theoremprover
+potentially indexing scheme pathfollowing
+
+CACM-2192
+----------------------------------------------------------------
+<hl>proofs</hl> interpreters <hl>programming</hl>
+<hl>languages</hl> cacm 1971 morris jr recursion induction
+<hl>correctness</hl> <hl>proofs</hl> compiler
+<hl>correctness</hl> 4.13 4.2 5.24 ca7157 jb february
+
+CACM-1902
+----------------------------------------------------------------
+<hl>programming</hl> exercises discussion alterations made
+typical <hl>university</hl> operating system record results
+<hl>programming</hl> exercises <hl>languages</hl>
+<hl>including</hl> assembly language computercontrolled grading
+scheme <hl>data</hl> final runs systemsupplied <hl>data</hl>
+exercises run scheme mixed programs special recognition
+exercises operators cacm 1969 hext winings automatic grading
+
+CACM-2314
+----------------------------------------------------------------
+<hl>programming</hl> <hl>languages</hl> interactive systems
+control structures <hl>data</hl> structures <hl>programming</hl>
+primitives <hl>semantics</hl> advanced <hl>programming</hl>
+systems 1.3 4.2 4.22 4.3 4.32 5.23 ... <hl>data</hl> retrieval
+function evaluation syntax directed input output <hl>data</hl>
+facilitate complex <hl>data</hl> stores cacm july 1972 bobrow
+list processing <hl>programming</hl> ... <hl>data</hl> general
+frameworkthe requirements applicable design advanced
+<hl>programming</hl> systems wide range applications aspects
+<hl>programming</hl> systems highlighted good interactive
+facilities programmable ... <hl>programming</hl> systems list
+processing list processing systems designed facilitate
+production large programs manipulate large complex symbolic
+<hl>data</hl> stores paper presents ... <hl>including</hl>
+multiprocesses coroutines backtracking alternative methods
+procedure invocation required include invocation pattern
+monitoring condition need extended <hl>data</hl> forms storage
+management
+
+CACM-3198
+----------------------------------------------------------------
+<hl>programming</hl> <hl>languages</hl> problem concerned
+converting language action intellectual energy mechanical energy
+medium purpose language preoccupied subject language areas
+language investigation
+
+CACM-1747
+----------------------------------------------------------------
+<hl>programming</hl> <hl>languages</hl> <hl>programming</hl>
+language design program <hl>semantics</hl> <hl>programming</hl>
+language <hl>semantics</hl> determinism reproducibility
+repeatability deterministic computers protection memory
+protection information security ... <hl>abstract</hl> machine
+<hl>programming</hl> language notion virtual computer explained
+examples applications criteria concern reading timeofday clock
+synchronization parallel processes protection multiprogrammed
+
+CACM-3077
+----------------------------------------------------------------
+<hl>programming</hl> algebra programs combining forms functional
+forms <hl>programming</hl> <hl>languages</hl> von neumann
+computers von neumann <hl>languages</hl> models computing
+systems applicative computing ... <hl>programming</hl> liberated
+von neumann style functional style algebra programs conventional
+<hl>programming</hl> <hl>languages</hl> growing enormous
+stronger inherent defects basic level fat <hl>programming</hl>
+inherited common ancestorthe von neumann computer close coupling
+<hl>semantics</hl> state transitions division
+<hl>programming</hl> world expressions world statements
+inability effectively ... <hl>programming</hl> language state
+transition rules unlike von neumann <hl>languages</hl> systems
+<hl>semantics</hl> loosely coupled statesonly state transition
+occurs major computation cacm ... <hl>programming</hl> founded
+combining forms creating programs functional programs deal
+structured <hl>data</hl> nonrepetitive nonrecursive
+hierarchically constructed arguments require complex machinery
+procedure
+
+CACM-2254
+----------------------------------------------------------------
+<hl>languages</hl> general interest <hl>data</hl> structure
+partitioning consists dynamic tree structures derive maintain
+array control information sufficient detail design array
+<hl>languages</hl> <hl>university</hl> illinois cacm december
+1972 phillips adams dynamic partitioning array partitioning
+array language <hl>data</hl> structure tree structure
+<hl>programming</hl> language design
+
+CACM-2732
+----------------------------------------------------------------
+<hl>dijkstra</hl> <hl>programming</hl> <hl>languages</hl>
+sequencing primitives program <hl>semantics</hl>
+<hl>programming</hl> language <hl>semantics</hl> nondeterminacy
+caseconstruction repetition termination <hl>correctness</hl>
+proof derivation programs <hl>programming</hl> methodology
+
+CACM-2705
+----------------------------------------------------------------
+<hl>programming</hl> <hl>languages</hl> natural
+<hl>languages</hl> mathematics social aspects
+<hl>programming</hl> illuminated analogies similar aspects
+mathematics natural <hl>languages</hl> split pure applied
+mathematics found <hl>programming</hl> development natural
+<hl>languages</hl> flexion wordorder based language
+<hl>types</hl> speaks <hl>programming</hl> language design based
+general <hl>abstract</hl> constructs analogy incidents history
+<hl>languages</hl> suggested fortran cobol remain dominant long
+time come promising avenues work wide influence seen high
+quality program literature programs
+
+CACM-2178
+----------------------------------------------------------------
+<hl>semantics</hl> discussed cacm july 1971 pratt friedman graph
+processing <hl>programming</hl> language formal
+<hl>semantics</hl> directed graph lisp network <hl>data</hl>
+structure flowchart ... <hl>semantics</hl> simple
+<hl>programming</hl> language extension graspe processing
+directed graphs defined graspe consists type directed graph
+<hl>data</hl> structure set primitive operations
+
+CACM-2411
+----------------------------------------------------------------
+<hl>programming</hl> language design proof programs
+<hl>semantics</hl> <hl>programming</hl> <hl>languages</hl>
+structured <hl>programming</hl> 4.12 4.22 5.24 ca731115 jb
+january 19 1978 4:19 pm
+
+CACM-3104
+----------------------------------------------------------------
+<hl>data</hl> aid proving program <hl>correctness</hl>
+<hl>proofs</hl> program <hl>correctness</hl> tend long tedious
+testing detecting errors guarantee <hl>correctness</hl> paper
+introduces techniques test
+
+CACM-2943
+----------------------------------------------------------------
+<hl>proofs</hl> programs carried <hl>proofs</hl> easy follow
+straightforward produce statements lucid program simply axioms
+proof proceeds conventional logical reasoning help axioms
+<hl>programming</hl> language lucid unconventional things order
+statements irrelevant assignment statements equations lucid
+programs need look iterative programs conventional structured
+<hl>programming</hl>
+
+CACM-2112
+----------------------------------------------------------------
+<hl>semantics</hl> contextfree <hl>languages</hl> formal
+procedure deriving set translation equations
+<hl>specifications</hl> pushdown translator translator consists
+mealy form finitestate automata interacting means
+
+CACM-2227
+----------------------------------------------------------------
+<hl>programming</hl> methodology drawn cacm january 1971
+<hl>hoare</hl> <hl>proofs</hl> programs <hl>programming</hl>
+methodology program documentation program <hl>correctness</hl>
+theory <hl>programming</hl> 4 4.22 5.21
+
+CACM-2842
+----------------------------------------------------------------
+<hl>denotational</hl> <hl>semantics</hl> <hl>programming</hl>
+<hl>languages</hl> paper tutorial introduction theory
+<hl>programming</hl> language <hl>semantics</hl> developed scott
+strachey application theory formal language specification
+demonstrated ... <hl>semantics</hl> <hl>programming</hl>
+language applicative imperative environment store continuation
+theory computation higherorder function recursive definition
+loop gedanken 4.22 5.24 ca7682 jb
+
+CACM-1457
+----------------------------------------------------------------
+<hl>data</hl> manipulation <hl>programming</hl> problems
+automatic information retrieval automatic information retrieval
+programs require manipulation variety <hl>data</hl> structures
+<hl>including</hl> linear text sparse <hl>data</hl>
+manipulations performed automatic information systems briefly
+reviewed variety <hl>data</hl> representations describe
+structured information examined characteristics processing
+<hl>languages</hl> outlined light
+
+CACM-2851
+----------------------------------------------------------------
+<hl>data</hl> state sets ground place variables observed
+<hl>correctness</hl> conditions expressed enumeration set
+control states examples presented induction principle
+demonstrate <hl>proofs</hl> ... <hl>abstract</hl> conceptual
+model parallelprogram model model distinguish control
+<hl>data</hl> states model includes capability representation
+infinite set control states allowing arbitrarily
+
+CACM-2956
+----------------------------------------------------------------
+<hl>data</hl> <hl>types</hl> highlevel <hl>languages</hl> number
+issues explored concerning notion <hl>data</hl> type set values
+set primitive operations values need notation iterating ...
+<hl>data</hl> <hl>types</hl> generic procedures
+<hl>programming</hl> <hl>languages</hl> 4.12 4.2 4.22 ca7767 jb
+december 28 1977 1:27 pm 2167 4 2956 2723
+
+CACM-3055
+----------------------------------------------------------------
+<hl>dijkstra</hl> meyer <hl>dijkstra</hl> starts simple program
+arrives improved program refinement algorithms <hl>dijkstra</hl>
+shown expected number swaps 23n values differ <hl>13</hl>
+
+CACM-1470
+----------------------------------------------------------------
+<hl>programming</hl> <hl>languages</hl> identified major
+components <hl>programming</hl> language elementary program
+statement mechanisms linking elementary statements means program
+obtain <hl>data</hl> inputs alternative ... <hl>programming</hl>
+language function composition convenient alternative explicit
+call principal ways getting inputs routines referring
+<hl>data</hl> referring <hl>data</hl> referring implicitly means
+<hl>data</hl> structures errorcausing distractions contexts
+author discusses advantages disadvantages factors influencing
+choice form component language concludes suggesting evolution
+<hl>programming</hl> <hl>languages</hl> ... <hl>languages</hl>
+illustrate forms elementary program statements take form
+commands requirements implicit <hl>specifications</hl> command
+imperative statement commands action requirement describes
+effect
+
+CACM-1835
+----------------------------------------------------------------
+<hl>languages</hl> <hl>programming</hl> <hl>languages</hl>
+student <hl>programming</hl> systems language design high school
+programs college courses 1.51 1.52 4.12 4.22 ca69111 jb february
+
+CACM-2651
+----------------------------------------------------------------
+<hl>data</hl> <hl>types</hl> includes provision
+programmerdefined <hl>data</hl> <hl>types</hl> <hl>data</hl>
+<hl>types</hl> generic routines programmer control type
+conversion flexible <hl>data</hl> type behavior context ...
+<hl>data</hl> <hl>types</hl> el1 constructing general purpose
+<hl>programming</hl> language key issue providing sufficient set
+<hl>data</hl> <hl>types</hl> operations manner permits natural
+problemoriented
+
+CACM-3014
+----------------------------------------------------------------
+<hl>correctness</hl> termination <hl>proofs</hl> <hl>proofs</hl>
+markedly simpler conventional counterparts hand shown proof
+<hl>correctness</hl> termination conventional techniques
+rephrased directly proof intermittent assertions ...
+<hl>correctness</hl> paper explores technique proving
+<hl>correctness</hl> termination programs simultaneously
+approach intermittentassertion method involves documenting
+program assertions true time control passes
+
+CACM-1213
+----------------------------------------------------------------
+<hl>specifications</hl> implementation fortran format
+conversions discussed format <hl>types</hl> give fortran
+programmer control inputoutput <hl>specifications</hl> execution
+time cacm august 1965 ranelletti
+
+CACM-2865
+----------------------------------------------------------------
+<hl>hoare</hl> set axioms partial <hl>correctness</hl> strong
+cases paper defines powerful deductive system sense complete
+partial <hl>correctness</hl> crucial axiom auxiliary variables
+... <hl>correctness</hl> <hl>proofs</hl> program verification
+concurrent processes synchronization mutual exclusion deadlock
+4.32 4.35 5.21 5.24 ca7656 jb january 4 1978 3:23
+
+CACM-2342
+----------------------------------------------------------------
+<hl>dijkstra</hl> knuth solutions mutual exclusion problem
+subproblems form parallel programs informal <hl>proofs</hl>
+<hl>correctness</hl> solutions paper system parallel processes
+regarded machine <hl>data</hl> values process configurations
+state accordance transition rule set rules yields sequences
+states dictate systems behavior mutual exclusion problem
+subproblems <hl>correctness</hl> discredit prove incorrectness
+attempted solution respect interference properties shown
+calculate transition rules partial rules individual processes
+operate formation partial
+
+CACM-2972
+----------------------------------------------------------------
+<hl>proofs</hl> <hl>correctness</hl> presented method formally
+represents program terms levels abstraction level selfcontained
+nonprocedural specification <hl>proofs</hl> programs structured
+levels <hl>proofs</hl> paper ... <hl>programming</hl> formal
+specification abstraction <hl>programming</hl> methodology 4
+4.29 4.9 5.24 ca7741 jb december 29 1977 4:53 242 4 2972 2222
+
+CACM-2155
+----------------------------------------------------------------
+<hl>programming</hl> language programmer expressed
+<hl>semantics</hl> algorithm terms graphs implementation
+<hl>data</hl> structures order gain efficiency cacm october1971
+earley <hl>data</hl> structures graph ... <hl>data</hl>
+structures paper presents notation formalism describing
+<hl>semantics</hl> <hl>data</hl> structures based directed
+graphs named edges transformations graphs addition
+implementation facility
+
+CACM-2092
+----------------------------------------------------------------
+<hl>data</hl> bases require <hl>data</hl> structures algorithms
+question answering cacm march 197 schwarcz burger simmons
+question answering natural language protosynthex iii
+<hl>semantics</hl> artificial intelligence computational
+linguistics language processing fact retrieval 3.42 3.61 ca736
+jb february <hl>13</hl> 1978 4:3 pm 292 4
+
+CACM-2718
+----------------------------------------------------------------
+<hl>data</hl> structures conforming <hl>data</hl> base task
+group <hl>specifications</hl> automatic <hl>programming</hl>
+technology utilized program typically generate procedure
+generate declaratives cacm october <hl>data</hl> base task group
+database design <hl>data</hl> structure automatic
+<hl>programming</hl> translation nonprocedural
+<hl>languages</hl> 3.5 3.64 3.7 4.2 5.23 ca7511 jb
+
+CACM-2051
+----------------------------------------------------------------
+<hl>data</hl> correspondence found pair words output list
+correspondence <hl>types</hl> frequency occurrence <hl>data</hl>
+separate listing correspondence wordpairs showing correspondence
+relative arbitrarily ... <hl>languages</hl> investigator arrange
+<hl>data</hl> input aligning pairs suspected cognates program
+tabulates correspondences list processing techniques sort count
+pair words assigned ... <hl>13</hl> 1978 11:51 251 5 251 251 5
+251 251 251
+
+CACM-1098
+----------------------------------------------------------------
+<hl>languages</hl> consideration detailed representations
+<hl>data</hl> programmer machine methods storage allocation
+<hl>programming</hl> formalisms special processes
+<hl>including</hl> arithmetic facilities usability terms
+availability ... <hl>languages</hl> <hl>including</hl> detailed
+comparison comit iplv lisp 1.5 slip detailed comparison
+presented comit iplv lisp 1.5 slip wellknown computer
+<hl>programming</hl> <hl>languages</hl> important common
+features listprocessing <hl>languages</hl> reviewed forms
+<hl>data</hl> structures manipulated necessity dynamic
+allocation storage pushdown stores recursive operations
+principal
+
+CACM-2949
+----------------------------------------------------------------
+<hl>correctness</hl> proof topology information protocol
+presented cacm july 1977 tajibnapis distributed computer network
+<hl>correctness</hl> <hl>proofs</hl> computer networks
+distributed control network
+
+CACM-3185
+----------------------------------------------------------------
+<hl>programming</hl> job provided approach task full
+appreciation tremendous difficulty provided stick modest elegant
+<hl>programming</hl> <hl>languages</hl> provided respect
+intrinsic limitations human
+
+CACM-2895
+----------------------------------------------------------------
+<hl>specifications</hl> constrain ts order events computation
+occur language write <hl>specifications</hl> readerswriters
+problem writer priority readerswriters problem cacm december
+1977 greif
+
+CACM-0822
+----------------------------------------------------------------
+<hl>programming</hl> <hl>specifications</hl> problems
+implementation large realtime applications treated suggested
+guidelines program <hl>specifications</hl> developed problems
+delineated occur systems <hl>programming</hl> cacm july
+
+CACM-2939
+----------------------------------------------------------------
+<hl>programming</hl> <hl>languages</hl> <hl>data</hl>
+<hl>types</hl> <hl>data</hl> abstractions control abstractions
+<hl>programming</hl> methodology separate compilation 4 4.12 4.2
+4.22 ca7784 jb december 28 ... <hl>programming</hl> language
+designed support abstractions program construction work
+<hl>programming</hl> methodology led realization kinds
+abstractionsprocedural control especially <hl>data</hl>
+abstractionsare <hl>programming</hl> process
+
+CACM-1834
+----------------------------------------------------------------
+<hl>hoare</hl> axiomatic method theory <hl>programming</hl>
+<hl>proofs</hl> programs formal language definition
+<hl>programming</hl> language design machineindependent
+<hl>programming</hl> program documentation 4 4.21 4.22 ...
+<hl>programming</hl> paper attempt made explore logical
+foundations computer <hl>programming</hl> techniques applied
+study geometry later extended branches mathematics involves
+elucidation sets
+
+CACM-1678
+----------------------------------------------------------------
+<hl>languages</hl> <hl>abstract</hl> switching computability ph
+computer science program number courses listed area describe
+automata formal <hl>languages</hl> <hl>abstract</hl> switching
+computability ph
+
+CACM-0068
+----------------------------------------------------------------
+<hl>university</hl> computers <hl>data</hl> processing related
+fields study made <hl>university</hl> programs united states
+fields computers <hl>data</hl> processing operations research
+closely related <hl>university</hl> policies organization
+administration faculties students researches curricula equipment
+financing investigated integrated <hl>university</hl> program
+recommended reflecting conviction present activities related
+
+CACM-2957
+----------------------------------------------------------------
+<hl>types</hl> <hl>types</hl> support realworld abstractions
+troducing implementation detail incorporated
+<hl>programming</hl> <hl>languages</hl> cacm june 1977 smith
+smith <hl>data</hl> abstraction relational database
+<hl>data</hl> structure knowledge representation <hl>data</hl>
+definition language 3.65 3.69 3.79 4.29 4.33 4.34 ca7766 jb
+december 29 1977 12:33 2155
+
+CACM-2941
+----------------------------------------------------------------
+<hl>programming</hl> <hl>languages</hl> <hl>types</hl> modules
+<hl>data</hl> structures systems <hl>programming</hl> 4.22
+ca7782 jb december 28 1977 8:7 1458 4 2941 1523 4
+
+CACM-1977
+----------------------------------------------------------------
+<hl>programming</hl> interactive program graphical display
+developed approximation <hl>data</hl> means linear combination
+functions <hl>including</hl> splines selected user coefficients
+approximation determined linear
+
+CACM-3039
+----------------------------------------------------------------
+<hl>dijkstra</hl> lamport martin scholten steffens
+multiprocessing finegrained interleaving cooperation sequential
+processes minimized mutual exclusion program
+<hl>correctness</hl> multiprogramming tasks garbage collection
+
+CACM-2700
+----------------------------------------------------------------
+<hl>correctness</hl> <hl>proofs</hl> parallel system greatly
+simplified cacm december 1975 lipton deadlock free reduction
+interruptible indivisible parallel program semaphore
+verification method
+
+CACM-2081
+----------------------------------------------------------------
+<hl>data</hl> structures linear <hl>programming</hl> matrix
+matrix concatenation matrix sequences <hl>programming</hl>
+<hl>languages</hl> sequence operations symbol manipulation 4.12
+4.22 5.14 5.41 ca743 ... <hl>data</hl> structures suitable high
+level algorithmic language mathematical <hl>programming</hl>
+paper investigates special structure matrices utilized efficient
+computing saving memory space
+
+CACM-2616
+----------------------------------------------------------------
+<hl>semantics</hl> theory <hl>programming</hl> systems analysis
+4.19 4.42 4.43 5.21 5.29 ca7488 jb january 17 1978 9:43 253 4
+2616 222
+
+CACM-1099
+----------------------------------------------------------------
+<hl>including</hl> programmer important future rehabilitation
+planning interest fact blind especially suited
+<hl>programming</hl> work intense training constant experience
+locating objects unseen <hl>programming</hl> skills sighted need
+acquire qualifications result fewer debugging problems make
+blind valuable addition systems group blind professional number
+aids
+
+CACM-2945
+----------------------------------------------------------------
+<hl>semantics</hl> presented proved correct important
+application confinement problem mechanism prove program
+supposedly nonconfidential results depend confidential input
+<hl>data</hl> cacm july
+
+CACM-1677
+----------------------------------------------------------------
+<hl>programming</hl> systems system program <hl>data</hl>
+representation rice <hl>university</hl> computer years logical
+entity storage occupies block consecutive memory locations block
+labeled <hl>data</hl> vector codewords turn label blocks form
+arrays storage arrangement discussed realized advantages
+<hl>programming</hl> systems simplicity programmed addressing
+flexibility <hl>data</hl> ... <hl>data</hl> representation
+program representation <hl>data</hl> structures storage
+protection addressing mechanisms paging segmentation handling
+4.3 4.4 6.2 ca68112 jb february 21
+
+CACM-2710
+----------------------------------------------------------------
+<hl>data</hl> sublanguages relations query <hl>languages</hl>
+casual user relational <hl>data</hl> model tabular <hl>data</hl>
+interactive problem solving nonprocedural <hl>languages</hl>
+relational completeness 3.5 ... <hl>languages</hl> based
+relational calculus facilities query insertion deletion update
+tabular <hl>data</hl> bases syntax suggestions made alternative
+syntaxes <hl>including</hl> syntax based
+
+CACM-3171
+----------------------------------------------------------------
+<hl>languages</hl> suitable circumstances method requires
+absolutely overhead time space execution program cacm october
+1979 klint line number administration diagnostic messages
+
+CACM-1135
+----------------------------------------------------------------
+<hl>languages</hl> fully meets requirements set codasyl
+<hl>languages</hl> <hl>including</hl> machineindependence cacm
+february 1964 lombardi ca6428 jb march 1 1978 4:8 1135 ...
+<hl>languages</hl> opposed emphasizing formal
+contentsindependent syntactical definitions relies exclusively
+nonprocedural representation process sets tables relations
+<hl>data</hl> results control statements procedure
+
+CACM-2871
+----------------------------------------------------------------
+<hl>correctness</hl> <hl>including</hl> termination
+incorrectness part examines implications approach automatic
+diagnosis correction logical errors cacm april 1976 katz manna
+logical analysis
+
+CACM-2937
+----------------------------------------------------------------
+<hl>programming</hl> reliability detailed analysis errors made
+subjects <hl>programming</hl> solutions reasonably small
+problems shows subjects difficulty manipulating representation
+<hl>data</hl> cacm august ... <hl>data</hl> type conventions
+language programs written substantial effect reliability
+resulting programs paper discusses experiment compares
+<hl>programming</hl> reliability subjects statically typed
+
+CACM-2341
+----------------------------------------------------------------
+<hl>programming</hl> <hl>languages</hl> cacm june 1972 gimpel
+character manipulation output formatting string processing
+graphics nonnumerical <hl>programming</hl> snobol4 <hl>data</hl>
+<hl>types</hl> twodimensional mathematics ... <hl>data</hl> type
+snobol4 <hl>data</hl> type called block implemented snobol4
+block threedimensional aggregate characters form parallelepiped
+thought threedimensional extension string dimension
+
+CACM-2316
+----------------------------------------------------------------
+<hl>languages</hl> discussed cacm july 1972 sammet
+<hl>programming</hl> <hl>languages</hl> higher level
+<hl>languages</hl> <hl>languages</hl> history future directions
+language interrelationships <hl>programming</hl> language tree
+... <hl>programming</hl> <hl>languages</hl> history future paper
+discusses history future <hl>programming</hl> <hl>languages</hl>
+higher level <hl>languages</hl> difficulties writing history key
+part paper tree <hl>languages</hl> interrelationships reasons
+proliferation <hl>languages</hl> major <hl>languages</hl> listed
+reasons importance section chronology happenings significant
+previous time periods major topics 1972
+
+CACM-1485
+----------------------------------------------------------------
+<hl>programming</hl> <hl>languages</hl> paper major components
+<hl>programming</hl> language identified elementary program
+statement mechanisms linking elementary statements means program
+obtain <hl>data</hl> inputs <hl>languages</hl> illustrate forms
+advantages disadvantages factors influencing choice form
+component language discussed paper concludes suggestion
+<hl>programming</hl> <hl>languages</hl> evolve permit convenient
+
+CACM-2887
+----------------------------------------------------------------
+<hl>programming</hl> error correction cobol <hl>programming</hl>
+language errors error analysis diagnostics errorproneness error
+frequency spelling errors syntactic errors learning
+<hl>programming</hl> teaching ... <hl>data</hl> cobol error
+frequency correction errors studentoriented compilers
+improvement teaching <hl>programming</hl> language cobol studied
+economic importance widespread usage errorincluding design
+<hl>types</hl> errors identified pilot study 132 error
+<hl>types</hl> found 1777 errors classified 14 runs 73 cobol
+students error density high
+
+CACM-0949
+----------------------------------------------------------------
+<hl>semantics</hl> <hl>programming</hl> <hl>languages</hl> aim
+point true grammar contextfree language conceived
+stringsgenerating device method expressing meaning grammar algol
+open criticism cacm
+
+CACM-2787
+----------------------------------------------------------------
+<hl>programming</hl> language choice practical tests method
+shown good basis realistic timetabling algorithm cacm march 1975
+johnston <hl>hoare</hl> binary matrices matrix ... <hl>data</hl>
+representation efficient processing techniques take fuller
+advantage previous knowledge matrix designed structured program
+readily coded reader high level low
+
+CACM-2699
+----------------------------------------------------------------
+<hl>data</hl> structures methods employed based extend known
+techniques <hl>data</hl> flow analysis cacm december 1975
+schwartz program optimization automatic <hl>programming</hl>
+highlevel <hl>languages</hl> <hl>data</hl> structure choice 4.12
+4.2 4.22 ca75128 jb january 5 1978 3:53 pm 2699 5 2699 2699 5
+2699
+
+CACM-2777
+----------------------------------------------------------------
+<hl>dijkstra</hl> conditional statements examination patils
+proof shows established claim strong restrictions restrictions
+eliminate <hl>programming</hl> techniques <hl>dijkstra</hl>
+introduction semaphore concept paper
+
+CACM-0689
+----------------------------------------------------------------
+<hl>programming</hl> <hl>languages</hl> czechoslovakia poland
+1963 cacm november 1963 gosden merner gay jones christopher
+ca63113 jb march <hl>13</hl> 1978 3:51 pm
+
+CACM-2634
+----------------------------------------------------------------
+<hl>university</hl> computer installations offer <hl>types</hl>
+statistical packages general widely osiris spss bmd datatext
+tsar order provide users basis selection tests
+
+CACM-2701
+----------------------------------------------------------------
+<hl>data</hl> flow code optimization common subexpression
+elimination livedead analysis information propagation flow graph
+reducibility gotoless <hl>programming</hl> depthfirst search
+path compression ... <hl>abstract</hl> onlycomplete paper jacm
+231 january 1976 algorithm global flow analysis reducible graphs
+presented algorithm shown treat general class function
+
+CACM-2946
+----------------------------------------------------------------
+<hl>hoare</hl> event synchronization paper describes
+synchronizing primitive nearly expressive conditional wait
+implemented efficiently implementation primitive terms
+operations <hl>correctness</hl> proof examples
+
+CACM-2198
+----------------------------------------------------------------
+<hl>data</hl> base management systems <hl>programming</hl>
+<hl>languages</hl> <hl>data</hl> structures storage structures
+information retrieval transaction processing 3.5 3.7 3.72 3.73
+3.74 4.29 ... <hl>data</hl> independence bindingthe user levels
+identified technical problems facing future designers handling
+existing stored <hl>data</hl> providing complex <hl>data</hl>
+structures conventional ... <hl>data</hl> base management
+systems paper separately published introduction main report
+analyzes features generalized <hl>data</hl> base management
+systems introduction review state ... <hl>data</hl> structures
+host language capabilities selfcontained capabilities section
+assesses effect <hl>data</hl> base task group proposals final
+section outlines ten major
+
+CACM-1247
+----------------------------------------------------------------
+<hl>programming</hl> systems presented paper nontechnical
+introduction oedipus computer <hl>programming</hl> system serve
+operating environment dynamic andor recursive programs
+<hl>programming</hl> systems services
+
+CACM-1471
+----------------------------------------------------------------
+<hl>programming</hl> <hl>semantics</hl> multiprogrammed
+computations <hl>semantics</hl> defined number metainstructions
+perform operation essential writing programs multiprogrammed
+computer systems metainstructions relate parallel processing
+
+CACM-2906
+----------------------------------------------------------------
+<hl>data</hl> flow language business application business
+<hl>data</hl> processing structured <hl>programming</hl> modular
+<hl>programming</hl> format specification design methodology 3.5
+4.22 4.32 ca77111 ... <hl>programming</hl> language
+<hl>data</hl> processing applications application development
+today laborin tensive recent years highlevel <hl>languages</hl>
+increasingly explored solution problem business definition
+
+CACM-2078
+----------------------------------------------------------------
+<hl>languages</hl> alternative <hl>data</hl> structures allow
+automated space planning compared cacm april 197 eastman
+automated design <hl>data</hl> structures computer graphics
+computeraided
+
+CACM-2305
+----------------------------------------------------------------
+<hl>programming</hl> <hl>languages</hl> <hl>programming</hl>
+theory <hl>programming</hl> history <hl>programming</hl> 1.2
+4.22 5.29 ca72723 jb january 3 1978 1:46 235 5 235 235 ...
+<hl>programming</hl> <hl>languages</hl> plankalkul attempt
+korrad zuse 194s devise notational conceptual system writing
+today termed program early approach <hl>programming</hl>
+language lead
+
+CACM-1703
+----------------------------------------------------------------
+<hl>programming</hl> <hl>languages</hl> computer services cacm
+august 1968 mooers standardization <hl>programming</hl>
+<hl>languages</hl> trac t64 language tranemark public
+identification <hl>programming</hl> <hl>languages</hl> standards
+... <hl>programming</hl> <hl>languages</hl> user public wants
+standardization reliable identification <hl>programming</hl>
+<hl>languages</hl> related services achieving goals illustrated
+methods adopted trac t64 interactive
+
+CACM-2594
+----------------------------------------------------------------
+<hl>data</hl> structures <hl>programming</hl> systems permit
+arbitrary linked list structures enable user create complicated
+structures sufficient protection deletions result unreachable
+<hl>data</hl> ... <hl>programming</hl> <hl>data</hl> structures
+<hl>data</hl> base management system 3.5 3.51 3.72 3.73 3.79 4.2
+4.22 ca7414 jb january 16 1978 12:46
+
+CACM-3188
+----------------------------------------------------------------
+<hl>programming</hl> <hl>languages</hl> based paper semiotics
+dimension insert point language aspects pragmatics
+<hl>semantics</hl> syntactics cover project aspects semiotic
+dimension strong tendency
+
+CACM-1588
+----------------------------------------------------------------
+<hl>data</hl> list organizations listprocessing
+<hl>languages</hl> suffered inability deal directly complex
+<hl>data</hl> structures andor inability perform complete range
+<hl>programming</hl> language operations
+
+CACM-2971
+----------------------------------------------------------------
+<hl>programming</hl> concepts applications <hl>including</hl>
+business <hl>data</hl> processing scientific calculations
+nonnumeric computation spk actually sequence language subsets
+called sp1 sp2..p8 subset ... <hl>programming</hl> spk
+compatible subset pli language designed teaching
+<hl>programming</hl> features spk language chosen encourage
+structured problem solving computers make language ...
+<hl>programming</hl> language design teaching
+<hl>programming</hl> troductory computing 1.5 4.2 4.12 4.13
+ca7751 jb december 29 1977 4:4 278 4 2971
+
+CACM-2717
+----------------------------------------------------------------
+<hl>data</hl> restructuring <hl>data</hl> translation database
+reorganization translation definition utility program
+<hl>programming</hl> <hl>languages</hl> nonprocedural
+<hl>languages</hl> 3.5 3.75 4.29 4.4 4.9 ca7512 ...
+<hl>data</hl> conversion paper describes high level
+nonprocedural translation definition language convert powerful
+highly flexible <hl>data</hl> restructuring capabilities design
+based simple
+
+CACM-0409
+----------------------------------------------------------------
+<hl>data</hl> sets algorithms defined <hl>data</hl> sets
+<hl>data</hl> algorithms expressed family command descriptive
+<hl>languages</hl> concept distinct <hl>data</hl> descriptions
+content descriptions discussed
+
+CACM-1323
+----------------------------------------------------------------
+<hl>semantics</hl> algol 6 formalized establishing
+correspondence expressions algol 6 expressions modified form
+churchs lnotation model computer <hl>languages</hl> compute
+behavior based ... <hl>abstract</hl> compiler <hl>abstract</hl>
+objct language presented purely functional notation application
+abstraction cacm february 1965 landin ca6521 jb march 7 1978
+
+CACM-2406
+----------------------------------------------------------------
+<hl>data</hl> definition mapping language <hl>data</hl>
+definition language sa declarative computer language
+<hl>data</hl> structures <hl>data</hl> definition
+<hl>languages</hl> concentrate declaration logical <hl>data</hl>
+<hl>data</hl> definition <hl>languages</hl> describe logical
+physical aspects <hl>data</hl> increasingly apparent
+<hl>languages</hl> key systems advanced <hl>data</hl> management
+systems distributed <hl>data</hl> bases <hl>data</hl> definition
+language describing logical physical aspects <hl>data</hl>
+applications generalized <hl>data</hl> definition
+<hl>languages</hl> discussed cacm december 1973 sibley taylor
+<hl>data</hl>
+
+CACM-1469
+----------------------------------------------------------------
+<hl>programming</hl> <hl>languages</hl> family unimplemented
+computing <hl>languages</hl> intended span differences
+application area unified framework framework dictates rules
+usercoined names conventions characterizing
+
+CACM-0013
+----------------------------------------------------------------
+<hl>programming</hl> terminology cacm august 1958 ca5885 jb
+march 22 1978 8:57 pm <hl>13</hl> 5 <hl>13</hl> <hl>13</hl> 5
+<hl>13</hl> <hl>13</hl> 13
+

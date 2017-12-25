@@ -1,0 +1,834 @@
+CACM-3012
+----------------------------------------------------------------
+<hl>information</hl> storage <hl>retrieval</hl> system medical
+research paper presents results study interactive computerized
+storage <hl>retrieval</hl> system monitor built computer system
+provided <hl>role</hl> played frequently chosen laboratory
+reference leaders influencing system implications study design
+similar <hl>systems</hl> discussed cacm march 1978 lucas hr
+
+CACM-3134
+----------------------------------------------------------------
+<hl>information</hl> storage <hl>retrieval</hl> paper describes
+method organization <hl>retrieval</hl> attribute <hl>based</hl>
+<hl>information</hl> <hl>systems</hl> normal multiplication
+table directory <hl>information</hl> system algorithms
+organization ... <hl>information</hl> system class
+<hl>information</hl> <hl>systems</hl> normal multiplication
+table method yields rapid <hl>retrieval</hl> economical space
+requirement conventional <hl>systems</hl> method incorporates
+improved <hl>information</hl> <hl>retrieval</hl> inverted
+multiattribute <hl>retrieval</hl> multilist normal
+multiplication table queries rapid <hl>retrieval</hl> space
+economy 3.7 3.73 3.79 ca7935 dh 21
+
+CACM-1514
+----------------------------------------------------------------
+<hl>retrieval</hl> <hl>systems</hl> adjustment procedure
+<hl>based</hl> maximizing bayes expected gain proposed matched
+term <hl>retrieval</hl> <hl>systems</hl> expected gain
+probability distribution derived function
+
+CACM-2990
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> term accuracy
+performance <hl>information</hl> <hl>retrieval</hl>
+<hl>systems</hl> evaluated number ways published evaluation work
+<hl>based</hl> measuring <hl>retrieval</hl> performance average
+user ... <hl>systems</hl> successfully experimental situations
+inverse document frequency weighting thesaurus construction
+phrase generation cacm march 1977 yu salton <hl>information</hl>
+<hl>retrieval</hl> automatic
+
+CACM-1032
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> <hl>systems</hl>
+<hl>information</hl> storage <hl>retrieval</hl> <hl>systems</hl>
+composed major components identification <hl>information</hl>
+tagging effective <hl>retrieval</hl> searching strategy enter
+circumvent scanning <hl>information</hl> efficient
+identification <hl>information</hl> paper suggests metalanguage
+recently discussed paper goffman verhoeff belzer object language
+searching strategy linear model evaluation
+
+CACM-2390
+----------------------------------------------------------------
+<hl>knowledge</hl> selecting paper read obtain computer minimum
+subtree theorems required bring know background
+<hl>knowledge</hl> paper assumes conditions means provided
+contribution
+
+CACM-2307
+----------------------------------------------------------------
+<hl>information</hl> retrieved interactive usercontrolled search
+process methods automatic query modification <hl>based</hl> user
+needs continuous reorganization stored <hl>information</hl>
+function earlier processing <hl>information</hl>
+<hl>retrieval</hl> control dynamic library collections items
+continually added retired cacm july 1972 salton automatic
+indexing automatic search <hl>retrieval</hl> iterative
+
+CACM-1699
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> teletypewriter
+experiments designed evaluate capabilities mechanized
+<hl>information</hl> <hl>retrieval</hl> <hl>systems</hl>
+emphasis interactive manmachine language mechanical
+psychological limitations design conducted <hl>information</hl>
+<hl>systems</hl> laboratory basic assumption research
+<hl>information</hl> <hl>retrieval</hl> system manmachine
+dialogue remote inquiry terminal provide searcher tools actually
+performing search <hl>retrieval</hl> experiments conclusions
+resulting detailed cacm september 1968 rubinoff bergman franks
+rubinoff <hl>information</hl> <hl>retrieval</hl> testing
+<hl>information</hl> system evaluation experimental document
+
+CACM-2795
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> deduction capabilities
+memory model model encompasses diverse classes linguistic
+<hl>knowledge</hl> include executable tests conceptual
+properties stored discrimination nets ... <hl>based</hl>
+underlying languagefree representation meaning program
+<hl>based</hl> model able produce sentence paraphrases
+demonstrate understanding respect context generator operates
+conjunction natural
+
+CACM-1681
+----------------------------------------------------------------
+<hl>information</hl> <hl>systems</hl> laboratory requests
+formulated standardized syntactical form examples presented form
+transformed equivalent query expressed <hl>retrieval</hl>
+<hl>systems</hl> original symbolic command ...
+<hl>information</hl> <hl>retrieval</hl> remote typewriter
+console easy english natural command language designed simplify
+communication man machine remote typewriter console developed
+<hl>retrieval</hl> ... <hl>retrieval</hl> demonstration cacm
+october 1968 rubinoff bergman cautin rapp natural language
+communication online searching remote console communication
+<hl>information</hl> <hl>retrieval</hl> manmachine
+
+CACM-2882
+----------------------------------------------------------------
+<hl>retrieval</hl> workload alternative data <hl>retrieval</hl>
+<hl>systems</hl> data <hl>retrieval</hl> <hl>systems</hl>
+organized database organizations including inverted list
+threaded list cellular list organizations ... <hl>retrieval</hl>
+<hl>systems</hl> experimental work valuation large scale data
+<hl>retrieval</hl> <hl>systems</hl> scarce due difficulty
+prohibitive cost paper discusses simulation model data ...
+<hl>systems</hl> effectiveness methodology demonstrated model
+study effect database organizations data <hl>retrieval</hl>
+<hl>systems</hl> impact query complexity analyzed cacm february
+1976 siler
+
+CACM-1457
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> automatic
+<hl>information</hl> <hl>retrieval</hl> programs require
+manipulation variety data structures including linear text
+sparse matrices tree list structures main <hl>information</hl>
+<hl>systems</hl> briefly reviewed variety data representations
+describe structured <hl>information</hl> examined
+characteristics processing languages outlined light procedures
+requiring implementation advantages
+
+CACM-0651
+----------------------------------------------------------------
+<hl>systems</hl> <hl>information</hl> <hl>retrieval</hl> cacm
+january 1962 grems ca6218 jb march 2 1978 4:36 pm 651 5 651 651
+5 651
+
+CACM-0239
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> <hl>systems</hl> cacm
+december 1961 verhoeff goffman belzer ca611211 jb march 15 1978
+1:1 pm 239 5 239 239
+
+CACM-2288
+----------------------------------------------------------------
+<hl>retrieval</hl> property proved paper conditions consecutive
+<hl>retrieval</hl> property exists remain invariant established
+outline designing <hl>information</hl> <hl>retrieval</hl> system
+<hl>based</hl> consecutive <hl>retrieval</hl> ...
+<hl>retrieval</hl> property consecutive <hl>retrieval</hl>
+property important relation query set record set existence
+enables design <hl>information</hl> <hl>retrieval</hl> system
+minimal search time
+
+CACM-1959
+----------------------------------------------------------------
+<hl>information</hl> <hl>systems</hl> cacm december 197 morgan
+management <hl>information</hl> <hl>systems</hl> integrated data
+processing supervisors interrupts monitoring <hl>systems</hl>
+supervisory <hl>systems</hl> interrupt scheduling
+
+CACM-3177
+----------------------------------------------------------------
+<hl>knowledge</hl> 1 pieces reveals olutely <hl>information</hl>
+technique enables construction robust key management schemes
+cryptographic <hl>systems</hl> function securely reliably
+misfortunes destroy
+
+CACM-2631
+----------------------------------------------------------------
+<hl>systems</hl> direct access computer bibliographic
+<hl>information</hl> attempt made overcome problems
+<hl>information</hl> <hl>retrieval</hl> maintenance large
+dictionaries greater part infrequently method presented ...
+<hl>information</hl> theory organization direct access
+<hl>information</hl> <hl>retrieval</hl> character string bit
+vector 3.42 3.7 3.73 3.74 5.6 ca74615 jb january 17
+
+CACM-1627
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> <hl>systems</hl> concept
+level changing introduced application multilevel store discussed
+means physically organizing <hl>information</hl> efficient
+multilevel store presented cacm
+
+CACM-2160
+----------------------------------------------------------------
+<hl>based</hl> organization structure attribute <hl>based</hl>
+<hl>retrieval</hl> proposed paper queries involving arbitrary
+boolean functions attributevalue pairs processed taking
+intersections lists structure <hl>retrieval</hl> basis ranges
+values attribute <hl>retrieval</hl> basis single permitted
+organization proposed <hl>based</hl> atoms boolean algebra
+generated queries desirable properties claimed
+
+CACM-1236
+----------------------------------------------------------------
+<hl>retrieval</hl> systeman illustration fully automatic
+document <hl>retrieval</hl> system operating ibm 794 system
+characterized fact hundred methods analyze documents search
+requests ... <hl>information</hl> typical search request present
+report illustrate <hl>systems</hl> operations evaluation
+procedures cacm june 1965 salton lesk ca65619 jb march 6
+
+CACM-0440
+----------------------------------------------------------------
+<hl>retrieval</hl> <hl>systems</hl> developed methodological
+study linkage vital health records family groupings demographic
+research purposes rules ways <hl>information</hl> utilization
+matching optimized
+
+CACM-3100
+----------------------------------------------------------------
+<hl>knowledge</hl> acquisition partial matching interference
+graph matching learning induction <hl>knowledge</hl>
+representation informal <hl>retrieval</hl> abstraction
+generalization language learning complexity predicate discovery
+
+CACM-1680
+----------------------------------------------------------------
+<hl>systems</hl> programming simulation modeling
+<hl>information</hl> <hl>retrieval</hl> operating
+<hl>systems</hl> graphics displays manmachine interface online
+computing graphic programming 1.5 3.3 3.5 3.8
+
+CACM-2163
+----------------------------------------------------------------
+<hl>information</hl> <hl>systems</hl> education colleges
+universities grant national science foundation position paper
+framework study preliminary conclusions presented need education
+administrative <hl>information</hl> ... <hl>information</hl>
+analysis <hl>systems</hl> design business data processing 1.52
+3.51 ca7191 jb february 2 1978 2:4 pm 172 4 2163 1927
+
+CACM-2561
+----------------------------------------------------------------
+<hl>retrieval</hl> <hl>systems</hl> heuristic procedures
+presented developed perform inferences generalizing
+<hl>information</hl> procedures make similarity structure
+imposed data base nonnumerical clustering algorithms
+<hl>retrieval</hl> system formal query language propertylist
+data structure program experiments procedures test data bases
+altered deleting part data purposely introducing
+
+CACM-1541
+----------------------------------------------------------------
+<hl>systems</hl> general objective language facilitate modeling
+experimental aspects simulation studies ability represent
+<hl>systems</hl> highly interactive processes essential feature
+nature language
+
+CACM-2479
+----------------------------------------------------------------
+<hl>information</hl> <hl>systems</hl> <hl>information</hl>
+<hl>systems</hl> administration <hl>information</hl>
+<hl>systems</hl> management computer management 1.52 3.51 ca7377
+jb january 23 1978 12:3 pm 2479 ... <hl>information</hl>
+<hl>systems</hl> recommended addendum <hl>information</hl>
+<hl>systems</hl> administration addendum report acm curriculum
+committee computer education management proposed proposed
+addendum include curriculum
+
+CACM-2198
+----------------------------------------------------------------
+<hl>systems</hl> committee data base management <hl>systems</hl>
+programming languages data structures storage structures
+<hl>information</hl> <hl>retrieval</hl> transaction processing
+3.5 3.7 3.72 3.73 ... <hl>systems</hl> paper separately
+published introduction main report analyzes features generalized
+data base management <hl>systems</hl> introduction review state
+art <hl>systems</hl> discusses
+
+CACM-2947
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> text editing
+minicomputers crtstime sharing bibliographic search
+<hl>retrieval</hl> literary analysis linguistic analysis command
+languages 3.4 3.7 ca7775 jb
+
+CACM-3090
+----------------------------------------------------------------
+<hl>information</hl> <hl>systems</hl> fit political economies
+groups cacm june 1978 kling social impacts computing
+organizational impacts computing management <hl>information</hl>
+<hl>systems</hl> sociology
+
+CACM-2846
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> <hl>systems</hl>
+underlying mary tree structure trie parameter trie fields nodes
+trie large hold key pointer fields ctrie bit <hl>retrieval</hl>
+time measured terms bit inspections key order logmn storage
+requirement order nmlog2 bits improvement storage requirements
+<hl>retrieval</hl> time achieved
+
+CACM-1652
+----------------------------------------------------------------
+<hl>information</hl> processing applications online
+<hl>systems</hl> code specifically designed simplify internal
+<hl>information</hl> processing operations online computer
+system respect nonnumeric applications maximize
+<hl>information</hl> channel linking system system user code
+direct application problems area <hl>information</hl>
+<hl>retrieval</hl> document classification computeraided
+teaching text editing code
+
+CACM-2318
+----------------------------------------------------------------
+<hl>role</hl> computer system models performance evaluation
+models constitute means investigating computer system
+performance paper examines interrelationships models methods
+evaluating performance
+
+CACM-2711
+----------------------------------------------------------------
+<hl>retrieval</hl> performance correlate inversely space density
+approach <hl>based</hl> space density computations choose
+optimum indexing vocabulary collection documents typical
+evaluation results <hl>information</hl> <hl>retrieval</hl>
+automatic indexing content analysis document space 3.71 3.73
+3.74 3.75 ca75111 jb january 6 1978 1:14 2711 5
+
+CACM-2519
+----------------------------------------------------------------
+<hl>information</hl> nature difficulty involved communicating
+mathematical results scientists computer <hl>based</hl>
+<hl>information</hl> <hl>retrieval</hl> system examined problem
+analyzed terms psychological informationprocessing processes
+
+CACM-1199
+----------------------------------------------------------------
+<hl>based</hl> rapidly changing technologies hardware software
+<hl>systems</hl> difficult base decisions experience instances
+benefits comparable experience problem situation paper
+mathematical model
+
+CACM-2372
+----------------------------------------------------------------
+<hl>information</hl> <hl>systems</hl> security
+<hl>information</hl> system represented model matrix elements
+decision rules row column indices users data items set functions
+access ... <hl>systems</hl> access management data banks
+management <hl>information</hl> <hl>systems</hl> 3.5 3.73 4.12
+4.22 4.39 ca7241 jb january 31 1978 1:59 pm
+
+CACM-2522
+----------------------------------------------------------------
+<hl>systems</hl> resource allocation software evaluation
+operating <hl>systems</hl> supervisory <hl>systems</hl> 4.31
+4.32 ca7346 jb january 24 1978 9:36 2522 5 2522 ...
+<hl>systems</hl> developed working set model program behavior
+source allocation strategy <hl>based</hl> model proposed
+implementations principles reported case results announced
+report
+
+CACM-0891
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> system
+<hl>information</hl> <hl>retrieval</hl> problem solution
+presented posed technical library limited bubget personnel
+solution general applicable types <hl>retrieval</hl> problems
+
+CACM-1267
+----------------------------------------------------------------
+<hl>systems</hl> data transmission transfer rate
+<hl>information</hl> bits asa tutorial standard
+<hl>information</hl> thruput characteristic <hl>systems</hl>
+performance discussed discussion includes pertinent aspects
+<hl>information</hl> bits trib residual errors standard
+measurement conditions paper presents orderly arrangement
+characteristics parameters affect <hl>information</hl> thruput
+examples procedures determining
+
+CACM-2812
+----------------------------------------------------------------
+<hl>information</hl> <hl>systems</hl> logical system design
+problem statement language problem statement analyzer physical
+system design accurately defined <hl>systems</hl>
+<hl>systems</hl> optimization design ... <hl>information</hl>
+<hl>systems</hl> paper describes computeraided analysis design
+development integrated financial management system navy material
+command support activity nmcsa computeraided analysis
+<hl>systems</hl> analyzed problem statement analyzer ads ads
+problem definition supplemented additional <hl>information</hl>
+order create complete problem definition analyzed problem
+statement
+
+CACM-2311
+----------------------------------------------------------------
+<hl>systems</hl> software <hl>systems</hl> <hl>systems</hl>
+development process functional <hl>systems</hl> management
+<hl>systems</hl> 2 3.5 4 6.2 ca72717 jb january 3 1978 11:22
+
+CACM-1233
+----------------------------------------------------------------
+<hl>information</hl> processing <hl>systems</hl> standard
+working paper paper intended outline conventions considered
+flowcharts <hl>information</hl> processing <hl>systems</hl>
+conventions applied symbols appearing proposed
+
+CACM-1935
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> <hl>systems</hl> cacm
+february 1969 arora dent binary pattern examination graph theory
+<hl>information</hl> <hl>retrieval</hl> mathematical model
+partitioning probabilistic method
+
+CACM-2407
+----------------------------------------------------------------
+<hl>systems</hl> <hl>information</hl> <hl>systems</hl>
+<hl>information</hl> analysis system design <hl>systems</hl>
+analysis 1.52 3.51 ca73121 jb january 19 1978 3:24 pm 2163 4
+
+CACM-2092
+----------------------------------------------------------------
+<hl>systems</hl> data structures semantic organization deductive
+questionanswering formalism relational properties
+complexrelationforming operators questionanswering procedures
+employ features operation illustrated examples <hl>systems</hl>
+<hl>information</hl> deductive question answering greatly
+facilitates process topdown procedure works question answer
+enables effective made <hl>information</hl> concluded
+development protosynthex iii
+
+CACM-2583
+----------------------------------------------------------------
+<hl>information</hl> <hl>systems</hl> report stanley house cacm
+november 1974 sterling humanization social implication
+management <hl>information</hl> <hl>systems</hl> regulations
+social behavioral sciences philosophy
+
+CACM-2852
+----------------------------------------------------------------
+<hl>information</hl> <hl>systems</hl> mcfarlan nolan made strong
+case adding course <hl>information</hl> <hl>systems</hl>
+administration 13 courses proposed acm curriculum committee
+computer education <hl>information</hl> <hl>systems</hl> paper
+report course entitled technology computer center management
+offered purdue past years course suitable graduate professional
+programs <hl>information</hl>
+
+CACM-2402
+----------------------------------------------------------------
+<hl>information</hl> basis technique structure determination
+make effective interactive graphics system model building
+crosscorrelations intrinsic advantages usual crystallographic
+techniques <hl>based</hl> autocorrelation ... <hl>systems</hl>
+coupled powerful digital computers encourages development
+algorithms adapted environment pictorial pattern recognition
+techniques make number approaches xray structure determination
+
+CACM-2345
+----------------------------------------------------------------
+<hl>systems</hl> <hl>systems</hl> analysis management
+<hl>information</hl> <hl>systems</hl> <hl>information</hl>
+<hl>systems</hl> development <hl>information</hl> analysis
+system design 1.52 3.51 ca72515 jb january 31 1978
+
+CACM-3181
+----------------------------------------------------------------
+<hl>knowledge</hl> eft business government consumers result
+effort stimulate meaningful public participation decisions
+introduction eft <hl>systems</hl> require coordinated
+educational effort considerable
+
+CACM-1280
+----------------------------------------------------------------
+<hl>systems</hl> variable timelags present common occurrence
+biology variable flow rates common variable lags present
+extensive body <hl>knowledge</hl> exists concerning effects
+
+CACM-1808
+----------------------------------------------------------------
+<hl>systems</hl> security <hl>systems</hl> confidential
+<hl>information</hl> processing 1.3 2.12 2.19 3.73 3.81 4.41
+ca69124 jb february 15 1978 4:2 pm 188
+
+CACM-1415
+----------------------------------------------------------------
+<hl>retrieval</hl> <hl>systems</hl> practical manmachine
+<hl>systems</hl> human monitors select preferred syntactic
+interpretation sentence cacm june 1966 carmody jones jr ca6666
+jb
+
+CACM-1725
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> ordered
+<hl>retrieval</hl> theorem column digit values digit variety
+column sensing arrangement digit readout digit variety readout
+memory access ... <hl>retrieval</hl> binary words associative
+memory lewin <hl>based</hl> special readout circuits digit
+values present individual digit columns memory circuits
+individual digit
+
+CACM-2577
+----------------------------------------------------------------
+<hl>retrieval</hl> <hl>systems</hl> 3.36 3.7 3.73 3.89 ca74117
+jb january 16 1978 1:15 2577 5 2577 2577 5 2577 2577 2577
+
+CACM-2278
+----------------------------------------------------------------
+<hl>information</hl> storage <hl>retrieval</hl> avl trees cacm
+september 1972 tan binary trees search trees
+<hl>information</hl> storage <hl>information</hl>
+<hl>retrieval</hl> 3.7 3.73 3.74
+
+CACM-3142
+----------------------------------------------------------------
+<hl>role</hl> poor man agement packages including poor software
+management <hl>systems</hl> adequate results survey raise
+concerns timeliness number designs large linked
+
+CACM-1226
+----------------------------------------------------------------
+<hl>systems</hl> selection organization data critical
+<hl>systems</hl> operating efficiency paper <hl>systems</hl>
+designer <hl>information</hl> source describes ten techniques
+employed organizing structured data
+
+CACM-2985
+----------------------------------------------------------------
+<hl>systems</hl> computer services chargeout <hl>systems</hl>
+user management attitudes computerbased <hl>information</hl>
+<hl>systems</hl> investigated evidence provided relationship
+conforms general pattern expected hypothesis ...
+<hl>systems</hl> development main tenance computerbased
+<hl>systems</hl> asserted category organizational change felt
+need change part usermanager prerequisite change taking place
+research
+
+CACM-0982
+----------------------------------------------------------------
+<hl>role</hl> proposed type translator experimental evidence
+presented support premise conception <hl>based</hl> cacm
+november 1964 faulk ca64111 jb march 9 1978
+
+CACM-1711
+----------------------------------------------------------------
+<hl>information</hl> patents copyrights trade secret protection
+programs problem copyrighted material <hl>information</hl>
+storage <hl>retrieval</hl> <hl>systems</hl> including pending
+copyright patent revision bills
+
+CACM-2832
+----------------------------------------------------------------
+<hl>based</hl> observation typical context infrequent relative
+retrievals data cached speed <hl>retrieval</hl>
+<hl>retrieval</hl> started position previous <hl>retrieval</hl>
+auxiliary structures built make
+
+CACM-3011
+----------------------------------------------------------------
+<hl>information</hl> <hl>systems</hl> mis bear relation
+<hl>information</hl> <hl>systems</hl> top management local
+governments exists managementoriented computing involving
+unsophisticated applications despite unsophisticated nature
+
+CACM-2516
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> probabilistic analysis
+employed determine effect hierarchical storage organizations
+<hl>information</hl> <hl>retrieval</hl> operations data storage
+hardware assumed consist nlevels linearly
+
+CACM-1747
+----------------------------------------------------------------
+<hl>systems</hl> assignment capability indexes cacm 1968 van
+horn computer design computer design criteria computer
+<hl>systems</hl> computer <hl>systems</hl> design input
+equipment <hl>systems</hl> operating <hl>systems</hl> design
+multiprogramming multiprogrammed <hl>systems</hl>
+multiprogrammed system design virtual computers programming
+languages programming language design program semantics
+programming <hl>information</hl> security <hl>information</hl>
+privacy computing reliability debugging program debugging
+program testing parallel processing parallel programming
+multiprocessing 2.11 4.12 4.13 4.2
+
+CACM-2106
+----------------------------------------------------------------
+<hl>information</hl> <hl>systems</hl> requires understanding
+related computer technology concepts paging priority interrupt
+<hl>systems</hl> explained machine language level machine
+exposition fulfill criteria
+
+CACM-2888
+----------------------------------------------------------------
+<hl>information</hl> reference coding items business
+<hl>systems</hl> identified reference codes later data codes
+keys data processing system business <hl>systems</hl> large
+collections
+
+CACM-0616
+----------------------------------------------------------------
+<hl>systems</hl> level data processing report <hl>based</hl>
+part mathematical model called <hl>information</hl> algebra
+developed primarily bosak hoped report read avid interest
+<hl>systems</hl> analysts appreciation businessmananalystmanager
+authors attempted exhaustive discourse report tried present
+philosophy professional people vitally concerned providing
+working language <hl>systems</hl>
+
+CACM-3026
+----------------------------------------------------------------
+<hl>systems</hl> sperry univacs largescale main frame computer
+<hl>systems</hl> beginning 117 1962 11 series progressed
+succession compatible computer models latest system
+<hl>based</hl> 36bit word complement structure obtains operand
+storage highspeed register operands highspeed registers 11
+operating system designed support symmetrical multiprocessor
+
+CACM-1750
+----------------------------------------------------------------
+<hl>systems</hl> extended core storage multiprogrammed operating
+<hl>systems</hl> multiprocessor operating <hl>systems</hl>
+control data corporation 66 operating system ecs 4.3 4.32 ca6856
+
+CACM-1527
+----------------------------------------------------------------
+<hl>retrieval</hl> segments stored <hl>information</hl>
+explicitly implicitly represented questions posed natural
+language sentences procedure makes sentence recognition device
+class grammars correctly ... <hl>information</hl> recognition
+function succeeds represents requested <hl>information</hl> cacm
+october 1967 rosenbaum ca6716 jb february 27 1978 2:14 pm 1527 5
+
+CACM-1830
+----------------------------------------------------------------
+<hl>retrieval</hl> times packed direct access inverted cacm
+october 1969 bayes <hl>information</hl> <hl>retrieval</hl>
+direct access memory data base inverted list 3.7
+
+CACM-0652
+----------------------------------------------------------------
+<hl>information</hl> <hl>systems</hl> cacm january 1962 sable
+ca6217 jb march 2 1978 4:37 pm 1324 5 652 652 5 652 652
+
+CACM-1745
+----------------------------------------------------------------
+<hl>information</hl> service industry dependent accomplishments
+restructuring <hl>information</hl> processing industry clear
+division costs made computing communications development
+<hl>information</hl> services wide multiaccess ...
+<hl>information</hl> networks <hl>information</hl>
+<hl>systems</hl> computing free enterprise computing economics
+computer installation management government regulation
+communications services distributed data base program
+
+CACM-2988
+----------------------------------------------------------------
+<hl>systems</hl> empirical analyses analytic studies
+<hl>based</hl> applying methodology actual multiaccess teractive
+system reported relations workload variables memory requirement
+distribution job
+
+CACM-2542
+----------------------------------------------------------------
+<hl>based</hl> simple high level language describe evolving
+system stages development source language description direct
+input performance analysis simulation routines performance
+
+CACM-2870
+----------------------------------------------------------------
+<hl>information</hl> flow paper investigates mechanisms
+guarantee secure <hl>information</hl> flow computer system
+mechanisms examined mathematical framework suitable formulating
+requirements secure <hl>information</hl> <hl>information</hl>
+flow lattice properties permit concise formulations security
+requirements existing <hl>systems</hl> facilitate construction
+mechanisms enforce security model unifying view <hl>systems</hl>
+<hl>information</hl> flow enables classification according
+security objectives suggests approaches leads construction
+automatic program certification mechanisms verifying secure flow
+<hl>information</hl> program
+
+CACM-3137
+----------------------------------------------------------------
+<hl>information</hl> <hl>systems</hl> macro model distributed
+<hl>information</hl> system presented model describes major
+costs <hl>information</hl> system perspective enduser making
+evident effect design
+
+CACM-1349
+----------------------------------------------------------------
+<hl>systems</hl> future authors opinion state art lags continent
+lag attributed principal factors handicapping organization
+academic procedures universitygovernment financial relationship
+subordinated
+
+CACM-3089
+----------------------------------------------------------------
+<hl>systems</hl> intermittent failures mathematical model
+transactionoriented system intermittent failures proposed system
+assumed operate checkpointing rollbackrecovery method ensure
+reliable <hl>information</hl> processing
+
+CACM-2127
+----------------------------------------------------------------
+<hl>systems</hl> 1969 recent experiments programming natural
+language questionanswering <hl>systems</hl> reviewed summarize
+methods developed syntactic semantic logical analysis english
+strings concluded ... <hl>systems</hl> <hl>based</hl>
+dictionaries thousands entrieswith correspondingly large
+grammars semantic systemsmay entail order complexity require
+invention development entirely approaches semantic analysis ...
+<hl>systems</hl> paradigm evolved guide research efforts field
+approaches semantic analysis logical inference seen effective
+beginnings questionable generality respect subtle aspects
+
+CACM-2876
+----------------------------------------------------------------
+<hl>systems</hl> traditionally privacy protection database
+<hl>systems</hl> understood control <hl>information</hl> user
+database paper concerned independent dimension privacy
+protection control user allowed
+
+CACM-1435
+----------------------------------------------------------------
+<hl>systems</hl> aim paper provide background
+<hl>information</hl> existing literature experimental design
+techniques applicable design computer simulation experiments
+industrial <hl>systems</hl> major emphasis
+
+CACM-3180
+----------------------------------------------------------------
+<hl>information</hl> comparative costs alternative payment
+<hl>systems</hl> cash checks credit cards eft transactions
+result eft <hl>systems</hl> services likely implemented valid
+assessment
+
+CACM-2308
+----------------------------------------------------------------
+<hl>systems</hl> urban applications data acquisition data
+management engineering analysis <hl>information</hl>
+<hl>systems</hl> 3.23 3.39 3.53 3.72 3.82 3.89 ca7272 jb january
+
+CACM-2070
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> cacm april 197 hsiao
+harary ca7414 jb february 13 1978 2:37 pm 27 5 27 27 5 27
+
+CACM-1713
+----------------------------------------------------------------
+<hl>systems</hl> case tory highpriority paralysis degradation
+occur multiprogramming <hl>systems</hl> scheduling
+<hl>based</hl> primarily preassigned priorities alleviated
+modifying scheduling algorithm maximize number
+
+CACM-0275
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> system cacm october 1961
+sams ca6116 jb march 16 1978 12:58 pm 275 5 275 275 5 275
+
+CACM-2314
+----------------------------------------------------------------
+<hl>systems</hl> list processing list processing
+<hl>systems</hl> designed facilitate production large programs
+manipulate large complex symbolic data stores paper presents
+overview <hl>systems</hl> wide range applications aspects
+programming <hl>systems</hl> highlighted good interactive
+facilities programmable control structures sophisticated data
+communication mechanisms interactive features ...
+<hl>systems</hl> control structures data structures programming
+primitives semantics advanced programming <hl>systems</hl> 1.3
+4.2 4.22 4.3 4.32 5.23 5.24 ca72714 jb
+
+CACM-0292
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> language legal studies
+cacm september 1961 kehl horty bacon mitchell ca6192 jb march 16
+1978 9:51 pm 292
+
+CACM-1066
+----------------------------------------------------------------
+<hl>systems</hl> <hl>based</hl> viewpoints influenced demands
+applications petroleum industry placing <hl>systems</hl>
+components system translation problem statement terms basic data
+linear programming
+
+CACM-2140
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> query multiattribute
+<hl>retrieval</hl> update 3.73 3.74 3.79 ca71123 jb february 2
+1978 1:18 214 4 214 2452 4
+
+CACM-1625
+----------------------------------------------------------------
+<hl>based</hl> form program <hl>knowledge</hl> obtained
+processor understanding program supposed methods implemented
+processor called sure accepts program written jovial outputs
+equivalent
+
+CACM-2184
+----------------------------------------------------------------
+<hl>based</hl> terms expression lambdaname listexpressionvalue
+list found context viewed abstraction <hl>based</hl> terms
+equivalent expression muname listvalue listexpression cacm july
+1971
+
+CACM-2572
+----------------------------------------------------------------
+<hl>information</hl> utility article author urges prudent
+decentralized approach question design desirability computerized
+community <hl>information</hl> utilities accepting inevitability
+desirability technology sure <hl>systems</hl> design carefully
+think side effects man world view proposals community
+<hl>information</hl> utilities examined framework conclusion
+drawn society position justify
+
+CACM-2951
+----------------------------------------------------------------
+<hl>information</hl> users wishing process computing
+applications network computing node research clearly reveals
+sufficient system data obtainable diverse arpa network
+<hl>systems</hl>
+
+CACM-1846
+----------------------------------------------------------------
+<hl>systems</hl> computer <hl>systems</hl> conventional digital
+computer dealt <hl>systems</hl> assumed network interconnected
+sequential processes briefly reviewed common techniques handle
+simulations simultaneous
+
+CACM-2036
+----------------------------------------------------------------
+<hl>information</hl> pertinent implementation facility existing
+timesharing <hl>systems</hl> cacm july 197 grant timesharing
+command languages pseudoteletype interaction conditional job
+control operating
+

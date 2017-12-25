@@ -1,0 +1,778 @@
+CACM-3032
+----------------------------------------------------------------
+<hl>packet</hl> delivery nodes <hl>network</hl>
+<hl>algorithms</hl> accomplishing delivery storeandforward
+<hl>packet</hl> switching computer <hl>network</hl> include
+transmission separately addressed packets multidestination
+addressing hot <hl>algorithms</hl> add reverse path forwarding
+broadcast <hl>routing</hl> method exploits <hl>routing</hl>
+procedures data structures <hl>packet</hl> switching reverse
+path forwarding practical algorithm <hl>routing</hl>
+storeandforward <hl>packet</hl> switching computer
+<hl>networks</hl> algorithm practical optimal according metrics
+developed analysis paper implemented existing <hl>networks</hl>
+complexity required known
+
+CACM-2949
+----------------------------------------------------------------
+<hl>information</hl> main tenance protocol distributed computer
+<hl>network</hl> order nodes distributed computer
+<hl>network</hl> communicate node <hl>information</hl>
+<hl>networks</hl> topology nodes links crash ...
+<hl>networks</hl> distributed control <hl>network</hl> topology
+<hl>routing</hl> problem <hl>networks</hl> distributed operating
+system store forward <hl>packet</hl> switching store forward
+message switching traffic ... <hl>information</hl> major
+constrain ts topology <hl>information</hl> scheme involve
+central controller topology <hl>information</hl> protocol
+implemented merit computer <hl>network</hl> presented explained
+protocol
+
+CACM-2890
+----------------------------------------------------------------
+<hl>routing</hl> <hl>algorithms</hl> analytic models
+storeandforward communications <hl>network</hl> constructed find
+optimal message <hl>routing</hl> illustrate equilibrium
+stationary state maintained adaptive <hl>routing</hl> algorithm
+... <hl>routing</hl> table maintained <hl>network</hl> node
+simulation results presented confirm theoretical analysis simple
+<hl>network</hl> cacm january 1976 agnew <hl>routing</hl>
+<hl>algorithms</hl> adaptive <hl>routing</hl> alternate
+<hl>routing</hl> storeandforward <hl>network</hl> distributed
+<hl>network</hl> computer <hl>network</hl> message switching
+3.81 8 8.1 8.3 ca7613 jb january 5 1978
+
+CACM-2892
+----------------------------------------------------------------
+<hl>network</hl> similar results derived recently proposed
+<hl>network</hl> protocol compared system cacm january 1976
+kleinrock naylor opderbeck arpanet computer communication
+<hl>networks</hl>
+
+CACM-2849
+----------------------------------------------------------------
+<hl>packet</hl> switching local computer <hl>networks</hl>
+ethernet branching broadcast communication system carrying
+digital data packets locally distributed computing stations
+<hl>packet</hl> transport <hl>networks</hl> loosely coupled
+multiprocessors ethernets shared communication facility ether
+passive broadcast medium central control coordination access
+ether <hl>packet</hl> broadcasts distributed ...
+<hl>networks</hl> <hl>packet</hl> switching multiprocessing
+distributed control distributed computing broadcast
+communication statistical arbitration 3.81 4.32 6.35 ca7674 jb
+january 4 1978
+
+CACM-1685
+----------------------------------------------------------------
+<hl>network</hl> <hl>network</hl> generator <hl>network</hl>
+assembler activity <hl>network</hl> analysis <hl>network</hl>
+calculation <hl>network</hl> program 3.5 3.53 4.11 4.12 4.29
+ca6812 jb february ... <hl>networks</hl> gan system generating
+activity <hl>networks</hl> designed save time preparation
+activity <hl>networks</hl> deal conveniently <hl>network</hl>
+programs defining description programming language
+
+CACM-2776
+----------------------------------------------------------------
+<hl>networks</hl> included arpa net california state college
+<hl>network</hl> university iowaiowa state university
+<hl>network</hl> michigan educational research
+<hl>information</hl> triad triangle universities ...
+<hl>networks</hl> higher education socioeconomicpolitical
+factors study presents results nationwide survey computer
+<hl>networks</hl> higher education conducted 197173 major 18
+minor <hl>networks</hl> ... <hl>network</hl> north carolina
+indepth studies conducted nets based experiences operating
+<hl>networks</hl> number factors identified consideration
+developing <hl>networks</hl> finally recommendations advanced
+
+CACM-2197
+----------------------------------------------------------------
+<hl>networks</hl> suggested means stimulating spread computing
+capabilities institutions higher learning construction regional
+computing <hl>networks</hl> <hl>network</hl> constructed san
+francisco bay area ... <hl>network</hl> regional
+<hl>network</hl> brings benefits judged purveyor raw computer
+power cacm 1971 nielsen computer sharing computer utility
+cooperative <hl>networks</hl> curriculum ... <hl>network</hl>
+past years major impact <hl>network</hl> computer power
+delivered schools awakening computing awareness fostering
+capability development schools expertise assistance central
+
+CACM-2951
+----------------------------------------------------------------
+<hl>networks</hl> ultimate aim computing <hl>network</hl>
+resource sharing human component technical component networking
+fully investigated achieve goal research step assisting user
+<hl>network</hl> analytical simulation statistical performance
+evaluation tools employed investigate feasibility dynamic
+response time monitor capable providing comparative response
+time <hl>information</hl> <hl>network</hl> computing node
+research clearly reveals sufficient system data obtainable
+diverse arpa <hl>network</hl> systems studied detail describe
+predict response time
+
+CACM-1695
+----------------------------------------------------------------
+<hl>networks</hl> description presented plexus system enables
+user construct neural <hl>network</hl> analyze output data
+produced <hl>network</hl> store retrieve <hl>networks</hl> data
+library <hl>networks</hl> built components representing
+individual neurons external stimuli interconnecting fibers
+component detailed nature provision made experimental data input
+<hl>network</hl> convenient <hl>network</hl> extensive
+errorchecking capabilities provided data resulting simulation
+<hl>network</hl> analyzed variety techniques ranging
+examinations gross characteristics data determination detailed
+statistical
+
+CACM-3158
+----------------------------------------------------------------
+<hl>network</hl> method implementing secure personal computing
+<hl>network</hl> central facilities proposed method employs
+publickey encryption device <hl>hardware</hl> keys user
+responsible security
+
+CACM-1261
+----------------------------------------------------------------
+<hl>networks</hl> simulation digital <hl>networks</hl> digital
+computer engineer effective means analyzing timequantized
+logical behavior digital <hl>network</hl> modeled set
+timedependent timeindependent boolean <hl>network</hl> mode
+simplicity utilizing fortran iv programming system digital
+<hl>network</hl> simulator discussed illustrated simplicity
+derived common modeling technique applicable combinational
+
+CACM-2515
+----------------------------------------------------------------
+<hl>network</hl> project precedence relations procedure
+constructing minimal eventnode <hl>network</hl> represent set
+precedence relations parallel activities presented minimal
+eventnode <hl>network</hl> eventnode <hl>networks</hl> minimal
+procedure includes setcovering problem time required grow
+exponentially number activities cacm 1973 corneil gotlieb lee
+<hl>network</hl> project eventnode
+
+CACM-3040
+----------------------------------------------------------------
+<hl>algorithms</hl> constraint <hl>networks</hl> constraint
+satisfaction graph coloring <hl>network</hl> consistency
+relaxation scene labeling search 3.63 3.64 5.25 5.3 5.32
+ca781111 dh
+
+CACM-2371
+----------------------------------------------------------------
+<hl>network</hl> system communication processes timesharing
+system communication system extended processes distributed
+computer <hl>network</hl> hypothetical application system
+existing <hl>network</hl> discussed cacm
+
+CACM-2614
+----------------------------------------------------------------
+<hl>network</hl> transformation algorithm a481 cacm august 1974
+crandall critical path <hl>networks</hl> precedence
+<hl>networks</hl> 3.23 5.4 ca7481 jb january 17 1978
+
+CACM-3133
+----------------------------------------------------------------
+<hl>networks</hl> extended form semantic <hl>network</hl>
+defined regarded syntactic variant clausal form logic virtue
+relationship logic extended semantic <hl>network</hl> provided
+precise <hl>networks</hl> abstract data structure representation
+clauses provide theoremprover potentially indexing scheme
+pathfollowing strategy guiding search proof cacm march 1979
+deliyanni
+
+CACM-0828
+----------------------------------------------------------------
+<hl>network</hl> calculations general method calculation flows
+pressures fluid flow <hl>networks</hl> presented method
+applicable computer cacm june 1963 cantrell ca63621 jb
+
+CACM-2969
+----------------------------------------------------------------
+<hl>networks</hl> optimization procedure allocation program data
+computer <hl>network</hl> presented algorithm takes account
+dependencies programs occur real heterogeneous computer
+<hl>networks</hl> insights
+
+CACM-2274
+----------------------------------------------------------------
+<hl>networks</hl> system generating english sentences form
+semantic nets nodes wordsense meanings paths primarily deep case
+relations grammar system form <hl>network</hl>
+
+CACM-1723
+----------------------------------------------------------------
+<hl>networks</hl> project <hl>networks</hl> pert cpm algorithm
+constructing project <hl>networks</hl> directly project
+precedence relations algorithm creates dummy activities
+topologically orders arcs
+
+CACM-1928
+----------------------------------------------------------------
+<hl>network</hl> structures digital <hl>networks</hl> cacm
+february 1969 ulrich simulation logical simulation digital
+simulation large systems simulation <hl>network</hl> structures
+scheduling queuing
+
+CACM-1846
+----------------------------------------------------------------
+<hl>networks</hl> parallel processes simultaneous events occur
+problems simulating discrete event systems computer systems
+conventional digital computer dealt systems assumed
+<hl>network</hl> ... <hl>information</hl> solution technique
+cases technique computationally unfeasible additional
+<hl>information</hl> provided cacm september 1969 parnas
+simulation parallel processes simultaneous events picture
+
+CACM-2712
+----------------------------------------------------------------
+<hl>networks</hl> solution separable closed queueing
+<hl>networks</hl> requires evaluation homogeneous multinomial
+expressions number terms expressions grows combinatorially size
+<hl>network</hl> direct summation
+
+CACM-1611
+----------------------------------------------------------------
+<hl>networks</hl> basic concepts terminology project networking
+developed critical path algorithm incorporated ceir proprietary
+scheduling system ramps resource allocation multiproject
+scheduling
+
+CACM-2900
+----------------------------------------------------------------
+<hl>networks</hl> distributed data management 4.33 ca771116 jb
+december 27 1977 8:45 29 5 29 29 5 29 29 29
+
+CACM-0441
+----------------------------------------------------------------
+<hl>networks</hl> topological sorting procedure required
+problems involving analysis <hl>networks</hl> problem pert
+present paper presents general method obtaining topological
+order permits
+
+CACM-1989
+----------------------------------------------------------------
+<hl>network</hl> grammars natural language analysis augmented
+transition <hl>network</hl> grammars analysis natural language
+sentences structurebuilding actions arcs grammar
+<hl>network</hl> allow reordering <hl>information</hl> guide
+parsing advantage model natural language analysis discussed
+detail illustrated examples implementation experimental parsing
+system transition <hl>network</hl> grammars briefly
+
+CACM-1688
+----------------------------------------------------------------
+<hl>network</hl> linear programming minimumcost flow
+<hl>network</hl> flow outofkilter 5.32 5.41 ca68913 jb february
+21 19784:31 pm 1688 5 1688 1688
+
+CACM-1687
+----------------------------------------------------------------
+<hl>network</hl> linear programming minimumcost flow
+<hl>network</hl> flow outofkilter 5.32 5.41 ca68914 jb february
+21 1978 4:29 pm 1687 5 1687
+
+CACM-2088
+----------------------------------------------------------------
+<hl>network</hl> linear programming minimumcost flow
+<hl>network</hl> flow outofkilter 5.32 5.41 ca731 jb february 13
+1978 3:44 pm 288 5 288
+
+CACM-1890
+----------------------------------------------------------------
+<hl>network</hl> computer simulation program deals traffic flows
+<hl>network</hl> large area road segmented blocks tenmeter
+lengths represented bidirectional list computer memory
+
+CACM-1690
+----------------------------------------------------------------
+<hl>network</hl> linear programming minimumcost flow
+<hl>network</hl> flow outofkilter 5.32 5.41 ca68911 jb february
+21 1978 4:35 pm 169 4 169
+
+CACM-2973
+----------------------------------------------------------------
+<hl>algorithms</hl> presented sorting n2 elements meshconnected
+processor array require <hl>routing</hl> comparison steps
+previous algorithm takes time log <hl>algorithms</hl> paper
+shown
+
+CACM-2630
+----------------------------------------------------------------
+<hl>algorithms</hl> presented construct shortest paths pair
+vertices directed graph <hl>algorithms</hl> generalize floyd
+algorithm dantzig algorithm finding shortest path pair vertices
+
+CACM-2568
+----------------------------------------------------------------
+<hl>network</hl> theory formulation nondirected <hl>network</hl>
+partition nodes minimal number subsets members subset connected
+anarc obvious lower limit number size largest
+
+CACM-1034
+----------------------------------------------------------------
+<hl>information</hl> <hl>network</hl> cacm july 1964 gatto
+ca64713 jb march 9 19788:7 pm 134 5 134 134 5 134 134 134
+
+CACM-2327
+----------------------------------------------------------------
+<hl>information</hl> cacm july 1972 arbib automata theory brain
+theory <hl>network</hl> complexity resolution redundancy
+potential command frog visual system reticular formation
+
+CACM-2401
+----------------------------------------------------------------
+<hl>hardware</hl> implementation algorithm large scale
+integrated technology envisioned principal features method small
+window employed twobytwo elements parallel nature process
+possibility
+
+CACM-0397
+----------------------------------------------------------------
+<hl>information</hl> processing paper proposes card format
+suitable variety reference <hl>information</hl> processing
+8column ibm card divided fieldsreference material field columns
+167 <hl>interest</hl> source reference identification choice
+identify material personal general card format sufficient
+identify material reference books articles programming terms
+<hl>hardware</hl>
+
+CACM-1623
+----------------------------------------------------------------
+<hl>interested</hl> problem stated general mathematical sense
+<hl>interest</hl> areas circuit analysis cacm march 1967
+neidleman ca6736 jb february 28 1978 1:27
+
+CACM-0383
+----------------------------------------------------------------
+<hl>network</hl> turn penalties cacm february 1961 caldwell
+ca61215 jb march 17 1978 12:49 383 5 383 383 5 383 383
+
+CACM-2289
+----------------------------------------------------------------
+<hl>routing</hl> pert chart analysis analysis types
+<hl>networks</hl> <hl>algorithms</hl> exhibit computation time
+cases grows rate exceeding log2 number nodes graph
+straightforward ... <hl>algorithms</hl> exploit possibilities
+parallelism especially problems solutions inherently serial
+parallelized <hl>algorithms</hl> presented solution spanning
+tree distance path problems direct applications ...
+<hl>algorithms</hl> problems require steps noncellular
+implementations require n2 n3 steps cacm september 1972 levitt
+kautz graph theory cellular logicinmemory arrays
+
+CACM-0517
+----------------------------------------------------------------
+<hl>network</hl> algorithm 119 cacm august 1962 eisenman shapiro
+ca62811 jb march 17 1978 9:44 pm 517 5 517 517 5
+
+CACM-2948
+----------------------------------------------------------------
+<hl>network</hl> 3.81 4.31 ca7774 jb december 28 1977 11:49 2948
+5 2948 2948 5 2948 2948 2948
+
+CACM-0036
+----------------------------------------------------------------
+<hl>network</hl> simulator ibm 65 burroughs 22 cacm december
+1959 conway johnson maxwell ca59126 jb march 22 1978 3:35 pm 36
+
+CACM-0757
+----------------------------------------------------------------
+<hl>network</hl> cacm august 1963 katz ca63841 jb march 13 1978
+7:55 pm 189 5 757 757 5 757 757 5
+
+CACM-1397
+----------------------------------------------------------------
+<hl>interested</hl> programming languages designed manipulation
+algebraic formulas symbol strings applications
+<hl>algorithms</hl> implementation twentyeight papers presented
+lively panel discussion future directions
+
+CACM-0367
+----------------------------------------------------------------
+<hl>network</hl> <hl>network</hl> directed line segments free
+circular elements assumed lines identified terminal nodes nodes
+assumed numbered nontopological system list lines
+
+CACM-1822
+----------------------------------------------------------------
+<hl>network</hl> directed graph 5.32 5.42 ca69118 jb february 15
+1978 12:21 pm 1822 5 1822 1822 5 1822 1822 1822
+
+CACM-1704
+----------------------------------------------------------------
+<hl>network</hl> flows 3.59 5.41 ca6881 jb february 22 1978 9:52
+174 5 174 174 5 174 174 174
+
+CACM-1889
+----------------------------------------------------------------
+<hl>network</hl> involving41 institutions discussed lessons
+include importance separate organization representing small
+colleges necessity oncampus training institutions need special
+programming documentation
+
+CACM-3059
+----------------------------------------------------------------
+<hl>network</hl> decomposition models formulated terms cpuio
+ioio overlap applied analysis problems percentage performance
+improvement cpuio overlap found greatest systems approximate
+
+CACM-3164
+----------------------------------------------------------------
+<hl>algorithms</hl> presented simple path matrix representation
+list artificial gradient experiments suggest large considerably
+faster asymptotically onr number nodes expected number
+
+CACM-0616
+----------------------------------------------------------------
+<hl>information</hl> algebra developed primarily bosak hoped
+report read avid <hl>interest</hl> programming language
+designers implementors <hl>interested</hl> developing
+theoretical approach data processing
+
+CACM-2454
+----------------------------------------------------------------
+<hl>algorithms</hl> closed queueing <hl>networks</hl>
+exponential servers methods presented computing equilibrium
+distribution customers closed queueing <hl>networks</hl>
+exponential servers expressions marginal distributions
+<hl>algorithms</hl> based twodimensional iterative techniques
+highly efficient simple implement implementation considerations
+storage allocation strategies order evaluation examined detail
+cacm september
+
+CACM-2445
+----------------------------------------------------------------
+<hl>routing</hl> problem algorithm a456 cacm september 1973
+fencl <hl>routing</hl> problem shortest path traveling salesman
+problem hamiltonian circuit 5.4 ca7391 jb
+
+CACM-2402
+----------------------------------------------------------------
+<hl>algorithms</hl> adapted environment pictorial pattern
+recognition techniques make number approaches xray structure
+determination based molecular model building chemical
+<hl>information</hl> frame <hl>algorithms</hl> hindered fact
+crosscorrelation model correct structure computed fundamental
+incompleteness measured data compute upper bound
+crosscorrelation simple demonstrates <hl>information</hl> basis
+
+CACM-2988
+----------------------------------------------------------------
+<hl>network</hl> models computer systems empirical analyses
+analytic studies based applying methodology actual multiaccess
+teractive system reported relations workload variables memory
+
+CACM-3070
+----------------------------------------------------------------
+<hl>network</hl> models system processors accuracy efficiency
+hybrid technique demonstrated comparing result computational
+costs hybrid model equivalent simulationonly model cacm
+september
+
+CACM-3038
+----------------------------------------------------------------
+<hl>networks</hl> computers encryption achieve authenticated
+communication computer <hl>networks</hl> discussed protocols
+presented establishment authenticated connections management
+authenticated mail signature verification document
+
+CACM-1906
+----------------------------------------------------------------
+<hl>routing</hl> stepping aperture computer program
+<hl>routing</hl> interconnections twosided printed circuit board
+regular pattern lines pins terminals vias feedthrough holes
+program <hl>routing</hl> basis rerouting interconnections
+aperture resolve conflicts lines vias aperture maximize
+effective line usage conflict resolved aperture arrives lower
+pininterconnections
+
+CACM-1811
+----------------------------------------------------------------
+<hl>network</hl> written parallelprocessor computing system
+execution program simulated data gathered simulation runs
+demonstrate efficient solution problem typical large class
+important
+
+CACM-2516
+----------------------------------------------------------------
+<hl>information</hl> retrieval probabilistic analysis employed
+determine effect hierarchical storage organizations
+<hl>information</hl> retrieval operations data storage
+<hl>hardware</hl> assumed consist nlevels linearly
+<hl>hardware</hl> increasing data access times increasing data
+storage capabilities system consist fast semiconductor memory
+computer core memory extended core storage
+
+CACM-2967
+----------------------------------------------------------------
+<hl>hardware</hl> approach software simulation illustrates
+advantages <hl>hardware</hl> associative memory areas processing
+speed storage requirements flexibility major problem areas
+<hl>hardware</hl> associative ... <hl>hardware</hl> software
+associative memories context computer graphics associative
+processing line drawings apld system utilizes <hl>hardware</hl>
+associative memory creates modifies deletes
+
+CACM-0322
+----------------------------------------------------------------
+<hl>hardware</hl> components recognizing fact occupying storage
+medium required incompatibilities resolved manually setting
+computer system required set conventions considered minimize
+computer
+
+CACM-2306
+----------------------------------------------------------------
+<hl>algorithms</hl> early origins mathematics discussed
+emphasizing aspects greatest <hl>interest</hl> standpoint
+computer science number babylonian tablets translated english
+quoted cacm july
+
+CACM-1745
+----------------------------------------------------------------
+<hl>information</hl> service industry dependent accomplishments
+restructuring <hl>information</hl> processing industry clear
+division costs made computing communications development
+<hl>information</hl> services wide multiaccess ...
+<hl>information</hl> <hl>networks</hl> <hl>information</hl>
+systems computing free enterprise computing economics computer
+installation management government regulation communications
+services distributed data base program
+
+CACM-2562
+----------------------------------------------------------------
+<hl>routing</hl> problem algorithm r456 cacm december 1974 tesch
+ca741212 jb january 13 1978 3:42 pm 2562 5 2562 2562 5
+
+CACM-1770
+----------------------------------------------------------------
+<hl>information</hl> processing background motivation adoption
+acm council november 11 1966 set guidelines professional conduct
+<hl>information</hl> processing tory ethical codes professions
+
+CACM-2625
+----------------------------------------------------------------
+<hl>hardware</hl> protection protection <hl>hardware</hl> shared
+addresses <hl>information</hl> sharing operating systems
+computer utility segmentation tagged architecture 4.3 4.32 4.34
+6.21 ca7476 ... <hl>dealing</hl> shared addresses explained
+inadequacies traced lack efficient absolute address objects
+systems direct capability address shown overcome difficulties
+needed absolute
+
+CACM-2380
+----------------------------------------------------------------
+<hl>hardware</hl> checkout tenex met major goals provided
+reliable service sites arpa <hl>network</hl> cacm march 1972
+bobrow burchfiel murphy tomlinson beranek
+
+CACM-2450
+----------------------------------------------------------------
+<hl>algorithms</hl> words working set commonly encountered
+literature <hl>dealing</hl> resource allocation dearth published
+data program measurements hope workers field find experimental
+
+CACM-2046
+----------------------------------------------------------------
+<hl>information</hl> existing noninferential formatted data
+systems provide users treestructured slightly general
+<hl>network</hl> models data section 1 inadequacies models
+discussed model ... <hl>information</hl> satisfactory solution
+activities users terminals application programs remain
+unaffected internal representation data changed aspects external
+representation changed change data
+
+CACM-3172
+----------------------------------------------------------------
+<hl>network</hl> vertex transformed obstacles vertices reached
+safely cacm october 1979 lozanoperez wesley path finding
+collisionfree paths polyhedral objects polyhedral obstacles
+
+CACM-2880
+----------------------------------------------------------------
+<hl>hardware</hl> mathematical foundations algorithm presented
+performance measures cacm february 1976 artzy hinds saal
+constant divisors division <hl>algorithms</hl> bit addressable
+memory
+
+CACM-2581
+----------------------------------------------------------------
+<hl>network</hl> local parsing 3.42 3.65 3.69 ca74113 jb january
+16 1978 1:41 2581 4 2581 2739 4 2581 2795 4
+
+CACM-3076
+----------------------------------------------------------------
+<hl>networks</hl> <hl>network</hl> reliability security social
+values 2.11 2.12 2.3 3.52 3.53 3.55 ca7882 dh february 7 1979
+2:25 pm 2756
+
+CACM-2059
+----------------------------------------------------------------
+<hl>network</hl> problems control theory traffic problems cacm
+197 crespireghizzi morpurgo graphs oriented nonoriented multiple
+colored graph language extended algol operatorprecedence
+
+CACM-2484
+----------------------------------------------------------------
+<hl>algorithms</hl> results <hl>information</hl> structures list
+tree ring problem <hl>information</hl> organization storage
+reduced defining relations formulating <hl>algorithms</hl> set
+constraints results presented <hl>information</hl> retrieval
+<hl>information</hl> structure organization storage allocation
+tree graph 3.7 3.73 3.74 5.32 ca7372 jb january 23 1978 1:14 pm
+
+CACM-3127
+----------------------------------------------------------------
+<hl>hardware</hl> interface user programs application programs
+thoth highly portable thoth encourages structuring programs
+<hl>networks</hl> communicating processes providing efficient
+interprocess communication
+
+CACM-2894
+----------------------------------------------------------------
+<hl>network</hl> measurement system employed external
+measurement tool data collected analyzed demonstration
+methodology leading pragmatic figureofmerit evaluation results
+included cacm december
+
+CACM-3134
+----------------------------------------------------------------
+<hl>information</hl> storage retrieval paper describes method
+organization retrieval attribute based <hl>information</hl>
+systems normal multiplication table directory
+<hl>information</hl> system <hl>algorithms</hl> organization ...
+<hl>algorithms</hl> evaluating appropriateness approach
+<hl>information</hl> system class <hl>information</hl> systems
+normal multiplication table method yields rapid retrieval
+economical space requirement conventional ...
+<hl>information</hl> method suitable queries requesting group
+<hl>information</hl> items possess set attributes possibly
+attributes examples results respect number disk accesses disk
+
+CACM-2424
+----------------------------------------------------------------
+<hl>hardware</hl> software fault multiple faults lead unreliable
+operation faults happen reinforce prime dynamic verification
+ensure users <hl>information</hl> user gratuitously presence
+<hl>hardware</hl> software faultthe amount additional
+<hl>hardware</hl> software required dynamic verification modest
+cacm november 1973 fabry operating systems data security fault
+
+CACM-3131
+----------------------------------------------------------------
+<hl>hardware</hl> arithmetic applications <hl>algorithms</hl>
+8bit 16bit implementations focus included cacm march 1979 edgar
+lee number representation logarithmic arithmetic computational
+speed
+
+CACM-2198
+----------------------------------------------------------------
+<hl>network</hl> structures mentioned discussion problem
+catering high volume transactions initiated terminals parametric
+usersthe lowest level user cobol basis development work
+
+CACM-2311
+----------------------------------------------------------------
+<hl>information</hl> system development system development
+categorized generational point view parallels commonly computing
+system generations generation scope development projects
+technological world
+
+CACM-1409
+----------------------------------------------------------------
+<hl>hardware</hl> basic research computer systems design unusual
+arrangement <hl>information</hl> 22 mc memory simple interface
+34 kc arithmetic unit results effective
+
+CACM-2016
+----------------------------------------------------------------
+<hl>hardware</hl> clocks data channels general purpose
+programmed probing recording tools specialized measurement
+facilities measurements <hl>interest</hl> system combines demand
+paging multiprogramming
+
+CACM-2396
+----------------------------------------------------------------
+<hl>network</hl> quillians tlc muse model understand simple
+english processes english sentences unrestricted content
+restricted format model applies syntactic analysis eliminate
+
+CACM-1199
+----------------------------------------------------------------
+<hl>hardware</hl> software systems difficult base decisions
+experience instances benefits comparable experience problem
+situation paper mathematical model lockheed central computer
+center
+
+CACM-2377
+----------------------------------------------------------------
+<hl>hardware</hl> access control <hl>hardware</hl> access
+control computer utility timesharing shared <hl>information</hl>
+segmentation virtual memory multics 4.32 6.21 ca7234 jb january
+... <hl>hardware</hl> architecture implementing protection rings
+protection computations <hl>information</hl> important aspect
+computer utility system segmentation memory addressing scheme
+protection achieved part
+
+CACM-3111
+----------------------------------------------------------------
+<hl>network</hl> security passive eavesdropping key distribution
+public key cryptosystem 3.56 3.81 ca7845 dh february 26 1979
+4:18 pm 338 4
+
+CACM-1014
+----------------------------------------------------------------
+<hl>interested</hl> interactions impossible ignore experimental
+designs problem getting error terms natural look computer handle
+bulk work involved computing interactions program
+
+CACM-3153
+----------------------------------------------------------------
+<hl>algorithms</hl> partition main memory classes jobs
+considered initially closed system consisting process paging
+devices fixed numbers jobs studied determine optimal
+<hl>algorithms</hl> numerical solutions economical lower bounds
+expected response times functions control parameters obtained
+applying results systems job classes cacm july
+
+CACM-0944
+----------------------------------------------------------------
+<hl>information</hl> storage retrieval properties applicable
+problems involving large quantities data problems quantity word
+length distribution stored <hl>information</hl> known priori
+rapidly
+
+CACM-2358
+----------------------------------------------------------------
+<hl>hardware</hl> addressing user system programs
+<hl>information</hl> independent physical storage location
+<hl>information</hl> stored segments potentially sharable
+carries independent attributes size access ...
+<hl>information</hl> system users increasingly apparent
+contemporary systems permit degree sharing sharing accomplished
+allowing users share data input output <hl>information</hl>
+stored ... <hl>hardware</hl> cacm 1972 bensoussan clingen daley
+operating system multics virtual memory segmentation
+<hl>information</hl> sharing paging memory management memory
+hierarchy 4.3
+
+CACM-1612
+----------------------------------------------------------------
+<hl>dealing</hl> complicated syntactic structures practice
+sparsely occupied arithmetic expressions cacm april 1967 brooker
+ca6743 jb february 28 1978 11:32 1612
+
+CACM-1696
+----------------------------------------------------------------
+<hl>dealing</hl> sequences stochastic matrices discussed
+computation times investigated experimentally compared recently
+propose method cacm september 1968 fox landi stochastic matrix
+
+CACM-0356
+----------------------------------------------------------------
+<hl>interest</hl> algorithm 45 cacm april 1961 ingerman ca61412
+jb march 17 1978 12: 356 5 356 356 5 356 356
+

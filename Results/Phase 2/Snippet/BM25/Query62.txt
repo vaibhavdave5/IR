@@ -1,0 +1,690 @@
+CACM-1961
+----------------------------------------------------------------
+<hl>circuits</hl> graph theoretically efficient search algorithm
+presented exhaustive search find elementary <hl>circuits</hl>
+graph algorithm easily modified find elementary
+<hl>circuits</hl> attribute <hl>relating</hl> speed algorithm
+number vertices number arcs speed related number
+<hl>circuits</hl> graph give relation speed <hl>complexity</hl>
+extensions undirected sgraphs discussed
+
+CACM-2932
+----------------------------------------------------------------
+<hl>complexity</hl> computations framework research
+<hl>theory</hl> <hl>complexity</hl> computations emphasizing
+terrelation seemingly diverse problems methods illustrative
+examples practical theoretical significance directions research
+
+CACM-2430
+----------------------------------------------------------------
+<hl>circuits</hl> graph algorithm a459 cacm october 1973 syslom
+algorithm graph <hl>theory</hl> circuit search algorithm path
+search algorithm searching 3.74 4.22
+
+CACM-2720
+----------------------------------------------------------------
+<hl>theory</hl> disk drive characterized queueing model service
+time disk drive represented probability density function sum
+<hl>uniform</hl> distributions total response time
+<hl>results</hl> faster devices higher utilization factors
+number device types utilized tends decrease decreasing load
+specific examples 2314 333 combinations examined
+
+CACM-2327
+----------------------------------------------------------------
+<hl>theory</hl> brains source ideas automata theorythe study
+brainhas pushed mathematical development <hl>theory</hl> paper
+suggests ways automata <hl>theory</hl> evolve 25 years
+
+CACM-2401
+----------------------------------------------------------------
+<hl>parallel</hl> nature process possibility shrinking pattern
+regardless <hl>complexity</hl> configuration problems regarding
+merging disconnection patterns process determination maximum
+number steps obtain ... <hl>parallel</hl> processing algorithm
+shrinking binary patterns obtain single isolated elements
+pattern presented procedure counting patterns matrix hardware
+implementation algorithm large
+
+CACM-0320
+----------------------------------------------------------------
+<hl>circuits</hl> set rules writing logic tables explained means
+simple examples logic structure vending machine logic tables
+logic tables twodimensional nature
+
+CACM-3156
+----------------------------------------------------------------
+<hl>parallel</hl> computers present <hl>parallel</hl> algorithm
+n2 processors find connected components undirected graph
+vertices time time bound achieved n$n$log2n processors algorithm
+
+CACM-0950
+----------------------------------------------------------------
+<hl>parallel</hl> methods integrating ordinary differential
+equations paper dedicated proposition order take full advantage
+realtime computations highly <hl>parallel</hl> computers
+expected future
+
+CACM-3086
+----------------------------------------------------------------
+<hl>complexity</hl> computing measure uai bi decision tree
+<hl>complexity</hl> computing measure union possibly overlapping
+intervals shown log comparisons linear functions interval
+
+CACM-2927
+----------------------------------------------------------------
+<hl>complexity</hl> finding primes modified sieve eratosthenes
+doubly linked lists yields algorithm arithmetic
+<hl>complexity</hl> upper bound shown equivalent theoretical
+lower bound <hl>complexity</hl> logn log log logn storage
+requirement lognlog logn bits cacm september 1977 mairson
+computational <hl>complexity</hl> sieve prime number generation
+
+CACM-1856
+----------------------------------------------------------------
+<hl>theory</hl> language teachable language comprehender tlc
+program designed capable taught comprehend english text text
+program seen input comprehends text correctly <hl>relating</hl>
+text memorys prior content taught program needed tlc presently
+small number examples assertions capabilities system notations
+expressing provided program <hl>relating</hl> text stored
+assertions generalize assertion capability put system help
+comprehend great sentences future addition single factual
+assertion linguistic capability <hl>theory</hl> language
+comprehension cacm august1969 quillian natural language
+processing natural language comprehension teachable computer
+program psychological simulation human memory simulation
+
+CACM-1368
+----------------------------------------------------------------
+<hl>circuits</hl> combinatorial matrix directed nondirected arcs
+paper describes computer program generates systematically
+exhaustively hamiltonian <hl>circuits</hl> specific application
+made traveling salesman
+
+CACM-2702
+----------------------------------------------------------------
+<hl>complexity</hl> lrk testing problem determining arbitrary
+contextfree grammar member easily parsed subclass grammars lrk
+grammars considered time <hl>complexity</hl> problem analyzed
+<hl>complexity</hl> problem depends strongly representation
+chosen specifically shown problem npcomplete expressed unary
+expressed binary problem complete nondeterministic exponential
+time <hl>results</hl>
+
+CACM-2195
+----------------------------------------------------------------
+<hl>complexity</hl> optimization process discussed method
+suitable <hl>parallel</hl> processing operations relative state
+computed <hl>parallel</hl> number stages equal length curves
+log2 approximate
+
+CACM-1424
+----------------------------------------------------------------
+<hl>circuits</hl> list processing mapping black diagrams digital
+<hl>circuits</hl> list structures list processing program
+written control data 36 mapping carry circuit
+
+CACM-2189
+----------------------------------------------------------------
+<hl>circuits</hl> systematic generation specific class
+permutations fundamental scheduling problems nonoriented
+complete graph vertices hamitonian <hl>circuits</hl> equivalent
+.5n 1 specific permutations
+
+CACM-1143
+----------------------------------------------------------------
+<hl>results</hl> experiments radioactive tracers human animal
+subjects <hl>results</hl> show values fitted parameters
+sensitive variations fitting procedure great care sensitive
+variations
+
+CACM-1948
+----------------------------------------------------------------
+<hl>theory</hl> survey computers applied increasingly diverse
+range problems group <hl>theory</hl> important areas application
+present coset enumeration subgroup lattices automorphism groups
+<hl>theory</hl> programs range simple combinatorial numerical
+programs large symbol manipulation systems survey important
+algorithms contrasted <hl>results</hl> obtained existing
+programs extensive
+
+CACM-1806
+----------------------------------------------------------------
+<hl>relating</hl> literature presented <hl>theory</hl> method
+converges shown fundamental dilemma exists breakdown practical
+applications avoid difficulty improve rate convergence root
+modifications
+
+CACM-2216
+----------------------------------------------------------------
+<hl>results</hl> agreement previously published <hl>results</hl>
+moment cases <hl>uniform</hl> nonuniform distribution branching
+ratio moment case <hl>uniform</hl> distribution branching ratio
+cacm february
+
+CACM-2076
+----------------------------------------------------------------
+<hl>uniform</hl> meshes simple procedure presented constructing
+cubic splines periodic nonperiodic <hl>uniform</hl> meshes arcs
+cubics suffice construct basis cardinal splines algorithm
+
+CACM-2790
+----------------------------------------------------------------
+<hl>circuits</hl> graph algorithm r459 cacm february 1975 syslo
+ca7529 jb january 12 1978 2:54 pm 279 5 279 279 5
+
+CACM-2931
+----------------------------------------------------------------
+<hl>complexity</hl> <hl>theory</hl> applications logic big
+question methods logic significance direction applied parts
+computability <hl>theory</hl> programming languages offer
+obvious opportunity syntactic <hl>theory</hl> complete examples
+give wideranging mathematical answers queries machine computable
+process machine simulate process programs naturally enter giving
+descriptions processes
+
+CACM-1725
+----------------------------------------------------------------
+<hl>circuits</hl> digit values present individual digit columns
+memory <hl>circuits</hl> individual digit columns digits values
+digits memory empty <hl>circuits</hl> paper termed
+
+CACM-2975
+----------------------------------------------------------------
+<hl>uniform</hl> insertion structured data structures cacm april
+1977 hollander data structures directed graphs <hl>uniform</hl>
+insertion 4.34 ca7747 jb december 29
+
+CACM-3084
+----------------------------------------------------------------
+<hl>results</hl> cacm july 1978 perl itai avni average number
+accesses binary search database interpolation search retrieval
+searching <hl>uniform</hl> distribution 4.4
+
+CACM-1566
+----------------------------------------------------------------
+<hl>uniform</hl> approximations sqrtx provide optimal starting
+values problem obtaining optimal starting values problem
+obtaining optimal starting values stated basic <hl>results</hl>
+
+CACM-2924
+----------------------------------------------------------------
+<hl>theory</hl> algorithms teractive means manmachine
+communication software static dynamic graphics display basic
+technique employed modified lofting method sectional curves
+represented
+
+CACM-1888
+----------------------------------------------------------------
+<hl>uniform</hl> mesh size error quintic spline yx typical error
+onethird numerovs method requiring differential equation
+satisfied mesh points <hl>results</hl> set
+
+CACM-2333
+----------------------------------------------------------------
+<hl>uniform</hl> solid angle algorithm r381 cacm june 1972
+schrack random vector generator points <hl>uniform</hl> sphere
+spherically symmetric probability distribution 5.5
+
+CACM-1603
+----------------------------------------------------------------
+<hl>uniform</hl> device machine interface elements keyboards
+graphic input devices interval timers software relieves user
+program details inputoutput timing buffering task
+
+CACM-2649
+----------------------------------------------------------------
+<hl>uniform</hl> reciprocal distributions cacm 1974 tsao
+significant digits floatingpoint operations roundoff errors
+<hl>uniform</hl> distribution reciprocal distribution variance
+mean valve 5.1
+
+CACM-2714
+----------------------------------------------------------------
+<hl>parallel</hl> processors consider linearly ordered sets bn
+mn pm <hl>parallel</hl> processors working synchronously paper
+presents algorithm merging <hl>parallel</hl> processors requires
+... <hl>parallel</hl> merging <hl>parallel</hl> binary insertion
+5.31 ca7515 jb january 6 1978 1:5 2714 4 2714 375 4 2714 2664 5
+
+CACM-2809
+----------------------------------------------------------------
+<hl>theory</hl> norms demonstrated <hl>results</hl> concerning
+norms values archimedian vector lattice necessarily totally
+ordered generalization order unit norms lnorms mnorms
+application
+
+CACM-1266
+----------------------------------------------------------------
+<hl>relating</hl> purpose fortran standardization appendixes asa
+fortran standard cacm 1965 ca6555 jb march 7 1978 2:4 pm 1266 5
+1266
+
+CACM-1262
+----------------------------------------------------------------
+<hl>parallel</hl> processing statements suggested allow
+programmer writing procedureoriented language sections program
+executed <hl>parallel</hl> statements hold serve partly brackets
+establishing range
+
+CACM-3175
+----------------------------------------------------------------
+<hl>parallel</hl> code letters joint letter probabilities
+iterating updating scheme <hl>results</hl> improved estimates
+finally lead breaking cipher method applies successfully
+examples
+
+CACM-2484
+----------------------------------------------------------------
+<hl>results</hl> information structures list tree ring problem
+information organization storage reduced defining relations
+formulating algorithms set constraints <hl>results</hl>
+presented valuable
+
+CACM-2326
+----------------------------------------------------------------
+<hl>theory</hl> computation fix point <hl>theory</hl> scott
+semantics computer programs defined terms fix points recursive
+programs justification existing verification techniques
+extension
+
+CACM-1309
+----------------------------------------------------------------
+<hl>complexity</hl> format variety costs sufficiently low
+individually tailored reports prepared manager system requires
+initial preparation large data banks data elementary
+
+CACM-2700
+----------------------------------------------------------------
+<hl>parallel</hl> programs proving <hl>parallel</hl> program
+property convenient assume statement indivisible statement
+interleaved rest program sufficient conditions obtained show
+assumption statement
+
+CACM-2232
+----------------------------------------------------------------
+<hl>results</hl> consist settheoretic definition widthatangle
+theorem <hl>relating</hl> pattern boundary radius vector
+descriptions alternate widths widths calculated illustrative
+graphical tabular comparisons
+
+CACM-2973
+----------------------------------------------------------------
+<hl>parallel</hl> computer <hl>parallel</hl> sorting
+<hl>parallel</hl> merge routing comparison steps perfect shuffle
+processor terconnection pattern 4.32 5.25 5.31 ca7749 jb
+december
+
+CACM-1933
+----------------------------------------------------------------
+<hl>uniform</hl> probability density <hl>uniform</hl> frequency
+function simulation prime factorization primitive roots ca6925
+jb february 2 1978 11:7 1933 5 1933
+
+CACM-2469
+----------------------------------------------------------------
+<hl>circuits</hl> study circuit realizations petri nets leads
+demonstration usefulness modeling speed independent operation
+usefulness emphasized design speed independent processor modules
+
+CACM-2289
+----------------------------------------------------------------
+<hl>theory</hl> cellular logicinmemory arrays <hl>parallel</hl>
+processing special purpose computers algorithms distance
+spanning tree problems 5.32 6.22 6.5 ca7291 jb january
+
+CACM-2709
+----------------------------------------------------------------
+<hl>results</hl> timespace limitations theorems
+<hl>relating</hl> relative power control structures notions
+equivalence conclusion impact theoretical <hl>results</hl>
+practicing programmer importance onein oneout
+
+CACM-2337
+----------------------------------------------------------------
+<hl>complexity</hl> technique proving minmax norms sorting
+algorithms algorithm finding minimum maximum elements set fewest
+comparisons proved optimal technique cacm june
+
+CACM-2685
+----------------------------------------------------------------
+<hl>parallel</hl> execution loops methods developed
+<hl>parallel</hl> execution iterations loop asynchronous
+multiprocessor computers array computers considered practical
+application design compilers computers
+
+CACM-2622
+----------------------------------------------------------------
+<hl>results</hl> unlikely finally human engineering problems
+<hl>relating</hl> scheme discussed cacm august 1974 evans jr
+kantrowitz weiss operating system security security
+
+CACM-2134
+----------------------------------------------------------------
+<hl>results</hl> obtained adapted version silvers algol
+procedure discussed relation solution time problem size cacm
+december 1971 bourgeois lassalle operations research
+
+CACM-3163
+----------------------------------------------------------------
+<hl>complexity</hl> optimal earlier <hl>results</hl> shown
+deletion structure performed olog time result paper negative
+answer question trees examples kind deletion smaller
+
+CACM-2266
+----------------------------------------------------------------
+<hl>parallel</hl> algorithm approximating zeros polynomial real
+zeros algorithm based newtons method simultaneously approximates
+zeros polynomial real zeros algorithm conceptually suitable
+
+CACM-2227
+----------------------------------------------------------------
+<hl>relating</hl> general programming methodology drawn cacm
+january 1971 hoare proofs programs programming methodology
+program documentation program correctness <hl>theory</hl>
+programming 4
+
+CACM-1158
+----------------------------------------------------------------
+<hl>parallel</hl> processing constructs organizing explicating
+<hl>parallel</hl> program segments discussed extensions algol 6
+constructs serve metacommands motivated equipment
+multiprocessing capability cacm
+
+CACM-2785
+----------------------------------------------------------------
+<hl>parallel</hl> computer architectures cacm march 1975 lawrie
+layman baer randal glypnir illiac iv programming language
+<hl>parallel</hl> computation <hl>parallel</hl> architecture 4.2
+
+CACM-1664
+----------------------------------------------------------------
+<hl>relating</hl> curvilinear coordinates interest orthogonal
+cartesian triad program coordinate transformation equations
+supplied input computer derive navierstokes equations continuity
+equation equations
+
+CACM-1887
+----------------------------------------------------------------
+<hl>relating</hl> leading principal minors developed determinant
+pentadiagonal matrix numerical included calculating eigenvalues
+cacm june 1969 sweet pentadiagonal matrix quindiagonal matrix
+
+CACM-2918
+----------------------------------------------------------------
+<hl>results</hl> terleaved memory drawn previous work comparison
+tracedriven simulations verify conclusions analysis cacm october
+1977 smith memory terference interleaving multiprocessing
+
+CACM-2648
+----------------------------------------------------------------
+<hl>theory</hl> package optimized trial division routine number
+<hl>theory</hl> package doubly linked list structures storing
+multiprecise integers package coded ibms basic
+
+CACM-3059
+----------------------------------------------------------------
+<hl>parallel</hl> processing programs application cpuio ioio
+overlap approximate queueing models internal <hl>parallel</hl>
+processing individual programs multiprogrammed system developed
+paper solution
+
+CACM-1382
+----------------------------------------------------------------
+<hl>relating</hl> theme symposium discussed author examines
+projections concerning supply demand mathematicians united
+states mid197s comments briefly factors influence professional
+activities
+
+CACM-3007
+----------------------------------------------------------------
+<hl>complexity</hl> computations corrigendum cacm march 1978
+rabin ca7836 jb march 28 1978 1:2 pm 37 5 37 37 5 37
+
+CACM-2346
+----------------------------------------------------------------
+<hl>theory</hl> coding <hl>theory</hl> hutucker method minimum
+redundancy coding 5.6 ca72514 jb january 31 1978 9:3 2346 4 2346
+2459 4
+
+CACM-1409
+----------------------------------------------------------------
+<hl>results</hl> effective latency time possibilities
+associative memory arithmetic unit command structure similar
+large <hl>parallel</hl> machines flipflop arithmetic control
+registers hardware
+
+CACM-0678
+----------------------------------------------------------------
+<hl>circuits</hl> generates sets machine instructions
+subsequently executed host computer techniques discussed
+increasing sophistication boolean compiler optimize bittime
+computer simulation techniques
+
+CACM-3075
+----------------------------------------------------------------
+<hl>parallel</hl> sorting algorithms <hl>parallel</hl>
+bucketsort algorithm presented requires time olog processors
+algorithm makes technique requires space product processors time
+realistic
+
+CACM-2837
+----------------------------------------------------------------
+<hl>complexity</hl> vin ith selection problem considered upper
+bound vin improves bound standard hadiansobel algorithm
+generalization kirkpatrickhadiansobel algorithm extends
+kirkpatricks method
+
+CACM-2580
+----------------------------------------------------------------
+<hl>theory</hl> additional heuristics fundamental method set
+productions sets applicability rules weight rules operate
+productions deciding extent rounds generated computer
+implementation <hl>theory</hl> needed roundsall hardware
+required structural levels pieces author tried address musicians
+computer scientists cacm november 1974 rader artificial
+intelligence
+
+CACM-0141
+----------------------------------------------------------------
+<hl>parallel</hl> processing cacm october 196 yarbrough ca617 jb
+march 2 1978 8:16 pm 141 5 141 141 5 141 141
+
+CACM-0392
+----------------------------------------------------------------
+<hl>parallel</hl> processing cacm february 1961 nekora ca6126 jb
+march 17 1978 12:58 392 5 392 392 5 392 392 392
+
+CACM-2938
+----------------------------------------------------------------
+<hl>complexity</hl> reasoning program validation sequential
+programming multiprogramming realtime programming adhering
+strict programming discipline suitable highlevel language molded
+discipline <hl>complexity</hl> reasoning
+
+CACM-2997
+----------------------------------------------------------------
+<hl>complexity</hl> proposed algorithms optimal multiplicative
+constant cacm february 1977 preparata hong computational
+<hl>complexity</hl> convex hull optimal algorithms planar set
+poin
+
+CACM-1648
+----------------------------------------------------------------
+<hl>uniform</hl> random algorithm 294 cacm january 1967 strome
+ca6717 jb february 28 1978 4:37 pm 1648 5 1648 1648 5
+
+CACM-2175
+----------------------------------------------------------------
+<hl>parallel</hl> combination modes paper shows expression
+execution time minimized consideration ordering subexpressions
+subexpressions executed order decreasing memory processor time
+requirements <hl>parallel</hl> exceeds number processors
+execution subexpressions postponed procedure combines
+requirement earlier ordering considerations provide optimal
+execution sequence cacm july 1971
+
+CACM-2323
+----------------------------------------------------------------
+<hl>theory</hl> special functions list number natural
+developments field algebraic manipulation prospects general
+<hl>theory</hl> functions defined ordinary differential
+equations discussed claim
+
+CACM-2342
+----------------------------------------------------------------
+<hl>parallel</hl> processes kinds interference communicating
+<hl>parallel</hl> processes examined dijkstra knuth solutions
+mutual exclusion problem subproblems form <hl>parallel</hl>
+programs informal proofs <hl>parallel</hl> processes regarded
+machine proceeds state collection pertinent data values process
+configurations state accordance transition rule set rules yields
+sequences
+
+CACM-2703
+----------------------------------------------------------------
+<hl>complexity</hl> circularity problem attribute grammars
+attribute grammars extension contextfree grammars devised knuth
+mechanism including semantics contextfree language syntax
+language circularity
+
+CACM-2851
+----------------------------------------------------------------
+<hl>parallel</hl> programs formal models <hl>parallel</hl>
+computation presented abstract conceptual model parallelprogram
+model model distinguish control data states model includes
+capability <hl>parallel</hl> place assertions shown incomplete
+formalization deadlock presented concept norm introduced yields
+extension deadlock problem floyds technique proving termination
+discussed
+
+CACM-1870
+----------------------------------------------------------------
+<hl>uniform</hl> pseudorandom integers construct binary numbers
+probability bit word 1bit assume desired parameter techniques
+making numbers simulation programming cacm july
+
+CACM-2596
+----------------------------------------------------------------
+<hl>results</hl> presented compare method buddy method
+<hl>results</hl> <hl>uniform</hl> request distribution buddy
+system total memory fragmentation weighted buddy algorithm total
+fragmentation
+
+CACM-1048
+----------------------------------------------------------------
+<hl>theory</hl> heat ideal fluid flow stress concentration
+<hl>theory</hl> reduce assumption axial symmetry study elliptic
+partial differential equation dirichlettype problems equation
+
+CACM-1302
+----------------------------------------------------------------
+<hl>parallel</hl> signaling speeds data transmission proposed
+american stand ard cacm march 1965 ca6535 jb march 7 1978 6:8 pm
+132
+
+CACM-2631
+----------------------------------------------------------------
+<hl>results</hl> simplified organization promises considerable
+cost advantages cacm june 1974 barton creasey lynch snell text
+searching information <hl>theory</hl> organization direct
+
+CACM-1420
+----------------------------------------------------------------
+<hl>uniform</hl> pseudorandom number generator multiplicative
+congruential pseudorandom number generator discussed modulus
+largest prime accumulator capacity multiplier primitive root
+prime generator
+
+CACM-2743
+----------------------------------------------------------------
+<hl>complexity</hl> data modeling computing models binary
+comparisons 5.25 5.31 ca7561 jb january 9 1978 12:45 pm 2743 5
+2743 2743
+
+CACM-2570
+----------------------------------------------------------------
+<hl>parallel</hl> processing systems problem scheduling
+processors minimize execution time program consists set
+partially ordered tasks studied cases task execution times
+
+CACM-2895
+----------------------------------------------------------------
+<hl>parallel</hl> processes specifications constrain ts order
+events computation occur language write specifications
+readerswriters problem writer priority readerswriters problem
+cacm december
+
+CACM-0940
+----------------------------------------------------------------
+<hl>uniform</hl> variable direct computer memory location
+sequence appropriately chosen conditional probabilities
+efficient memory space fast programs result cacm january 1963
+
+CACM-1828
+----------------------------------------------------------------
+<hl>parallel</hl> accessing <hl>parallel</hl> search search data
+base synchronization locking deadlock 3.73 3.74 4.32 ca69112 jb
+february 15 1978 1:13 pm
+
+CACM-1928
+----------------------------------------------------------------
+<hl>results</hl> obtained clear separation structural behavioral
+model description reduction tasks converting boolean logic
+structural model elimination processes achieving exclusive
+simulation
+
+CACM-1934
+----------------------------------------------------------------
+<hl>theory</hl> graphs algorithm solve problem presented cacm
+february 1969 redziejowski arithmetic expression compiler design
+graph <hl>theory</hl> programming storage minimization
+topological
+
+CACM-2598
+----------------------------------------------------------------
+<hl>theory</hl> noiseless coding <hl>results</hl> noiseless
+coding literature explore limitations algorithms solve decision
+table problem analogy problems develop improvements information
+algorithm ... <hl>theory</hl> approach converting limitedentry
+decision tables computer programs paper modifies earlier
+algorithm converting decision tables flowcharts minimize
+subsequent execution time
+
+CACM-2896
+----------------------------------------------------------------
+<hl>parallel</hl> programs correct <hl>parallel</hl> program
+dijkstras onthefly garbage collector proved correct proof method
+developed owicki fine degree terleaving program makes
+
+CACM-1795
+----------------------------------------------------------------
+<hl>parallel</hl> computation cacm december 1969 fateman code
+optimization sequencing operations detection common
+subexpressions 4.12 ca691217 jb february 15 1978 1:59
+
+CACM-2557
+----------------------------------------------------------------
+<hl>parallel</hl> computers discussed algorithms presented
+properly parse matrix sequences subject constraints machine
+organization cacm january 1973 muraoka kuck matrix expressions
+
+CACM-2057
+----------------------------------------------------------------
+<hl>uniform</hl> solid angle algorithm 381 $g5 cacm 197 knop
+random number random vector random number generator probability
+distribution frequency distribution
+
+CACM-0973
+----------------------------------------------------------------
+<hl>relating</hl> ventricular dipoles surface potentials
+sketched shown inverse problemthat determining electrical heart
+parameters basis skin potential measurementsmay viewed nonlinear
+multipoint
+
+CACM-1101
+----------------------------------------------------------------
+<hl>theory</hl> computer curriculum cacm april 1964 muller
+ca6447 jb march 1 1978 1:49 111 5 111 111 5 111 111
+

@@ -1,0 +1,647 @@
+CACM-3125
+----------------------------------------------------------------
+<hl>global</hl> <hl>optimization</hl> suppression partial
+redundancies elimination redundant computations moving invariant
+computations <hl>loops</hl> separately invariants moved outward
+loop loop propose move
+
+CACM-2701
+----------------------------------------------------------------
+<hl>global</hl> flow analysis abstract onlycomplete paper jacm
+231 january 1976 algorithm <hl>global</hl> flow analysis
+reducible graphs presented algorithm shown treat ...
+<hl>global</hl> flow analysis data flow code
+<hl>optimization</hl> common subexpression elimination livedead
+analysis information propagation flow graph reducibility
+gotoless programming depthfirst
+
+CACM-2944
+----------------------------------------------------------------
+<hl>global</hl> flow analysis performed source program shown
+compile time program actions affect reference counts cells
+deduced information <hl>find</hl> actions cancel
+
+CACM-2464
+----------------------------------------------------------------
+<hl>optimization</hl> algorithm a454 cacm august 1973 richardson
+kuester <hl>optimization</hl> constrained <hl>optimization</hl>
+boxs algorithm 5.41 ca7381 jb january 23 1978 1:34
+
+CACM-2835
+----------------------------------------------------------------
+<hl>optimization</hl> simple method detection recursive
+procedures presented compiler <hl>optimization</hl>
+implementation considerations discussed modification algorithm
+improve <hl>optimization</hl> analysis determine subset values
+
+CACM-2195
+----------------------------------------------------------------
+<hl>global</hl> approach greater flexibility adequacy problem
+achieved relation structure figure merit complexity
+<hl>optimization</hl> process discussed method suitable parallel
+processing operations
+
+CACM-2344
+----------------------------------------------------------------
+<hl>optimization</hl> parameters controllable scheduling
+algorithm affect system performance predictable manner benefit
+<hl>optimization</hl> features control scheduling algorithm
+marked effect measure performance ... <hl>optimization</hl>
+performance timesharing systems simulation simulation model
+timesharing system finite noncontiguous store infinite auxiliary
+store study variation system parameters store
+<hl>optimization</hl> parameters controllable scheduling
+algorithm marked effect system performance system performance
+based mean cost delay jobs processed shown significant
+improvements
+
+CACM-1807
+----------------------------------------------------------------
+<hl>optimization</hl> expressions compilers compilation
+subscripts register allocation <hl>loops</hl> common
+subexpressions invariant calculations 4.12 ca69125 jb february
+15 1978 4:16 pm ... <hl>optimization</hl> expressions fortran
+method optimizing computation arithmetic indexing expressions
+fortran program presented method based linear analysis
+definition points variables branching
+
+CACM-2877
+----------------------------------------------------------------
+<hl>global</hl> data relationships program exposed codified
+static analysis methods paper procedure determines definitions
+possibly reach node control flow graph program
+
+CACM-1231
+----------------------------------------------------------------
+<hl>optimization</hl> redundant instructions discarded final
+stage compilation simple optimizing technique called peephole
+<hl>optimization</hl> method examplesare cacm july 1965 mckeeman
+ca6574
+
+CACM-2836
+----------------------------------------------------------------
+<hl>optimization</hl> cacm september 1976 loui derivation tree
+parse tree probabilistic grammar structural ambiguity
+combinatorial <hl>optimization</hl> 5.23 5.49 ca7693 jb january
+
+CACM-2897
+----------------------------------------------------------------
+<hl>optimization</hl> <hl>optimization</hl> techniques data flow
+analysis 4.12 4.13 4.22 ca77123 jb february 1 198 3:54 2897 5
+2897 2897 5
+
+CACM-2904
+----------------------------------------------------------------
+<hl>optimization</hl> algorithms cacm november 1977 cocke
+compilers <hl>optimization</hl> compiled code program analysis
+operator strength reduction test replacement strongly connected
+region
+
+CACM-2611
+----------------------------------------------------------------
+<hl>optimization</hl> algorithm r454 cacm august 1974 shere
+ca74813 jb january 17 1978 9:28 2611 5 2611 2611 5 2611 2611
+
+CACM-2716
+----------------------------------------------------------------
+<hl>global</hl> query <hl>optimization</hl> exploiting disjoint
+pipelined concurrency coordinating sort orders temporary
+relations employing directory analysis maintaining locality page
+references algorithms
+
+CACM-2680
+----------------------------------------------------------------
+<hl>optimization</hl> model assignment disk packs packs resident
+nonresident status presented heuristics suggested cases
+inefficient compute actual optimum cacm march 1974
+
+CACM-1795
+----------------------------------------------------------------
+<hl>optimization</hl> sequencing operations detection common
+subexpressions 4.12 ca691217 jb february 15 1978 1:59 pm 1795 5
+1795 1795 5 1795
+
+CACM-2964
+----------------------------------------------------------------
+<hl>optimization</hl> resident overflow storage 3.73 3.74 ca7758
+jb december 29 1977 1:48 2964 5 2964 2964 5 2964 2964 2964
+
+CACM-1676
+----------------------------------------------------------------
+<hl>optimization</hl> occurs pass ii doloop machinedependent
+<hl>optimization</hl> pass iii cacm november 1968 mendicino
+martin ranelletti zwakenberg compiler compilercompiler machine
+independence
+
+CACM-1947
+----------------------------------------------------------------
+<hl>optimization</hl> methods analyzing control flow data flow
+programs compilation applied transforming program improve object
+time efficiency dominance relationships indicating statements
+<hl>global</hl> common expression elimination loop
+identification implementation optimizations os36 fortran cacm
+january 1969 lowry medlock compilers data flow analysis
+dominance
+
+CACM-3018
+----------------------------------------------------------------
+<hl>optimization</hl> problem connection method
+<hl>optimization</hl> problem shown equivalent problem covering
+edges graph complete subgraphs objective minimizing number
+complete subgraphs relationship
+
+CACM-3080
+----------------------------------------------------------------
+<hl>optimization</hl> step code generation low level language
+programs need generated compiler fact hand coded examples
+usefulness system interesting results ability
+
+CACM-2616
+----------------------------------------------------------------
+<hl>optimization</hl> practice extensions theory computation
+computability suggested cacm august 1974 cavouras decision
+tables program <hl>optimization</hl> debugging semantics theory
+programming systems
+
+CACM-2923
+----------------------------------------------------------------
+<hl>global</hl> information helpful solving familiar
+<hl>global</hl> flow analysis problems illustrative application
+live variable analysis presented graphs involved constructed
+analyzed programs
+
+CACM-2495
+----------------------------------------------------------------
+<hl>optimization</hl> register assignment trees 4.12 5.24 5.32
+ca7365 jb january 23 1978 2:24 pm 2495 5 2495 2495 5 2495
+
+CACM-0693
+----------------------------------------------------------------
+<hl>optimization</hl> problems involving unimodal functions
+variables technique proven optimal sense onedimensional
+fibonaccian search valuable kinds calculations cacm october 1963
+krolak
+
+CACM-2253
+----------------------------------------------------------------
+<hl>optimization</hl> transforming original algorithm machine
+code goal generate code handling tedious address calculations
+necessitated complicated data structures paper preoccupied
+indexing
+
+CACM-2142
+----------------------------------------------------------------
+<hl>find</hl> representative picture algorithms monte carlo
+methods designed solve problem algorithms applicable large
+varied number fields important reconstruction possibly
+asymmetric
+
+CACM-2133
+----------------------------------------------------------------
+<hl>optimization</hl> theory assignment problem rectangular
+matrices 5.39 5.4 ca71121 jb february 2 1978 9:38 2133 4 2133
+2133 4 2133
+
+CACM-1886
+----------------------------------------------------------------
+<hl>global</hl> optimal results necessarily generated
+factorization algorithms applicable problem factoring boolean
+switching expressions factoring polynomials encountered symbol
+manipulating systems cacm
+
+CACM-2929
+----------------------------------------------------------------
+<hl>optimization</hl> technique known inline substitution
+analyzed <hl>optimization</hl> consists replacing procedure
+invocation modified copy procedure body general problem inline
+substitution minimize
+
+CACM-2812
+----------------------------------------------------------------
+<hl>optimization</hl> design algorithm program generation
+alternative specifications program modules logical database
+structures cacm december 1976 nunamaker jr konsynski jr ho
+
+CACM-2290
+----------------------------------------------------------------
+<hl>optimization</hl> optimizing compiler 4.12 5.32 ca72812 jb
+january 3 1978 9:19 187 4 229 234 4 229 229 4 229
+
+CACM-2969
+----------------------------------------------------------------
+<hl>optimization</hl> procedure allocation program data computer
+network presented algorithm takes account dependencies programs
+occur real heterogeneous computer networks insights convert
+
+CACM-2537
+----------------------------------------------------------------
+<hl>optimization</hl> problem determine message phrases minimize
+storage requirement problem nontrivial phrases overlap exist
+dynamic programming algorithm presented solves problem time
+
+CACM-3054
+----------------------------------------------------------------
+<hl>optimization</hl> techniques detailed implementation
+combining effective improvements quicksort discussion implement
+assembly language analytic results describing performance
+programs summarized variety <hl>special</hl>
+
+CACM-2388
+----------------------------------------------------------------
+<hl>global</hl> local <hl>optimization</hl> sorting recursion
+3.74 5.31 ca7223 jb january 31 1978 4:3 pm 1175 4 2388 1919 4
+2388
+
+CACM-1195
+----------------------------------------------------------------
+<hl>optimization</hl> processing ibm 79 system programs
+completely selfchecking test validity accuracy input materials
+provided national aeronautics space administration cacm
+september
+
+CACM-0104
+----------------------------------------------------------------
+<hl>optimization</hl> parameters storage capacities processing
+rates air traffic flow control procedures simulated compare
+effects alternative control decisions cacm december 196
+
+CACM-2953
+----------------------------------------------------------------
+<hl>optimization</hl> programs stacks trees sorting algorithms
+computational induction 4 4.2 5.2 5.24 5.25 5.31 ca7761 jb
+december 28 1977 12:5
+
+CACM-2000
+----------------------------------------------------------------
+<hl>optimization</hl> ordinary differential equations secant
+method interpolative solution orthogonal matrices 3.21 5.15 5.17
+ca795 jb february 1 1978 1:39 pm
+
+CACM-2134
+----------------------------------------------------------------
+<hl>optimization</hl> theory assignment problem rectangular
+matrices algorithm 5.39 5.4 ca71129 jb february 2 1978 9:46 2133
+4 2134 2134 4
+
+CACM-2411
+----------------------------------------------------------------
+<hl>optimization</hl> compilers program documentation program
+flow graphs programming language design proof programs semantics
+programming languages structured programming 4.12 4.22 5.24
+
+CACM-1658
+----------------------------------------------------------------
+<hl>optimization</hl> theory integer programming zeroone
+variables algorithms 5.39 5.41 ca68128 jb february 21 1978 1:31
+pm 1658 4 1658 188
+
+CACM-2570
+----------------------------------------------------------------
+<hl>optimization</hl> dynamic programming 4.3 4.32 4.34 4.35 5.3
+5.32 5.4 5.42 8.1 ca74124 jb january 16 1978 9:42 257 5
+
+CACM-2321
+----------------------------------------------------------------
+<hl>optimization</hl> problems require reconsideration
+traditional functional responsibilities respective subsystems
+standard interfaces means computers digital terminals connect
+communications systems required interfaces
+
+CACM-3020
+----------------------------------------------------------------
+<hl>optimization</hl> procedure linkage procedure integration
+4.19 4.49 4.9 5.24 ca7823 jb march 28 1978 4:26 pm 32 4 32 2953
+
+CACM-2188
+----------------------------------------------------------------
+<hl>optimization</hl> graphics system configuration subject cost
+constraint found applications optimum configurations turn
+<hl>find</hl> general display system design guidelines cacm june
+
+CACM-2699
+----------------------------------------------------------------
+<hl>optimization</hl> automatic programming highlevel languages
+settheoretic languages data structure choice 4.12 4.2 4.22
+ca75128 jb january 5 1978 3:53 pm
+
+CACM-2858
+----------------------------------------------------------------
+<hl>optimization</hl> criteria cacm june 1976 frieder saal
+variable length addressing assembler paging 4.11 4.12 ca7664 jb
+january 4 1978 2:9
+
+CACM-1564
+----------------------------------------------------------------
+<hl>optimization</hl> attempted elimination obviously
+unnecessary tests conditions decision table preprocessor
+language developed cobol users preprocessor written modular form
+required cobol61
+
+CACM-2903
+----------------------------------------------------------------
+<hl>optimization</hl> programs recursion elimination pattern
+matching algorithms stacks computational induction 4 4.2 5.2
+5.24 5.25 ca771113 jb december 27 1977
+
+CACM-3069
+----------------------------------------------------------------
+<hl>global</hl> flow analysis <hl>optimization</hl> side effects
+relations reference parameters incarnations 4.12 4.2 ca7893 dh
+february 5 1979 3:7 pm 186
+
+CACM-2433
+----------------------------------------------------------------
+<hl>optimization</hl> problem satisfactory method data
+allocation presented language structures utilize storage method
+express parallel algorithms cacm october 1973 millstein array
+
+CACM-3002
+----------------------------------------------------------------
+<hl>optimization</hl> library routines storage large scale
+operating system cacm january 1977 babad system design
+partitioning record partitioning 3.73 ca7713 jb
+
+CACM-2579
+----------------------------------------------------------------
+<hl>optimization</hl> redundant computations common
+subexpressions register allocation compilers programming
+languages virtual memory demand paging 4.12 4.2 4.39 ca74115 jb
+january
+
+CACM-1410
+----------------------------------------------------------------
+<hl>optimization</hl> timeshared system performance requires
+description stochastic processes governing user inputs program
+activity paper statistical description user input process
+sdcarpa
+
+CACM-1974
+----------------------------------------------------------------
+<hl>optimization</hl> pli programs cacm november 197 conrow
+smith logical analysis pli source reformatting pli source
+documentation aid execution time usage
+
+CACM-1719
+----------------------------------------------------------------
+<hl>optimization</hl> drumoriented message switching system cacm
+july 1968 stimler brons realtime system analysis realtime system
+design realtime system performance criteria
+
+CACM-2883
+----------------------------------------------------------------
+<hl>optimization</hl> problems dynamic programming shortest path
+heuristic search methods problem solving methods 3.63 3.64 3.66
+5.42 ca7624 jb january 5
+
+CACM-1808
+----------------------------------------------------------------
+<hl>special</hl> <hl>emphasis</hl> paid unique characteristics
+computer make cryptographic methods relative security costs
+preferred methods included paper cacm december 1969 van
+
+CACM-1951
+----------------------------------------------------------------
+<hl>optimization</hl> models 3.8 3.81 6.2 ca71212 jb february 9
+1978 2:46 pm 1533 4 1951 164 4 1951 1951 4
+
+CACM-2423
+----------------------------------------------------------------
+<hl>optimization</hl> compression algorithm 4.12 5.22 5.23
+ca73113 jb january 2 19781:41 2179 4 2423 2423 4 2423 2423 4
+2423
+
+CACM-2722
+----------------------------------------------------------------
+<hl>optimization</hl> guarantees logarithmic performance
+searches log search algorithms partial match queries keys proven
+maximum running time nktk nearest neighbor queries
+
+CACM-2940
+----------------------------------------------------------------
+<hl>special</hl> cases <hl>loops</hl> essentially identical
+constructs languages means showing generator terminate provided
+cacm august 1977 shaw wulf abstraction representation abstract
+
+CACM-2715
+----------------------------------------------------------------
+<hl>optimization</hl> algorithms designed purpose cacm october
+1975 astrahan chamberlind relational model query language
+nonprocedural language database data structure data organization
+
+CACM-2880
+----------------------------------------------------------------
+<hl>microcode</hl> ona binary machine adapted directly hardware
+mathematical foundations algorithm presented performance
+measures cacm february 1976 artzy hinds saal constant
+
+CACM-2827
+----------------------------------------------------------------
+<hl>emphasis</hl> algorithm calculating intersections quadric
+surfaces parameterization scheme quadric surface intersection
+curve qsic represented set coefficients parameter limits
+parameter represents
+
+CACM-1710
+----------------------------------------------------------------
+<hl>special</hl> picture language proved drawing asp structures
+paper asp structures built manipulated means series macro calls
+outlined appendix <hl>emphasis</hl> philosophy
+
+CACM-2685
+----------------------------------------------------------------
+<hl>loops</hl> methods developed parallel execution iterations
+loop asynchronous multiprocessor computers array computers
+considered practical application design compilers computers
+discussed cacm
+
+CACM-2015
+----------------------------------------------------------------
+<hl>optimization</hl> merger algorithm minimum cost
+inversearborescence graph theory 4.12 5.23 5.32 ca786 jb
+february 1 19783:38 pm 1379 4 215
+
+CACM-3118
+----------------------------------------------------------------
+<hl>loops</hl> connected major loop problem obtaining give
+permutation minor loop contents minimum time studied paper lower
+bound number steps required
+
+CACM-0820
+----------------------------------------------------------------
+<hl>loops</hl> networks cacm july 1963 gordon ca6374 jb march 14
+1978 8:47 82 5 82 82 5 82 82 82
+
+CACM-1737
+----------------------------------------------------------------
+<hl>global</hl> parser contextfree phrase structure grammars
+cacm june 1968 unger ca6868 jb february 22 1978 4:8 pm 1737 5
+1737
+
+CACM-1750
+----------------------------------------------------------------
+<hl>special</hl> <hl>emphasis</hl> estimating expected gains
+compared traditional configuration separate independent
+computers extended core storage observation made conventional
+slower speed random
+
+CACM-2451
+----------------------------------------------------------------
+<hl>optimization</hl> problem design trees serve wellspecified
+application problem academic sense ordinarily optimal tree
+implemented means practical techniques hand potentially
+comparison
+
+CACM-2065
+----------------------------------------------------------------
+<hl>special</hl> <hl>emphasis</hl> manmachine interaction system
+intended wide variety biomedical applications methods applied
+karyotyping chromosomes system separated programming tasks
+picture transformations
+
+CACM-2851
+----------------------------------------------------------------
+<hl>special</hl> cases induction principle <hl>special</hl> case
+assertions method called parallel place assertions shown
+incomplete formalization deadlock presented concept norm
+introduced
+
+CACM-0695
+----------------------------------------------------------------
+<hl>special</hl> <hl>emphasis</hl> organization operation
+inputoutput equipment physical characteristics twodisk system
+419434 72bit words 8 usecperword transmission rate noted timing
+limitations
+
+CACM-2081
+----------------------------------------------------------------
+<hl>special</hl> structure matrices utilized efficient computing
+saving memory space superfluous operations sequences matrices
+sequences sequences matrices considered matrix operators areext
+
+CACM-1961
+----------------------------------------------------------------
+<hl>find</hl> elementary circuits graph theoretically efficient
+search algorithm presented exhaustive search <hl>find</hl>
+elementary circuits graph algorithm easily modified
+<hl>find</hl> elementary
+
+CACM-1809
+----------------------------------------------------------------
+<hl>emphasis</hl> scientific calculation difficulties education
+broad area center question background <hl>emphasis</hl>
+numerical analysis program computer science department emphasize
+awareness problems
+
+CACM-2314
+----------------------------------------------------------------
+<hl>optimization</hl> packaging implementation generalized
+environment structure model allow programming control regimes
+including multiprocesses coroutines backtracking alternative
+methods procedure invocation required
+
+CACM-2943
+----------------------------------------------------------------
+<hl>special</hl> lucid functions programming language lucid
+unconventional things order statements irrelevant assignment
+statements equations lucid programs need look iterative programs
+
+CACM-2574
+----------------------------------------------------------------
+<hl>loops</hl> exit statement 4.2 4.22 ca74111 jb january 16
+1978 1:7 2574 4 2574 279 4 2574 2477 5 2574
+
+CACM-1223
+----------------------------------------------------------------
+<hl>loops</hl> important part common subexpression recognition
+<hl>optimization</hl> effective index registers important
+discussed object code efficient highly machine dependent
+discussion terms
+
+CACM-2231
+----------------------------------------------------------------
+<hl>horizontal</hl> vertical projections finite binary pattern
+construct original pattern paper give characterization patterns
+reconstructable projection algorithms developed reconstruct
+unambiguous ambiguous
+
+CACM-0089
+----------------------------------------------------------------
+<hl>find</hl> solution simultaneous linear equations polynomial
+coefficients cacm april 1959 larson marshall ca5943 jb march 22
+1978 7:12 pm 89
+
+CACM-3156
+----------------------------------------------------------------
+<hl>find</hl> connected components undirected graph vertices
+time time bound achieved n$n$log2n processors algorithm
+<hl>find</hl> transitive closure symmetric boolean matrix assume
+
+CACM-0243
+----------------------------------------------------------------
+<hl>horizontal</hl> vertical main diagonal family codes
+restricted dimensions evidenced discussion minnick ashenhurst
+similar multidimensional singlebit selection plan purpose
+fourdimensional code
+
+CACM-3132
+----------------------------------------------------------------
+<hl>find</hl> central solutions pattern classification twoclass
+pattern recognition standard technique algorithm finding
+hyperplanes separates classes linearly separable training set
+traditional
+
+CACM-3053
+----------------------------------------------------------------
+<hl>optimization</hl> packing costs remain linearonwith table
+size techniques primarily suited important fixed possibly large
+tables reference frequencies known opcode tablesspelling
+
+CACM-3157
+----------------------------------------------------------------
+<hl>find</hl> termination function maps values program variables
+wellfounded set termination function repeatedly reduced
+computation termination functions required difficult
+<hl>find</hl> complexity
+
+CACM-2396
+----------------------------------------------------------------
+<hl>find</hl> valid interpretation input semantic processing
+similar tlcs syntactic component includes early parse trees
+<hl>special</hl> purpose rules relational triple notation
+
+CACM-1459
+----------------------------------------------------------------
+<hl>special</hl> nature applications environment object programs
+executed environment compiled language extensions ultimately
+advance developments field progress made attacking
+<hl>special</hl> compiling
+
+CACM-1643
+----------------------------------------------------------------
+<hl>find</hl> zeros time require division polynomial accepted
+factor shown accuracy division increased dividing order
+ascending descending powers variable choosing crossover
+
+CACM-1906
+----------------------------------------------------------------
+<hl>horizontal</hl> slit stepped board planned routing basis
+rerouting interconnections aperture resolve conflicts lines vias
+aperture maximize effective line usage conflict
+
+CACM-2477
+----------------------------------------------------------------
+<hl>loops</hl> exit statement 4.2 4.22 ca7379 jb january 23 1978
+11:23 2193 4 2477 2326 4 2477 2477 4 2477
+
+CACM-2304
+----------------------------------------------------------------
+<hl>emphasis</hl> eastern universities commercial developments
+article records events early years personal people organizations
+technologies computers 194555 period western part united
+
+CACM-1910
+----------------------------------------------------------------
+<hl>special</hl> class tridiagonal systems linear equations
+algorithm presented solving system linear equation buk
+tridiagonal <hl>special</hl> form shown algorithm fast gaussian
+

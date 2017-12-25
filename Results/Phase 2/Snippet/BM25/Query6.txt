@@ -1,0 +1,656 @@
+CACM-2826
+----------------------------------------------------------------
+<hl>motion</hl> <hl>dynamics</hl> key frame animation
+significant increase capability controlling <hl>motion</hl>
+<hl>dynamics</hl> key frame animation achieved skeleton control
+technique animator develop
+
+CACM-0695
+----------------------------------------------------------------
+<hl>arm</hl> <hl>motion</hl> disk rotation discussed
+applications disk usage discussed separately problem programs
+systems programs compilers supervisory program approximately 26
+words
+
+CACM-1543
+----------------------------------------------------------------
+<hl>motion</hl> tensor notation means extending area application
+digital computers numerical data processing stage reducing need
+human participation formulation types computer <hl>motion</hl>
+point mass general orthogonal curvilinear coordinate system
+operation involves formulation terms secondorder differential
+coefficients good demonstration computers capability nonnumeric
+
+CACM-2828
+----------------------------------------------------------------
+<hl>geometric</hl> models visible surface algorithms
+<hl>geometric</hl> structure inherent definition shapes
+threedimensional objects environments define relative
+<hl>motion</hl> placement assist solving problems
+<hl>geometric</hl> hierarchy significant improvements techniques
+range complexity environment greatly increased visible
+complexity scene fixed upper limit meaningful provided vary
+amount <hl>geometric</hl> structure suggests recursive descent
+visible surface algorithm computation time potentially grows
+linearly visible complexity scene cacm october 1976 clark
+
+CACM-2721
+----------------------------------------------------------------
+<hl>planning</hl> involving examinations cacm september 1975
+claudson digital simulation mathematical modeling plankton
+population <hl>dynamics</hl> phytoplankton zooplankton river
+ecosystems ecological mechanisms <hl>planning</hl> 3.12 3.19
+ca7593 jb january 6 1978 2:55 pm 2721 5 2721 2721 5 2721 2721
+2721 ... <hl>dynamics</hl> paper deals development mathematical
+model digital simulation fortran iv phytoplankton zooplankton
+population densities river previously developed rate expressions
+order
+
+CACM-2230
+----------------------------------------------------------------
+<hl>geometric</hl> patterns twodimensional space paper cadep
+problemoriented language positioning <hl>geometric</hl> patterns
+twodimensional space presented language specifically designed
+automatic generation integrated <hl>planning</hl> logical block
+diagram representation design criteria structure specific
+features cadep illustrated cacm january 1971 bracchi ferrari
+graphic language problemoriented
+
+CACM-1014
+----------------------------------------------------------------
+<hl>interested</hl> interactions impossible ignore experimental
+designs problem getting error terms natural look computer handle
+bulk work involved computing interactions program
+
+CACM-0605
+----------------------------------------------------------------
+<hl>motion</hl> pictures vehicle movements model vehicle
+assigned digital identification giving points entry exit type
+vehicle desired speed actual speed proportions
+
+CACM-2873
+----------------------------------------------------------------
+<hl>aspects</hl> implementation language flexible definition
+<hl>geometric</hl> objects elements computes parameters displays
+results capability <hl>geometric</hl> figure collection
+parameters displaying loci parameters
+
+CACM-1867
+----------------------------------------------------------------
+<hl>interested</hl> ratio lj expected length jth sequence
+generated technique number memory cells complexvariable theory
+shown lj 2 asymptotically average interval
+
+CACM-1623
+----------------------------------------------------------------
+<hl>interested</hl> problem stated general mathematical sense
+interest areas circuit analysis cacm march 1967 neidleman ca6736
+jb february 28 1978 1:27
+
+CACM-0492
+----------------------------------------------------------------
+<hl>interested</hl> mathematics introduction summary sufficient
+cacm august 1962 schay jr spruth ca62836 jb march 17 1978 9:2 pm
+911 5
+
+CACM-0531
+----------------------------------------------------------------
+<hl>interested</hl> maintenance psychiatric case register
+maryland reports hundred psychiatric agencies refer patient
+records linked order provide unduplicated counts individuals
+care
+
+CACM-0417
+----------------------------------------------------------------
+<hl>planning</hl> stage techniques suggested making legal
+clearance effective burden technology achieving favorable legal
+climate generally computer specialists alerted potential
+opportunities
+
+CACM-2931
+----------------------------------------------------------------
+<hl>dynamics</hl> theories automata nets teresting
+<hl>dynamics</hl> formalized portion field concentration
+finitestate algebraic <hl>aspects</hl> understanding higherlevel
+program features involves infinite objects
+
+CACM-0242
+----------------------------------------------------------------
+<hl>geometric</hl> weighted check digit verification note
+describes method utilizing <hl>geometric</hl> weight modulus 11
+checking digits computer multiplication division addition
+attempt
+
+CACM-1664
+----------------------------------------------------------------
+<hl>motion</hl> continuity equation derive equations method user
+need know coordinate transformation equations relating
+curvilinear coordinates interest orthogonal cartesian triad
+program
+
+CACM-3035
+----------------------------------------------------------------
+<hl>planning</hl> methodology computing effort higher education
+empirical evaluation findings study designed address pressing
+problems strategic <hl>planning</hl> computing effort higher
+education <hl>planning</hl> methodology developed tested
+implementation university years methodology implemented
+effectiveness <hl>planning</hl> methodology assessed terms
+improvement delivery computing services major institutional
+
+CACM-2176
+----------------------------------------------------------------
+<hl>arm</hl> disks number seeks equal number inputoutput
+operations seek time controls sort time standard terminology
+introduced input buffer allocation method
+
+CACM-2753
+----------------------------------------------------------------
+<hl>planning</hl> natural resource management space
+<hl>planning</hl> tasks involve manipulating twodimensional
+representations objects create feasible optimal solutions
+problems involving topological metric <hl>planning</hl> phase
+prefixed <hl>planning</hl> process give sense direction
+diagnostic procedures locate difficulties remedial actions
+recover difficulties convex polygon representation accurately
+<hl>planning</hl> diagnostic procedures remedial actions
+selective alternative generators cacm 1975 pfefferkorn
+artificial intelligence computeraided design design synthesis
+diagnostic search heuristics
+
+CACM-1385
+----------------------------------------------------------------
+<hl>planning</hl> organization educational <hl>aspects</hl>
+computer technology automation machine development progress
+major specific machines 195859 soviet aid vacuum 19664 due
+withdrawal
+
+CACM-2078
+----------------------------------------------------------------
+<hl>planning</hl> problems involving arrangement objects
+threespace objective function primarily consists derivatives
+distance objects arrangement called space <hl>planning</hl>
+problems representational requirements
+
+CACM-2389
+----------------------------------------------------------------
+<hl>planning</hl> computer language set programs language allow
+formulating solving class space <hl>planning</hl> problems
+language extension algol includes means represent spaces
+
+CACM-1397
+----------------------------------------------------------------
+<hl>interested</hl> programming languages designed manipulation
+algebraic formulas symbol strings applications algorithms
+implementation twentyeight papers presented lively panel
+discussion future directions
+
+CACM-1365
+----------------------------------------------------------------
+<hl>motion</hl> types analysiswhich arose solution specific
+practical problems physics engineering astronomy statistics
+astronauticsare discussed paper addition usage specific problem
+solutions
+
+CACM-2671
+----------------------------------------------------------------
+<hl>combinatorial</hl> problem burnett coffman cacm march 1974
+stone memories interleaving derangements rencontres
+<hl>combinatorial</hl> analysis 5.39 6.34 ca74312 jb january 18
+
+CACM-1009
+----------------------------------------------------------------
+<hl>combinatorial</hl> problems generating functions
+variablefield computer utility generating functions solving
+<hl>combinatorial</hl> problems discussed implementation results
+presented evaluated cacm september 1964
+
+CACM-1186
+----------------------------------------------------------------
+<hl>combinatorial</hl> problems <hl>combinatorial</hl> problems
+requiring selection elements set elements solved recursion
+process analogous computing binomial coefficients specific
+problems analyzed general
+
+CACM-0435
+----------------------------------------------------------------
+<hl>interested</hl> method employing decision matrix presented
+handling standard systems programming problemthat providing data
+input routine cacm december 1962 vasilakos ca62124
+
+CACM-0530
+----------------------------------------------------------------
+<hl>planning</hl> cacm july 1962 siler laughlin ca62731 jb march
+17 1978 7:43 pm 53 5 53 53 5 53 53
+
+CACM-1148
+----------------------------------------------------------------
+<hl>geometric</hl> series shown give results indicating widely
+differing significances carried machine incorporating
+significantdigit arithmetic cacm january 1964 miller ca6417 jb
+
+CACM-0616
+----------------------------------------------------------------
+<hl>interested</hl> developing theoretical approach data
+processing interest understanding professional programmers
+systems analysts appreciation businessmananalystmanager authors
+attempted exhaustive discourse report tried
+
+CACM-2836
+----------------------------------------------------------------
+<hl>combinatorial</hl> optimization cacm september 1976 loui
+derivation tree parse tree probabilistic grammar structural
+ambiguity <hl>combinatorial</hl> optimization 5.23 5.49 ca7693
+jb
+
+CACM-1113
+----------------------------------------------------------------
+<hl>dynamics</hl> electronics sc 42 makes perspective movies
+direct output computer programming movie briefly studying
+angular motions satellite attitude control system
+
+CACM-3172
+----------------------------------------------------------------
+<hl>planning</hl> collisionfree paths polyhedral obstacles paper
+describes collision avoidance algorithm <hl>planning</hl> safe
+path polyhedral object moving known polyhedral objects algorithm
+
+CACM-2707
+----------------------------------------------------------------
+<hl>combinatorial</hl> problems computation terms wellknown
+series substantial reduction computation time solution
+<hl>combinatorial</hl> problem cacm november 1975 bitner
+reingold backtrack depthfirst
+
+CACM-0697
+----------------------------------------------------------------
+<hl>planning</hl> radiotherapy cacm october 1963 dalrymple
+pereztamayo ca63128 jb march 13 1978 5:19 pm 697 5 697 697 5 697
+
+CACM-0705
+----------------------------------------------------------------
+<hl>combinatorial</hl> things time algorithm 16 cacm october
+1963 blakely ca6312 jb march 13 1978 5:36 pm 75 5 75 75
+
+CACM-0704
+----------------------------------------------------------------
+<hl>combinatorial</hl> things time time time algorithm 161 cacm
+october 1963 collins ca63121 jb march 13 1978 5:34 pm 74 5
+
+CACM-0887
+----------------------------------------------------------------
+<hl>combinatorial</hl> things time time time algorithm 161 cacm
+april 1963 wright wolfson ca6344 jb march 14 1978 12:28 pm 887
+
+CACM-0397
+----------------------------------------------------------------
+<hl>articles</hl> programming terms hardware terms equipment
+machine systems abbreviations suitable standard card reference
+information processing cacm february 1961 grems ca6121
+
+CACM-0768
+----------------------------------------------------------------
+<hl>combinatorial</hl> things time wolfson wright comm acm apr
+1963 cacm august 1963 thoro ca6383 jb march 13 1978 8:14 pm
+
+CACM-0888
+----------------------------------------------------------------
+<hl>combinatorial</hl> things time cacm april 1963 wolfson
+wright ca6343 jb march 14 1978 12:29 pm 259 5 888 888 5
+
+CACM-3040
+----------------------------------------------------------------
+<hl>combinatorial</hl> search problem finding values set
+variables subject set constraints theory consistency levels
+networks formulated related problems backtrack tree search
+
+CACM-2187
+----------------------------------------------------------------
+<hl>planning</hl> views computer science considered global view
+attempts capture broad characteristics field relationships
+fields local view focuses structure field structure
+<hl>planning</hl> computer science presented guided structure
+field fact change important feature situation expectation
+computer science continue increase working contacts disciplines
+
+CACM-0767
+----------------------------------------------------------------
+<hl>combinatorial</hl> things time time time wolfson wright comm
+acm apr 1963 cacm august 1963 thoro ca63831 jb march 13 1978
+
+CACM-2485
+----------------------------------------------------------------
+<hl>planning</hl> organizing controlling activities managing
+computer resource change character period time evolve patterns
+roughly correlated stages computer budget stage computer
+
+CACM-1368
+----------------------------------------------------------------
+<hl>combinatorial</hl> matrix directed nondirected arcs paper
+describes computer program generates systematically exhaustively
+hamiltonian circuits specific application made traveling
+salesman problem
+
+CACM-1001
+----------------------------------------------------------------
+<hl>aspects</hl> computer usage paper concerned question
+constitutes infringement copyright book nondramatic literary
+work work fed computer indexed analyzed partially reprinted
+
+CACM-1621
+----------------------------------------------------------------
+<hl>planning</hl> typographical layout computerized control
+typesetting machine point made experts science technology
+programming guaranteed correct algol documentation spending
+valuable time
+
+CACM-2804
+----------------------------------------------------------------
+<hl>combinatorial</hl> consequence proof cacm january 1975
+marcus robinson elementary divisors tensor products linear
+transformations 5.14 ca7517 jb january 12 1978
+
+CACM-1234
+----------------------------------------------------------------
+<hl>motion</hl> run time properly trating recursion side effects
+procedures block structure recursion handled need interpretive
+methods run times context problem
+
+CACM-2087
+----------------------------------------------------------------
+<hl>combinatorial</hl> 4.49 5.39 ca7311 jb february 13 1978 3:42
+pm 287 4 287 2189 4 287 3188 4 287 1594
+
+CACM-2502
+----------------------------------------------------------------
+<hl>aspects</hl> computer science education cacm 1973 estell
+education computer engineering computer sciences curriculum
+systems design 1.52 6 ca73518 jb january
+
+CACM-1088
+----------------------------------------------------------------
+<hl>planning</hl> computer computer code developed plans menus
+finding minimum cost combinations menu items daily dietary
+gastronomic production requirements satisfied sequence
+
+CACM-3135
+----------------------------------------------------------------
+<hl>geometric</hl> structure pattern define characteristics
+demanded candidates matching cases properties atom considered
+individually adequately limit number sets matchings applications
+technique
+
+CACM-2666
+----------------------------------------------------------------
+<hl>combinatorial</hl> multiindex problem conditions schedule
+school timetable timetable 3.51 5.39 ca7444 jb january 18 1978
+1:2 2666 5 2666 2666
+
+CACM-2705
+----------------------------------------------------------------
+<hl>aspects</hl> programming illuminated analogies similar
+<hl>aspects</hl> mathematics natural languages split pure
+applied mathematics found similarly programming development
+natural languages flexion
+
+CACM-2306
+----------------------------------------------------------------
+<hl>aspects</hl> greatest interest standpoint computer science
+number babylonian tablets translated english quoted cacm july
+1972 knuth history computation babylonian tablets
+
+CACM-0670
+----------------------------------------------------------------
+<hl>aspects</hl> systems practices crystallize order avoid later
+impact unanticipated physical complications expense legal
+<hl>aspects</hl> computerization banking business especially
+diverse states
+
+CACM-3086
+----------------------------------------------------------------
+<hl>combinatorial</hl> problems computational complexity
+computational models decision tree programs lower bounds 5.25
+5.26 5.3 5.39 ca7872 dh february 8 1979
+
+CACM-2399
+----------------------------------------------------------------
+<hl>aspects</hl> implementation discussed cacm january 1972
+irons djorup editing text cathoderay tube entry display
+timesharing 3.7 4.3 ca7214 jb february
+
+CACM-2505
+----------------------------------------------------------------
+<hl>combinatorial</hl> analysis 5.39 ca73515 jb january 23 1978
+4:29 pm 244 4 255 2189 4 255 2292 4 255 2417
+
+CACM-2772
+----------------------------------------------------------------
+<hl>combinatorial</hl> conditions opportunity list
+scheduleschool timetable timetable 3.51 5.39 ca7545 jb january 9
+1978 4:3 pm 1367 4 2772 2619
+
+CACM-0971
+----------------------------------------------------------------
+<hl>aspects</hl> timesharing program outlined cacm november 1964
+green ca641112 jb march 9 1978 3:49 pm 971 5 971 971 5
+
+CACM-3117
+----------------------------------------------------------------
+<hl>planning</hl> personmachine interaction results technology
+date mixed paper reports case studies surveys provinsights
+implementation impact police computer technology relationship
+technology
+
+CACM-2417
+----------------------------------------------------------------
+<hl>combinatorial</hl> algorithms algorithm a466 cacm november
+1973 ehrlich permutations combinations 5.39 ca73119 jb january 2
+1978 9:59 244 4 2417
+
+CACM-2406
+----------------------------------------------------------------
+<hl>aspects</hl> data increasingly apparent languages key
+systems advanced data management systems distributed data bases
+paper reviews past work data definition
+
+CACM-2712
+----------------------------------------------------------------
+<hl>combinatorial</hl> operation count algorithm based
+generalization horners rule polynomials shown mean queue size
+throughput obtained negligible extra cost normalization constant
+
+CACM-2547
+----------------------------------------------------------------
+<hl>geometric</hl> position attribute application representation
+handling terrain information illustrates utility algebraic
+properties data structure make computationally easy determine
+point lies
+
+CACM-2834
+----------------------------------------------------------------
+<hl>combinatorial</hl> computing 5.39 ca7695 jb january 4 1978
+9:14 2466 4 2834 2834 4 2834 2834 4 2834 2834 4
+
+CACM-1099
+----------------------------------------------------------------
+<hl>planning</hl> interest fact blind especially suited
+programming work intense training constant experience locating
+objects unseen environment superbly trained memory blind
+
+CACM-1433
+----------------------------------------------------------------
+<hl>combinatorial</hl> problem linear programming models grow
+bigger bigger size actual data memorized put magnetic tape disk
+improportionality fast rise consumption
+
+CACM-1404
+----------------------------------------------------------------
+<hl>aspects</hl> multiple covariance analysis multifactor
+structure computational procedure analysis multiple covariance
+statistics discussed reference analysis variance special
+operator calculus developed
+
+CACM-2667
+----------------------------------------------------------------
+<hl>geometric</hl> data show paging characteristics tasks
+function number pages tasks core cacm april 1974 boyse program
+behavior virtual memory paging
+
+CACM-3018
+----------------------------------------------------------------
+<hl>combinatorial</hl> optimization problem connection method
+optimization problem shown equivalent problem covering edges
+graph complete subgraphs objective minimizing number complete
+subgraphs
+
+CACM-1267
+----------------------------------------------------------------
+<hl>aspects</hl> information transfer determination transfer
+rate information bits trib residual errors standard measurement
+conditions paper presents orderly arrangement characteristics
+parameters
+
+CACM-1948
+----------------------------------------------------------------
+<hl>combinatorial</hl> numerical programs large symbol
+manipulation systems survey important algorithms contrasted
+results obtained existing programs extensive bibliography
+included cacm january
+
+CACM-1413
+----------------------------------------------------------------
+<hl>aspects</hl> technology generation known ideas discoveries
+inventions unknown potential actual time scale ignorance stems
+largely ignorance social response potential technological
+
+CACM-1541
+----------------------------------------------------------------
+<hl>aspects</hl> simulation studies ability represent systems
+highly interactive processes essential feature nature language
+role process concept presented means extended cacm
+
+CACM-2486
+----------------------------------------------------------------
+<hl>aspects</hl> error correction cacm june 1973 alt yuni kirk
+photocomposition typesetting printing graphics text processing
+3.79 3.82 ca73614 jb january
+
+CACM-0320
+----------------------------------------------------------------
+<hl>aspects</hl> logic compiled directly computer program
+eliminate need flow charting hand coding cacm june 1961 cantrell
+king king ca6165 jb
+
+CACM-0071
+----------------------------------------------------------------
+<hl>aspects</hl> program construction programming system stress
+discovery source program statements errors attempting construct
+object program computer characteristics advocated program
+interrupt
+
+CACM-2383
+----------------------------------------------------------------
+<hl>aspects</hl> human composition samples output presented
+discussed discovered fragments show characteristics popular
+melodies strangely alien sound theorized relevant probabilities
+discriminate
+
+CACM-2810
+----------------------------------------------------------------
+<hl>aspects</hl> educational programs industry attitudes
+professional societies licensing certification 1.5 2.1 2.2
+ca7511 jb january 12 1978 11:5 281 5
+
+CACM-3008
+----------------------------------------------------------------
+<hl>combinatorial</hl> problem storing arrays kinds list
+structures examined embeddings graphs model loss proximity
+involved storage schemes elementary proof arrays stored
+
+CACM-2202
+----------------------------------------------------------------
+<hl>combinatorial</hl> operations sequencing control
+microinstruction presence readwrite microstorage permits
+flexible assignment resources readonly storage processor
+developed paper stresses simultaneous operation
+
+CACM-2922
+----------------------------------------------------------------
+<hl>planning</hl> context tree 3.64 4.22 ca7714 jb december 27
+1977 11:3 2625 4 2922 2922 4 2922 381 4 2922
+
+CACM-3188
+----------------------------------------------------------------
+<hl>aspects</hl> pragmatics semantics syntactics cover project
+<hl>aspects</hl> semiotic dimension strong tendency today cacm
+march 1966 zemanek ca66319 es march 17
+
+CACM-2518
+----------------------------------------------------------------
+<hl>aspects</hl> decision table programming general purpose
+programming decision tables construct application program
+selection source statements predefined proposed programming
+questionnairies compromise
+
+CACM-1885
+----------------------------------------------------------------
+<hl>aspects</hl> theory syntax major innovations include
+fullformal description syntax transformational grammar directed
+random phrase structure generator lexical insertion algorithm
+extended
+
+CACM-1456
+----------------------------------------------------------------
+<hl>aspects</hl> meaning directed graph structures experimental
+system lisp make conceptual dictionary dictionary associates
+english word syntactic information definitional material
+references
+
+CACM-2886
+----------------------------------------------------------------
+<hl>aspects</hl> included paper concentrates evaluation semantic
+attributes passes left derivation tree program condition
+attribute grammar assures semantics program evaluated single
+
+CACM-2357
+----------------------------------------------------------------
+<hl>aspects</hl> system including design criteria implementation
+cost overhead user reactions cacm 1972 christman timesharing
+remote computing online access online computing
+
+CACM-1046
+----------------------------------------------------------------
+<hl>articles</hl> published past years brooker morris joined
+rohl recent paper presented interesting programming system
+developed ferranti atlas computer present paper
+
+CACM-3000
+----------------------------------------------------------------
+<hl>aspects</hl> construction behavior real programs
+implications design virtual memory systems presented discussed
+cacm january 1977 batson brundage virtual memory program
+
+CACM-2181
+----------------------------------------------------------------
+<hl>planning</hl> 1.52 3.5 ca7171 jb february 3 1978 9:47 2163 5
+2181 2181 5 2181 2181 5 2181 2181 5
+
+CACM-3033
+----------------------------------------------------------------
+<hl>aspects</hl> techniques compressed tables large number
+variables handled deriving expanded tables cacm december 1978
+martelli montanari decision table optimal decision
+
+CACM-2622
+----------------------------------------------------------------
+<hl>aspects</hl> system including relevant code data bases known
+attempting intrude scheme based function wouldbe intruder unable
+invert function applied users
+
+CACM-2936
+----------------------------------------------------------------
+<hl>aspects</hl> previously published algorithms algorithms
+performance insensitive skewed distributions worstcase
+complexity number events set tests conducted estimate average
+complexity showed
+

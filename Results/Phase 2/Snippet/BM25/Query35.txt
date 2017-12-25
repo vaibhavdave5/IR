@@ -1,0 +1,763 @@
+CACM-2932
+----------------------------------------------------------------
+<hl>examples</hl> practical theoretical significance directions
+research discussed cacm september 1977 rabin complexity
+computations <hl>algebraic</hl> complexity tractable problems
+<hl>probabilistic</hl> <hl>algorithms</hl> 5.25
+
+CACM-1474
+----------------------------------------------------------------
+<hl>probabilistic</hl> models propagation roundoff errors
+prolonged computation generally assumed accumulated effect
+roundoff errors sense statistical purpose paper give precise
+descriptions
+
+CACM-3175
+----------------------------------------------------------------
+<hl>algorithm</hl> substitution ciphers codes letter alphabet
+fixed substitute word divisions change paper problem breaking
+substitution ciphers represented <hl>probabilistic</hl> labeling
+problem
+
+CACM-2836
+----------------------------------------------------------------
+<hl>algorithm</hl> presented constructing optimal derivation
+tree structure weighted derivation tree addition correctness
+<hl>algorithm</hl> established method applied problems involving
+<hl>probabilistic</hl> parsing
+
+CACM-2165
+----------------------------------------------------------------
+<hl>algebraic</hl> difficulties encountered work cacm august
+1971 barton fitch <hl>symbolic</hl> mathematicsnonnumerical
+mathematics general relativity <hl>algebraic</hl>
+<hl>manipulation</hl> equation <hl>manipulation</hl> 1.3 3.11
+
+CACM-3071
+----------------------------------------------------------------
+<hl>algorithm</hl> <hl>symbolic</hl> techniques belpetrov
+classification gravitational fields note <hl>algorithm</hl>
+presented <hl>symbolic</hl> calculation <hl>algebraic</hl>
+invariants weyl tensor permits determination belpetrov types ...
+<hl>examples</hl> illustrating <hl>algorithm</hl> cacm september
+1978 harris zund general relativity belpetrov types formac
+<hl>symbolic</hl> <hl>manipulation</hl> tensors 3.11 3.15 3.17
+ca7891
+
+CACM-2681
+----------------------------------------------------------------
+<hl>probabilistic</hl> model multiprogramming system exercised
+order determine conditions dynamic repacking main memory
+beneficial expression derived maximum interference repacking
+process introduce
+
+CACM-2090
+----------------------------------------------------------------
+<hl>symbolic</hl> expansion <hl>algebraic</hl> expressions
+<hl>algorithm</hl> 377 $r2 cacm march 197 levine algebra
+<hl>symbolic</hl> algebra <hl>symbolic</hl> multiplication
+<hl>algebraic</hl> distribution <hl>algebraic</hl>
+multiplication
+
+CACM-2323
+----------------------------------------------------------------
+<hl>algebraic</hl> <hl>manipulation</hl> systems knowledgeable
+usual special functions exponential hypergeometric cacm july
+1972 moses <hl>algebraic</hl> <hl>manipulation</hl> special
+functions <hl>algebraic</hl> simplification <hl>symbolic</hl>
+... <hl>field</hl> <hl>algebraic</hl> <hl>manipulation</hl>
+prospects general theory functions defined ordinary differential
+equations discussed claim made recent developments mathematics
+algorithmically generate properties
+
+CACM-2560
+----------------------------------------------------------------
+<hl>probabilistic</hl> model multiprogrammed computer system
+twolevel storage system sequential dependency accesses devices
+expressions obtained longrun probability cpu storage devices
+busy
+
+CACM-1397
+----------------------------------------------------------------
+<hl>symbolic</hl> <hl>algebraic</hl> <hl>manipulation</hl> acm
+symposium <hl>symbolic</hl> <hl>algebraic</hl>
+<hl>manipulation</hl> brought hundred people interested
+programming languages designed <hl>manipulation</hl>
+<hl>algebraic</hl> formulas symbol strings ... <hl>symbolic</hl>
+<hl>algebraic</hl> <hl>manipulation</hl> program committee
+consisted chairman jean sammet paul abrahams thomas cheatham max
+goldstein douglas mcllroy conference arrangements made
+
+CACM-1386
+----------------------------------------------------------------
+<hl>symbolic</hl> factoring polynomials variables
+<hl>algorithm</hl> finding <hl>symbolic</hl> factors
+multivariate <hl>polynomial</hl> integer coefficients presented
+<hl>algorithm</hl> extension technique kronecker proof prime
+factoring <hl>finite</hl> number steps <hl>algorithm</hl>
+consists factoring singlevariable instances <hl>polynomial</hl>
+kroneckers method introducing remaining variables interpolation
+techniques implementing <hl>algorithm</hl> <hl>examples</hl>
+discussed
+
+CACM-2516
+----------------------------------------------------------------
+<hl>probabilistic</hl> analysis employed determine effect
+hierarchical storage organizations information retrieval
+operations data storage hardware assumed consist nlevels
+linearly connected memory
+
+CACM-2580
+----------------------------------------------------------------
+<hl>probabilistic</hl> grammars 3.44 3.65 5.23 ca74114 jb
+january 16 1978 1:35 258 5 258 258 5 258 258 258
+
+CACM-2850
+----------------------------------------------------------------
+<hl>symbolic</hl> expressions simple program <hl>testing</hl>
+manager program verifier discussion relationship
+<hl>symbolic</hl> execution program proving included cacm july
+1976 king <hl>symbolic</hl> ... <hl>symbolic</hl> execution
+program <hl>testing</hl> paper describes <hl>symbolic</hl>
+execution programs supplying normal inputs program numbers
+supplies symbols representing arbitrary values execution
+<hl>symbolic</hl> formulas input symbols difficult interesting
+issues arise <hl>symbolic</hl> execution conditional branch type
+statements system called effigy <hl>symbolic</hl> execution
+program
+
+CACM-2169
+----------------------------------------------------------------
+<hl>symbolic</hl> algebra rational function
+<hl>manipulation</hl> <hl>polynomial</hl> <hl>manipulation</hl>
+interpreters translators 4.13 4.29 ca7183 jb february 2 1978
+4:17 pm 2167 5
+
+CACM-2437
+----------------------------------------------------------------
+<hl>probabilistic</hl> selection <hl>algorithm</hl> number keys
+selected key space suitably weighted accordance
+<hl>algorithm</hl> average performance transformation methods
+potential methods analysis methods
+
+CACM-2164
+----------------------------------------------------------------
+<hl>symbolic</hl> integration stormy decade approaches
+<hl>symbolic</hl> integration 196s artificial intelligence led
+slagles saint large degree moses sin <hl>algebraic</hl>
+<hl>manipulation</hl> led <hl>algorithm</hl> integrating
+rational functions mathematics led richardsons proof
+unsolvability problem class functions rischs decision procedure
+elementary functionseneralizations rischs <hl>algorithm</hl>
+class
+
+CACM-1935
+----------------------------------------------------------------
+<hl>probabilistic</hl> method random sequencing search
+techniques tree structures 3.74 5.32 ca6923 jb february 2 1978
+11:15 15 4 1935 1935
+
+CACM-2167
+----------------------------------------------------------------
+<hl>algorithms</hl> numbertheoretic conjectures rely results
+nonexistence <hl>algorithms</hl> classes expressions included
+cacm august 1971 moses <hl>algebraic</hl> <hl>manipulation</hl>
+<hl>algebraic</hl> simplification canonical simplification ...
+<hl>algebraic</hl> <hl>manipulation</hl> system systems divided
+types type facilities <hl>manipulation</hl> simplification
+expressions finally discuss theoretical results related
+<hl>algebraic</hl> simplification describe positive
+
+CACM-0719
+----------------------------------------------------------------
+<hl>field</hl> computers permit ready establishment
+<hl>manipulation</hl> variable width stacks single machine
+commands push variable <hl>field</hl> items stacks pop
+availability variety
+
+CACM-2170
+----------------------------------------------------------------
+<hl>manipulation</hl> theoretical physics paper surveys
+applications <hl>symbolic</hl> computation techniques problems
+theoretical physics emphasis applications quantum
+electrodynamics activity occurred cacm august
+
+CACM-2645
+----------------------------------------------------------------
+<hl>symbolic</hl> formula representing execution time program
+sound processor set procedures program processor set procedures
+<hl>algebraic</hl> <hl>manipulation</hl> called user operate
+formula ... <hl>symbolic</hl> <hl>manipulation</hl> program
+efficiency analysis <hl>algorithms</hl> 4.12 4.2 5.24 5.25
+ca7461 jb january 17 1978 3:48 pm 186 4 2645
+
+CACM-2414
+----------------------------------------------------------------
+<hl>finite</hl> <hl>field</hl> <hl>algorithm</hl> a469 cacm
+november 1973 lam mckay algebra 5.19 ca731112 jb january 2 1978
+9:25 2414 5 2414
+
+CACM-2166
+----------------------------------------------------------------
+<hl>algebraic</hl> <hl>manipulation</hl> celestial mechanics
+paper consider applications automated <hl>algebraic</hl>
+<hl>manipulation</hl> made celestial mechanics attention paid
+poisson series typical problem perturbation
+<hl>manipulation</hl> packages future directions research
+systems briefly outlined illustrate relative simplicity
+<hl>algorithm</hl> required celestial mechanics typical
+integration problem considered appendix
+
+CACM-2253
+----------------------------------------------------------------
+<hl>symbolic</hl> <hl>manipulation</hl> index expressions arise
+byproduct <hl>symbolic</hl> <hl>manipulation</hl> expressions
+matrix calculi authors previous paper scheme attempts program
+optimization transforming original ... <hl>symbolic</hl>
+<hl>manipulation</hl> syntactic analysis wellformed expressions
+4.12 4.22 5.14 ca72122 jb january 27 1978 1:12 pm 1614 4 2253
+2253
+
+CACM-3203
+----------------------------------------------------------------
+<hl>symbolic</hl> <hl>algebraic</hl> <hl>manipulation</hl>
+differentiation general recursive algebra differentiation
+assistant grad assistant development set lisp functions
+symbolically manipulate abd differentiate <hl>algebraic</hl>
+
+CACM-1893
+----------------------------------------------------------------
+<hl>algorithm</hl> 34 cacm 1969 noltemeier root finders roots
+<hl>polynomial</hl> equations <hl>polynomial</hl> zeros
+rootsquaring operations graeffe method resultant procedure
+subresultant procedure
+
+CACM-2450
+----------------------------------------------------------------
+<hl>algorithms</hl> words working set commonly encountered
+literature <hl>dealing</hl> resource allocation dearth published
+data program measurements hope workers <hl>field</hl> find
+experimental
+
+CACM-2402
+----------------------------------------------------------------
+<hl>especially</hl> large structures significant crystallography
+biological macromolecules hasbeen continue <hl>field</hl>
+intense interest cacm january 1972 lesk pictorial pattern
+recognition phase ... <hl>algorithms</hl> adapted environment
+pictorial pattern recognition techniques make number approaches
+xray structure determination based molecular model building
+chemical information frame
+
+CACM-1543
+----------------------------------------------------------------
+<hl>symbolic</hl> mathematical computation method devised
+digital computer nonnumeric work <hl>symbolic</hl>
+<hl>algebraic</hl> <hl>manipulation</hl> differentiation
+illustrate techniques involved digital computer derive equations
+
+CACM-1667
+----------------------------------------------------------------
+<hl>algorithm</hl> 34 cacm november 1968 noltemeier root finders
+roots <hl>polynomial</hl> equations <hl>polynomial</hl> zeros
+rootsquaring operations graeffe method resultant procedure
+subresultant
+
+CACM-1948
+----------------------------------------------------------------
+<hl>finite</hl> groups character tables commutator calculus
+group theory programs range simple combinatorial numerical
+programs large symbol <hl>manipulation</hl> systems survey
+important
+
+CACM-1049
+----------------------------------------------------------------
+<hl>finite</hl> differences obtain solution paper
+<hl>examples</hl> discusses <hl>finite</hl> difference method
+nonlinear twopoint boundaryvalue problems cacm june 1964 holt
+ca64618 jb
+
+CACM-0393
+----------------------------------------------------------------
+<hl>manipulation</hl> <hl>algebraic</hl> compiler cacm february
+1961 carr iii hanson ca6125 jb march 17 1978 12:59 393 5 393 393
+5
+
+CACM-2490
+----------------------------------------------------------------
+<hl>algorithms</hl> graph <hl>manipulation</hl>
+<hl>algorithm</hl> a447 efficient <hl>algorithms</hl> presented
+partitioning graph connected components biconnected components
+simple paths <hl>algorithm</hl> partitioning graph simple
+
+CACM-0265
+----------------------------------------------------------------
+<hl>symbolic</hl> languages fortran coded programs deal special
+arithmetic multiprecision arithmetic symbol
+<hl>manipulation</hl> bit <hl>manipulation</hl> expanded
+character set inputoutput visual display
+
+CACM-3031
+----------------------------------------------------------------
+<hl>algebraic</hl> axioms virtue axioms permit
+representationindependent formal specification data type shows
+employ <hl>algebraic</hl> axioms successive levels
+implementation major thrust paper
+
+CACM-1664
+----------------------------------------------------------------
+<hl>algorithm</hl> deriving equations mathematical physics
+<hl>symbolic</hl> <hl>manipulation</hl> method digital computer
+derive equations mathematical physics curvilinear coordinate
+system requested user effectiveness
+
+CACM-3078
+----------------------------------------------------------------
+<hl>algebraic</hl> <hl>manipulation</hl> techniques major
+purpose paper demonstrate difficulties obtaining analytical
+solutions markov processes considerably reduced application
+symbol <hl>manipulation</hl> programs physical
+
+CACM-1524
+----------------------------------------------------------------
+<hl>polynomial</hl> root finding searching root
+<hl>polynomial</hl> generally difficult know accept number
+adequate approximation root paper <hl>algorithm</hl> presented
+terminate iteration process
+
+CACM-1144
+----------------------------------------------------------------
+<hl>field</hl> nuclear physics technique involves computer
+<hl>manipulation</hl> digital image nuclear source experimental
+details cacm january 1964 robbins taylor ca64111 jb
+
+CACM-2567
+----------------------------------------------------------------
+<hl>especially</hl> efficient <hl>dealing</hl> stiff systems
+differential equations general order case linear system constant
+coefficients linear forcing terms case method order
+
+CACM-1154
+----------------------------------------------------------------
+<hl>finite</hl> automata powerful general turing machines
+presented felt machines category closely related digital
+computers <hl>finite</hl> automata unrestricted turing machines
+intermediate
+
+CACM-2266
+----------------------------------------------------------------
+<hl>algorithm</hl> approximating zeros <hl>polynomial</hl> real
+zeros <hl>algorithm</hl> based newtons method simultaneously
+approximates zeros <hl>polynomial</hl> real zeros
+<hl>algorithm</hl> conceptually suitable parallel
+
+CACM-0111
+----------------------------------------------------------------
+<hl>polynomial</hl> equations numerical techniques presented
+computing roots <hl>polynomial</hl> equations applying
+recommended scaling inversion rules basic bairstow newtonraphson
+iterative techniques applied
+
+CACM-1216
+----------------------------------------------------------------
+<hl>symbolic</hl> derivatives list processing subroutines
+recursion routine developed computes prints <hl>symbolic</hl>
+derivative absolutely continuous elementary function variables
+made listprocessing languages
+
+CACM-0717
+----------------------------------------------------------------
+<hl>algorithms</hl> <hl>finite</hl> sets partitions set elements
+represented ntuples positive integers <hl>algorithm</hl>
+generate repetitions ntuples partitions set partitions set fewer
+sets
+
+CACM-2410
+----------------------------------------------------------------
+<hl>polynomial</hl> pnx chebyshev series combined recurrence
+scheme clenshaw summing <hl>finite</hl> series terms satisfy
+threeterm recurrence formula cacm november 1973 salzer
+
+CACM-2997
+----------------------------------------------------------------
+<hl>finite</hl> sets poin ts dimensions convex hulls sets poin
+ts dimensions determined log operations presented
+<hl>algorithms</hl> divide conquer technique recursively
+<hl>algorithm</hl> requires log operations time complexity
+proposed <hl>algorithms</hl> optimal multiplicative constant
+cacm february 1977 preparata hong computational complexity
+convex hull
+
+CACM-2767
+----------------------------------------------------------------
+<hl>especially</hl> chosen show advantages limitations
+<hl>algorithms</hl> endorder tree <hl>algorithm</hl> shown
+advantageous replacement <hl>algorithm</hl> simulation languages
+promising <hl>algorithm</hl> indexed list concept ...
+<hl>algorithms</hl> <hl>algorithms</hl> considered schedule
+events general purpose discrete simulation system
+<hl>algorithms</hl> based endorder tree structure event notices
+indexed linear list
+
+CACM-1706
+----------------------------------------------------------------
+<hl>manipulation</hl> procedures programming language facility
+symbol <hl>manipulation</hl> string procedures declared called
+standard algol context algol procedures turn called string
+procedures ... <hl>manipulation</hl> string handling character
+<hl>manipulation</hl> conditional expressions procedures
+structure matching recursive programming quantifiers 4.22 4.13
+ca6888 jb february 22 1978
+
+CACM-1392
+----------------------------------------------------------------
+<hl>algorithm</hl> design facets design implementation
+mathematical expression <hl>manipulation</hl>
+<hl>algorithms</hl> discussed concrete <hl>examples</hl>
+provided formac expand differentiation <hl>algorithms</hl> basic
+formac utility
+
+CACM-3131
+----------------------------------------------------------------
+<hl>algorithms</hl> <hl>especially</hl> microcomputer control
+signal processing applications focus wideranging character
+floatingpoint numbers uniformity state distributions give focus
+twofold accuracy advantage
+
+CACM-2931
+----------------------------------------------------------------
+<hl>field</hl> concentration finitestate <hl>algebraic</hl>
+aspects understanding higherlevel program features involves
+infinite objects forces pass levels explanation conceptual ideas
+final simulation
+
+CACM-2722
+----------------------------------------------------------------
+<hl>algorithms</hl> tasks <hl>algorithm</hl> presented handle
+general intersection query main focus paper theoretical felt kd
+trees applications <hl>examples</hl> potential cacm september
+... <hl>examples</hl> shown storage requirements significant
+advantage structure single data structure handle types queries
+efficiently utility <hl>algorithms</hl> developed proven average
+running
+
+CACM-2627
+----------------------------------------------------------------
+<hl>algorithms</hl> known minimizing mean finishing time
+addition presenting analyzing <hl>algorithms</hl> shown general
+meanfinishingtime problem independent tasks <hl>polynomial</hl>
+complete unlikely admit
+
+CACM-2268
+----------------------------------------------------------------
+<hl>polynomial</hl> rational <hl>testing</hl> procedure
+evaluation criteria applied set test problems programs tested
+included appendix problems criteria investigation found program
+based
+
+CACM-1180
+----------------------------------------------------------------
+<hl>manipulation</hl> data arranged linear form workspace
+transformed according table axioms called imperatives
+transformation consists matching procedure decides imperative
+applicable replacement
+
+CACM-1681
+----------------------------------------------------------------
+<hl>examples</hl> presented form transformed equivalent query
+expressed retrieval systems original <hl>symbolic</hl> command
+language briefly operation easy english detailed illustration
+transformations
+
+CACM-1806
+----------------------------------------------------------------
+<hl>algorithm</hl> 365 numerical <hl>examples</hl> included cacm
+december 1969 bach downhill method complex relaxation method
+complex iteration complex equation transcendental complex
+
+CACM-1595
+----------------------------------------------------------------
+<hl>finite</hl> topologies problem enumerating number topologies
+formed <hl>finite</hl> point set considered theoretically
+computationally fundamental results established leading
+<hl>algorithm</hl> enumerating <hl>finite</hl>
+
+CACM-2094
+----------------------------------------------------------------
+<hl>algorithm</hl> nonlinear minimax approximation nonlinear
+minimax approximation problems characterize properties permit
+application special <hl>algorithms</hl> mainly based exchange
+<hl>algorithms</hl> remes 1934
+
+CACM-1946
+----------------------------------------------------------------
+<hl>algorithm</hl> gcd <hl>algorithm</hl> <hl>polynomial</hl>
+resultant elimination bezouts determinant sylvesters determinant
+reduced prs <hl>algorithm</hl> euclidean <hl>algorithm</hl>
+multivariate <hl>polynomial</hl> equations 4.4 5.1 ...
+<hl>polynomial</hl> resultants bezouts determinant collins
+reduced <hl>algorithm</hl> <hl>algorithms</hl> computing
+resultant polynomials variables key repetitive step computation
+solving systems <hl>polynomial</hl> equations ...
+<hl>algorithm</hl> bezouts determinant collins reduced
+<hl>polynomial</hl> remainder sequence prs <hl>algorithm</hl>
+detailed tests performed sample problems conclusively show
+bezouts determinant superior ... <hl>algorithm</hl> computer
+implementation depends extent extraneous factors introduced
+extent propagation errors caused truncation real coefficients
+memory requirements computing speed preliminary
+
+CACM-0892
+----------------------------------------------------------------
+<hl>manipulation</hl> data records language interrogation scheme
+selecting records logical condition statements defining record
+classes associating records editing printed output summarizing
+
+CACM-2289
+----------------------------------------------------------------
+<hl>algorithms</hl> exploit possibilities parallelism
+<hl>especially</hl> problems solutions inherently serial
+parallelized <hl>algorithms</hl> presented solution spanning
+tree distance path problems direct applications
+<hl>algorithms</hl> exhibit computation time cases grows rate
+exceeding log2 number nodes graph straightforward cellular
+implementations wellknown serial <hl>algorithms</hl> problems
+require
+
+CACM-2646
+----------------------------------------------------------------
+<hl>algorithms</hl> restricted classes programs predictable
+behavior methods restricted numerical computations matrix
+partial differential equation methods typical <hl>examples</hl>
+shown latency masked ... <hl>algorithms</hl> masking rotational
+latency disk drum discusses anticipatory input output blocks
+data buffer primary memories monoprogrammed computer system
+basic permutation
+
+CACM-2958
+----------------------------------------------------------------
+<hl>algebraic</hl> technique specification abstract data types
+<hl>examples</hl> presented topdown development symbol table
+block structured language discussion proof correctness paper
+discussion
+
+CACM-2385
+----------------------------------------------------------------
+<hl>polynomial</hl> <hl>algorithm</hl> a419 cacm february 1972
+jenkins traub roots roots <hl>polynomial</hl> zeros
+<hl>polynomial</hl> 5.15 ca7226 jb january 31 1978 4:14
+
+CACM-1394
+----------------------------------------------------------------
+<hl>algebraic</hl> properties elementary particle reactions
+digital computer large number calculations highenergy elementary
+particle physics involve <hl>manipulation</hl> complicated
+<hl>algebraic</hl> expressions tensor
+
+CACM-1763
+----------------------------------------------------------------
+<hl>polynomial</hl> equations <hl>algorithm</hl> 326 cacm april
+1968 nonweiler root finders <hl>polynomial</hl> equation roots
+quadratic equation roots cubic equation roots biquadratic
+
+CACM-1696
+----------------------------------------------------------------
+<hl>algorithm</hl> identifying ergodic subchains transient
+states stochastic matrix <hl>algorithm</hl> identifying ergodic
+subchains transient states stochastic matrix presented
+applications markov renewal
+
+CACM-2692
+----------------------------------------------------------------
+<hl>algorithms</hl> <hl>algorithms</hl> able clip polygons
+irregular convex planefaced volumes dimensions removing parts
+polygon lie volume dimensions <hl>algorithms</hl> permit
+clipping irregular <hl>algorithms</hl> easily handle difficult
+problem detecting vertex required corner clipping window
+<hl>algorithms</hl> achieve considerable simplicity clipping
+separately clipping plane window
+
+CACM-2231
+----------------------------------------------------------------
+<hl>finite</hl> binary pattern construct original pattern paper
+give characterization patterns reconstructable projection
+<hl>algorithms</hl> developed reconstruct unambiguous ambiguous
+patterns shown unambiguous
+
+CACM-1612
+----------------------------------------------------------------
+<hl>algorithm</hl> connection programming language grammars
+shown instance retracing unprofitable paths eliminated suitable
+rearrangement productions defining grammar essential weakness
+method <hl>dealing</hl>
+
+CACM-1924
+----------------------------------------------------------------
+<hl>manipulation</hl> <hl>algorithms</hl> studied function
+number pages main memory <hl>algorithm</hl> cacm march 1969
+mckellar coffman jr matrix <hl>algorithms</hl> array processing
+paging
+
+CACM-3189
+----------------------------------------------------------------
+<hl>algebraic</hl> compiler fortran assembly program
+<hl>algebraic</hl> compiler written added fortran assembly
+program compiler expand <hl>algebraic</hl> statements operations
+addition subtraction multiplication
+
+CACM-1644
+----------------------------------------------------------------
+<hl>polynomial</hl> makes computed <hl>polynomial</hl>
+approximation true square <hl>polynomial</hl> simple method
+adjust ing constant term computed <hl>polynomial</hl>
+approximation true squares <hl>polynomial</hl>
+
+CACM-1387
+----------------------------------------------------------------
+<hl>polynomial</hl> equations elimination elimination procedure
+williams coded lisp formac solving systems <hl>polynomial</hl>
+equations found method effective case small systems yields
+
+CACM-2081
+----------------------------------------------------------------
+<hl>algorithms</hl> symbol <hl>manipulation</hl> matrix
+expressions find forms suited computation forms called normal
+forms completeness results obtained sense expression equivalent
+expression
+
+CACM-3095
+----------------------------------------------------------------
+<hl>algorithm</hl> selective traversal tag <hl>field</hl> node
+tree <hl>algorithm</hl> efficient examination data time
+consuming examination tag <hl>field</hl> cacm june 1978 driscoll
+
+CACM-1166
+----------------------------------------------------------------
+<hl>symbolic</hl> assembly language computer set macrooperations
+prepared assist translating ibm 79 <hl>symbolic</hl> assembly
+language programs ibm 74 machine language programs
+
+CACM-2325
+----------------------------------------------------------------
+<hl>algorithms</hl> components numerical mathematics discussed
+foundations <hl>finite</hl> precision number systems
+computational complexity synthesis analysis <hl>algorithms</hl>
+analysis error programs program libraries
+
+CACM-3066
+----------------------------------------------------------------
+<hl>testing</hl> code walkthroughsinspections paper describes
+experiment program <hl>testing</hl> employing 59 highly
+experienced data processing professionals methods test small pli
+program
+
+CACM-1388
+----------------------------------------------------------------
+<hl>symbolic</hl> translation procedure numerically solving
+systems ordinary differential equation shown generate
+<hl>symbolic</hl> solutions procedure based <hl>finite</hl>
+taylor series expansion includes
+
+CACM-2946
+----------------------------------------------------------------
+<hl>examples</hl> presented readers writers problem problem
+information streams sharing <hl>finite</hl> buffer pool cacm
+july 1977 kessels monitor operating system mutual
+
+CACM-1214
+----------------------------------------------------------------
+<hl>algebraic</hl> <hl>manipulation</hl> computer set
+subroutines allow <hl>algebraic</hl> manipulations ibm 794
+computer written list processor slip series problems increasing
+difficulty solved
+
+CACM-1940
+----------------------------------------------------------------
+<hl>polynomial</hl> derivative values horner scheme
+<hl>algorithm</hl> 337 cacm january 1969 smith function
+evaluation <hl>polynomial</hl> evaluation algol procedure
+horners scheme 4.22
+
+CACM-0351
+----------------------------------------------------------------
+<hl>finite</hl> segment hilbert matrix <hl>algorithm</hl> 5 cacm
+april 1961 herndon ca61417 jb march 16 1978 11:5 pm 351 5 351
+
+CACM-0646
+----------------------------------------------------------------
+<hl>finite</hl> segment hilbert matrix <hl>algorithm</hl> 5 cacm
+january 1962 randell ca62113 jb march 2 1978 4:31 pm 646 5 646
+
+CACM-0937
+----------------------------------------------------------------
+<hl>finite</hl> segment hilbert matrix <hl>algorithm</hl> 5 cacm
+january 1963 naur ca63111 jb march 14 1978 2:36 pm 937 5 937
+
+CACM-1941
+----------------------------------------------------------------
+<hl>algorithm</hl> 322 cacm january 1969 <hl>field</hl> fishers
+fdistribution studentss tdistribution 5.5 ca6918 jb february 2
+1978 11:48 1941 5 1941
+
+CACM-1689
+----------------------------------------------------------------
+<hl>polynomial</hl> derivative values horner scheme
+<hl>algorithm</hl> 337 cacm september 1968 pankiewicz function
+evaluation <hl>polynomial</hl> evaluation algol procedure
+horners scheme 5.12
+
+CACM-2240
+----------------------------------------------------------------
+<hl>algorithm</hl> c266 cacm december 1972 sullins pseudorandom
+numbers <hl>testing</hl> random number generators 5.5 ca721215
+jb january 27 1978 9:4 224
+
+CACM-1252
+----------------------------------------------------------------
+<hl>symbolic</hl> notations statistical tables approach
+automatic system design preparation statistical tables important
+function data processing systems organizations <hl>symbolic</hl>
+notation description
+
+CACM-1145
+----------------------------------------------------------------
+<hl>testing</hl> pairs directed line graphs isomorphism pair
+directed line graphs problem ascertaining isomorphic efficient
+algorithmic solution known straightforward enumerative
+<hl>algorithm</hl>
+
+CACM-2135
+----------------------------------------------------------------
+<hl>polynomial</hl> approximating <hl>algorithms</hl> developed
+rapid computation wide class selections includes lagrangian
+hermitian rules special cases cacm december 1971 gustafson
+linear
+
+CACM-2314
+----------------------------------------------------------------
+<hl>symbolic</hl> data stores paper presents overview number
+system features author feels important improve productivity
+programmers working domains system view focusing
+<hl>algorithms</hl> coded language form debugged modified made
+efficient run data general frameworkthe requirements applicable
+design advanced programming systems wide range
+
+CACM-1699
+----------------------------------------------------------------
+<hl>testing</hl> information system evaluation experimental
+document retrieval document retrieval document perusal
+manmachine communication remote console communication
+teletypewriter communication remote terminal
+
+CACM-3163
+----------------------------------------------------------------
+<hl>algorithm</hl> onesided heightbalanced binary search trees
+<hl>algorithm</hl> inserting element onesided heightbalanced
+oshb binary search tree presented <hl>algorithm</hl> operates
+time olog ... <hl>algorithms</hl> oshb trees complicated
+<hl>algorithms</hl> avl trees cacm september 1979 raihak zweben
+insertion onesided heightbalanced trees heightbalanced trees
+binary trees ... <hl>algorithms</hl> hirschberg kosaraju require
+time olog 2n olog complexity optimal earlier results shown
+deletion structure performed olog time result paper
+

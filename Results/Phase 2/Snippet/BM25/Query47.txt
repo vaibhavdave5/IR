@@ -1,0 +1,946 @@
+CACM-1032
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> systems
+<hl>information</hl> storage <hl>retrieval</hl> systems composed
+major components identification <hl>information</hl> tagging
+effective <hl>retrieval</hl> searching strategy enter circumvent
+<hl>scanning</hl> <hl>information</hl> efficient identification
+<hl>information</hl> paper suggests metalanguage recently
+discussed paper goffman verhoeff belzer object language
+searching strategy linear model evaluation <hl>system</hl>
+retrieving relevant documents retrieving nonrelevant penalizes
+<hl>system</hl> escaped relevant documents false drops
+inadequacies linear model approaches organization discussed
+selforganization
+
+CACM-2990
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> term accuracy
+<hl>performance</hl> <hl>information</hl> <hl>retrieval</hl>
+systems evaluated number ways published evaluation work based
+measuring <hl>retrieval</hl> <hl>performance</hl> average
+<hl>user</hl> <hl>retrieval</hl> evaluation based optimizing
+<hl>performance</hl> specific <hl>user</hl> query concept query
+term accuracy troduced probability occurrence query term
+documents relevant query ... <hl>information</hl>
+<hl>retrieval</hl> automatic indexing content analysis term
+accuracy frequency weighting thesaurus phrase transformations
+3.71 3.72 3.75 ca7732 jb december 3
+
+CACM-1699
+----------------------------------------------------------------
+<hl>information</hl> systems laboratory basic assumption
+research <hl>information</hl> <hl>retrieval</hl> <hl>system</hl>
+manmachine dialogue remote inquiry terminal provide searcher
+tools actually performing <hl>search</hl> ...
+<hl>information</hl> <hl>retrieval</hl> teletypewriter
+experiments designed evaluate capabilities mechanized
+<hl>information</hl> <hl>retrieval</hl> systems emphasis
+interactive manmachine language mechanical psychological
+limitations design conducted ... <hl>information</hl>
+<hl>system</hl> evaluation experimental document
+<hl>retrieval</hl> document <hl>retrieval</hl> document perusal
+manmachine communication remote console communication
+teletypewriter communication remote terminal communication ...
+<hl>system</hl> include ease learning time effectiveness actual
+<hl>retrieval</hl> experiments conclusions resulting detailed
+cacm september 1968 rubinoff bergman franks rubinoff
+<hl>information</hl>
+
+CACM-2288
+----------------------------------------------------------------
+<hl>retrieval</hl> property consecutive <hl>retrieval</hl>
+property important relation query set record set existence
+enables design <hl>information</hl> <hl>retrieval</hl>
+<hl>system</hl> minimal <hl>search</hl> time <hl>retrieval</hl>
+property proved paper conditions consecutive <hl>retrieval</hl>
+property exists remain invariant established outline designing
+<hl>information</hl> <hl>retrieval</hl> <hl>system</hl> based
+consecutive <hl>retrieval</hl>
+
+CACM-2711
+----------------------------------------------------------------
+<hl>retrieval</hl> pattern matching environment stored entities
+documents compared incoming patterns <hl>search</hl> requests
+appears indexing property space entity lies circumstances
+indexing <hl>retrieval</hl> <hl>performance</hl> correlate
+inversely space density approach based space density
+computations choose optimum indexing vocabulary collection
+documents typical evaluation results
+
+CACM-2307
+----------------------------------------------------------------
+<hl>information</hl> retrieved interactive usercontrolled
+<hl>search</hl> process methods automatic query modification
+based <hl>user</hl> needs continuous reorganization stored
+<hl>information</hl> function earlier processing
+<hl>information</hl> <hl>retrieval</hl> control dynamic library
+collections items continually added retired cacm july 1972
+salton automatic indexing automatic <hl>search</hl>
+<hl>retrieval</hl> iterative
+
+CACM-1194
+----------------------------------------------------------------
+<hl>information</hl> users unfamiliar organization service
+exceeding <hl>user</hl> costs principles serve guides
+mechanizing acm repository main features <hl>information</hl>
+<hl>system</hl> direct <hl>user</hl> <hl>user</hl> access
+details <hl>system</hl> organization unrestricted expandable
+<hl>search</hl> vocabulary <hl>user</hl> access facets document
+indexing stochastic <hl>search</hl> linked index terms
+relationships <hl>system</hl> detail main catalog describe
+documents inverted lists provided repository <hl>system</hl>
+<hl>retrieval</hl> concept coordination cacm october 1965
+rubinoff white jr
+
+CACM-2979
+----------------------------------------------------------------
+<hl>optimize</hl> heuristic <hl>rules</hl> machines reach
+similar results vehicle investigations game poker conceptual
+framework provided fairly wide range applicability
+<hl>models</hl> human ... <hl>decision</hl> making uncertain ty
+risk automatic forming optimizing heuristic <hl>rules</hl>
+automatic inductive deductive inference making <hl>models</hl>
+game learning poker gambling ... <hl>decision</hl> making
+uncertainly risk human problem solving learning processes hand
+machine learning large scale programming systems programming
+techniques terest humans
+
+CACM-3012
+----------------------------------------------------------------
+<hl>information</hl> storage <hl>retrieval</hl> <hl>system</hl>
+medical research paper presents results study interactive
+computerized storage <hl>retrieval</hl> <hl>system</hl> monitor
+built computer <hl>system</hl> provided ... <hl>system</hl>
+<hl>information</hl> storage <hl>retrieval</hl> <hl>system</hl>
+2.1 3.5 3.72 ca7831 jb march 28 1978 1:51 pm 312 5 312 312 5
+
+CACM-1236
+----------------------------------------------------------------
+<hl>retrieval</hl> systeman illustration fully automatic
+document <hl>retrieval</hl> <hl>system</hl> operating ibm 794
+<hl>system</hl> characterized fact hundred methods analyze
+documents <hl>search</hl> requests <hl>retrieval</hl> process
+leaving exact sequence operations initially unspecified adapting
+<hl>search</hl> strategy needs individual users <hl>system</hl>
+simulate actual operating environment test
+
+CACM-2516
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> probabilistic analysis
+employed <hl>determine</hl> effect hierarchical storage
+organizations <hl>information</hl> <hl>retrieval</hl> operations
+data storage hardware assumed consist nlevels linearly
+<hl>system</hl> consist fast semiconductor memory computer core
+memory extended core storage disk memory data cells equations
+derived predict effect <hl>system</hl>
+
+CACM-2722
+----------------------------------------------------------------
+<hl>retrieval</hl> binary <hl>search</hl> trees key attribute
+<hl>information</hl> <hl>retrieval</hl> <hl>system</hl> nearest
+neighbor queries partial match queries intersection queries
+binary tree insertion ... <hl>search</hl> trees associative
+searching paper develops multidimensional binary <hl>search</hl>
+tree kd tree dimensionality <hl>search</hl> space data structure
+storage <hl>information</hl> retrieved
+
+CACM-2947
+----------------------------------------------------------------
+<hl>system</hl> powerful sum parts cacm july 1977 schneider jr
+watts <hl>information</hl> <hl>retrieval</hl> text editing
+minicomputers crtstime sharing bibliographic <hl>search</hl>
+<hl>retrieval</hl> ... <hl>system</hl> small computers sitar
+lowcost teractive text handling text analysis <hl>system</hl>
+nontechnical users ways comparable teractive bibliographical
+<hl>search</hl> <hl>retrieval</hl> systems
+
+CACM-1680
+----------------------------------------------------------------
+<hl>system</hl> adept displayexpedited processing tutorial
+<hl>system</hl> <hl>system</hl> designed improve mancomputer
+communications employing display unit interleave tutoring
+computer operations simulation programming ... <hl>system</hl>
+perform jobs expands power flexibility computerassisted
+instruction making immediately students teachers users full
+resources systemcataloged programs operating <hl>system</hl>
+language <hl>models</hl> mathematical solution techniques stored
+data library <hl>user</hl> programs incorporated instructional
+material reprogramming illustrations applications presented
+implications discussed cacm october <hl>information</hl>
+<hl>retrieval</hl> operating systems graphics displays
+manmachine interface online computing graphic programming 1.5
+3.3 3.5 3.8 4 4.3 ca6817 jb
+
+CACM-1937
+----------------------------------------------------------------
+<hl>system</hl> codas customer oriented data <hl>system</hl>
+useroriented data <hl>retrieval</hl> display <hl>system</hl>
+command language <hl>system</hl> <hl>user</hl> easy means data
+<hl>retrieval</hl> display
+
+CACM-2278
+----------------------------------------------------------------
+<hl>information</hl> storage <hl>retrieval</hl> avl trees cacm
+september 1972 tan binary trees <hl>search</hl> trees
+<hl>information</hl> storage <hl>information</hl>
+<hl>retrieval</hl> 3.7 3.73 3.74
+
+CACM-2451
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> operation
+<hl>determine</hl> records data collection satisfy query
+expressed terms data values process locating desired responses
+represented tree <hl>search</hl> ... <hl>search</hl> tree
+bitvector tree experimental study small formatted illustrates
+concepts cacm september 1973 casey tree <hl>information</hl>
+storage <hl>retrieval</hl> clustering <hl>search</hl>
+
+CACM-0891
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> <hl>system</hl>
+<hl>information</hl> <hl>retrieval</hl> problem solution
+presented posed technical library limited bubget personnel
+solution general applicable types <hl>retrieval</hl> problems
+
+CACM-2114
+----------------------------------------------------------------
+<hl>system</hl> <hl>information</hl> <hl>retrieval</hl>
+generalized structure provided concepts keyword index record
+directory structure directory decoding record <hl>retrieval</hl>
+defined frequently structures inverted
+
+CACM-3134
+----------------------------------------------------------------
+<hl>information</hl> storage <hl>retrieval</hl> paper describes
+method organization <hl>retrieval</hl> attribute based
+<hl>information</hl> systems normal multiplication table
+directory <hl>information</hl> <hl>system</hl> algorithms
+organization ... <hl>information</hl> <hl>system</hl> class
+<hl>information</hl> systems normal multiplication table method
+yields rapid <hl>retrieval</hl> economical space requirement
+conventional systems method incorporates improved
+<hl>information</hl> <hl>retrieval</hl> inverted multiattribute
+<hl>retrieval</hl> multilist normal multiplication table queries
+rapid <hl>retrieval</hl> space economy 3.7 3.73 3.79 ca7935 dh
+21
+
+CACM-2848
+----------------------------------------------------------------
+<hl>decision</hl> <hl>rules</hl> <hl>decision</hl> tables
+effective tool interview record logic processes automated result
+interview structure complete <hl>decision</hl> tables sets
+<hl>decision</hl> <hl>rules</hl> <hl>decision</hl>
+<hl>rules</hl> provide aid developing structure complete
+<hl>decision</hl> tables cacm july 1976 cheng rabin
+<hl>decision</hl> <hl>rules</hl> <hl>decision</hl> tables
+logical tables
+
+CACM-2370
+----------------------------------------------------------------
+<hl>scanning</hl> display <hl>system</hl> operation ibm thomas
+watson research center years <hl>system</hl> <hl>includes</hl>
+flyingspot scanners tv camera specially interfaced process
+control
+
+CACM-2882
+----------------------------------------------------------------
+<hl>system</hl> effect significantly reducing cost
+experimentation enabling research attempted model designed
+estimate <hl>retrieval</hl> workload alternative data
+<hl>retrieval</hl> systems data <hl>retrieval</hl> ...
+<hl>retrieval</hl> systems experimental work valuation large
+scale data <hl>retrieval</hl> systems scarce due difficulty
+prohibitive cost paper discusses simulation model data ...
+<hl>retrieval</hl> systems impact query complexity analyzed cacm
+february 1976 siler database architecture database
+<hl>performance</hl> evaluation invented list threaded list
+cellular
+
+CACM-2535
+----------------------------------------------------------------
+<hl>system</hl> study made asynchronous time division
+multiplexing stochastic nature arrival process <hl>user</hl>
+computer affects <hl>performance</hl> timeshared
+computercommunications <hl>system</hl> concluded values
+<hl>performance</hl> computer model sense timeshared scheduling
+delays reduced improvements offset transmission delays imposed
+multiplexing change computercommunications <hl>system</hl>
+<hl>performance</hl> analytical simulation
+
+CACM-1681
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> manmachine communication
+remote terminal communication translator document
+<hl>retrieval</hl> conversational mode <hl>information</hl>
+<hl>retrieval</hl> language symbolic command language 3.74 3.81
+... <hl>information</hl> <hl>retrieval</hl> remote typewriter
+console easy english natural command language designed simplify
+communication man machine remote typewriter console developed
+<hl>retrieval</hl> <hl>information</hl> systems laboratory
+requests formulated standardized syntactical form examples
+presented form transformed equivalent query expressed
+<hl>retrieval</hl> systems original symbolic command
+
+CACM-2372
+----------------------------------------------------------------
+<hl>information</hl> systems security <hl>information</hl>
+<hl>system</hl> represented model matrix elements
+<hl>decision</hl> <hl>rules</hl> row column indices users data
+items set functions access <hl>decision</hl> <hl>rules</hl>
+enables perform checking security translation time repeatedly
+execution time model explain security features existing systems
+serves framework proposal <hl>system</hl> implementation todays
+languages operating systems cacm april 1972 conway maxwell
+morgan security privacy access control confidentiality operating
+systems access
+
+CACM-3041
+----------------------------------------------------------------
+<hl>search</hl> tree perfectly balanced achieving space
+efficient representation tree high <hl>search</hl> speed unlike
+frequency ordered binary <hl>search</hl> trees cost successful
+<hl>search</hl> tree discussion application msts dictionary
+lookup english presented <hl>performance</hl> obtained
+contrasted techniques cacm november 1978 sheil tree
+<hl>search</hl> dictionary <hl>search</hl> heaps balanced trees
+zipfs law <hl>information</hl> <hl>retrieval</hl> 3.74 5.25 5.39
+ca78111 dh january 25 1979 9:49 341 4 341
+
+CACM-2970
+----------------------------------------------------------------
+<hl>output</hl> analysis paper extends regenerative property
+queueing systems analysis simulation <hl>output</hl> describes
+sequential estimation method regenerative property results
+obtained statistical <hl>includes</hl> test check normality
+assumption sequential procedure relies paper illustrates method
+empty idle state regenerative state describes frequently entered
+state
+
+CACM-1935
+----------------------------------------------------------------
+<hl>retrieval</hl> systems cacm february 1969 arora dent binary
+pattern examination graph theory <hl>information</hl>
+<hl>retrieval</hl> mathematical model partitioning probabilistic
+method random ... <hl>search</hl> technique mathematical model
+developed mean variance number trials recover document randomly
+received list <hl>search</hl> method binary nature offers
+potential
+
+CACM-1855
+----------------------------------------------------------------
+<hl>rules</hl> number examples <hl>output</hl> produced program
+<hl>output</hl> <hl>includes</hl> timing <hl>information</hl>
+cacm august 1969 dewar bratley syntactic analysis language
+processing language
+
+CACM-1359
+----------------------------------------------------------------
+<hl>information</hl> storage <hl>retrieval</hl> applications
+manipulation data strings complex processing function
+<hl>information</hl> storage <hl>retrieval</hl> applications
+data string manipulation discussed context interpretive
+
+CACM-1652
+----------------------------------------------------------------
+<hl>information</hl> channel linking <hl>system</hl>
+<hl>system</hl> <hl>user</hl> code direct application problems
+area <hl>information</hl> <hl>retrieval</hl> document
+classification computeraided teaching text editing code ...
+<hl>information</hl> processing applications online systems code
+specifically designed simplify internal <hl>information</hl>
+processing operations online computer <hl>system</hl> respect
+nonnumeric applications maximize
+
+CACM-2258
+----------------------------------------------------------------
+<hl>search</hl> scatter storage <hl>information</hl>
+<hl>retrieval</hl> 3.7 3.72 3.73 3.74 3.79 4.9 ca721111 jb
+january 27 1978 1:31 pm 2258 4
+
+CACM-1514
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> <hl>system</hl> cacm
+november 1967 shumway ca67116 jb february 26 1978 2:59 pm 1514 5
+1514 1514 5 1514
+
+CACM-1415
+----------------------------------------------------------------
+<hl>output</hl> analyzer microsentences produced exhibited
+authors conclude microsentences quality achieved open prospects
+improving <hl>performance</hl> automatic message
+<hl>retrieval</hl> systems practical manmachine
+
+CACM-1506
+----------------------------------------------------------------
+<hl>retrieval</hl> large means dialogue <hl>system</hl>
+<hl>user</hl> <hl>retrieval</hl> application monitor designed
+work small computer ibm <hl>system</hl> 363 techniques resource
+allocation important
+
+CACM-2832
+----------------------------------------------------------------
+<hl>retrieval</hl> <hl>retrieval</hl> started position previous
+<hl>retrieval</hl> auxiliary structures built make
+<hl>search</hl> rapid algorithms addition deletion data garbage
+collection outlined cacm
+
+CACM-1457
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> automatic
+<hl>information</hl> <hl>retrieval</hl> programs require
+manipulation variety data structures including linear text
+sparse matrices tree list structures main ... <hl>retrieval</hl>
+application examined suggestions made design programming
+facilities aid <hl>information</hl> <hl>retrieval</hl> cacm
+march 1966 salton ca66315 jb march 3 1978
+
+CACM-2318
+----------------------------------------------------------------
+<hl>system</hl> <hl>models</hl> <hl>performance</hl> evaluation
+<hl>models</hl> constitute means investigating computer
+<hl>system</hl> <hl>performance</hl> paper examines
+interrelationships <hl>models</hl> methods evaluating
+<hl>performance</hl> computer systems
+
+CACM-1427
+----------------------------------------------------------------
+<hl>system</hl> important structure program simulation
+<hl>output</hl> quantumlimited <hl>system</hl> cacm 1966 pizer
+ca6651 jb march 3 1978 9:47 1427 5 1427 ... <hl>scanning</hl>
+field assuming increasing importance medical diagnosis scan
+twodimensional pattern made dots areas increased source activity
+represented scan areas increased
+
+CACM-2622
+----------------------------------------------------------------
+<hl>user</hl> authentication scheme requiring secrecy computer
+computer operating systems <hl>user</hl> authenticates entering
+secret password known solely <hl>system</hl> <hl>system</hl>
+compares password ... <hl>user</hl> intruder know access table
+penetrate <hl>system</hl> invert <hl>determine</hl> input
+produces <hl>output</hl> paper discusses issues surrounding
+selection suitable plausible arguments ... <hl>system</hl>
+depends keeping table secret paper password scheme presented
+require secrecy computer aspects <hl>system</hl> including
+relevant code data bases known
+
+CACM-2070
+----------------------------------------------------------------
+<hl>system</hl> <hl>information</hl> <hl>retrieval</hl> cacm
+april 197 hsiao harary ca7414 jb february 13 1978 2:37 pm 27 5
+27 27 5
+
+CACM-0275
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> <hl>system</hl> cacm
+october 1961 sams ca6116 jb march 16 1978 12:58 pm 275 5 275 275
+5 275
+
+CACM-3086
+----------------------------------------------------------------
+<hl>models</hl> <hl>decision</hl> tree programs lower bounds
+5.25 5.26 5.3 5.39 ca7872 dh february 8 1979 3:46 pm 386 5 386
+... <hl>decision</hl> tree complexity computing measure union
+possibly overlapping intervals shown log comparisons linear
+functions interval endpoints allowed existence log lower
+
+CACM-1695
+----------------------------------------------------------------
+<hl>system</hl> modeling neural networks description presented
+plexus <hl>system</hl> enables <hl>user</hl> construct neural
+network analyze <hl>output</hl> data produced network store
+retrieve <hl>system</hl> operated entirely digital display unit
+interacts directly <hl>user</hl> permits easy rapid transitions
+phases modeling process plexus designed complement
+neurophysiological ... <hl>system</hl> simulation library
+systems modeling network simulation neural networks
+neurophysiological <hl>models</hl> online simulation simulation
+3.12 3.19 3.29 3.65 ca6896 jb
+
+CACM-1267
+----------------------------------------------------------------
+<hl>performance</hl> systems data transmission transfer rate
+<hl>information</hl> bits asa tutorial standard
+<hl>information</hl> thruput characteristic systems
+<hl>performance</hl> discussed discussion <hl>includes</hl>
+pertinent <hl>information</hl> transfer determination transfer
+rate <hl>information</hl> bits trib residual errors standard
+measurement conditions paper presents orderly arrangement
+characteristics parameters affect
+
+CACM-0944
+----------------------------------------------------------------
+<hl>search</hl> properties treeorganized memory <hl>system</hl>
+memory list properties construct numeric alphabetic alphanumeric
+trees trees <hl>information</hl> storage <hl>retrieval</hl>
+properties applicable problems
+
+CACM-2976
+----------------------------------------------------------------
+<hl>performance</hl> measurement <hl>information</hl>
+<hl>retrieval</hl> query answering 3.7 3.72 4.33 ca7746 jb
+december 29 1977 5:6 2976 4 2976 2976 4
+
+CACM-1271
+----------------------------------------------------------------
+<hl>retrieval</hl> ibm 79131 <hl>system</hl> secondary key
+<hl>retrieval</hl> method involves preparation secondary storage
+lists primary data records <hl>search</hl> requests satisfied
+logical
+
+CACM-1827
+----------------------------------------------------------------
+<hl>performance</hl> monitoring timesharing <hl>system</hl>
+software measurement facility part general purpose timesharing
+<hl>system</hl> date collection facility dcf implemented
+michigan terminal <hl>system</hl> <hl>system</hl> <hl>user</hl>
+program behavior <hl>performance</hl> structure mts outlined
+order explain implementation dcf events <hl>system</hl>
+identified recorded supervisor dumped magnetic tape ...
+<hl>performance</hl> data multiprogramming <hl>performance</hl>
+software measurement timesharing <hl>performance</hl>
+<hl>system</hl> evaluation software monitor software
+instrumentation 4.31 4.32 4.39 4.42 4.43 ca69113 ...
+<hl>information</hl> obtained facility applications general
+guidelines offered construction future monitoring programs cacm
+november 1969 pinkerton <hl>performance</hl> monitoring
+<hl>performance</hl> measurement program
+
+CACM-2561
+----------------------------------------------------------------
+<hl>retrieval</hl> systems heuristic procedures presented
+developed perform inferences generalizing <hl>information</hl>
+procedures make similarity structure imposed data base
+nonnumerical clustering algorithms <hl>retrieval</hl>
+<hl>system</hl> formal query language propertylist data
+structure program experiments procedures test data bases altered
+deleting part data purposely introducing
+
+CACM-2984
+----------------------------------------------------------------
+<hl>includes</hl> technique visual representation
+<hl>system</hl> <hl>performance</hl> cacm march 1977 borovits
+eindor computer <hl>system</hl> <hl>performance</hl> evaluation
+costutilization <hl>system</hl> balance 2.44 ca7738
+
+CACM-2547
+----------------------------------------------------------------
+<hl>information</hl> illustrates utility algebraic properties
+data structure make computationally easy <hl>determine</hl>
+point lies closed boundary compute area contained closed
+boundary ... <hl>search</hl> computersearchable representation
+basic pictorial features contour maps region coverage line
+structures representation practical storage requirements rapid
+mean searching large ... <hl>determine</hl> neighboring
+boundaries point minimum distances point cacm february 1973
+merrill contour map representation region boundary
+representation computersearchable structure graphic
+
+CACM-0440
+----------------------------------------------------------------
+<hl>information</hl> individually unreliable collectively
+considerable discriminating power <hl>rules</hl> applied
+generally <hl>retrieval</hl> systems developed methodological
+study linkage vital health records family
+
+CACM-1700
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> methods mated idea
+superimposed punching produce programming technique cuts
+computer run time half test <hl>search</hl> 33 subject index
+<hl>search</hl> program device operational late 1963 item
+entered store 18byte mask created items meaningful words
+inclusive operation <hl>search</hl> time logical
+
+CACM-1830
+----------------------------------------------------------------
+<hl>retrieval</hl> times packed direct access inverted cacm
+october 1969 bayes <hl>information</hl> <hl>retrieval</hl>
+direct access memory data base inverted list 3.7
+
+CACM-0892
+----------------------------------------------------------------
+<hl>retrieval</hl> command language interrogation scheme
+<hl>retrieval</hl> manipulation data records language
+interrogation scheme selecting records logical condition
+statements defining record classes
+
+CACM-2978
+----------------------------------------------------------------
+<hl>retrieval</hl> costs combinations design alternatives
+numerical case studies compare <hl>retrieval</hl> costs
+alternatives qualitative comparisons main tenance costs
+insertion deletion reorganization <hl>retrieval</hl> main
+tenance <hl>search</hl> strategy key compression 3.5 3.51 3.2
+3.73 3.74 ca7744 jb december 29 1977 5:22 2451 4
+
+CACM-2598
+----------------------------------------------------------------
+<hl>information</hl> algorithm extending depth <hl>search</hl>
+conditions proposing additional conditions added
+<hl>decision</hl> table finally <hl>information</hl> algorithm
+compared algorithm proposed recent paper ...
+<hl>information</hl> theory approach converting limitedentry
+<hl>decision</hl> tables computer programs paper modifies
+earlier algorithm converting <hl>decision</hl> tables flowcharts
+minimize subsequent execution <hl>search</hl> necessarily result
+globally optimal solutions greater <hl>search</hl> effort needed
+obtain globally optimal solution complex <hl>decision</hl>
+tables justified sufficient savings <hl>decision</hl> tables
+efficient flowcharts wellunderstood problem <hl>information</hl>
+theory noiseless coding results noiseless coding literature
+explore limitations algorithms solve <hl>decision</hl> table
+
+CACM-2519
+----------------------------------------------------------------
+<hl>information</hl> communicating sophisticated interactive
+<hl>system</hl> controlled computer cacm 1973 pager complex
+<hl>information</hl> <hl>information</hl> communication
+mathematics proof interactive <hl>system</hl> language 1
+
+CACM-2293
+----------------------------------------------------------------
+<hl>search</hl> length cacm august 1972 jones searching binary
+searching record <hl>retrieval</hl> 3.74 ca7289 jb january 3
+1978 9:26 2293 4
+
+CACM-3033
+----------------------------------------------------------------
+<hl>decision</hl> table optimal <hl>decision</hl> table
+conversion <hl>decision</hl> tree heuristic <hl>search</hl>
+andor graphs dynamic programming branchandbound 3.59 3.66 5.42
+8.3 ca78126 ... <hl>decision</hl> trees heuristically guided
+<hl>search</hl> optimal <hl>decision</hl> table conversion
+tackled literature approaches dynamic programming branchandbound
+technique effective time space requirements <hl>search</hl>
+cluttered enormous <hl>search</hl> space number solutions
+increases number test variables according double exponential
+paper suggest heuristically guided topdown <hl>search</hl>
+
+CACM-2140
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> query multiattribute
+<hl>retrieval</hl> update 3.73 3.74 3.79 ca71123 jb february 2
+1978 1:18 214 4 214 2452 4
+
+CACM-2092
+----------------------------------------------------------------
+<hl>system</hl> exemplified detail <hl>system</hl> written lisp
+1.5 operates q32 timesharing <hl>system</hl> systems data
+structures semantic organization deductive questionanswering
+formalism relational <hl>performance</hl> limitations
+questionanswering capability presented discussed shown semantic
+<hl>information</hl> deductive question answering greatly
+facilitates process topdown procedure works question answer
+<hl>information</hl> concluded development protosynthex iii
+practically <hl>system</hl> work large data bases require data
+structures algorithms question answering cacm march 197
+
+CACM-2631
+----------------------------------------------------------------
+<hl>information</hl> attempt made overcome problems
+<hl>information</hl> <hl>retrieval</hl> maintenance large
+dictionaries greater part infrequently method presented maps
+hyperbolic frequency distribution suited ...
+<hl>information</hl> theory organization direct access
+<hl>information</hl> <hl>retrieval</hl> character string bit
+vector 3.42 3.7 3.73 3.74 5.6 ca74615 jb january 17
+
+CACM-3084
+----------------------------------------------------------------
+<hl>search</hl> log logn <hl>search</hl> interpolation
+<hl>search</hl> method retrieving desired record key ordered key
+statistical distribution keys shown average log logn
+
+CACM-3169
+----------------------------------------------------------------
+<hl>system</hl> cacm october 1979 gudes hoffman query boolean
+expression optimal evaluation <hl>information</hl>
+<hl>retrieval</hl> 3.5 3.7 3.74 ca7912 db january 16
+
+CACM-2157
+----------------------------------------------------------------
+<hl>search</hl> length dense ordered lists cacm september 1971
+flores madpis searching binary searching record
+<hl>retrieval</hl> 3.74 ca7197 jb february 2
+
+CACM-2263
+----------------------------------------------------------------
+<hl>decision</hl> table simple <hl>rules</hl> contracted complex
+<hl>rules</hl> called optimumapproaching algorithm requires
+fewer calculations necessarily produce optimum flowchart
+algorithms derived treating ... <hl>decision</hl> tables optimal
+nearoptimal flowcharts algorithms algorithms deriving optimal
+nearoptimal flowcharts limited entry <hl>decision</hl> tables
+presented take account rule frequencies ... <hl>decision</hl>
+table flowcharting preprocessor optimal programs <hl>search</hl>
+3.5 3.59 4.19 4.29 4.49 5.31 ca72116 jb january 27 1978 2:1 pm
+
+CACM-1671
+----------------------------------------------------------------
+<hl>system</hl> alleviate problem rule evaluation linguist area
+phonology presented permits <hl>user</hl> define online sets
+<hl>rules</hl> statable framework presented sound patterns
+<hl>rules</hl> data store definitions results rule application
+facility detail implemented translating linguistic
+<hl>rules</hl> <hl>rules</hl> flip formatdirected list processor
+embedded lisp <hl>system</hl> construction easy providing
+sophisticated capabilities linguist <hl>system</hl> written bbn
+lisp scientific data <hl>system</hl> 94 computer designed online
+interactive fashion
+
+CACM-2437
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> hashing analysis
+randomization <hl>performance</hl> analysis 3.7 3.72 3.73 3.74
+3.79 4.9 5.9 ca7313 jb january 2 1978 11:51 ...
+<hl>performance</hl> analysis keytoaddress transformation
+methods abstract concept paper presents approach analysis
+<hl>performance</hl> keytoaddress transformation methods
+approach keys assumed selected key
+
+CACM-3087
+----------------------------------------------------------------
+<hl>system</hl> illustrated detailed examples operation
+<hl>system</hl> components examples <hl>system</hl> operation
+language processing portion <hl>system</hl> number augmented
+transition networks matches phrases <hl>system</hl> components
+construct formal query relational database <hl>optimize</hl>
+order searching relations methods discussed handling vague
+complex questions providing browsing ability <hl>system</hl>
+cacm july 1978 waltz question answering relational database
+natural language database front end artificial intelligence
+dialogue query generation <hl>information</hl>
+
+CACM-1627
+----------------------------------------------------------------
+<hl>system</hl> technique called multilevel store means
+economically satisfying requirements large storage capacities
+data management <hl>information</hl> <hl>retrieval</hl> systems
+concept level changing
+
+CACM-3168
+----------------------------------------------------------------
+<hl>system</hl> cacm october 1979 laird query boolean expression
+<hl>information</hl> <hl>retrieval</hl> organization 3.53.7 3.73
+3.74 ca7911 db january 16 198 4:5
+
+CACM-2726
+----------------------------------------------------------------
+<hl>decision</hl> <hl>rules</hl> <hl>decision</hl> table
+techniques minimizing logic circuits applied simplification
+<hl>decision</hl> tables combining <hl>decision</hl>
+<hl>rules</hl> method logically equivalent quienmccluskey method
+... <hl>decision</hl> <hl>rules</hl> improves clarity
+<hl>decision</hl> table human reader shown objectives furthered
+methods objective attained overspecified <hl>decision</hl>
+<hl>rules</hl> combined objective compared ... <hl>decision</hl>
+<hl>rules</hl> implied rule occur low frequency rule simplify
+<hl>decision</hl> table objectives merit consideration
+optimizing <hl>decision</hl> table reducing machine execution
+
+CACM-3135
+----------------------------------------------------------------
+<hl>search</hl> <hl>information</hl> <hl>retrieval</hl> crystal
+structure analysis drug analysis design 3.13 3.63 3.74 ca7941 dh
+21 1979 1:5 2521 5 3135
+
+CACM-0651
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> cacm january 1962 grems
+ca6218 jb march 2 1978 4:36 pm 651 5 651 651 5 651 651
+
+CACM-1651
+----------------------------------------------------------------
+<hl>user</hl> general requirements liberally editorial comments
+input deck aid identification row constraints article
+<hl>includes</hl> examples input <hl>output</hl> solution
+routine presently
+
+CACM-1160
+----------------------------------------------------------------
+<hl>system</hl> implemented converts 79 fap language programs 36
+assembly language input <hl>system</hl> fap program deck
+specially prepared translation <hl>user</hl> <hl>output</hl>
+<hl>user</hl> analyze order verify questionable areas
+translation translation processor consists distinct phases
+assembly fap program comprehensive analysis assembled code
+regard
+
+CACM-2160
+----------------------------------------------------------------
+<hl>retrieval</hl> basis ranges values attribute
+<hl>retrieval</hl> basis single permitted organization proposed
+based atoms boolean algebra generated queries desirable
+properties claimed <hl>information</hl> <hl>retrieval</hl>
+inverted key words multilist queries searches 3.7 3.73 3.74
+ca7194 jb february 2 1978 2:22 pm 216 4
+
+CACM-1725
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> ordered
+<hl>retrieval</hl> theorem column digit values digit variety
+column sensing arrangement digit readout digit variety readout
+memory access <hl>retrieval</hl> efficiency access frequency
+proof <hl>retrieval</hl> theorem proof 3.74 3.79 5.29 5.31 6.31
+6.36 ca6874 jb february 22 1978 12:24
+
+CACM-1938
+----------------------------------------------------------------
+<hl>system</hl> <hl>performance</hl> timesharing systems defined
+article multiaccess systems permit terminal <hl>user</hl>
+utilize essentially full resources <hl>system</hl> sharing time
+terminal users <hl>system</hl> makes quantitative evaluation
+timesharing systems difficult criteria successfully perform
+firstlevel quantitative timesharing <hl>system</hl>
+<hl>performance</hl> evaluation cacm january 1969 stimler
+
+CACM-3095
+----------------------------------------------------------------
+<hl>search</hl> trees problem selecting data items binary
+<hl>search</hl> tree according list range conditions considered
+process visiting minimal number nodes retrieve
+
+CACM-0239
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> systems cacm december
+1961 verhoeff goffman belzer ca611211 jb march 15 1978 1:1 pm
+239 5 239 239
+
+CACM-0292
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> language legal studies
+cacm september 1961 kehl horty bacon mitchell ca6192 jb march 16
+1978 9:51 pm 292
+
+CACM-2846
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> systems underlying mary
+tree structure trie parameter trie fields nodes trie large hold
+key pointer fields ctrie bit <hl>retrieval</hl> time measured
+terms bit inspections key order logmn storage requirement order
+nmlog2 bits improvement storage requirements <hl>retrieval</hl>
+time achieved
+
+CACM-2916
+----------------------------------------------------------------
+<hl>search</hl> computational complexity <hl>information</hl>
+<hl>retrieval</hl> linear time bound pattern matching text
+editing 3.74 4.4 5.25 ca7711 jb december 27 1977
+
+CACM-2716
+----------------------------------------------------------------
+<hl>optimize</hl> <hl>performance</hl> <hl>user</hl> query cacm
+october 1975 smith yentang chang relational database database
+optimization inverted automatic programming query language data
+... <hl>performance</hl> relational algebra database interface
+approach implementing smart interface support relational view
+data proposed basic idea employ automatic programming techniques
+
+CACM-1927
+----------------------------------------------------------------
+<hl>information</hl> science <hl>information</hl> organization
+<hl>information</hl> <hl>retrieval</hl> data <hl>retrieval</hl>
+language analysis <hl>information</hl> processing 1.52 3.42 3.7
+ca69211 jb february 2 1978
+
+CACM-1489
+----------------------------------------------------------------
+<hl>decision</hl> tables business data processing systems able
+define document data programs <hl>decision</hl> <hl>rules</hl>
+adequately represents changing <hl>information</hl> content
+continuous interaction
+
+CACM-1527
+----------------------------------------------------------------
+<hl>retrieval</hl> segments stored <hl>information</hl>
+explicitly implicitly represented questions posed natural
+language sentences procedure makes sentence recognition device
+class grammars correctly ... <hl>information</hl> recognition
+function succeeds represents requested <hl>information</hl> cacm
+october 1967 rosenbaum ca6716 jb february 27 1978 2:14 pm 1527 5
+
+CACM-2742
+----------------------------------------------------------------
+<hl>scanning</hl> future event lists discrete event simulations
+<hl>models</hl> presented improve effectiveness eventslist scan
+problem burdensome cacm june 1975 wyman discrete ...
+<hl>models</hl> large complex realworld applications
+occasionally earned reputation eating hours computer time
+problem attributed part difficulties slow stochastic convergence
+additional
+
+CACM-2424
+----------------------------------------------------------------
+<hl>system</hl> decisions dynamic verification <hl>decision</hl>
+implies time <hl>decision</hl> made consistency check performed
+<hl>decision</hl> independent hardware software dynamic
+verification operating <hl>system</hl> ... <hl>information</hl>
+<hl>user</hl> gratuitously presence single hardware software
+faultthe amount additional hardware software required dynamic
+verification modest cacm november 1973 fabry ... <hl>system</hl>
+designed constructed university california berkeley prime
+experimental timesharing properties continuous availability data
+privacy cost effectiveness technique dynamic verification
+construction
+
+CACM-3059
+----------------------------------------------------------------
+<hl>models</hl> parallel processing programs application cpuio
+ioio overlap approximate queueing <hl>models</hl> internal
+parallel processing individual programs multiprogrammed
+<hl>system</hl> developed paper <hl>models</hl> formulated terms
+cpuio ioio overlap applied analysis problems percentage
+<hl>performance</hl> improvement cpuio overlap found greatest
+systems approximate cpuio utilization
+
+CACM-2455
+----------------------------------------------------------------
+<hl>retrieval</hl> time amount restructuring expected worst case
+<hl>retrieval</hl> time shown permitting imbalances units
+<hl>retrieval</hl> time increased small amount amount
+restructuring
+
+CACM-3070
+----------------------------------------------------------------
+<hl>models</hl> computer systems paper describes structure
+operation hybrid simulation model discreteevent simulation
+analytic techniques combined produce efficient accurate
+<hl>system</hl> <hl>models</hl> <hl>system</hl> discreteevent
+simulation model arrival activation jobs centralserver queueing
+network <hl>models</hl> <hl>system</hl> processors accuracy
+efficiency hybrid technique demonstrated comparing result
+
+CACM-2968
+----------------------------------------------------------------
+<hl>search</hl> trees avl trees weightbalanced trees path length
+analysis algorithms <hl>information</hl> storage
+<hl>retrieval</hl> 3.7 3.72 3.74 5.31 ca7754 jb december
+
+CACM-2746
+----------------------------------------------------------------
+<hl>search</hl> program factor 5 1 cacm june 1975 aho corasick
+keywords phrases string pattern matching bibliographic
+<hl>search</hl> <hl>information</hl> <hl>retrieval</hl>
+textediting
+
+CACM-1519
+----------------------------------------------------------------
+<hl>system</hl> operating <hl>system</hl> run wide variety
+configurations 19 handle large number online console users time
+running line background jobs <hl>system</hl> <hl>system</hl>
+atlas supervisor ibsys gecos multiaccess <hl>system</hl>
+resembling <hl>user</hl> ctss multics simultaneously depending
+installation adjust schedulers online users line jobs
+
+CACM-1684
+----------------------------------------------------------------
+<hl>decision</hl> tables <hl>decision</hl> tables tool systems
+analysis program specification accepted <hl>rules</hl>
+redundancy contradiction completeness limited entry tables
+published 1963 checking <hl>rules</hl> paper suggested
+<hl>rules</hl> unsatisfactory important aspect checking
+eliminate ambiguity tables ambiguity defined discussed procedure
+producing checkedout <hl>decision</hl> tables proposed
+

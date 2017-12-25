@@ -1,0 +1,702 @@
+CACM-2327
+----------------------------------------------------------------
+<hl>automata</hl> <hl>theory</hl> brains source ideas
+<hl>automata</hl> theorythe <hl>study</hl> brainhas pushed
+mathematical development <hl>theory</hl> paper suggests ways
+<hl>automata</hl> <hl>theory</hl> evolve 25
+
+CACM-2931
+----------------------------------------------------------------
+<hl>theory</hl> applications logic big question methods logic
+significance direction applied parts computability
+<hl>theory</hl> programming <hl>languages</hl> offer obvious
+opportunity syntactic formalization ... <hl>theory</hl> cacm
+september 1977 scott logic programming <hl>languages</hl>
+<hl>automata</hl> denotational semantics acalculus models
+computability partial functions approximation function spaces
+1.2 ... <hl>automata</hl> nets teresting dynamics formalized
+portion field concentration finitestate <hl>algebraic</hl>
+aspects understanding higherlevel program features involves
+infinite objects forces pass ... <hl>languages</hl> logic long
+terested answers questions computable principle outcome puts
+bounds possibilities formalization recently precise comparisons
+efficiency decision methods developments
+
+CACM-2650
+----------------------------------------------------------------
+<hl>regular</hl> <hl>languages</hl> <hl>regular</hl> events
+finite state <hl>automata</hl> compiler error recovery spelling
+correction string match problem correction corrector errors
+nondeterministic finitestate
+
+CACM-1678
+----------------------------------------------------------------
+<hl>automata</hl> formal <hl>languages</hl> abstract switching
+computability ph computer science program number courses listed
+area describe <hl>automata</hl> formal <hl>languages</hl>
+abstract switching
+
+CACM-2112
+----------------------------------------------------------------
+<hl>automata</hl> turing machines <hl>regular</hl> expression
+transduction expression contextfree <hl>languages</hl>
+translation recognizers parsing metacompilers pushdown
+transducer syntax directed compilers finite state
+
+CACM-2921
+----------------------------------------------------------------
+<hl>automata</hl> <hl>regular</hl> expressions syntax
+diagramslrk grammars parser construction parsing programming
+<hl>languages</hl> language generation formal definition
+compilers translators scanners 4.2 5.21 ... <hl>regular</hl>
+part grammars parsers paper troduces alternative contextfree
+grammars called <hl>regular</hl> part rrp grammars resemble
+pascal syntax diagrams formally rrp
+
+CACM-2323
+----------------------------------------------------------------
+<hl>theory</hl> special functions list number natural
+developments field <hl>algebraic</hl> manipulation prospects
+general <hl>theory</hl> functions defined ordinary differential
+equations discussed claim <hl>theory</hl> preferable general
+effort make <hl>algebraic</hl> manipulation systems
+knowledgeable usual special functions exponential hypergeometric
+cacm july 1972 moses <hl>algebraic</hl> manipulation
+
+CACM-1665
+----------------------------------------------------------------
+<hl>theory</hl> finitestate <hl>automata</hl> generate lexical
+processors dealt tutorial article aed rword system developed
+part aed1 system system accepts input description
+<hl>regular</hl> expressions output system lexical processor
+reads string characters combines items defined <hl>regular</hl>
+expressions output item identified code number pointer
+
+CACM-2449
+----------------------------------------------------------------
+<hl>automata</hl> <hl>theory</hl> presented technique offers
+deterministic solution problem handled nondeterministic manner
+pli cobol compilers cacm september 1973 gates poplawski symbol
+
+CACM-1991
+----------------------------------------------------------------
+<hl>automata</hl> finite <hl>automata</hl> singly generated
+<hl>automata</hl> automorphisms generators length state
+minimallength generators orbit 5.22 ca7914 jb february 1 1978
+9:54
+
+CACM-2051
+----------------------------------------------------------------
+<hl>regular</hl> sound correspondences genetically related
+<hl>languages</hl> investigator arrange data input aligning
+pairs suspected cognates program tabulates correspondences list
+processing techniques
+
+CACM-2932
+----------------------------------------------------------------
+<hl>theory</hl> complexity computations emphasizing terrelation
+seemingly diverse problems methods illustrative examples
+practical theoretical significance directions research discussed
+cacm september 1977
+
+CACM-2061
+----------------------------------------------------------------
+<hl>automata</hl> generate reduction classes contextfree grammar
+defined finally algorithm essentially carries exhaustive
+<hl>study</hl> runs pushdown <hl>automata</hl> generating
+reduction classes part
+
+CACM-1048
+----------------------------------------------------------------
+<hl>theory</hl> heat ideal fluid flow stress concentration
+<hl>theory</hl> reduce assumption axial symmetry <hl>study</hl>
+elliptic partial differential equation dirichlettype problems
+equation
+
+CACM-1253
+----------------------------------------------------------------
+<hl>algebraic</hl> <hl>languages</hl> cacm june 1965 tonge
+keller newell ca6562 jb march 7 1978 12:45 pm 1253 5 1253 1253 5
+
+CACM-2166
+----------------------------------------------------------------
+<hl>algebraic</hl> manipulation celestial mechanics paper
+consider applications automated <hl>algebraic</hl> manipulation
+made celestial mechanics attention paid poisson series typical
+problem perturbation
+
+CACM-2470
+----------------------------------------------------------------
+<hl>relation</hl> argued system suitable set <hl>theory</hl>
+derivatives concise accurate description program semantics shown
+system build composite data types simper operations ...
+<hl>languages</hl> data types modes axioms correctness formal
+language definition formal description data structures
+description <hl>languages</hl> models computation 4.22 5.21 5.24
+... <hl>languages</hl> mechanism singleton data types
+deterministic nondeterministic functions shown definable system
+local environment modeled data item imperative statements
+considered functions
+
+CACM-1898
+----------------------------------------------------------------
+<hl>regular</hl> coulomb wave functions algorithm 292 cacm 1969
+kolbig coulomb wave functions wave functions <hl>regular</hl>
+coulomb wave functions 5.12 ca69511
+
+CACM-1896
+----------------------------------------------------------------
+<hl>regular</hl> coulomb wave functions algorithm 292 s22 cacm
+1969 gautschi coulomb wave functions wave functions
+<hl>regular</hl> coulomb wave functions 5.12
+
+CACM-1739
+----------------------------------------------------------------
+<hl>regular</hl> expression search algorithm method locating
+specific character strings embedded character text
+implementation method form compiler discussed compiler accepts
+<hl>regular</hl>
+
+CACM-1993
+----------------------------------------------------------------
+<hl>regular</hl> coulomb wave functions algorithm 292 $s22 cacm
+september 197 cody paciorek coulomb wave functions wave
+functions <hl>regular</hl> coulomb wave
+
+CACM-1154
+----------------------------------------------------------------
+<hl>automata</hl> survey survey machines powerful finite
+<hl>automata</hl> powerful general turing machines presented
+felt machines category closely related digital computers finite
+
+CACM-1453
+----------------------------------------------------------------
+<hl>regular</hl> expression notation describing
+<hl>algebraic</hl> language syntax algol paper fortran ii
+computer program carrying elimination algorithm gornsimilar
+gaussian elimination linear
+
+CACM-1911
+----------------------------------------------------------------
+<hl>languages</hl> considered frame work transformational
+<hl>theory</hl> account phenomena proposed machinery added
+syntactic component transformational grammar machinery includes
+rule schemata conditions
+
+CACM-2809
+----------------------------------------------------------------
+<hl>algebraic</hl> methods <hl>theory</hl> norms demonstrated
+results concerning norms values archimedian vector lattice
+necessarily totally ordered generalization order unit norms
+lnorms
+
+CACM-1867
+----------------------------------------------------------------
+<hl>theory</hl> shown lj 2 asymptotically average interval sign
+lj2 2.6662 cacm july 1969 hooker replacement selecting sorting
+sequence lengths asymptotic
+
+CACM-2645
+----------------------------------------------------------------
+<hl>languages</hl> included limitations present system
+<hl>relation</hl> knuths work analysis algorithms directions
+research discussed cacm june 1974 ccohen zuckerman programming
+<hl>languages</hl> ... <hl>languages</hl> estimating program
+efficiency <hl>languages</hl> enabling users estimate efficiency
+computer programs presented program efficiency wishes estimate
+written language gotoless programming
+
+CACM-2305
+----------------------------------------------------------------
+<hl>languages</hl> programming <hl>theory</hl> programming
+history programming 1.2 4.22 5.29 ca72723 jb january 3 1978 1:46
+235 5 235 235 5 ... <hl>languages</hl> plankalkul attempt korrad
+zuse 194s devise notational conceptual system writing today
+termed program early approach programming language lead
+practical
+
+CACM-2580
+----------------------------------------------------------------
+<hl>theory</hl> formal <hl>languages</hl> probabilistic grammars
+3.44 3.65 5.23 ca74114 jb january 16 1978 1:35 258 5 258 258 5
+258 ... <hl>theory</hl> additional heuristics fundamental method
+set productions sets applicability rules weight rules operate
+productions deciding extent rounds generated computer
+implementation
+
+CACM-2134
+----------------------------------------------------------------
+<hl>relation</hl> solution time problem size cacm december 1971
+bourgeois lassalle operations research optimization
+<hl>theory</hl> assignment problem rectangular matrices
+algorithm 5.39
+
+CACM-1397
+----------------------------------------------------------------
+<hl>algebraic</hl> manipulation acm symposium symbolic
+<hl>algebraic</hl> manipulation brought hundred people
+interested programming <hl>languages</hl> designed manipulation
+<hl>algebraic</hl> formulas symbol strings applications
+
+CACM-1258
+----------------------------------------------------------------
+<hl>algebraic</hl> number <hl>theory</hl> arithmetic carried
+degree precision exceeds normal hardware capacity machines cases
+extended arithmetic package comprehensive easytouse performing
+arithmetic
+
+CACM-2302
+----------------------------------------------------------------
+<hl>relation</hl> technological change employment obvious effect
+increase productivity due technology eliminate jobs technology
+affects individual worker nature amount work attitudes
+
+CACM-1806
+----------------------------------------------------------------
+<hl>theory</hl> method converges shown fundamental dilemma
+exists breakdown practical applications avoid difficulty improve
+rate convergence root modifications original method proposed
+
+CACM-1355
+----------------------------------------------------------------
+<hl>regular</hl> coulomb wave functions algorithm 292 cacm
+november 1966 gautschi ca66113a jb march 2 1978 3:43 pm 1355 4
+1355
+
+CACM-2090
+----------------------------------------------------------------
+<hl>algebraic</hl> expressions algorithm 377 $r2 cacm march 197
+levine algebra symbolic algebra symbolic multiplication
+<hl>algebraic</hl> distribution <hl>algebraic</hl>
+multiplication distribution algorithm
+
+CACM-1961
+----------------------------------------------------------------
+<hl>relation</hl> speed complexity extensions undirected sgraphs
+discussed cacm december 197 tiernan algorithm graph
+<hl>theory</hl> circuit search algorithm path search algorithm
+
+CACM-1887
+----------------------------------------------------------------
+<hl>relation</hl> determinant pentadiagonal matrix recursive
+<hl>relation</hl> relating leading principal minors developed
+determinant pentadiagonal matrix numerical included calculating
+eigenvalues cacm june
+
+CACM-2779
+----------------------------------------------------------------
+<hl>relation</hl> orthogonal polynomials widely discrete squares
+data fitting variant classical algorithm numerical properties
+presented reason improved performance explained cacm march
+
+CACM-3189
+----------------------------------------------------------------
+<hl>algebraic</hl> compiler fortran assembly program
+<hl>algebraic</hl> compiler written added fortran assembly
+program compiler expand <hl>algebraic</hl> statements operations
+addition subtraction multiplication
+
+CACM-1334
+----------------------------------------------------------------
+<hl>theory</hl> computer program written generate tables
+formulas newcomb operators planetary <hl>theory</hl> newcomb
+operators expressed polynomials variables stands simple
+differential operator
+
+CACM-3124
+----------------------------------------------------------------
+<hl>study</hl> approaches defining nested arrays apl presented
+theorems exhibiting relationships definitional systems
+illustrated graph representations approaches define apl array
+recursive
+
+CACM-2167
+----------------------------------------------------------------
+<hl>algebraic</hl> simplification guide perplexed
+<hl>algebraic</hl> simplification examined point view user needs
+comprehend large expression point view designer wants construct
+efficient <hl>algebraic</hl> manipulation system systems divided
+types type facilities manipulation simplification expressions
+finally discuss theoretical results related <hl>algebraic</hl>
+simplification describe positive
+
+CACM-2769
+----------------------------------------------------------------
+<hl>relation</hl> represented boolean matrix algorithm similar
+warshalls executes faster sparse matrices computers paging
+environment cacm april 1975 warren jr warshalls
+
+CACM-2165
+----------------------------------------------------------------
+<hl>algebraic</hl> difficulties encountered work cacm august
+1971 barton fitch symbolic mathematicsnonnumerical mathematics
+general relativity <hl>algebraic</hl> manipulation equation
+manipulation 1.3 3.11
+
+CACM-0397
+----------------------------------------------------------------
+<hl>articles</hl> programming terms hardware terms equipment
+machine systems abbreviations suitable standard card reference
+information processing cacm february 1961 grems ca6121
+
+CACM-2813
+----------------------------------------------------------------
+<hl>study</hl> cosers computer science engineering research
+<hl>study</hl> cosers briefly motivation organization schedule
+nsf supported <hl>study</hl> reference subject area panel
+chairmen
+
+CACM-3077
+----------------------------------------------------------------
+<hl>algebraic</hl> laws carried language programs written
+combining forms chosen programming power power
+<hl>algebraic</hl> laws general theorems algebra give detailed
+behavior ... <hl>languages</hl> von neumann computers von
+neumann <hl>languages</hl> models computing systems applicative
+computing systems applicative state transition systems program
+transformation program ... <hl>languages</hl> growing enormous
+stronger inherent defects basic level fat weak primitive
+wordatatime style programming inherited common ancestorthe von
+neumann computer <hl>languages</hl> functional style programming
+algebra programs variables range programs operations combining
+forms algebra transform programs solve equations unknowns
+programs transforms
+
+CACM-1216
+----------------------------------------------------------------
+<hl>languages</hl> chain rule applied result edited produce
+results elegant efficient obtained hand computation subset
+imbeded formula translator introduce differentiation operator
+
+CACM-3031
+----------------------------------------------------------------
+<hl>algebraic</hl> axioms virtue axioms permit
+representationindependent formal specification data type shows
+employ <hl>algebraic</hl> axioms successive levels
+implementation major thrust paper
+
+CACM-0099
+----------------------------------------------------------------
+<hl>algebraic</hl> language cacm february 1959 green ca5922 jb
+march 22 1978 8:22 pm 99 5 99 99 5 99 99
+
+CACM-2648
+----------------------------------------------------------------
+<hl>theory</hl> package optimized trial division routine number
+<hl>theory</hl> package doubly linked list structures storing
+multiprecise integers package coded ibms basic
+
+CACM-3012
+----------------------------------------------------------------
+<hl>study</hl> interactive computerized storage retrieval system
+monitor built computer system provided usage data <hl>study</hl>
+additional data user reactions gathe red
+
+CACM-1948
+----------------------------------------------------------------
+<hl>theory</hl> survey computers applied increasingly diverse
+range problems group <hl>theory</hl> important areas application
+present coset enumeration subgroup lattices automorphism groups
+<hl>theory</hl> programs range simple combinatorial numerical
+programs large symbol manipulation systems survey important
+algorithms contrasted results obtained existing programs
+extensive
+
+CACM-2346
+----------------------------------------------------------------
+<hl>theory</hl> coding <hl>theory</hl> hutucker method minimum
+redundancy coding 5.6 ca72514 jb january 31 1978 9:3 2346 4 2346
+2459 4
+
+CACM-2316
+----------------------------------------------------------------
+<hl>languages</hl> discussed cacm july 1972 sammet programming
+<hl>languages</hl> higher level <hl>languages</hl>
+<hl>languages</hl> history future directions language
+interrelationships programming language tree ...
+<hl>languages</hl> history future paper discusses history future
+programming <hl>languages</hl> higher level <hl>languages</hl>
+difficulties writing history key part paper tree showing
+
+CACM-0724
+----------------------------------------------------------------
+<hl>study</hl> concerned primarily attitudes programmers careers
+jobs high percentage programmers apparently entered careers
+accident proven happy choice expect remain field
+
+CACM-0393
+----------------------------------------------------------------
+<hl>algebraic</hl> compiler cacm february 1961 carr iii hanson
+ca6125 jb march 17 1978 12:59 393 5 393 393 5 393
+
+CACM-0021
+----------------------------------------------------------------
+<hl>algebraic</hl> formulation flow diagrams cacm june 1958
+voorhees ca5861 jb march 22 1978 9:1 pm 21 5 21 21 5
+
+CACM-0055
+----------------------------------------------------------------
+<hl>algebraic</hl> translator cacm october 1959 kaner ca5914 jb
+march 22 1978 4:15 pm 45 5 55 55 5 55 55
+
+CACM-2326
+----------------------------------------------------------------
+<hl>theory</hl> computation fix point <hl>theory</hl> scott
+semantics computer programs defined terms fix points recursive
+programs justification existing verification techniques
+extension
+
+CACM-3199
+----------------------------------------------------------------
+<hl>algebraic</hl> manipulator algem package subprograms written
+slip fortran iv map 794 ii manipulate <hl>algebraic</hl>
+expressions algems basic <hl>algebraic</hl> operations additions
+
+CACM-0054
+----------------------------------------------------------------
+<hl>algebraic</hl> language engineers cacm october 1959
+brittenham clark kuss thompson smith ca5915 jb march 22 1978
+4:14 pm 45 4
+
+CACM-2986
+----------------------------------------------------------------
+<hl>relation</hl> boolean matrix directed graph wirthweber
+precedence <hl>relation</hl> linear precedence function slr
+grammar tcanonical precedence <hl>relation</hl> 4.12 5.23 5.25
+ca7736
+
+CACM-2129
+----------------------------------------------------------------
+<hl>study</hl> error propagation <hl>study</hl> made propagation
+errors linear firstorder difference equations recursive
+computation successive derivatives exx cos xx considered
+illustration
+
+CACM-0124
+----------------------------------------------------------------
+<hl>relation</hl> solution time size problem based extensive
+experiments carried digital computer cacm november 196 silver
+ca61111 jb march 2 1978
+
+CACM-1934
+----------------------------------------------------------------
+<hl>theory</hl> graphs algorithm solve problem presented cacm
+february 1969 redziejowski arithmetic expression compiler design
+graph <hl>theory</hl> programming storage minimization
+topological
+
+CACM-1803
+----------------------------------------------------------------
+<hl>algebraic</hl> complex equation 5.15 ca69129 jb february 15
+1978 2:25 pm 183 4 183 186 5 183 183 5 183
+
+CACM-2842
+----------------------------------------------------------------
+<hl>languages</hl> paper tutorial introduction <hl>theory</hl>
+programming language semantics developed scott strachey
+application <hl>theory</hl> formal language specification
+demonstrated applications surveyed language <hl>theory</hl>
+computation due scott motivated outlined finally paper presents
+formal definition language gedanken cacm august 1976 tennent
+semantics programming language
+
+CACM-1703
+----------------------------------------------------------------
+<hl>languages</hl> computer services cacm august 1968 mooers
+standardization programming <hl>languages</hl> trac t64 language
+tranemark public identification programming <hl>languages</hl>
+standards accommodate ... <hl>languages</hl> user public wants
+standardization reliable identification programming
+<hl>languages</hl> related services achieving goals illustrated
+methods adopted trac t64 interactive language
+
+CACM-1101
+----------------------------------------------------------------
+<hl>theory</hl> computer curriculum cacm april 1964 muller
+ca6447 jb march 1 1978 1:49 111 5 111 111 5 111 111
+
+CACM-1425
+----------------------------------------------------------------
+<hl>languages</hl> formation rules part paper flow diagrams
+introduced represent inter al mappings set diagram decomposable
+finite number base diagrams true
+
+CACM-2705
+----------------------------------------------------------------
+<hl>languages</hl> natural <hl>languages</hl> mathematics social
+aspects programming illuminated analogies similar aspects
+mathematics natural <hl>languages</hl> split pure applied
+mathematics found similarly <hl>languages</hl> flexion wordorder
+based language types speaks programming language design based
+general abstract constructs analogy incidents history artificial
+auxiliary <hl>languages</hl>
+
+CACM-1459
+----------------------------------------------------------------
+<hl>languages</hl> realtime <hl>languages</hl> requirements
+programming <hl>languages</hl> special nature applications
+environment object programs executed environment compiled
+language extensions ultimately advance developments
+
+CACM-2121
+----------------------------------------------------------------
+<hl>theory</hl> 5.39 ca711 jb february 14 1978 1:48 pm 2121 5
+2121 2121 5 2121 2121 2121
+
+CACM-2268
+----------------------------------------------------------------
+<hl>study</hl> computer programs integrating differential
+equations <hl>study</hl> comparing performance computer programs
+integrating systems ordinary differential equations reported
+integration methods represented
+
+CACM-2974
+----------------------------------------------------------------
+<hl>relation</hl> search 3.73 3.74 4.9 4.11 4.12 ca7748 jb
+december 29 1977 5:2 1973 4 2974 218 4 2974 223
+
+CACM-0536
+----------------------------------------------------------------
+<hl>relation</hl> parameters equation frequently problem
+determining set values ai minimizes sum squares differences
+observed calculated values distinguished observable say zm
+
+CACM-1649
+----------------------------------------------------------------
+<hl>relation</hl> general purpose data directed input output
+routines matrix manipulation discussed cacm january 1967 hassitt
+ca6716 jb february 28 1978
+
+CACM-0093
+----------------------------------------------------------------
+<hl>algebraic</hl> formulas address computer code cacm march
+1959 wegstein ca5933 jb march 22 1978 8:3 pm 45 5 93 54
+
+CACM-2663
+----------------------------------------------------------------
+<hl>study</hl> computer graduate school business cacm april 1974
+lucas jr montgomery larreche education management business
+schools 1.5 1.52 ca7447 jb
+
+CACM-2368
+----------------------------------------------------------------
+<hl>theory</hl> positional games demonstration programs game
+<hl>theory</hl> spinning trees 3.69 5.32 ca7245 jb january 31
+1978 1:34 pm 2368 5
+
+CACM-2603
+----------------------------------------------------------------
+<hl>languages</hl> deterministic <hl>languages</hl> class
+reducing transition <hl>languages</hl> introduced eickel paul
+bauer samelson shown morris proper superclass simple precedence
+<hl>languages</hl> paper
+
+CACM-2476
+----------------------------------------------------------------
+<hl>theory</hl> contextfree grammars 3.6 3.64 5.23 ca7371 jb
+january 23 1978 11:21 2476 5 2476 2476 5 2476 2476 2476
+
+CACM-2958
+----------------------------------------------------------------
+<hl>algebraic</hl> technique specification abstract data types
+examples presented topdown development symbol table block
+structured language discussion proof correctness paper
+discussion
+
+CACM-1906
+----------------------------------------------------------------
+<hl>regular</hl> pattern lines pins terminals vias feedthrough
+holes program interconnection planned routingtypically upper pin
+horizontally lower pin top virtual aperture
+
+CACM-2672
+----------------------------------------------------------------
+<hl>theory</hl> 3.44 3.65 ca74311 jb january 18 1978 1:56 2672 5
+2672 2672 5 2672 2672 2672
+
+CACM-3203
+----------------------------------------------------------------
+<hl>algebraic</hl> manipulation differentiation general
+recursive algebra differentiation assistant grad assistant
+development set lisp functions symbolically manipulate abd
+differentiate <hl>algebraic</hl> expressions
+
+CACM-2803
+----------------------------------------------------------------
+<hl>study</hl> connections pseudoinverses matrices conjugate
+gradients conjugate direction routines cacm january 1975
+hestenes pseudoinverse conjugate gradients hermitian matrix
+minimization 5.14
+
+CACM-2720
+----------------------------------------------------------------
+<hl>theory</hl> disk drive characterized queueing model service
+time disk drive represented probability density function sum
+uniform distributions total response time
+
+CACM-2504
+----------------------------------------------------------------
+<hl>theory</hl> 3.44 3.65 ca73516 jb january 23 1978 4:27 pm 254
+5 254 254 5 254 254 254
+
+CACM-2767
+----------------------------------------------------------------
+<hl>languages</hl> promising algorithm indexed list concept
+require adaptive routine employed general purpose simulatorsbut
+performance <hl>study</hl> fruitful cacm april 1975 vaucher
+
+CACM-2255
+----------------------------------------------------------------
+<hl>theory</hl> 3.44 3.65 ca721114 jb january 27 1978 1:22 pm
+2255 5 2255 2255 5 2255 2255 2255
+
+CACM-2295
+----------------------------------------------------------------
+<hl>languages</hl> algol semantics recursive composition design
+programming <hl>languages</hl> data structures 1.3 4.2 4.22 5.23
+5.24 ca7287 jb january 3 1978
+
+CACM-2616
+----------------------------------------------------------------
+<hl>theory</hl> computation computability suggested cacm august
+1974 cavouras decision tables program optimization debugging
+semantics <hl>theory</hl> programming systems analysis 4.19 4.42
+
+CACM-3048
+----------------------------------------------------------------
+<hl>study</hl> implementation simulator model cpumemory
+subsystem ibm 3691 results evaluating alternative system designs
+discussed experiments reveal case <hl>study</hl> major
+bottlenecks
+
+CACM-1394
+----------------------------------------------------------------
+<hl>algebraic</hl> properties elementary particle reactions
+digital computer large number calculations highenergy elementary
+particle physics involve manipulation complicated
+<hl>algebraic</hl> expressions tensor
+
+CACM-2430
+----------------------------------------------------------------
+<hl>theory</hl> circuit search algorithm path search algorithm
+searching 3.74 4.22 5.32 ca7311 jb january 2 1978 11:11 243 4
+243
+
+CACM-1072
+----------------------------------------------------------------
+<hl>relation</hl> cacm 1964 galler fisher ca64517 jb march 9
+1978 11:48 pm 172 4 172 1781 4 172 172 5
+
+CACM-1098
+----------------------------------------------------------------
+<hl>languages</hl> discussed approximately speed finally authors
+give heuristics aid selection <hl>languages</hl> problem
+applications concluding <hl>languages</hl> considered distinctly
+superior listprocessing applications ... <hl>languages</hl>
+important common features listprocessing <hl>languages</hl>
+reviewed forms data structures manipulated necessity dynamic
+allocation storage pushdown stores recursive operations
+principal ... <hl>languages</hl> including detailed comparison
+comit iplv lisp 1.5 slip detailed comparison presented comit
+iplv lisp 1.5 slip wellknown computer programming
+

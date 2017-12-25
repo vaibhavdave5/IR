@@ -1,0 +1,809 @@
+CACM-0462
+----------------------------------------------------------------
+<hl>computer</hl> <hl>pattern</hl> <hl>recognition</hl>
+<hl>techniques</hl> electrocardiographic diagnosis programmed
+digital computers general <hl>pattern</hl> classification
+<hl>recognition</hl> devices phase lively interest artificial
+intelligence important
+
+CACM-2641
+----------------------------------------------------------------
+<hl>clustering</hl> method algorithm a479 cacm june 1974 page
+<hl>clustering</hl> <hl>pattern</hl> <hl>recognition</hl>
+feature selection minimal spanning trees 3.63 5.39 5.5 ca7465
+
+CACM-2215
+----------------------------------------------------------------
+<hl>techniques</hl> sequential <hl>pattern</hl>
+<hl>recognition</hl> sequential <hl>pattern</hl>
+<hl>recognition</hl> spr procedure test features
+<hl>pattern</hl> selects feature tested receiving result test
+procedure classifies ... <hl>computer</hl> simulated experiments
+character <hl>recognition</hl> presented results approach
+promising cacm february 1971 slagle lee sequential
+<hl>pattern</hl> <hl>recognition</hl> game tree searching
+
+CACM-2402
+----------------------------------------------------------------
+<hl>pattern</hl> <hl>recognition</hl> phase problem xray
+crystallography availability interactive threedimensional
+<hl>computer</hl> graphics systems coupled powerful digital
+computers encourages development algorithms adapted
+<hl>pattern</hl> <hl>recognition</hl> <hl>techniques</hl> make
+number approaches xray structure determination based molecular
+model building chemical information frame structural hypotheses
+computationally tested <hl>pattern</hl> <hl>recognition</hl>
+algorithms hindered fact crosscorrelation model correct
+structure computed fundamental incompleteness measured data
+compute upper bound crosscorrelation simple demonstrates ...
+<hl>pattern</hl> <hl>recognition</hl> phase problem xray
+crystallography interactive graphics 3.13 3.17 3.63 ca7211 jb
+february 1 1978 9:53 242 5 242
+
+CACM-2019
+----------------------------------------------------------------
+<hl>pattern</hl> <hl>recognition</hl> character
+<hl>recognition</hl> normalization projective transformation
+central projection hand printed characters handwriting linear
+transformation size normalization mapping <hl>pattern</hl>
+preprocessor ... <hl>techniques</hl> hand printed numerals
+family <hl>pattern</hl> standardization <hl>techniques</hl>
+based geometrical projection applied digitized hand printed
+numerals obtained sales clerks principle
+
+CACM-1726
+----------------------------------------------------------------
+<hl>pattern</hl> <hl>recognition</hl> character
+<hl>recognition</hl> text reading information retrieval
+unformatted text operatorcontrolled reader online reader
+textimage discrimination reading machine 3.63 3.79 ...
+<hl>techniques</hl> automated reading unformatted text methods
+converting unstructured printed material <hl>computer</hl> code
+experimentally investigated operatorcontrolled mode depending
+human demarcation regions <hl>performance</hl> figures obtained
+thought suitable processing complicated material technical
+journals simpler material instance claims sections patents
+applications utmost accuracy unsupervised
+
+CACM-2318
+----------------------------------------------------------------
+<hl>computer</hl> system models <hl>performance</hl>
+<hl>evaluation</hl> models constitute means investigating
+<hl>computer</hl> system <hl>performance</hl> paper examines
+interrelationships models methods evaluating
+<hl>performance</hl> <hl>computer</hl>
+
+CACM-2811
+----------------------------------------------------------------
+<hl>pattern</hl> <hl>recognition</hl> carotid pulse waves
+general waveform parsing system general waveform parsing system
+application structural <hl>pattern</hl> <hl>recognition</hl>
+carotid pulse waves
+
+CACM-2370
+----------------------------------------------------------------
+<hl>pattern</hl> <hl>recognition</hl> signal processing
+interactive computercontrolled scanning display system operation
+ibm thomas watson research center years system includes
+flyingspot scanners ... <hl>pattern</hl> <hl>recognition</hl>
+4.41 6.35 ca7243 jb january 31 1978 1:47 pm 237 4 237 1726 5 237
+237 5 237
+
+CACM-2894
+----------------------------------------------------------------
+<hl>computer</hl> service measurement measurement methodology
+applicable teractive <hl>computer</hl> service primary purpose
+enable external useroriented assessment <hl>computer</hl>
+<hl>performance</hl> frequently ternal system
+<hl>techniques</hl> nbs network measurement system employed
+external measurement tool data collected analyzed demonstration
+methodology leading pragmatic figureofmerit <hl>evaluation</hl>
+results included
+
+CACM-2232
+----------------------------------------------------------------
+<hl>pattern</hl> width angle <hl>pattern</hl> feature width
+function angle possesses interpretations demonstrated paper
+review width concept <hl>pattern</hl> <hl>recognition</hl>
+geometrical concept object <hl>computer</hl> algorithms feature
+extraction obtained focus theoretical subject matter results
+consist settheoretic definition widthatangle theorem relating
+<hl>pattern</hl> boundary radius vector ... <hl>pattern</hl>
+recognitionfigure properties picture processing integral
+geometry widthatangle extent integral projections linear
+<hl>pattern</hl> measures width functions 3.6 3.62 3.63 5.12
+
+CACM-2054
+----------------------------------------------------------------
+<hl>computer</hl> cacm june 197 elder speech
+<hl>recognition</hl> word <hl>recognition</hl> patternmatching
+<hl>pattern</hl> <hl>recognition</hl> timesharing remote access
+voice input speech input telephone ... <hl>computer</hl>
+processing system online digital <hl>computer</hl> processing
+system considered ordinary telephone complete terminal device
+input <hl>computer</hl> provided sequence spoken words
+
+CACM-3132
+----------------------------------------------------------------
+<hl>pattern</hl> classification twoclass <hl>pattern</hl>
+<hl>recognition</hl> standard technique algorithm finding
+hyperplanes separates classes linearly separable training set
+traditional methods find hyperplane
+
+CACM-2231
+----------------------------------------------------------------
+<hl>pattern</hl> similar ambiguous <hl>pattern</hl> constructed
+time dimensions <hl>pattern</hl> frame cacm january 1971 chang
+<hl>pattern</hl> reconstruction image reconstruction data
+compression <hl>pattern</hl>
+
+CACM-2984
+----------------------------------------------------------------
+<hl>performance</hl> cacm march 1977 borovits eindor
+<hl>computer</hl> system <hl>performance</hl>
+<hl>evaluation</hl> costutilization system balance 2.44 ca7738
+jb december 29 1977 6:41
+
+CACM-3089
+----------------------------------------------------------------
+<hl>techniques</hl> reliability system <hl>performance</hl>
+<hl>evaluation</hl> 3.72 3.73 4.33 4.35 4.6 5.5 8.1 ca7868 dh
+february 9 1979 1:26 389 4 ... <hl>performance</hl> rollback
+recovery systems intermittent failures mathematical model
+transactionoriented system intermittent failures proposed system
+assumed operate checkpointing rollbackrecovery method ensure
+
+CACM-2310
+----------------------------------------------------------------
+<hl>computer</hl> critically important facilitator cacm july
+1972 sedelow language analysis humanities science humanities
+<hl>pattern</hl> <hl>recognition</hl> <hl>pattern</hl>
+generation interdisciplinary cooperation 1.3
+
+CACM-0783
+----------------------------------------------------------------
+<hl>783</hl> <hl>783</hl> 5 <hl>783</hl> <hl>783</hl> 5
+<hl>783</hl> <hl>783</hl> 5 <hl>783</hl> 97 6 <hl>783</hl> 1175
+6 <hl>783</hl> 119 6 <hl>783</hl> 1228 <hl>783</hl> 1969 6
+<hl>783</hl> 1997 6 <hl>783</hl> 38 6 <hl>783</hl> 242 6
+<hl>783</hl> 3187 6 <hl>783</hl> 57 6 <hl>783</hl> 716
+
+CACM-2494
+----------------------------------------------------------------
+<hl>computer</hl> printed symbols character overstrikes shades
+darkness dark symbol corresponds small dissimilarity plots
+applied data matrix <hl>clustering</hl> rearranged matrix
+<hl>clustering</hl> ... <hl>computer</hl> generated aid cluster
+analysis <hl>computer</hl> generated graphic method conjunction
+hierarchical scheme cluster analysis illustrated graphic
+principle representation elements data ... <hl>computer</hl>
+graphics cluster analysis numerical taxonomy hierarchical
+<hl>clustering</hl> factor analysis 3.1 3.3 3.36 4.49 ca7366 jb
+january 23 1978 2:2
+
+CACM-0204
+----------------------------------------------------------------
+<hl>pattern</hl> <hl>recognition</hl> cacm april 196 wang ca647
+jb march 22 1978 1:47 pm 24 4 24 24 5 24 24
+
+CACM-1653
+----------------------------------------------------------------
+<hl>performance</hl> <hl>evaluation</hl> survey appraisal state
+art system <hl>performance</hl> <hl>evaluation</hl> reviewed
+<hl>evaluation</hl> goals problems examined throughput
+turnaround availability defined fundamental measures
+
+CACM-2980
+----------------------------------------------------------------
+<hl>pattern</hl> <hl>recognition</hl> segmentation region
+editing 3.63 ca7742 jb december 29 1977 6:22 298 4 298 2523 5
+298 298 5
+
+CACM-2711
+----------------------------------------------------------------
+<hl>performance</hl> correlate inversely space density approach
+based space density computations choose optimum indexing
+vocabulary collection documents typical <hl>evaluation</hl>
+results shown
+
+CACM-3048
+----------------------------------------------------------------
+<hl>performance</hl> <hl>evaluation</hl> highly concurrent
+computers deterministic simulation simulation presented
+practical technique <hl>performance</hl> <hl>evaluation</hl>
+alternative configurations highly concurrent computers technique
+constructing <hl>performance</hl> <hl>evaluation</hl> necessity
+emulating system case study implementation simulator model
+cpumemory subsystem ibm 3691 results evaluating alternative
+system designs discussed
+
+CACM-2542
+----------------------------------------------------------------
+<hl>evaluation</hl> system critical failure software system
+design implementation methodology <hl>performance</hl> proposed
+design evaluated actually implemented paper reasons failure
+explored methodology <hl>performance</hl> <hl>evaluation</hl>
+design implementation system based simple high level language
+describe evolving system stages development source language
+description direct input <hl>performance</hl> information
+obtained routines feedback problems adversely affect
+<hl>performance</hl> detected early corrected costly major
+reimplementation proposed system cacm february 1973
+
+CACM-3149
+----------------------------------------------------------------
+<hl>computer</hl> graphics <hl>pattern</hl> <hl>recognition</hl>
+3.2 3.6 8.2 ca7965 dh august 22 1979 1:36 pm 3149 5 3149 3149 5
+3149
+
+CACM-1938
+----------------------------------------------------------------
+<hl>evaluation</hl> timesharing systems difficult criteria
+successfully perform firstlevel quantitative timesharing system
+<hl>performance</hl> <hl>evaluation</hl> cacm january 1969
+stimler timesharing <hl>performance</hl> criteria ...
+<hl>performance</hl> timesharing systems defined article
+multiaccess systems permit terminal user utilize essentially
+full resources system sharing time terminal users terminal
+
+CACM-2788
+----------------------------------------------------------------
+<hl>pattern</hl> <hl>recognition</hl> curve detectionline
+fitting 3.63 ca75211 jb january 1 1978 9:15 2788 4 2788 291 4
+2788 24 5
+
+CACM-2910
+----------------------------------------------------------------
+<hl>pattern</hl> <hl>recognition</hl> curve detection hough
+transformation template matching 3.63 6.9 ca77116 jb december 27
+1977 7:23 2788 4 291 291
+
+CACM-3070
+----------------------------------------------------------------
+<hl>computer</hl> systems paper describes structure operation
+hybrid simulation model discreteevent simulation analytic
+<hl>techniques</hl> combined produce efficient accurate system
+models based ... <hl>performance</hl> <hl>evaluation</hl>
+simulation queueing network models central server model 4.32
+4.35 8.1 ca7892 dh february 5 1979 3:32 pm 2712
+
+CACM-3135
+----------------------------------------------------------------
+<hl>pattern</hl> objects larger structure presented search
+technique presented geometric structure <hl>pattern</hl> define
+characteristics demanded candidates matching cases properties
+atom considered
+
+CACM-2268
+----------------------------------------------------------------
+<hl>computer</hl> programs integrating differential equations
+study comparing <hl>performance</hl> <hl>computer</hl> programs
+integrating systems ordinary differential equations reported
+integration methods represented include
+
+CACM-3091
+----------------------------------------------------------------
+<hl>performance</hl> standards predicting program development
+time program estimation <hl>techniques</hl> program development
+equation programming experience programmer <hl>evaluation</hl>
+programmer scheduling programmer productivity ...
+<hl>computer</hl> programming productivity propose research
+examine relationship processing characteristics programs
+experience characteristics programmers program development time
+ultimate objective develop technique
+
+CACM-0633
+----------------------------------------------------------------
+<hl>pattern</hl> <hl>recognition</hl> cacm february 1962
+garfinkel polk higgins ochser ca6221 jb march 2 1978 3:43 pm 238
+4 633 633
+
+CACM-2991
+----------------------------------------------------------------
+<hl>techniques</hl> lead improved <hl>performance</hl> secondary
+storage devices shown empirical studies cacm march 1977 clapson
+hashing hashing <hl>techniques</hl> hashing methods hash ...
+<hl>clustering</hl> key set decreased smoothing keytoaddress
+transformation adding shadow buckets open chaining keys
+prehashed address division remove effect sequential properties
+
+CACM-2990
+----------------------------------------------------------------
+<hl>performance</hl> information retrieval systems evaluated
+number ways published <hl>evaluation</hl> work based measuring
+retrieval <hl>performance</hl> average user query unfortunately
+formal proofs
+
+CACM-2829
+----------------------------------------------------------------
+<hl>pattern</hl> picture element computed weighted average
+regions <hl>pattern</hl> definition function shape size
+weighting function chosen digital signal processing theory patch
+<hl>techniques</hl> included cacm october 1976 blinn newell
+<hl>computer</hl> graphics graphic display shading hidden
+surface removal 3.41 5.12 5.15 8.2 ca7612
+
+CACM-3013
+----------------------------------------------------------------
+<hl>pattern</hl> <hl>recognition</hl> edge detection 3.63 ca7821
+jb march 28 1978 1:56 pm 313 5 313 313 5 313 313 313
+
+CACM-1170
+----------------------------------------------------------------
+<hl>pattern</hl> <hl>recognition</hl> learning logic developed
+infer word classes rules syntactic combination experience text
+analyzed characteristics form word classes depth dependency
+
+CACM-2634
+----------------------------------------------------------------
+<hl>evaluation</hl> statistical software social sciences hundred
+college university <hl>computer</hl> installations offer types
+statistical packages general widely osiris spss bmd datatext
+
+CACM-2400
+----------------------------------------------------------------
+<hl>pattern</hl> <hl>recognition</hl> line detection curve
+detection colinear points pointline transformation hough
+transformation 3.63 ca7213 jb february 1 1978 9:36 24
+
+CACM-3187
+----------------------------------------------------------------
+<hl>783</hl> 3187
+
+CACM-2113
+----------------------------------------------------------------
+<hl>recognition</hl> <hl>pattern</hl> <hl>recognition</hl>
+matching procedures treestructure interpretation machine
+translation automatic abstracting 3.42 3.49 3.63 3.7 3.71 ca722
+jb february 14
+
+CACM-1030
+----------------------------------------------------------------
+<hl>techniques</hl> simulation <hl>computer</hl> logic
+simulation digital <hl>computer</hl> integral part
+<hl>computer</hl> design automation systems <hl>evaluation</hl>
+boolean functions characterize <hl>computer</hl> simulated
+constitutes
+
+CACM-2892
+----------------------------------------------------------------
+<hl>computer</hl> communication networks interprocess
+communication measurement packet switching <hl>performance</hl>
+<hl>evaluation</hl> efficiency resource sharing 3.81 4.39 4.6
+4.9 ca7611 jb january
+
+CACM-2812
+----------------------------------------------------------------
+<hl>computer</hl> programs specifically designed aid process
+applications software design <hl>computer</hl> selection
+<hl>performance</hl> <hl>evaluation</hl> major components
+problem statement language problem statement
+
+CACM-1827
+----------------------------------------------------------------
+<hl>performance</hl> monitoring <hl>performance</hl> measurement
+program behavior <hl>performance</hl> data multiprogramming
+<hl>performance</hl> software measurement timesharing
+<hl>performance</hl> system <hl>evaluation</hl> software monitor
+software instrumentation ... <hl>performance</hl> monitoring
+timesharing system software measurement facility part general
+purpose timesharing system date collection facility dcf
+implemented michigan terminal system
+
+CACM-2344
+----------------------------------------------------------------
+<hl>performance</hl> ascertain parameters controllable
+jobscheduling algorithm including scheduling require
+optimization parameters controllable scheduling algorithm marked
+effect system <hl>performance</hl> system <hl>performance</hl>
+<hl>performance</hl> obtained variable timeslice
+<hl>techniques</hl> selecting optimum roundrobin cycle time
+appears features benefit optimization parameters controllable
+scheduling algorithm affect system ... <hl>performance</hl>
+timesharing systems simulation simulation model timesharing
+system finite noncontiguous store infinite auxiliary store study
+variation system parameters store size ... <hl>performance</hl>
+supervisor overheads size store speed cpu comparison made
+results simulation model analytical equations quantumoriented
+nonpreemptive timesharing systems comparison found
+
+CACM-2319
+----------------------------------------------------------------
+<hl>computer</hl> system operating system <hl>performance</hl>
+<hl>evaluation</hl> <hl>performance</hl> measurement measurement
+<hl>techniques</hl> modularity layering structured programming
+paging virtual memory inputoutput disk storage ...
+<hl>performance</hl> overview future positions respect operating
+system <hl>performance</hl> great deal information large number
+models subsystems developed gaps exist knowledge severe
+
+CACM-2849
+----------------------------------------------------------------
+<hl>recognition</hl> design principles implementation based
+experience operating ethernet 1 nodes kilometer coaxial cable
+model estimating <hl>performance</hl> heavy loads packet
+protocol ... <hl>computer</hl> networks ethernet branching
+broadcast communication system carrying digital data packets
+locally distributed computing stations packet transport
+mechanism provided ethernet <hl>computer</hl> networks loosely
+coupled multiprocessors ethernets shared communication facility
+ether passive broadcast medium central control coordination
+access ether packet broadcasts
+
+CACM-3119
+----------------------------------------------------------------
+<hl>performance</hl> <hl>evaluation</hl> queueing models 4.32
+4.6 6.2 8.1 ca7914 dh april 1 1979 12:1 pm 2571 4 3119 2918 4
+
+CACM-2437
+----------------------------------------------------------------
+<hl>performance</hl> analysis keytoaddress transformation
+methods abstract concept paper presents approach analysis
+<hl>performance</hl> keytoaddress transformation methods
+approach keys assumed selected key <hl>performance</hl>
+transformation methods potential methods analysis methods
+<hl>performance</hl> classified key distributions partial
+transformations identified analytically approach applied group
+transformation methods <hl>techniques</hl> hashing methods hash
+coding key transformation keytoaddress transformation direct
+addressing randomizing random access scatter storage information
+retrieval hashing analysis
+
+CACM-2789
+----------------------------------------------------------------
+<hl>clustering</hl> method algorithm r479 cacm february 1975
+magnuski ca7521 jb january 12 1978 2:52 pm 2789 5 2789 2789 5
+
+CACM-2571
+----------------------------------------------------------------
+<hl>performance</hl> <hl>evaluation</hl> 4.32 8.1 ca74123 jb
+january 16 1978 9:51 2571 4 2571 372 4 2571 3119 4 2571 2245
+
+CACM-2535
+----------------------------------------------------------------
+<hl>computer</hl> affects <hl>performance</hl> timeshared
+computercommunications system concluded values system parameters
+noticeable improvement <hl>performance</hl> <hl>computer</hl>
+model sense timeshared scheduling delays reduced
+<hl>performance</hl> analytical simulation results based model
+computercommunications system md1 queue multiplexor tandem
+single exponential server <hl>computer</hl> analytical results
+include general
+
+CACM-1908
+----------------------------------------------------------------
+<hl>computer</hl> systems higher level <hl>performance</hl>
+attained timesharing users indications significantly lower costs
+resulted timesharing users stopped work reached
+<hl>performance</hl> level <hl>performance</hl> manmachine
+communications cost effectiveness online offline
+<hl>performance</hl> decisionmaking <hl>performance</hl>
+userprogrammer behavior programming experimental empirical
+studies problemsolving research manmachine communications
+
+CACM-2451
+----------------------------------------------------------------
+<hl>techniques</hl> hand potentially comparison affords observed
+<hl>performance</hl> intuitively attractive ideal search
+procedure practical application model paper considers design
+tree search
+
+CACM-2561
+----------------------------------------------------------------
+<hl>clustering</hl> algorithms implemented model fact retrieval
+system formal query language propertylist data structure program
+experiments procedures test data bases altered
+
+CACM-1915
+----------------------------------------------------------------
+<hl>recognition</hl> threedimensional representation planefaced
+objects perspective view machine rendering solids automatic
+drawing displaying <hl>techniques</hl> <hl>computer</hl>
+graphics manmachine interaction manmachine communication
+
+CACM-2951
+----------------------------------------------------------------
+<hl>performance</hl> <hl>evaluation</hl> tools employed
+investigate feasibility dynamic response time monitor capable
+providing comparative response time information users wishing
+process computing ... <hl>computer</hl> networks ultimate aim
+computing network resource sharing human component technical
+component networking fully investigated achieve goal research
+step assisting
+
+CACM-3001
+----------------------------------------------------------------
+<hl>pattern</hl> <hl>recognition</hl> artificial telligence
+demons ntuples sorting chess 3.63 5.31 ca7714jb january 3 1978
+12:15 2532 4 31 2631 4
+
+CACM-2258
+----------------------------------------------------------------
+<hl>techniques</hl> fundamental <hl>performance</hl> study large
+existing formatted cacm november 1972 lum yuen hashing hashing
+<hl>techniques</hl> hashing methods hash coding keys
+
+CACM-1805
+----------------------------------------------------------------
+<hl>evaluation</hl> hardware <hl>evaluation</hl> monitor
+operating system system software supervisors
+<hl>performance</hl> time sharing time slicing 2.43 2.44 4.32
+ca69127 jb february
+
+CACM-1527
+----------------------------------------------------------------
+<hl>recognition</hl> device class grammars correctly decide
+grammatical ungrammatical sentences natural language make
+<hl>recognition</hl> device sort reason data fully expressible
+set <hl>recognition</hl> function succeeds case posed question
+drawn set sentences expressing data correctly grammatical terms
+grammar set sentences sentence <hl>recognition</hl> procedure
+
+CACM-2883
+----------------------------------------------------------------
+<hl>pattern</hl> <hl>recognition</hl> edge detection contour
+detection contour optimization problems dynamic programming
+shortest path heuristic search methods problem solving methods
+3.63
+
+CACM-2287
+----------------------------------------------------------------
+<hl>recognition</hl> contour lines solved color labeling method
+shown maps normal contour lines suffices distinguish socalled
+odd lines tangency problem involved <hl>computer</hl> memory
+space simplifying control program suggested cacm september 1972
+mor lamdan automatic scanning contour maps digitizing contour
+lines topology
+
+CACM-1931
+----------------------------------------------------------------
+<hl>evaluation</hl> computational results show accuracy running
+times expected determinant <hl>evaluation</hl> application
+determinants program test set functions form chebyshev system
+presented <hl>evaluation</hl> chebyshev system mathematical
+proof <hl>computer</hl> 5.11 5.13 5.14 ca6927 jb february 2 1978
+1:49 1524 4 1931 1931 4
+
+CACM-1435
+----------------------------------------------------------------
+<hl>computer</hl> simulation experiments industrial systems aim
+paper provide background information existing literature
+experimental design <hl>techniques</hl> applicable design
+<hl>computer</hl> simulation experiments
+
+CACM-2575
+----------------------------------------------------------------
+<hl>clustering</hl> searching matching dissimilarity hierarchy
+classification 3.73 3.74 3.79 5.3 ca74119 jb january 16 1978 1:9
+2575 4 2575 2966
+
+CACM-2528
+----------------------------------------------------------------
+<hl>pattern</hl> reconstruction projections algorithm r445 cacm
+march 1973 lau <hl>pattern</hl> reconstruction image
+reconstruction data compression picture processing 3.63 5.3
+ca73311
+
+CACM-2942
+----------------------------------------------------------------
+<hl>pattern</hl> matching string processing <hl>pattern</hl>
+implementation algorithms pascal 4.29 ca7771 jb december 28 1977
+8:15 2942 5 2942 2942 5
+
+CACM-2545
+----------------------------------------------------------------
+<hl>pattern</hl> theory parsing <hl>pattern</hl> matching string
+processing <hl>pattern</hl> implementation 4.29 5.39 ca7323 jb
+january 24 1978 3:13 pm 1665 4
+
+CACM-2452
+----------------------------------------------------------------
+<hl>evaluation</hl> selection organizationa model system work
+discusses factors affect data base organization
+<hl>performance</hl> elusive subject presents methodology model
+programmed system
+
+CACM-1792
+----------------------------------------------------------------
+<hl>performance</hl> exploratory experiments conducted system
+development corporation compare debugging <hl>performance</hl>
+programmers working conditions online line access
+<hl>computer</hl> known studies measure ... <hl>performance</hl>
+programmercomputer communication programming
+experimentalempirical studies programming cost effectiveness
+programming <hl>performance</hl> debugging effectiveness time
+sharing batch processing factor analysis application ...
+<hl>performance</hl> controlled conditions standard tasks
+statistically significant results experiments faster debugging
+online conditions important practical finding involves striking
+individual differences <hl>performance</hl> methodological
+problems encountered designing conducting experiments
+limitations findings pointed hypotheses presented account
+results suggestions made research cacm january 1968
+
+CACM-1855
+----------------------------------------------------------------
+<hl>techniques</hl> keeping size analysis record reasonable
+limits avoiding need dynamic application transformational rules
+number examples output produced program output includes
+
+CACM-2529
+----------------------------------------------------------------
+<hl>pattern</hl> reconstruction projections algorithm a445 cacm
+march 1973 chang <hl>pattern</hl> reconstruction image
+reconstruction data compression picture processing 3.63 5.3
+ca7331
+
+CACM-2679
+----------------------------------------------------------------
+<hl>performance</hl> tests quicksort descendants detailed
+<hl>performance</hl> evaluations presented acm algorithms
+quicksort 64 shellsort 21 stringsort 27 treesort3 245
+quickersort 271 <hl>performance</hl> tests quicksort quickersort
+qsort shellsort stringsort treesort3utility sort algorithm
+generalpurpose sort algorithm sorting algorithm documentation
+4.49 5.31 ca7434 jb
+
+CACM-2746
+----------------------------------------------------------------
+<hl>pattern</hl> matching machine keywords <hl>pattern</hl>
+matching machine process text string single pass construction
+<hl>pattern</hl> matching machine takes time proportional sum
+<hl>pattern</hl> matching machine processing text string
+independent number keywords algorithm improve speed library
+bibliographic search program factor 5 1 cacm
+
+CACM-3072
+----------------------------------------------------------------
+<hl>computer</hl> system model studies integrated feedbackdriven
+scheduling systems multiprogrammed multiprocessor
+<hl>computer</hl> systems presented basic control variables
+dataflow rates processes executing
+
+CACM-0893
+----------------------------------------------------------------
+<hl>evaluation</hl> linear equations solution determinant
+<hl>evaluation</hl> matrix inversion cacm march 1963 goldstein
+ca63327 jb march 14 1978 12:47 pm 3131
+
+CACM-1032
+----------------------------------------------------------------
+<hl>evaluation</hl> function relevancy developed rewards system
+retrieving relevant documents retrieving nonrelevant penalizes
+system escaped relevant documents false drops inadequacies
+linear
+
+CACM-0678
+----------------------------------------------------------------
+<hl>computer</hl> <hl>techniques</hl> discussed increasing
+sophistication boolean compiler optimize bittime
+<hl>computer</hl> simulation <hl>techniques</hl> applicable
+generalpurpose <hl>computer</hl> cacm november 1963 katzj
+ca631114
+
+CACM-2217
+----------------------------------------------------------------
+<hl>evaluation</hl> functions guide search proof goal achievable
+thirteen general features predicate calculus clauses created
+automatic learning <hl>evaluation</hl> functions pp multiple
+
+CACM-1590
+----------------------------------------------------------------
+<hl>computer</hl> procedure determines pitch periods
+<hl>recognition</hl> peak structure speech waveform speech
+sounds sampled microphone analogtodigital converter attached
+interconnected ibm 79pdp1
+
+CACM-1427
+----------------------------------------------------------------
+<hl>computer</hl> radioisotope scanning field assuming
+increasing importance medical diagnosis scan twodimensional
+<hl>pattern</hl> made dots areas increased source activity
+represented scan
+
+CACM-0716
+----------------------------------------------------------------
+<hl>783</hl> 716
+
+CACM-1534
+----------------------------------------------------------------
+<hl>techniques</hl> found development dad assessment made
+validity design decisions <hl>performance</hl> figures based
+months operation tabulated cacm september 1967 austin holden
+
+CACM-1642
+----------------------------------------------------------------
+<hl>computer</hl> small memory <hl>techniques</hl> make time
+sharing attractive <hl>computer</hl> small central memory
+presented small mean user program monitor fit memory
+
+CACM-2973
+----------------------------------------------------------------
+<hl>computer</hl> parallel sorting parallel merge routing
+comparison steps perfect shuffle processor terconnection
+<hl>pattern</hl> 4.32 5.25 5.31 ca7749 jb december 29
+
+CACM-2401
+----------------------------------------------------------------
+<hl>pattern</hl> regardless complexity configuration problems
+regarding merging disconnection patterns process determination
+maximum number steps obtain single isolated element
+<hl>pattern</hl> reviewed
+
+CACM-2683
+----------------------------------------------------------------
+<hl>techniques</hl> mechanically synthesizing loop predicates
+classes <hl>techniques</hl> considered heuristic methods derive
+loop predicates boundary conditions andor partially inductive
+assertions extraction
+
+CACM-2988
+----------------------------------------------------------------
+<hl>performance</hl> measures response time memory utilization
+graphically displayed multiphase analytically soluble model
+proposed broadly applicable analysis teractive <hl>computer</hl>
+systems nonpaged <hl>performance</hl> queueing network models
+teractive <hl>computer</hl> systems 4.32 ca7734 jb december 3
+1977 12:51 2988 4 2988 175 5 2988
+
+CACM-3078
+----------------------------------------------------------------
+<hl>computer</hl> systems <hl>computer</hl> aided algebra
+analytical results related availability <hl>computer</hl> system
+constructed unreliable processors presented paper results
+obtained computeraided algebraic <hl>techniques</hl> major
+purpose paper demonstrate difficulties obtaining analytical
+solutions markov processes considerably reduced application
+symbol manipulation programs physical systems modeled
+
+CACM-0507
+----------------------------------------------------------------
+<hl>783</hl> 57
+
+CACM-2669
+----------------------------------------------------------------
+<hl>performance</hl> predicting <hl>performance</hl> proposed
+managed multilevel memory system requires model patterns
+programs refer information stored memory recent experimental
+measurements multics <hl>pattern</hl> effect automatic
+management algorithm produce single composite statement mean
+number memory references paging exceptions increases linearly
+size paging memory
+
+CACM-2903
+----------------------------------------------------------------
+<hl>pattern</hl> matching problems recursion troduction
+algorithms manipulate stack translated recursive algorithms
+stack operations occur algorithms subjected transformation
+method recursion elimination <hl>pattern</hl> matching algorithm
+knuth morris pratt derived steps simple nonlinear stack
+algorithm cacm november 1977 bird program transformation
+optimization programs
+
+CACM-2522
+----------------------------------------------------------------
+<hl>evaluation</hl> working set dispatcher behavior
+<hl>computer</hl> system largely dependent algorithms employed
+allocate system resources processes competing recent research
+timesharing paging
+
+CACM-2882
+----------------------------------------------------------------
+<hl>performance</hl> <hl>evaluation</hl> invented list threaded
+list cellular list information retrieval database organizations
+query complexity stochastic model monte carlo simulation 3.7
+
+CACM-2195
+----------------------------------------------------------------
+<hl>recognition</hl> picture description curve detection line
+detection edge detectionoptimal detection heuristic methods
+global <hl>recognition</hl> parallel processing dynamic
+programming interaction graph
+
+CACM-0096
+----------------------------------------------------------------
+<hl>evaluation</hl> finite series integration differential
+equation reeves electronic analog <hl>computer</hl> litton 4 ibm
+74 <hl>computer</hl> results generally applicable equations
+separated
+

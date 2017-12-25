@@ -1,0 +1,670 @@
+CACM-2921
+----------------------------------------------------------------
+<hl>construction</hl> parsing programming <hl>languages</hl>
+language generation formal definition <hl>compilers</hl>
+translators scanners 4.2 5.21 5.23 ca7715 jb december 27 1977
+11:1
+
+CACM-2886
+----------------------------------------------------------------
+<hl>languages</hl> <hl>compilers</hl> formal definition
+attribute grammars discussion important aspects included paper
+concentrates evaluation semantic attributes passes left
+derivation tree program
+
+CACM-2061
+----------------------------------------------------------------
+<hl>construction</hl> syntactical analyzer <hl>construction</hl>
+generators compiler <hl>compilers</hl> compiler writing systems
+translator writing systems metacompilers contextfree grammars
+formal <hl>languages</hl> pushdown automata
+
+CACM-3102
+----------------------------------------------------------------
+<hl>languages</hl> issues programming language aid keeping track
+physical units feet sec discussed method introduction
+relationships units watt voltsamps yard feet
+
+CACM-2411
+----------------------------------------------------------------
+<hl>compilers</hl> program documentation program flow graphs
+programming language design proof programs semantics programming
+<hl>languages</hl> structured programming 4.12 4.22 5.24
+ca731115
+
+CACM-2112
+----------------------------------------------------------------
+<hl>languages</hl> translation recognizers parsing metacompilers
+pushdown transducer syntax directed <hl>compilers</hl> finite
+state automata 4.1 4.12 4.2 5.22 ca723 jb february
+
+CACM-2939
+----------------------------------------------------------------
+<hl>construction</hl> work programming methodology led
+realization kinds abstractionsprocedural control especially data
+abstractionsare programming process procedural abstraction
+supported conventional <hl>languages</hl> procedure
+<hl>construction</hl> illustrated shown clu programs written
+implement abstractions clu library permits incremental program
+development complete type checking performed compile time
+
+CACM-1135
+----------------------------------------------------------------
+<hl>languages</hl> fully meets requirements set codasyl
+<hl>languages</hl> including machineindependence cacm february
+1964 lombardi ca6428 jb march 1 1978 4:8 1135 ...
+<hl>compilers</hl> translate source programs efficient machine
+codes approach adopted departs conventional mechanical language
+design philosophies stresses structural analysis class processes
+
+CACM-1402
+----------------------------------------------------------------
+<hl>intermediate</hl> integration points yields accuracy
+comparable integration require storing additional information
+interpolation methods cacm july 1966 glauz ca6671 jb march
+
+CACM-0252
+----------------------------------------------------------------
+<hl>intermediate</hl> final results cacm november 1961 dow
+ca611116 jb march 15 1978 1:4 pm 252 5 252 252 5 252
+
+CACM-2579
+----------------------------------------------------------------
+<hl>compilers</hl> programming <hl>languages</hl> virtual memory
+demand paging 4.12 4.2 4.39 ca74115 jb january 16 1978 1:24 1781
+4 2579 187
+
+CACM-1134
+----------------------------------------------------------------
+<hl>intermediate</hl> language reflecting structure machine
+easily manipulated improving object program efficiency subject
+paper <hl>intermediate</hl> language methods manipulating
+compilations series arithmetic
+
+CACM-1350
+----------------------------------------------------------------
+<hl>languages</hl> generated rules form cy ym yi
+<hl>intermediate</hl> symbols terminal symbol predictive
+analyzer harvard standardform grammar accept language
+contextfree grammar
+
+CACM-2316
+----------------------------------------------------------------
+<hl>languages</hl> discussed cacm july 1972 sammet programming
+<hl>languages</hl> higher level <hl>languages</hl>
+<hl>languages</hl> history future directions language
+interrelationships programming language tree ...
+<hl>languages</hl> history future paper discusses history future
+programming <hl>languages</hl> higher level <hl>languages</hl>
+difficulties writing history key part paper tree showing
+
+CACM-1723
+----------------------------------------------------------------
+<hl>construction</hl> project networks project networks pert cpm
+algorithm constructing project networks directly project
+precedence relations algorithm creates dummy activities
+topologically
+
+CACM-3115
+----------------------------------------------------------------
+<hl>intermediate</hl> vectors vectors mapped nonsingular binary
+matrix examples complete enumeration 2 2 3 3 nonsingular binary
+matrices produced mapping <hl>intermediate</hl>
+
+CACM-1154
+----------------------------------------------------------------
+<hl>intermediate</hl> machines created adjoining infinitestate
+memory finitestate machine performing restrict manner unbounded
+portion memory accessed bound number steps allowed computation
+
+CACM-1783
+----------------------------------------------------------------
+<hl>intermediate</hl> base allow inandout conversions original
+number significant digit cacm january 1968 matula floatingpoint
+numbers significance base conversion rounding truncation
+
+CACM-2064
+----------------------------------------------------------------
+<hl>compilers</hl> today elements structures restricted scalars
+sophisticated applications restriction impose cumbersome data
+representations efficient system devised implemented elements
+multidimensional arrays
+
+CACM-1658
+----------------------------------------------------------------
+<hl>intermediate</hl> size computer experiments provide hope
+solving problems 1 variables reasonable amount machine time cacm
+december 1968 gue liggett cain
+
+CACM-2587
+----------------------------------------------------------------
+<hl>construction</hl> representative synthetic workload errata
+cacm october 1974 sreenivarsan kleinman ca74111 jb january 16
+1978 11:7 2587 4 2587 2588
+
+CACM-0051
+----------------------------------------------------------------
+<hl>construction</hl> microflowcharts cacm october 1959 gorn
+ingerman crozier ca5918 jb march 22 1978 4:1 pm 249 5 51 51 5
+
+CACM-3099
+----------------------------------------------------------------
+<hl>construction</hl> difficult integer programming problems
+known optimal solutions problems test andor benchmark integer
+programming codes cacm 1978 fleisher meyer integer
+
+CACM-2659
+----------------------------------------------------------------
+<hl>compilers</hl> 4.12 4.22 ca74411 jb february 1 1978 1:34
+2659 4 2659 2449 5 2659 2659 5 2659 2659 5
+
+CACM-0070
+----------------------------------------------------------------
+<hl>construction</hl> set test matrices paper develops equations
+properties set test matrices determination accuracy routines
+finding inverse determinant andor eigenvalues matrix
+
+CACM-0929
+----------------------------------------------------------------
+<hl>construction</hl> cacm february 1963 grems ca6324 jb march
+14 1978 2:21 pm 929 4 929 929 5 929 929 5
+
+CACM-2551
+----------------------------------------------------------------
+<hl>compilers</hl> cacm january 1973 atkinsm algol 6 mutual
+recursion compiler restrictions 4.12 4.22 ca7311 jb january 24
+1978 3:46 pm
+
+CACM-0637
+----------------------------------------------------------------
+<hl>compilers</hl> <hl>compilers</hl> pointed advantages pol
+constructing programming systems report presents results project
+completed 1961 neliac system generate compiler ibm 141
+
+CACM-1313
+----------------------------------------------------------------
+<hl>construction</hl> nonlinear programming test problems cacm
+february 1965 rosen suzuki ca65211 jb march 7 1978 1:58 pm 1313
+5 1313
+
+CACM-2658
+----------------------------------------------------------------
+<hl>compilers</hl> cacm april 1974 balfour algol 6 mutual
+recursion compiler restrictions 4.12 4.22 ca74412 jb february 1
+1978 1:32 2658
+
+CACM-2572
+----------------------------------------------------------------
+<hl>construction</hl> community information utility article
+author urges prudent decentralized approach question design
+desirability computerized community information utilities
+accepting inevitability desirability
+
+CACM-2066
+----------------------------------------------------------------
+<hl>construction</hl> procedures parameters procedures cacm
+april 197 knight algol procedures parameters side effects 4.22
+ca7418 jb february 13 1978 2:3
+
+CACM-2495
+----------------------------------------------------------------
+<hl>compilers</hl> objectcode optimization register assignment
+trees 4.12 5.24 5.32 ca7365 jb january 23 1978 2:24 pm 2495 5
+2495 2495
+
+CACM-1703
+----------------------------------------------------------------
+<hl>languages</hl> computer services cacm august 1968 mooers
+standardization programming <hl>languages</hl> trac t64 language
+tranemark public identification programming <hl>languages</hl>
+standards accommodate ... <hl>languages</hl> user public wants
+standardization reliable identification programming
+<hl>languages</hl> related services achieving goals illustrated
+methods adopted trac t64 interactive language
+
+CACM-2705
+----------------------------------------------------------------
+<hl>languages</hl> natural <hl>languages</hl> mathematics social
+aspects programming illuminated analogies similar aspects
+mathematics natural <hl>languages</hl> split pure applied
+mathematics found similarly <hl>languages</hl> flexion wordorder
+based language types speaks programming language design based
+general abstract constructs analogy incidents history artificial
+auxiliary <hl>languages</hl>
+
+CACM-1459
+----------------------------------------------------------------
+<hl>languages</hl> realtime <hl>languages</hl> requirements
+programming <hl>languages</hl> special nature applications
+environment object programs executed environment compiled
+language extensions ultimately advance developments
+
+CACM-3030
+----------------------------------------------------------------
+<hl>construction</hl> large programs users hierarchical
+techniques claim predict substantial increases productivity
+reliability programs produced paper describe formal method
+hierarchical program
+
+CACM-2897
+----------------------------------------------------------------
+<hl>compilers</hl> recent developments optimizing techniques
+allowed design <hl>compilers</hl> emerge compiler translates
+parsed source code lower level code sequence steps step
+
+CACM-2603
+----------------------------------------------------------------
+<hl>languages</hl> deterministic <hl>languages</hl> class
+reducing transition <hl>languages</hl> introduced eickel paul
+bauer samelson shown morris proper superclass simple precedence
+<hl>languages</hl> paper
+
+CACM-2684
+----------------------------------------------------------------
+<hl>languages</hl> previous paper author cacm february 1974
+ledgard syntax translation contextsensitive grammars
+<hl>compilers</hl> formal definition pli standards 4.2 5.21 5.23
+
+CACM-2871
+----------------------------------------------------------------
+<hl>intermediate</hl> inductive assertions provided manually
+user termination proven incorrect programs treated unified
+solution problems paper suggests conducting logical analysis
+programs
+
+CACM-2423
+----------------------------------------------------------------
+<hl>compilers</hl> paper describes parsergenerating system pgs
+cdc65 computer purdue university pgs fortrancoded compiler input
+translation grammar bnf syntactic rule corresponds
+
+CACM-3093
+----------------------------------------------------------------
+<hl>languages</hl> error correction automatic correction parsing
+lr syntax errors <hl>compilers</hl> 4.12 4.42 5.23 ca7864 dh
+february 26 1979 12:22 pm
+
+CACM-2305
+----------------------------------------------------------------
+<hl>languages</hl> plankalkul attempt korrad zuse 194s devise
+notational conceptual system writing today termed program early
+approach programming language lead practical <hl>languages</hl>
+investigation historical interest provide insights lead
+advancements state art modern programming terminology plankalkul
+presented extent reconstruct published literature cacm
+
+CACM-2295
+----------------------------------------------------------------
+<hl>languages</hl> algol semantics recursive composition design
+programming <hl>languages</hl> data structures 1.3 4.2 4.22 5.23
+5.24 ca7287 jb january 3 1978
+
+CACM-1788
+----------------------------------------------------------------
+<hl>languages</hl> efforts made develop implementing higher
+level programming language <hl>construction</hl> compiler proved
+generally satisfactory paper contended programming language
+functionally body
+
+CACM-2449
+----------------------------------------------------------------
+<hl>compilers</hl> cacm september 1973 gates poplawski symbol
+table organization pli cobol structured variables 4.12 ca7396 jb
+january 23 1978 9:17
+
+CACM-2843
+----------------------------------------------------------------
+<hl>compilers</hl> monitor allow instructor augment basic
+concepts relevant exciting economical student project activities
+cacm august 1976 donovan software education simulators
+
+CACM-1314
+----------------------------------------------------------------
+<hl>construction</hl> virginia algol 6 compiler burroughs b25
+primary consideration symbol table design recognition
+identifiers reserved words rapid general features technique
+
+CACM-2534
+----------------------------------------------------------------
+<hl>compilers</hl> provide diagnostic assistance customarily
+offered sophisticated source language employed assistance need
+prohibitively costly cacm march 1973 conway wilcox
+<hl>compilers</hl>
+
+CACM-0058
+----------------------------------------------------------------
+<hl>construction</hl> general purpose digital computer
+contactless magnetic ferrite capacitive dezu long duration
+capacitive memory elements developed laboratory electrical
+modeling vinityi
+
+CACM-2666
+----------------------------------------------------------------
+<hl>construction</hl> school timetables timetable problem
+essentially discrete problem discrete problem feasible solution
+exist solution equivalent continuous problem nondiscrete
+solution interpreted
+
+CACM-1098
+----------------------------------------------------------------
+<hl>languages</hl> discussed approximately speed finally authors
+give heuristics aid selection <hl>languages</hl> problem
+applications concluding <hl>languages</hl> considered distinctly
+superior listprocessing applications ... <hl>languages</hl>
+important common features listprocessing <hl>languages</hl>
+reviewed forms data structures manipulated necessity dynamic
+allocation storage pushdown stores recursive operations
+principal ... <hl>languages</hl> including detailed comparison
+comit iplv lisp 1.5 slip detailed comparison presented comit
+iplv lisp 1.5 slip wellknown computer programming
+
+CACM-2904
+----------------------------------------------------------------
+<hl>compilers</hl> optimization compiled code program analysis
+operator strength reduction test replacement strongly connected
+region 4.12 5.24 5.32 ca771112 jb december
+
+CACM-1696
+----------------------------------------------------------------
+<hl>construction</hl> variable length codes reviewed updating
+procedure dealing sequences stochastic matrices discussed
+computation times investigated experimentally compared recently
+propose method
+
+CACM-1852
+----------------------------------------------------------------
+<hl>languages</hl> algorithm easily implemented contemporary
+computing machines experience programming <hl>languages</hl>
+implementation based algorithm language transferred machine
+manweek machine cacm september
+
+CACM-1366
+----------------------------------------------------------------
+<hl>languages</hl> write substantial costs occur training
+implementation computer time inappropriate language chosenore
+computer simulation <hl>languages</hl> developed comparisons
+evaluations existing <hl>languages</hl> ... <hl>languages</hl>
+purpose paper present comparison computer simulation
+<hl>languages</hl> involved comparing software packages digital
+computers discussed part issue obvious users digital ...
+<hl>languages</hl> computational characteristics simulation
+discussed special attention paid distinction continuous discrete
+change models part iii presents detailed comparison simulation
+<hl>languages</hl>
+
+CACM-1923
+----------------------------------------------------------------
+<hl>languages</hl> basic inputoutput support facilities shown
+technique provide potentially inexpensive methods programs
+communicate deeply embedded facilities command language
+processors cacm
+
+CACM-3151
+----------------------------------------------------------------
+<hl>construction</hl> realtime convex hull set points plane data
+structure algorithm constructs convex hull successive updates
+taking time olog achieving total
+
+CACM-2685
+----------------------------------------------------------------
+<hl>compilers</hl> computers discussed cacm february 1974
+lamport parallel computing multiprocessor computers array
+computers vector computers loops 4.12 5.24 ca7424 jb
+
+CACM-2439
+----------------------------------------------------------------
+<hl>compilers</hl> interpreters cacm october 1973 mcgeachie dtss
+multiple terminals remote terminals remote consoles timesharing
+online interaction online games 3.81 4.32
+
+CACM-2138
+----------------------------------------------------------------
+<hl>compilers</hl> operating systems prime design goals design
+ability produce highly efficient object code allow access
+relevant hardware features host machine
+
+CACM-3177
+----------------------------------------------------------------
+<hl>construction</hl> robust key management schemes
+cryptographic systems function securely reliably misfortunes
+destroy half pieces security breaches expose remaining pieces
+cacm
+
+CACM-1807
+----------------------------------------------------------------
+<hl>compilers</hl> proved produce excellent object code
+significantly reducing compilation speed cacm december 1969
+busam england fortran optimization expressions
+<hl>compilers</hl> compilation
+
+CACM-2254
+----------------------------------------------------------------
+<hl>languages</hl> general interest data structure partitioning
+consists dynamic tree structures derive maintain array control
+information sufficient detail design array <hl>languages</hl>
+
+CACM-2406
+----------------------------------------------------------------
+<hl>languages</hl> concentrate declaration logical data
+structures concern structures physically realized computer
+system need data definition <hl>languages</hl> describe logical
+physical aspects <hl>languages</hl> key systems advanced data
+management systems distributed data bases paper reviews past
+work data definition language describing logical physical
+
+CACM-0100
+----------------------------------------------------------------
+<hl>compilers</hl> listtypes memories cacm february 1959 carr
+iii ca5921 jb march 22 1978 8:23 pm 25 4 1 21 4
+
+CACM-2929
+----------------------------------------------------------------
+<hl>compilers</hl> structured programming <hl>languages</hl>
+runtime statistics 4.12 ca7795 jb december 27 1977 1:23 pm 186 4
+2929 1132 4 2929
+
+CACM-2870
+----------------------------------------------------------------
+<hl>construction</hl> mechanisms enforce security model unifying
+view systems restrict information flow enables classification
+according security objectives suggests approaches leads
+<hl>construction</hl>
+
+CACM-1678
+----------------------------------------------------------------
+<hl>languages</hl> abstract switching computability ph computer
+science program number courses listed area describe automata
+formal <hl>languages</hl> abstract switching computability ph
+
+CACM-3130
+----------------------------------------------------------------
+<hl>intermediate</hl> level courses elective courses round
+undergraduate program discussed entire program including
+computer science component material presented issues related
+undergraduate
+
+CACM-2877
+----------------------------------------------------------------
+<hl>compilers</hl> 4.12 5.24 ca7633 jb january 5 1978 8:33 2877
+5 2877 2877 5 2877 2877 5 2877 313 5
+
+CACM-2324
+----------------------------------------------------------------
+<hl>construction</hl> user oriented software comparisons known
+algorithms demonstrate techniques specific problems cacm july
+1972 shanno weil integer programming linear programming
+
+CACM-1835
+----------------------------------------------------------------
+<hl>languages</hl> programming <hl>languages</hl> student
+programming systems language design high school programs college
+courses 1.51 1.52 4.12 4.22 ca69111 jb february
+
+CACM-1062
+----------------------------------------------------------------
+<hl>intermediate</hl> manipulations performed strings stored
+abbreviated internal representation automatic internal
+representation newly created substring stored sequentially block
+common storage manner
+
+CACM-1485
+----------------------------------------------------------------
+<hl>languages</hl> illustrate forms advantages disadvantages
+factors influencing choice form component language discussed
+paper concludes suggestion programming <hl>languages</hl> evolve
+permit convenient
+
+CACM-1159
+----------------------------------------------------------------
+<hl>compilers</hl> computer methods examined bootstrap technique
+singled detailed discussion emphasis economics considerations
+determine applicability bootstrapping specific case discussed
+attempt made
+
+CACM-2814
+----------------------------------------------------------------
+<hl>languages</hl> 197475 cacm december 1976 sammet ca76121 jb
+january 3 1978 2:38 pm 2814 5 2814 2814 5 2814 2814
+
+CACM-3150
+----------------------------------------------------------------
+<hl>languages</hl> exist lays directions future research cacm
+july 1979 winograd programming programming <hl>languages</hl>
+programming systems systems development 4 4.2 4.22 ...
+<hl>languages</hl> computer technology matures growing ability
+create large systems leading basic nature programming
+programming language concepts adequate building maintaining
+systems
+
+CACM-2873
+----------------------------------------------------------------
+<hl>languages</hl> lg specifically designed nonprogrammers easy
+learn close natural language geometry cacm april 1976 raymond
+interactive programming problem oriented <hl>languages</hl>
+
+CACM-0628
+----------------------------------------------------------------
+<hl>languages</hl> cacm march 1962 grau ca6234 jb march 2 1978
+3:9 pm 628 5 628 628 5 628 628 628
+
+CACM-0651
+----------------------------------------------------------------
+<hl>languages</hl> systems information retrieval cacm january
+1962 grems ca6218 jb march 2 1978 4:36 pm 651 5 651 651 5
+
+CACM-3120
+----------------------------------------------------------------
+<hl>construction</hl> algol 68 compiler examples implementation
+discussed cacm january 1979 banatre routeau trilling compiling
+technique onepass compilation semantic analysis event
+
+CACM-2523
+----------------------------------------------------------------
+<hl>construction</hl> cloud cover maps cloud cover pictures
+obtained satellites cacm april 1973 strong iii rosenfeld picture
+processing scene analysis edge
+
+CACM-1457
+----------------------------------------------------------------
+<hl>languages</hl> outlined light procedures requiring
+implementation advantages programming <hl>languages</hl>
+retrieval application examined suggestions made design
+programming facilities aid information retrieval
+
+CACM-0071
+----------------------------------------------------------------
+<hl>construction</hl> programming system stress discovery source
+program statements errors attempting construct object program
+computer characteristics advocated program interrupt scheme
+large
+
+CACM-1533
+----------------------------------------------------------------
+<hl>compilers</hl> applications model discussed cacm september
+1967 foley ca67911 jb february 27 1978 2:5 pm 1533 4 1533 1533 4
+
+CACM-1745
+----------------------------------------------------------------
+<hl>construction</hl> reasonable development public
+messageswitched communications services adequate provisions made
+information security cacm 1968 dennis information networks
+information systems computing
+
+CACM-1933
+----------------------------------------------------------------
+<hl>construction</hl> pseudorandom number generator increased
+cycle length cacm february 1969 payne rabung bogyo pseudorandom
+number random number modular arithmetic uniform
+
+CACM-2782
+----------------------------------------------------------------
+<hl>languages</hl> philosophy language design 4.22 5.19 ca7536
+jb january 9 1978 4:38 pm 2782 5 2782 2782 5 2782 2782
+
+CACM-2645
+----------------------------------------------------------------
+<hl>languages</hl> estimating program efficiency
+<hl>languages</hl> enabling users estimate efficiency computer
+programs presented program efficiency wishes estimate written
+language gotoless programming ... <hl>languages</hl> included
+limitations present system relation knuths work analysis
+algorithms directions research discussed cacm june 1974 ccohen
+zuckerman programming <hl>languages</hl>
+
+CACM-1740
+----------------------------------------------------------------
+<hl>construction</hl> brailler model 33 teletype modifying print
+head increasing resiliency platen description programming needed
+drive brailler presented cacm june 1968
+
+CACM-1926
+----------------------------------------------------------------
+<hl>construction</hl> minimum nontext items written entirely
+fortran iv cacm march 1969 berns text processing indexing
+printing documentation text editing formatting
+
+CACM-1911
+----------------------------------------------------------------
+<hl>languages</hl> considered frame work transformational theory
+account phenomena proposed machinery added syntactic component
+transformational grammar machinery includes rule schemata
+conditions
+
+CACM-1470
+----------------------------------------------------------------
+<hl>languages</hl> identified major components programming
+language elementary program statement mechanisms linking
+elementary statements means program obtain data inputs
+alternative forms <hl>languages</hl> illustrate forms elementary
+program statements take form commands requirements implicit
+specifications command imperative statement commands action
+requirement describes effect
+
+CACM-0920
+----------------------------------------------------------------
+<hl>languages</hl> cacm march 1963 yngve sammet ca6331 jb march
+14 1978 1:51 pm 92 5 92 92 5 92 92
+
+CACM-2661
+----------------------------------------------------------------
+<hl>languages</hl> simulators 1.52 4.2 ca7449 jb february 1 1978
+1:38 2661 5 2661 2661 5 2661 2661 2661
+
+CACM-3028
+----------------------------------------------------------------
+<hl>compilers</hl> operating systems ferranti manchester mark
+atlas icl 1.2 4.22 4.32 6.21 6.3 ca7812 jb march 281978 5:5 pm
+328
+
+CACM-2699
+----------------------------------------------------------------
+<hl>languages</hl> settheoretic <hl>languages</hl> data
+structure choice 4.12 4.2 4.22 ca75128 jb january 5 1978 3:53 pm
+2699 5 2699 2699
+
+CACM-3148
+----------------------------------------------------------------
+<hl>languages</hl> based primitive notions module message
+transaction key methodology shown independent <hl>languages</hl>
+machines appears programming wide range tasks part ambitious
+

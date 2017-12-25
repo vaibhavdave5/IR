@@ -1,0 +1,811 @@
+CACM-2951
+----------------------------------------------------------------
+<hl>networks</hl> ultimate aim computing <hl>network</hl>
+<hl>resource</hl> sharing human component technical component
+networking fully investigated achieve goal research step
+assisting user ... <hl>network</hl> computing node research
+clearly reveals sufficient system data obtainable diverse arpa
+<hl>network</hl> <hl>systems</hl> studied detail describe
+predict response time <hl>systems</hl> depends measure system
+activity load level cacm july 1977 mamrak response time monitor
+computer <hl>networks</hl> timesharing <hl>systems</hl>
+comparative response ... <hl>resources</hl> <hl>network</hl>
+analytical simulation statistical performance evaluation tools
+employed investigate feasibility dynamic response time monitor
+capable providing comparative response time
+
+CACM-2625
+----------------------------------------------------------------
+<hl>addressing</hl> <hl>addressing</hl> <hl>schemes</hl> making
+segment tables examined inadequacies <hl>schemes</hl> dealing
+shared addresses explained inadequacies traced lack efficient
+absolute address objects ... <hl>addressing</hl> substantially
+superior present <hl>systems</hl> basis protection simplicity
+programming conventions efficient implementation cacm july 1974
+fabry <hl>addressing</hl> capabilities <hl>addressing</hl>
+hardware <hl>operating</hl> <hl>systems</hl> computer utility
+segmentation tagged architecture 4.3 4.32 4.34 6.21 ca7476 jb
+january 17 1978 12:39 pm 1458 4
+
+CACM-3032
+----------------------------------------------------------------
+<hl>network</hl> algorithms accomplishing delivery
+storeandforward packet switching computer <hl>network</hl>
+include transmission separately addressed packets
+multidestination <hl>addressing</hl> hot potato forwarding
+spanning <hl>networks</hl> algorithm practical optimal according
+metrics developed analysis paper implemented existing
+<hl>networks</hl> complexity required known alternatives cacm
+december 1978 dalal
+
+CACM-2541
+----------------------------------------------------------------
+<hl>systems</hl> <hl>addressing</hl> structure centralized
+communication mechanisms enabling construction hierarchical
+subsystems suggested important concept <hl>operating</hl>
+<hl>systems</hl> separation scheduling maintenance functions
+<hl>resource</hl> ... <hl>operating</hl> system machine
+microcode create interactive programming laboratory describes
+synergistic effect freedom move alter features domains design
+system implemented freedom
+
+CACM-2371
+----------------------------------------------------------------
+<hl>resource</hl> sharing computer <hl>network</hl> system
+communication processes timesharing system communication system
+extended processes distributed computer <hl>network</hl>
+hypothetical application system existing
+
+CACM-2500
+----------------------------------------------------------------
+<hl>resources</hl> avoiding deadlocks <hl>resource</hl>
+scheduling allocation expensive regard time space
+multiprogramming timesharing environments involving large
+numbers tasks <hl>resources</hl> conflicting requirements
+<hl>resources</hl> maintained <hl>resource</hl> management
+program linked lists techniques overcome large portion overhead
+program running part large scale general purpose
+<hl>operating</hl> ... <hl>resource</hl> allocation scheduling
+<hl>resource</hl> management multiprogramming timesharing
+multiprocessing deadly embrace 4.3 4.32 ca7352 jb january 23
+1978 4:3 pm 228
+
+CACM-2776
+----------------------------------------------------------------
+<hl>network</hl> north carolina indepth studies conducted nets
+based experiences <hl>operating</hl> <hl>networks</hl> number
+factors identified consideration developing <hl>networks</hl>
+finally recommendations advanced ... <hl>networks</hl> higher
+education socioeconomicpolitical factors study presents results
+nationwide survey computer <hl>networks</hl> higher education
+conducted 197173 major 18 minor <hl>networks</hl>
+<hl>networks</hl> included arpa net california state college
+<hl>network</hl> university iowaiowa state university
+<hl>network</hl> michigan educational research information triad
+triangle universities
+
+CACM-2949
+----------------------------------------------------------------
+<hl>network</hl> correctness proofs computer <hl>networks</hl>
+distributed control <hl>network</hl> topology routing problem
+<hl>networks</hl> distributed <hl>operating</hl> system store
+forward packet switching store ... <hl>network</hl> order nodes
+distributed computer <hl>network</hl> communicate node
+information <hl>networks</hl> topology nodes links crash scheme
+needed update information major constrain
+
+CACM-1685
+----------------------------------------------------------------
+<hl>network</hl> <hl>network</hl> generator <hl>network</hl>
+assembler activity <hl>network</hl> analysis <hl>network</hl>
+calculation <hl>network</hl> program 3.5 3.53 4.11 4.12 4.29
+ca6812 jb february ... <hl>networks</hl> gan system generating
+activity <hl>networks</hl> designed save time preparation
+activity <hl>networks</hl> deal conveniently <hl>network</hl>
+programs defining description programming language
+
+CACM-1752
+----------------------------------------------------------------
+<hl>resource</hl> management medium scale timesharing
+<hl>operating</hl> system task scheduling <hl>resource</hl>
+balancing medium size virtual memory paging machine discussed
+relation combined
+
+CACM-1695
+----------------------------------------------------------------
+<hl>networks</hl> description presented plexus system enables
+user construct neural <hl>network</hl> analyze output data
+produced <hl>network</hl> store retrieve <hl>networks</hl> data
+library ... <hl>systems</hl> modeling <hl>network</hl>
+simulation neural <hl>networks</hl> neurophysiological models
+online simulation simulation 3.12 3.19 3.29 3.65 ca6896 jb
+february 22 1978 ... <hl>networks</hl> built components
+representing individual neurons external stimuli interconnecting
+fibers component detailed nature provision made experimental
+data input <hl>network</hl> convenient
+
+CACM-1611
+----------------------------------------------------------------
+<hl>networks</hl> basic concepts terminology project networking
+developed critical path algorithm incorporated ceir proprietary
+scheduling system ramps <hl>resource</hl> allocation
+multiproject scheduling
+
+CACM-2522
+----------------------------------------------------------------
+<hl>systems</hl> <hl>resource</hl> allocation software
+evaluation <hl>operating</hl> <hl>systems</hl> supervisory
+<hl>systems</hl> 4.31 4.32 ca7346 jb january 24 1978 9:36 2522 5
+2522
+
+CACM-2892
+----------------------------------------------------------------
+<hl>network</hl> similar results derived recently proposed
+<hl>network</hl> protocol compared system cacm january 1976
+kleinrock naylor opderbeck arpanet computer communication
+<hl>networks</hl>
+
+CACM-2194
+----------------------------------------------------------------
+<hl>addressing</hl> interpreted relative location counter full
+16bit <hl>addressing</hl> memory assembling compiling blocks
+instructions mutual references computer simple iterative
+procedure keeping
+
+CACM-2499
+----------------------------------------------------------------
+<hl>resources</hl> closely connected accounting
+<hl>resources</hl> raising problems repeatability minimal
+uncharged overhead relative weighting charges dependent
+<hl>resources</hl> weightings depend allocation algorithms ...
+<hl>resource</hl> allocation accounting thought component
+timesharing operation multiprogramming involve broader questions
+<hl>resource</hl> allocation fairness required meet response
+criterion multiprogrammed system ... <hl>resource</hl> essential
+control <hl>resources</hl> general suggestions allocation
+accounting applied question details provided case monitor
+controls virtualmemory machine cacm june 1973 <hl>resource</hl>
+allocation <hl>resource</hl> accounting 4.32 ca7361 jb january
+23 1978 3:51 pm 1892 4 2499 191 4 2499 285 4
+
+CACM-2858
+----------------------------------------------------------------
+<hl>addressing</hl> algorithm presented assignment instruction
+addresses formats conditions length instruction varies function
+distance instruction target exists optimality criterion implies
+preferential <hl>addressing</hl> constraints achieving smallest
+number long instructions case total code length minimized
+minimizing assigned address point program algorithm suitable
+arbitrary
+
+CACM-2197
+----------------------------------------------------------------
+<hl>networks</hl> suggested means stimulating spread computing
+capabilities institutions higher learning construction regional
+computing <hl>networks</hl> <hl>network</hl> constructed san
+francisco bay area ... <hl>network</hl> regional
+<hl>network</hl> brings benefits judged purveyor raw computer
+power cacm 1971 nielsen computer sharing computer utility
+cooperative <hl>networks</hl> curriculum ... <hl>network</hl>
+past years major impact <hl>network</hl> computer power
+delivered schools awakening computing awareness fostering
+capability development schools expertise assistance central
+
+CACM-1677
+----------------------------------------------------------------
+<hl>systems</hl> simplicity programmed <hl>addressing</hl>
+flexibility data structures efficiency memory utilization
+variability system composition execution means linkage programs
+programs data basis ... <hl>systems</hl> system program data
+representation rice university computer years logical entity
+storage occupies block consecutive memory locations block
+labeled codeword
+
+CACM-2020
+----------------------------------------------------------------
+<hl>systems</hl> led broader concern means <hl>resources</hl>
+<hl>systems</hl> allocated user community means suggested
+frequently pricing procedure paper manner allocate computing
+<hl>resources</hl> <hl>resources</hl> consideration means users
+insulated harmful effects frequent price fluctuations subject
+pricing lot attention recently number misconceptions persist
+purpose operation <hl>systems</hl> discussed order demonstrate
+applicability pricing environments cacm august 197 nielsen
+allocation mechanisms charging computer pricing costing flexible
+pricing pricing
+
+CACM-2920
+----------------------------------------------------------------
+<hl>resources</hl> <hl>operating</hl> system safe situations
+realized endangering smooth running system process specifies
+future needs flowchart needdefined steps global approach
+phenomenon ... <hl>operating</hl> system multiprogramming
+timesharing <hl>resource</hl> allocation deadlock terlock deadly
+embrace deadlock avoidance flowchart 4.3 4.32 ca7716 jb december
+27 1977
+
+CACM-1680
+----------------------------------------------------------------
+<hl>operating</hl> system36 adept cataloged program controls
+standard <hl>operating</hl> system terminating rescheduling
+relinquishing computer <hl>resources</hl> allocated surrendering
+control <hl>operating</hl> system perform ... <hl>systems</hl>
+programming simulation modeling information retrieval
+<hl>operating</hl> <hl>systems</hl> graphics displays manmachine
+interface online computing graphic programming 1.5 3.3 3.5 3.8
+
+CACM-1869
+----------------------------------------------------------------
+<hl>addressing</hl> garbage collection programming languages
+included explicit implicit block structures provide naming
+convenience programmer indirect <hl>addressing</hl> snobol
+naming constraints introduced <hl>addressing</hl> function
+definitions significant saving number calls garbage collector
+garbage collected expense time function calling program
+modifications implemented extension snobol
+
+CACM-1928
+----------------------------------------------------------------
+<hl>networks</hl> technique simulating detailed logic
+<hl>networks</hl> large active digital <hl>systems</hl>
+essential objectives sought improved ease economy model
+generation economy execution <hl>systems</hl> simulated
+combinations synchronous asynchronous logic aspects techniques
+simulation <hl>network</hl> structures digital <hl>networks</hl>
+cacm february 1969 ulrich simulation logical simulation
+
+CACM-1261
+----------------------------------------------------------------
+<hl>networks</hl> simulation digital <hl>networks</hl> digital
+computer engineer effective means analyzing timequantized
+logical behavior digital <hl>network</hl> modeled set
+timedependent timeindependent boolean <hl>network</hl> mode
+simplicity utilizing fortran iv programming system digital
+<hl>network</hl> simulator discussed illustrated simplicity
+derived common modeling technique applicable combinational
+
+CACM-2830
+----------------------------------------------------------------
+<hl>addressing</hl> algorithms corrigendum cacm september 1976
+severance duhne ca7699 jb january 4 1978 8:43 283 5 283 283 5
+283
+
+CACM-2614
+----------------------------------------------------------------
+<hl>network</hl> transformation algorithm a481 cacm august 1974
+crandall critical path <hl>networks</hl> precedence
+<hl>networks</hl> 3.23 5.4 ca7481 jb january 17 1978
+
+CACM-0912
+----------------------------------------------------------------
+<hl>addressing</hl> array yi kdimensions fortran analysis
+variance cacm march 1963 garber ca6339 jb march 14 1978 1:44 pm
+912 5
+
+CACM-2860
+----------------------------------------------------------------
+<hl>addressing</hl> algorithms paper consolidates number popular
+rules thumb suggested design record <hl>addressing</hl>
+algorithms discusses applicability rules large commercial
+databases guidelines
+
+CACM-3133
+----------------------------------------------------------------
+<hl>networks</hl> extended form semantic <hl>network</hl>
+defined regarded syntactic variant clausal form logic virtue
+relationship logic extended semantic <hl>network</hl> provided
+precise <hl>networks</hl> abstract data structure representation
+clauses provide theoremprover potentially indexing scheme
+pathfollowing strategy guiding search proof cacm march 1979
+deliyanni
+
+CACM-2515
+----------------------------------------------------------------
+<hl>network</hl> project precedence relations procedure
+constructing minimal eventnode <hl>network</hl> represent set
+precedence relations parallel activities presented minimal
+eventnode <hl>network</hl> eventnode <hl>networks</hl> minimal
+procedure includes setcovering problem time required grow
+exponentially number activities cacm 1973 corneil gotlieb lee
+<hl>network</hl> project eventnode
+
+CACM-2969
+----------------------------------------------------------------
+<hl>networks</hl> optimization procedure allocation program data
+computer <hl>network</hl> presented algorithm takes account
+dependencies programs occur real heterogeneous computer
+<hl>networks</hl> insights
+
+CACM-0040
+----------------------------------------------------------------
+<hl>addressing</hl> instruction formats increase performance
+binary addresses essential powerful operations practical decimal
+instruction formats hand decimal numbers essential communicating
+man
+
+CACM-0492
+----------------------------------------------------------------
+<hl>addressing</hl> method paper presents <hl>addressing</hl>
+method based calculation address identification record large
+recirculating type advantageous customary probability
+distribution displacement records
+
+CACM-2482
+----------------------------------------------------------------
+<hl>resource</hl> allocation <hl>operating</hl> <hl>systems</hl>
+multiprogramming hierarchical <hl>systems</hl> 4.3 4.32 ca7374
+jb january 23 1978 12:46 pm 1828 4 2482 1854
+
+CACM-2219
+----------------------------------------------------------------
+<hl>operating</hl> system characterized <hl>resource</hl> count
+sumwirij rij number units service received process
+<hl>resource</hl> wi cost unit service class users characterized
+... <hl>operating</hl> system <hl>resource</hl> allocation
+swapping 4.32 ca7122 jb february 8 1978 9:54 2219 4 2219 2344 4
+2219 1938 5
+
+CACM-1723
+----------------------------------------------------------------
+<hl>networks</hl> project <hl>networks</hl> pert cpm algorithm
+constructing project <hl>networks</hl> directly project
+precedence relations algorithm creates dummy activities
+topologically orders arcs
+
+CACM-3040
+----------------------------------------------------------------
+<hl>network</hl> representation presented combinatorial search
+problem finding values set variables subject set constraints
+theory consistency levels <hl>networks</hl> formulated related
+problems
+
+CACM-1877
+----------------------------------------------------------------
+<hl>operating</hl> <hl>systems</hl> selection <hl>resource</hl>
+allocation policy prevent deadlock deadlock situation
+<hl>resources</hl> allocated tasks tasks continue published
+solutions restrictive handle problem <hl>resources</hl>
+determine granting request introduce possibility deadlock proofs
+appendixes show conditions imposed algorithms sufficient prevent
+deadlock algorithms successfully system cacm
+
+CACM-0828
+----------------------------------------------------------------
+<hl>network</hl> calculations general method calculation flows
+pressures fluid flow <hl>networks</hl> presented method
+applicable computer cacm june 1963 cantrell ca63621 jb
+
+CACM-3127
+----------------------------------------------------------------
+<hl>networks</hl> communicating processes providing efficient
+interprocess communication primitives cacm february 1979
+cheriton malcolm melen sager portability real time
+<hl>operating</hl> <hl>systems</hl>
+
+CACM-2712
+----------------------------------------------------------------
+<hl>networks</hl> solution separable closed queueing
+<hl>networks</hl> requires evaluation homogeneous multinomial
+expressions number terms expressions grows combinatorially size
+<hl>network</hl> direct summation
+
+CACM-2991
+----------------------------------------------------------------
+<hl>addressing</hl> direct access direct access method
+randomizing random access <hl>addressing</hl> organizations
+structures scatter storage search method collisions synonyms
+clustering information
+
+CACM-1938
+----------------------------------------------------------------
+<hl>systems</hl> defined article multiaccess <hl>systems</hl>
+permit terminal user utilize essentially full <hl>resources</hl>
+system sharing time terminal users terminal users ability
+
+CACM-3126
+----------------------------------------------------------------
+<hl>addressing</hl> identifier toaddress transformations perfect
+hashing functions perfect hash coding reduction retrieving
+scatter storage searching 3.7 3.74 4.34 ca7925 dh
+
+CACM-3158
+----------------------------------------------------------------
+<hl>network</hl> method implementing secure personal computing
+<hl>network</hl> central facilities proposed method employs
+publickey encryption device hardware keys user responsible
+security
+
+CACM-3083
+----------------------------------------------------------------
+<hl>addressing</hl> chaining owes fact link fields present cell
+hash table permits chaining overflow items table efficiency
+method derived tradeoff analysis
+
+CACM-2849
+----------------------------------------------------------------
+<hl>networks</hl> ethernet branching broadcast communication
+system carrying digital data packets locally distributed
+computing stations packet transport mechanism provided ethernet
+build <hl>networks</hl> loosely coupled multiprocessors
+ethernets shared communication facility ether passive broadcast
+medium central control coordination access ether packet
+broadcasts distributed <hl>operating</hl> ethernet 1 nodes
+kilometer coaxial cable model estimating performance heavy loads
+packet protocol error controlled communication included
+completeness cacm
+
+CACM-2320
+----------------------------------------------------------------
+<hl>resources</hl> competing processes degree desired concepts
+sufficiently safe <hl>operating</hl> <hl>systems</hl> user
+programs cacm july 1972 hansen structured multiprogramming
+programming languages
+
+CACM-0441
+----------------------------------------------------------------
+<hl>networks</hl> topological sorting procedure required
+problems involving analysis <hl>networks</hl> problem pert
+present paper presents general method obtaining topological
+order permits
+
+CACM-1591
+----------------------------------------------------------------
+<hl>resources</hl> <hl>operating</hl> system language processors
+compilers library users programs disposal write assemble debug
+execute terminal program written language processed
+<hl>operating</hl> ... <hl>operating</hl> system large computer
+model transferred control <hl>operating</hl> system execute
+functions teaching recovered control order resume teaching
+teaching system abacii
+
+CACM-1735
+----------------------------------------------------------------
+<hl>schemes</hl> cacm june 1968 sutherland computer scheduling
+auction time allocation <hl>operating</hl> efficiency 2.4 ca6861
+jb february 22 1978 4:4 pm
+
+CACM-2900
+----------------------------------------------------------------
+<hl>networks</hl> distributed data management 4.33 ca771116 jb
+december 27 1977 8:45 29 5 29 29 5 29 29 29
+
+CACM-2358
+----------------------------------------------------------------
+<hl>operating</hl> <hl>systems</hl> grown need share information
+system users increasingly apparent contemporary <hl>systems</hl>
+permit degree sharing sharing accomplished allowing users share
+<hl>addressing</hl> user system programs information independent
+physical storage location information stored segments
+potentially sharable carries independent attributes size access
+privilege <hl>systems</hl> limited shown multics software
+achieves effect large segmented main memory honeywell 645
+segmentation paging hardware cacm 1972 bensoussan clingen
+
+CACM-3092
+----------------------------------------------------------------
+<hl>systems</hl> programming <hl>resources</hl> consumed range
+high 758 percent category area attention literature analyze
+problems area questionnaire developed pretested submitted 12
+
+CACM-2501
+----------------------------------------------------------------
+<hl>addressing</hl> text content provided paper describes
+external appearance wylbur internal structure short description
+major features orvyl general purpose timesharing system
+
+CACM-0071
+----------------------------------------------------------------
+<hl>addressing</hl> cacm august 1959 bagley ca5982 jb march 22
+1978 6:16 pm 71 5 71 71 5 71 71 71
+
+CACM-2128
+----------------------------------------------------------------
+<hl>resource</hl> allocation problems implemented means method
+efficiently handling dynamically changing segmented lists cacm
+january 197 mullery driscoll time sharing <hl>resource</hl>
+
+CACM-2258
+----------------------------------------------------------------
+<hl>addressing</hl> direct access method randomizing random
+access organization search scatter storage information retrieval
+3.7 3.72 3.73 3.74 3.79 4.9 ca721111
+
+CACM-0615
+----------------------------------------------------------------
+<hl>addressing</hl> multidimensional arrays method representing
+function variables consider function assume values selected
+points ndimensional space picture analyst elements ndimensional
+array
+
+CACM-1754
+----------------------------------------------------------------
+<hl>systems</hl> recent computer system designs hardware
+facilities provided easing problems storage allocation method
+characterizing dynamic storage allocation systemsaccording
+functional capabilities
+
+CACM-2274
+----------------------------------------------------------------
+<hl>networks</hl> system generating english sentences form
+semantic nets nodes wordsense meanings paths primarily deep case
+relations grammar system form <hl>network</hl>
+
+CACM-2297
+----------------------------------------------------------------
+<hl>resources</hl> multiprogrammed computer system
+<hl>operating</hl> demand paging model presented number
+pageframes main memory allocated problem program varies time
+memory configuration
+
+CACM-3068
+----------------------------------------------------------------
+<hl>operating</hl> <hl>systems</hl> model suitable basis
+verifying properties <hl>operating</hl> system assure reliable
+enforcement security application approach ucla secure
+<hl>operating</hl> system discussed ... <hl>operating</hl>
+<hl>systems</hl> program verification applied kernel
+architectures forms promising method providing uncircumventably
+secure shared computer <hl>systems</hl> precise definition data
+security
+
+CACM-2379
+----------------------------------------------------------------
+<hl>operating</hl> system simply paper development system
+emphasis principles guided design cacm march 1972 liskov
+<hl>operating</hl> <hl>systems</hl> system design levels
+abstraction ... <hl>operating</hl> system venus
+<hl>operating</hl> system experimental multiprogramming system
+supports concurrent users small computer system produced test
+effect machine architecture complexity
+
+CACM-3072
+----------------------------------------------------------------
+<hl>resource</hl> allocation policies multiprogramming
+multiprocessor computer system model studies integrated
+feedbackdriven scheduling <hl>systems</hl> multiprogrammed
+multiprocessor computer <hl>systems</hl> presented basic control
+<hl>systems</hl> feature simulated continuousflow preemptresume
+scheduling inputoutput activity attention amount memory
+<hl>resource</hl> required effective processing io activity
+buffer space assignment
+
+CACM-2578
+----------------------------------------------------------------
+<hl>systems</hl> spite distributed control cacm november 1974
+dijkstra multiprocessing <hl>networks</hl> selfstabilization
+synchronization mutual exclusion robustness sharing error
+recovery distributed control
+
+CACM-1846
+----------------------------------------------------------------
+<hl>networks</hl> parallel processes simultaneous events occur
+problems simulating discrete event <hl>systems</hl> computer
+<hl>systems</hl> conventional digital computer dealt
+<hl>systems</hl> assumed <hl>network</hl>
+
+CACM-0332
+----------------------------------------------------------------
+<hl>addressing</hl> secondary keys methods entering random
+access basis key briefly surveyed widely chaining method based
+pseudorandom key transformation reviewed detail
+
+CACM-3088
+----------------------------------------------------------------
+<hl>resource</hl> utilization conditions cacm june 1978 teory
+blocking buffering inputoutput overlap performance
+<hl>resource</hl> allocation throughput timesharing 3.72 4.3
+4.41 8.1
+
+CACM-3110
+----------------------------------------------------------------
+<hl>addressing</hl> code generation assemblers compilers
+npcomplete computational complexity 4.11 4.12 5.25 ca7846 dh
+february 26 1979 3:49 pm 2626 4
+
+CACM-1505
+----------------------------------------------------------------
+<hl>resource</hl> allocation paper introduces system
+<hl>resource</hl> management concepts process facility event
+processor attempt made give suggestions policy <hl>resource</hl>
+allocation basic
+
+CACM-2597
+----------------------------------------------------------------
+<hl>operating</hl> system structuring concept paper develops
+brinchhansens concept monitor method structuring
+<hl>operating</hl> system introduces form synchronization
+describes method implementation terms <hl>resource</hl>
+scheduler bounded buffer alarm clock buffer pool disk head
+optimizer version problem readers writers cacm october 1974
+hoare monitors
+
+CACM-2080
+----------------------------------------------------------------
+<hl>operating</hl> <hl>systems</hl> suit diverse requirements
+program scheduling <hl>resource</hl> allocation system nucleus
+simulates environment program execution inputoutput handled
+uniformly parallel cooperating
+
+CACM-0144
+----------------------------------------------------------------
+<hl>systems</hl> transmit single characters groups coded pulses
+simple terminal equipments english words form sparse set
+alphabetic combinations present methods inefficient
+<hl>systems</hl> substituted terminals numeric representations
+entire words common phrases characterbycharacter representations
+requires approximately onethird present transmission time saving
+reflected costs
+
+CACM-0796
+----------------------------------------------------------------
+<hl>addressing</hl> subroutines effective speed machine
+muchhigher basic specification lead expect design concepts time
+sharing incorporated lowcost computers cacm august 1963
+
+CACM-3076
+----------------------------------------------------------------
+<hl>systems</hl> social impacts computing privacy social choice
+computer <hl>networks</hl> <hl>network</hl> reliability security
+social values 2.11 2.12 2.3 3.52 3.53 3.55 ... <hl>systems</hl>
+automate transfer recording debits credits begun implemented
+large scale <hl>systems</hl> promise financial benefits
+institutions potential conveniences customers raise significant
+
+CACM-1750
+----------------------------------------------------------------
+<hl>systems</hl> extended core storage multiprogrammed
+<hl>operating</hl> <hl>systems</hl> multiprocessor
+<hl>operating</hl> <hl>systems</hl> control data corporation 66
+<hl>operating</hl> system ecs 4.3 4.32 ca6856
+
+CACM-1879
+----------------------------------------------------------------
+<hl>addressing</hl> take advantage result evidence presented
+advantages method conventional paging techniques cacm july 1969
+randell storage allocation storage fragmentation paging
+
+CACM-3117
+----------------------------------------------------------------
+<hl>resource</hl> allocation computeraideddispatch
+<hl>systems</hl> machine begins tool decision making strategic
+planning personmachine interaction results technology date mixed
+paper reports case
+
+CACM-2988
+----------------------------------------------------------------
+<hl>systems</hl> nonpaged memories cacm march 1977 brown browne
+chandy memory management system performance queueing
+<hl>network</hl> models teractive computer <hl>systems</hl> 4.32
+
+CACM-2681
+----------------------------------------------------------------
+<hl>operating</hl> conditions lead improved system throughput
+repacking delineated cacm march 1974 balkovich chiu presser wood
+dynamic memory repacking memory compactionstorage
+
+CACM-2798
+----------------------------------------------------------------
+<hl>systems</hl> blockage buffers model interleaved memory
+<hl>systems</hl> presented analysis model monte carlo simulation
+discussed simulations investigate performance system structures
+<hl>schemes</hl>
+
+CACM-2095
+----------------------------------------------------------------
+<hl>systems</hl> especially respect organization paging
+<hl>schemes</hl> cacm march 197 batson ju wood storage
+allocation segmentation segment sizes page sizes paging
+
+CACM-1461
+----------------------------------------------------------------
+<hl>operating</hl> <hl>systems</hl> cacm march 1966 ca66311 jb
+march 3 1978 1:26 pm 1461 5 1461 1461 5 1461 1461 1461
+
+CACM-3177
+----------------------------------------------------------------
+<hl>schemes</hl> cryptographic <hl>systems</hl> function
+securely reliably misfortunes destroy half pieces security
+breaches expose remaining pieces cacm november 1979 shamir
+cryptography
+
+CACM-2372
+----------------------------------------------------------------
+<hl>systems</hl> serves framework proposal general security
+system implementation todays languages <hl>operating</hl>
+<hl>systems</hl> cacm april 1972 conway maxwell morgan security
+privacy <hl>operating</hl> <hl>systems</hl> access management
+data banks management information <hl>systems</hl> 3.5 3.73 4.12
+4.22 4.39 ca7241 jb january 31 1978 1:59
+
+CACM-2437
+----------------------------------------------------------------
+<hl>addressing</hl> randomizing random access scatter storage
+information retrieval hashing analysis randomization performance
+analysis 3.7 3.72 3.73 3.74 3.79 4.9 5.9
+
+CACM-1811
+----------------------------------------------------------------
+<hl>systems</hl> efficiently decrease execution time problems
+parallelprocessor <hl>systems</hl> multiprocessor
+<hl>systems</hl> processors simultaneously execute separate
+tasks single job cooperating decrease solution <hl>network</hl>
+written parallelprocessor computing system execution program
+simulated data gathered simulation runs demonstrate efficient
+solution problem typical large class important
+
+CACM-3053
+----------------------------------------------------------------
+<hl>addressing</hl> benefit recursive entry displacements
+cutoffs unsuccessful searches auxiliary cost functions compared
+conventional methods techniques provide substantially improved
+tables resemble
+
+CACM-1751
+----------------------------------------------------------------
+<hl>resource</hl> allocation formulated problem balancing
+demands equipment cacm 1968 denning general <hl>operating</hl>
+system concepts multiprocessing multiprogramming
+<hl>operating</hl> <hl>systems</hl> program behavior ...
+<hl>resource</hl> allocation modern computer <hl>systems</hl>
+adequate model program behavior paper model working set model
+developed working set pages process defined
+
+CACM-2890
+----------------------------------------------------------------
+<hl>network</hl> cacm january 1976 agnew routing algorithms
+adaptive routing quadratic routing alternate routing
+storeandforward <hl>network</hl> distributed <hl>network</hl>
+computer <hl>network</hl> message ... <hl>network</hl>
+constructed find optimal message routing illustrate equilibrium
+stationary state maintained adaptive routing algorithm models
+show adaptive routing satisfy conditions
+
+CACM-2485
+----------------------------------------------------------------
+<hl>resource</hl> stage hypothesis based study expenditures data
+processing descriptive stage hypothesis presented suggested
+planning organizing controlling activities managing computer
+<hl>resource</hl>
+
+CACM-0008
+----------------------------------------------------------------
+<hl>schemes</hl> cacm october 1958 friedman ca5812 jb march 22
+1978 8:36 pm 8 5 8 8 5 8 8 8
+
+CACM-0003
+----------------------------------------------------------------
+<hl>schemes</hl> cacm december 1958 friedman ca58121 jb march 22
+1978 8:3 pm 3 5 3 3 5 3 3 3
+
+CACM-2621
+----------------------------------------------------------------
+<hl>operating</hl> <hl>systems</hl> time sharing
+<hl>systems</hl> security cryptography 4.35 ca7483 jb january 17
+1978 1:1 2621 5 2621 2621 5 2621
+
+CACM-3059
+----------------------------------------------------------------
+<hl>network</hl> decomposition models formulated terms cpuio
+ioio overlap applied analysis problems percentage performance
+improvement cpuio overlap found greatest <hl>systems</hl>
+approximate
+
+CACM-2109
+----------------------------------------------------------------
+<hl>addressing</hl> address clustering scatter storage searching
+<hl>addressing</hl> hash coding quadratic search random search
+storage layout searching 3.7 3.73 3.74 ca726
+
+CACM-2905
+----------------------------------------------------------------
+<hl>addressing</hl> identifiertoaddress transformations perfect
+hashing functions perfect hash coding reduction scatter storage
+3.7 3.74 4.34 ca771111 jb december 27 1977
+
+CACM-1247
+----------------------------------------------------------------
+<hl>operating</hl> environment dynamicrecursive computer
+programming <hl>systems</hl> presented paper nontechnical
+introduction oedipus computer programming system serve
+<hl>operating</hl> environment dynamic andor recursive
+

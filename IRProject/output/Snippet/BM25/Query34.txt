@@ -1,0 +1,240 @@
+CACM-1524
+----------------------------------------------------------------
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data ...
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... system models <hl>performance</hl>
+<hl>evaluation</hl> models constitute means investigating
+<hl>computer</hl> system <hl>performance</hl> paper examines
+interrelationships models methods evaluating
+<hl>performance</hl> <hl>computer</hl> <hl>systems</hl> ...
+<hl>sharing</hl> <hl>operating</hl> <hl>system</hl>
+<hl>operating</hl> <hl>system</hl> run wide variety
+configurations 19 handle large number online console users
+<hl>time</hl> running line background
+
+CACM-1763
+----------------------------------------------------------------
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data ...
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... system models <hl>performance</hl>
+<hl>evaluation</hl> models constitute means investigating
+<hl>computer</hl> system <hl>performance</hl> paper examines
+interrelationships models methods evaluating
+<hl>performance</hl> <hl>computer</hl> <hl>systems</hl> ...
+<hl>sharing</hl> <hl>operating</hl> <hl>system</hl>
+<hl>operating</hl> <hl>system</hl> run wide variety
+configurations 19 handle large number online console users
+<hl>time</hl> running line background
+
+CACM-1999
+----------------------------------------------------------------
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data ...
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... system models <hl>performance</hl>
+<hl>evaluation</hl> models constitute means investigating
+<hl>computer</hl> system <hl>performance</hl> paper examines
+interrelationships models methods evaluating
+<hl>performance</hl> <hl>computer</hl> <hl>systems</hl> ...
+<hl>sharing</hl> <hl>operating</hl> <hl>system</hl>
+<hl>operating</hl> <hl>system</hl> run wide variety
+configurations 19 handle large number online console users
+<hl>time</hl> running line background
+
+CACM-1893
+----------------------------------------------------------------
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data ...
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... system models <hl>performance</hl>
+<hl>evaluation</hl> models constitute means investigating
+<hl>computer</hl> system <hl>performance</hl> paper examines
+interrelationships models methods evaluating
+<hl>performance</hl> <hl>computer</hl> <hl>systems</hl> ...
+<hl>sharing</hl> <hl>operating</hl> <hl>system</hl>
+<hl>operating</hl> <hl>system</hl> run wide variety
+configurations 19 handle large number online console users
+<hl>time</hl> running line background
+
+CACM-2660
+----------------------------------------------------------------
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data ...
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... system models <hl>performance</hl>
+<hl>evaluation</hl> models constitute means investigating
+<hl>computer</hl> system <hl>performance</hl> paper examines
+interrelationships models methods evaluating
+<hl>performance</hl> <hl>computer</hl> <hl>systems</hl> ...
+<hl>sharing</hl> <hl>operating</hl> <hl>system</hl>
+<hl>operating</hl> <hl>system</hl> run wide variety
+configurations 19 handle large number online console users
+<hl>time</hl> running line background
+
+CACM-1667
+----------------------------------------------------------------
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data ...
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... system models <hl>performance</hl>
+<hl>evaluation</hl> models constitute means investigating
+<hl>computer</hl> system <hl>performance</hl> paper examines
+interrelationships models methods evaluating
+<hl>performance</hl> <hl>computer</hl> <hl>systems</hl> ...
+<hl>sharing</hl> <hl>operating</hl> <hl>system</hl>
+<hl>operating</hl> <hl>system</hl> run wide variety
+configurations 19 handle large number online console users
+<hl>time</hl> running line background
+
+CACM-1620
+----------------------------------------------------------------
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data ...
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... system models <hl>performance</hl>
+<hl>evaluation</hl> models constitute means investigating
+<hl>computer</hl> system <hl>performance</hl> paper examines
+interrelationships models methods evaluating
+<hl>performance</hl> <hl>computer</hl> <hl>systems</hl> ...
+<hl>sharing</hl> <hl>operating</hl> <hl>system</hl>
+<hl>operating</hl> <hl>system</hl> run wide variety
+configurations 19 handle large number online console users
+<hl>time</hl> running line background
+
+CACM-0397
+----------------------------------------------------------------
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data ...
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... system models <hl>performance</hl>
+<hl>evaluation</hl> models constitute means investigating
+<hl>computer</hl> system <hl>performance</hl> paper examines
+interrelationships models methods evaluating
+<hl>performance</hl> <hl>computer</hl> <hl>systems</hl> ...
+<hl>sharing</hl> <hl>operating</hl> <hl>system</hl>
+<hl>operating</hl> <hl>system</hl> run wide variety
+configurations 19 handle large number online console users
+<hl>time</hl> running line background
+
+CACM-1882
+----------------------------------------------------------------
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data ...
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... system models <hl>performance</hl>
+<hl>evaluation</hl> models constitute means investigating
+<hl>computer</hl> system <hl>performance</hl> paper examines
+interrelationships models methods evaluating
+<hl>performance</hl> <hl>computer</hl> <hl>systems</hl> ...
+<hl>sharing</hl> <hl>operating</hl> <hl>system</hl>
+<hl>operating</hl> <hl>system</hl> run wide variety
+configurations 19 handle large number online console users
+<hl>time</hl> running line background
+
+CACM-1949
+----------------------------------------------------------------
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data ...
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... system models <hl>performance</hl>
+<hl>evaluation</hl> models constitute means investigating
+<hl>computer</hl> system <hl>performance</hl> paper examines
+interrelationships models methods evaluating
+<hl>performance</hl> <hl>computer</hl> <hl>systems</hl> ...
+<hl>sharing</hl> <hl>operating</hl> <hl>system</hl>
+<hl>operating</hl> <hl>system</hl> run wide variety
+configurations 19 handle large number online console users
+<hl>time</hl> running line background
+

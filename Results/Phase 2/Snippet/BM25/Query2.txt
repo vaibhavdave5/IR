@@ -1,0 +1,553 @@
+CACM-3078
+----------------------------------------------------------------
+<hl>pooch</hl> computeraided algebra symbol manipulation markov
+process reliability redundant structures online computer system
+3.82 5.5 5.7 8.1 8.3 ca7871 dh
+
+CACM-2434
+----------------------------------------------------------------
+<hl>prieve</hl> working set model paging program behaviorprogram
+modeling 4.3 ca7316 jb january 2 1978 11:34 1892 4 2434 191 4
+
+CACM-2863
+----------------------------------------------------------------
+<hl>prieve</hl> fabry demand paging performance measurement
+multilevel memory systems virtual memory working set page
+replacement algorithms optimal page replacement 4.3
+
+CACM-1014
+----------------------------------------------------------------
+<hl>interested</hl> interactions impossible ignore experimental
+designs problem getting error terms natural look computer handle
+bulk work involved computing interactions program
+
+CACM-0397
+----------------------------------------------------------------
+<hl>articles</hl> programming terms hardware terms equipment
+machine systems abbreviations suitable standard card reference
+information processing cacm february 1961 grems ca6121
+
+CACM-1867
+----------------------------------------------------------------
+<hl>interested</hl> ratio lj expected length jth sequence
+generated technique number memory cells complexvariable theory
+shown lj 2 asymptotically average interval
+
+CACM-1623
+----------------------------------------------------------------
+<hl>interested</hl> problem stated general mathematical sense
+interest areas circuit analysis cacm march 1967 neidleman ca6736
+jb february 28 1978 1:27
+
+CACM-1305
+----------------------------------------------------------------
+<hl>written</hl> fortran cep language object program
+<hl>written</hl> language cep computer paper outline cep
+computer internal structure translator emphasis compilation
+expressions
+
+CACM-0492
+----------------------------------------------------------------
+<hl>interested</hl> mathematics introduction summary sufficient
+cacm august 1962 schay jr spruth ca62836 jb march 17 1978 9:2 pm
+911 5
+
+CACM-0531
+----------------------------------------------------------------
+<hl>interested</hl> maintenance psychiatric case register
+maryland reports hundred psychiatric agencies refer patient
+records linked order provide unduplicated counts individuals
+care
+
+CACM-0597
+----------------------------------------------------------------
+<hl>written</hl> cobol cacm 1962 emery ca6258 jb march 2 1978
+1:47 pm 597 5 597 597 5 597 597 597
+
+CACM-0847
+----------------------------------------------------------------
+<hl>written</hl> csx1 cacm june 1963 wall brown ca6362 jb march
+14 1978 1:27 847 5 847 847 5 847 847
+
+CACM-1625
+----------------------------------------------------------------
+<hl>written</hl> algollike language discussed simplifications
+based form program knowledge obtained processor understanding
+program supposed methods implemented processor called sure
+accepts
+
+CACM-1168
+----------------------------------------------------------------
+<hl>written</hl> cobol cobol language specifically enable system
+operate ibm computers cacm december 1965 fredericks warburtin
+ca65121 jb march 6 1978
+
+CACM-1315
+----------------------------------------------------------------
+<hl>written</hl> format fortran ibm 162 computer program
+maintaining accountability reactorcreated radioisotopes
+<hl>written</hl> forcom programming language minimum amount
+bookkeeping required reactor
+
+CACM-1183
+----------------------------------------------------------------
+<hl>written</hl> fortran ii language made writing long programs
+computer procedure based straightforward format statements
+generating machinewritten programs cacm october 1965
+
+CACM-1591
+----------------------------------------------------------------
+<hl>written</hl> run operating system ibsys ibm 744 graphic
+system teaching system terminated rescheduled student studying
+course presented cathoderay display terminal
+
+CACM-1439
+----------------------------------------------------------------
+<hl>written</hl> sru 117 mechanize major portion process
+techniques developed accomplish mechanization largely empirical
+dependent information actual data points cacm april
+
+CACM-0971
+----------------------------------------------------------------
+<hl>written</hl> purpose execute order predefined priority
+subprograms realtime system paper interesting aspects
+timesharing program outlined cacm november 1964 green ca641112
+
+CACM-1424
+----------------------------------------------------------------
+<hl>written</hl> control data 36 mapping carry circuit analysis
+cacm 1966 shalla ca66513 jb march 3 1978 9:24 1424 5 1424
+
+CACM-1345
+----------------------------------------------------------------
+<hl>written</hl> capable calculating quantities interest tensor
+calculus code christoffel symbols calculated 12 basic orthogonal
+coordinate systems cacm december 1966 waltons
+
+CACM-3189
+----------------------------------------------------------------
+<hl>written</hl> added fortran assembly program compiler expand
+algebraic statements operations addition subtraction
+multiplication division compile multilevel expressions
+floatingpoint arithmetic easily
+
+CACM-3202
+----------------------------------------------------------------
+<hl>written</hl> fortranlike notation stored computer string bcd
+characters blanks removed complicated desired parentheses nested
+restriction long entire expression subsequent form
+
+CACM-1397
+----------------------------------------------------------------
+<hl>interested</hl> programming languages designed manipulation
+algebraic formulas symbol strings applications algorithms
+implementation twentyeight papers presented lively panel
+discussion future directions
+
+CACM-2439
+----------------------------------------------------------------
+<hl>written</hl> standard input output instructions language
+system paper describes multipleterminal facility implemented
+requiring system executive systems compilers interpreters cacm
+october
+
+CACM-1391
+----------------------------------------------------------------
+<hl>written</hl> mad fap ibm 794 manipulate objects modern
+algebra finite groups maps sets maps subsets sets subsets
+constant integers truthvalues
+
+CACM-1403
+----------------------------------------------------------------
+<hl>written</hl> implement procedure important case cacm july
+1966 sigillito ca6679 jb march 2 1978 9:13 pm 143 5 143 143
+
+CACM-1427
+----------------------------------------------------------------
+<hl>written</hl> pdp1 computer auxiliary disk storage cathode
+ray tube display past present research output simulator shown
+flexibility system important structure
+
+CACM-0282
+----------------------------------------------------------------
+<hl>written</hl> future case optimum procedure bypass area
+decisionthe size area bypassedis formula developed determine
+optimum area bypassed procedure cacm september
+
+CACM-1161
+----------------------------------------------------------------
+<hl>written</hl> system required tedious conversion incompatible
+machines came ibm system36 designed conversion problem
+specifically mind conversion aids model 3 141
+
+CACM-0435
+----------------------------------------------------------------
+<hl>interested</hl> method employing decision matrix presented
+handling standard systems programming problemthat providing data
+input routine cacm december 1962 vasilakos ca62124
+
+CACM-1705
+----------------------------------------------------------------
+<hl>written</hl> derived procedure outputs fixed point floating
+point representation rounds properly variants easily
+<hl>written</hl> explicit call procedures decompose integer
+decompose
+
+CACM-2519
+----------------------------------------------------------------
+<hl>written</hl> natural language notational linguistic devices
+exhibition structure inherent information communicating
+sophisticated interactive system controlled computer cacm 1973
+pager complex
+
+CACM-2383
+----------------------------------------------------------------
+<hl>written</hl> simulate aspects human composition samples
+output presented discussed discovered fragments show
+characteristics popular melodies strangely alien sound theorized
+relevant
+
+CACM-0942
+----------------------------------------------------------------
+<hl>written</hl> perform main purpose note describe subroutines
+question general statistical programs topical include general
+remarks cacm january 1963 healy bogert
+
+CACM-1117
+----------------------------------------------------------------
+<hl>written</hl> operate tapes read backwards savings overlap
+method increase number tapes increased cacm march 1964 mcalester
+ca64315 jb march 1
+
+CACM-1926
+----------------------------------------------------------------
+<hl>written</hl> entirely fortran iv cacm march 1969 berns text
+processing indexing printing documentation text editing
+formatting frequency dictionary justification vocabulary
+
+CACM-0616
+----------------------------------------------------------------
+<hl>interested</hl> developing theoretical approach data
+processing interest understanding professional programmers
+systems analysts appreciation businessmananalystmanager authors
+attempted exhaustive discourse report tried
+
+CACM-1348
+----------------------------------------------------------------
+<hl>written</hl> programming language describe syntax control
+statements language purpose metalanguage resultant object deck
+flowchart programs language examples fap snobol flowcharts
+
+CACM-1564
+----------------------------------------------------------------
+<hl>written</hl> modular form required cobol61 cacm july 1967
+callahan chapman ca6779 jb february 28 1978 8:33 1237 4 1564
+1549
+
+CACM-1046
+----------------------------------------------------------------
+<hl>articles</hl> published past years brooker morris joined
+rohl recent paper presented interesting programming system
+developed ferranti atlas computer present paper
+
+CACM-0728
+----------------------------------------------------------------
+<hl>written</hl> computer programs simple system effective
+communication presented shown great promise programmer describes
+program simple format computer prepares flow charts
+
+CACM-1503
+----------------------------------------------------------------
+<hl>written</hl> 74 simscript 74 fortran iv compared comparison
+made terms basic program design decisions storage requirements
+computer time ease making
+
+CACM-2937
+----------------------------------------------------------------
+<hl>written</hl> substantial effect reliability resulting
+programs paper discusses experiment compares programming
+reliability subjects statically typed language typeless language
+analysis number
+
+CACM-2471
+----------------------------------------------------------------
+<hl>written</hl> basic play fourplayer partnership dominoes
+dominoes game incomplete information program principles
+artificial intelligence programs games complete information
+checkers chess
+
+CACM-3127
+----------------------------------------------------------------
+<hl>written</hl> highlevel language system implemented software
+hardware interface user programs application programs thoth
+highly portable thoth encourages structuring programs networks
+
+CACM-1145
+----------------------------------------------------------------
+<hl>written</hl> comit language successfully tested ibm 79 cacm
+january 1964 unger ca6411 jb march 1 1978 5:24 1145 4 1145
+
+CACM-2850
+----------------------------------------------------------------
+<hl>written</hl> simple pli style programming language includes
+standard debugging features ability manage prove things symbolic
+expressions simple program testing manager
+
+CACM-2645
+----------------------------------------------------------------
+<hl>written</hl> language gotoless programming language includes
+features algol 6 language consists interactive commands enabling
+users provide additional information program <hl>written</hl>
+
+CACM-1264
+----------------------------------------------------------------
+<hl>written</hl> small machine minimal peripheral equipment jobs
+batched card handling lost processing time minimum system
+perform users functions assemble sps
+
+CACM-3160
+----------------------------------------------------------------
+<hl>written</hl> acm executive committee cacm september 1979
+feldman sutherland ca7991 db january 14 198 1:5 316 5 316 316 5
+
+CACM-2912
+----------------------------------------------------------------
+<hl>written</hl> process read processes cacm november 1977
+lamport asynchronous multiprocessing multiprocess
+synchronization readerswriters problem shared data 4.32 5.24
+ca77114 jb
+
+CACM-2096
+----------------------------------------------------------------
+<hl>written</hl> lisp play game kalah demonstrated procedure
+significantly superior minimax procedure statistical
+significance important conclusions information statistical
+significance lacking papers
+
+CACM-2456
+----------------------------------------------------------------
+<hl>written</hl> repeat multilevel exit statements sequence
+control shown ifwhile repeat statements singlelevel exit suffice
+shown flowcharts converted wellformed flowchart node
+
+CACM-3005
+----------------------------------------------------------------
+<hl>written</hl> gotoless language machine architecture
+specifically designed structured programs proposed assignment
+call statements account 93 percent executable statements special
+care
+
+CACM-1861
+----------------------------------------------------------------
+<hl>written</hl> conclusions drawn future definitional
+facilities cacm august 1969 arden galler graham mad definitions
+operators macros higher level language 4.12
+
+CACM-1671
+----------------------------------------------------------------
+<hl>written</hl> bbn lisp scientific data system 94 computer
+designed online interactive fashion control user command
+executed cacm november 1968 borrow
+
+CACM-1811
+----------------------------------------------------------------
+<hl>written</hl> parallelprocessor computing system execution
+program simulated data gathered simulation runs demonstrate
+efficient solution problem typical large class important
+problems
+
+CACM-2812
+----------------------------------------------------------------
+<hl>written</hl> ads accurately defined systems analyzed problem
+statement analyzer ads ads problem definition supplemented
+additional information order create complete problem
+
+CACM-1680
+----------------------------------------------------------------
+<hl>written</hl> fortran iv ibm system36 model 4 ibm 225 display
+unit operating system36 adept cataloged program controls
+standard operating system
+
+CACM-2092
+----------------------------------------------------------------
+<hl>written</hl> lisp 1.5 operates q32 timesharing system
+systems data structures semantic organization deductive
+questionanswering formalism relational properties
+complexrelationforming operators questionanswering
+
+CACM-3204
+----------------------------------------------------------------
+<hl>written</hl> timeshared computer q32 computer system
+development corporation santa monica california chosen lisp 1.5
+compiler programming debugging remote teletype console
+
+CACM-2217
+----------------------------------------------------------------
+<hl>written</hl> passing data learning program proving program
+analyzing summarizing results data generally collected learning
+regression analysis experience pp number experiments
+
+CACM-3201
+----------------------------------------------------------------
+<hl>written</hl> partially ibm 794 machine language called
+fortran language fortran programs effort made supply operations
+required celestial mechanics routines entirely
+
+CACM-1523
+----------------------------------------------------------------
+<hl>written</hl> fortran cacm october 1967 harrison schwartz
+ca67111 jb february 27 1978 1:53 pm 1458 4 1523 1523 4 1523
+
+CACM-1939
+----------------------------------------------------------------
+<hl>written</hl> fortran iv ibm 3667 part unified computer
+system transformational grammar partial grammars english cacm
+january 1969 friedman transformational grammar
+
+CACM-2943
+----------------------------------------------------------------
+<hl>written</hl> proofs programs carried proofs easy follow
+straightforward produce statements lucid program simply axioms
+proof proceeds conventional logical reasoning help
+
+CACM-1676
+----------------------------------------------------------------
+<hl>written</hl> high level language minimizes machine
+dependencies isolates language compiler language discussed
+language called lrltran heavily augmented fortran treepass
+compiler
+
+CACM-1486
+----------------------------------------------------------------
+<hl>written</hl> language rearranging items library share common
+parts speculations made mechanical detection common parts
+patterns library items help user solve
+
+CACM-3199
+----------------------------------------------------------------
+<hl>written</hl> slip fortran iv map 794 ii manipulate algebraic
+expressions algems basic algebraic operations additions
+subtractions multiplications division exponentiation capable
+
+CACM-1334
+----------------------------------------------------------------
+<hl>written</hl> generate tables formulas newcomb operators
+planetary theory newcomb operators expressed polynomials
+variables stands simple differential operator arbitrary integer
+polynomials
+
+CACM-1469
+----------------------------------------------------------------
+<hl>written</hl> appearances programs generally physical
+representation choice abstract entities numbers characterstrings
+lists functional relations referred language system biased
+expressions statements
+
+CACM-1498
+----------------------------------------------------------------
+<hl>written</hl> algol 6 technique intelligible analysis
+unsuccessful computation process terms original source program
+cacm december 1967 bayer gries paul wiehle
+
+CACM-2483
+----------------------------------------------------------------
+<hl>written</hl> entirely fortran ibm 3665 coko iii plays
+minimal chess game rate .2 sec cpu time move level close lower
+
+CACM-1542
+----------------------------------------------------------------
+<hl>written</hl> 36 machine language system results terms
+microprogram main storage space required compiler interpreter
+performance obtained role microprogramming stressed opens
+
+CACM-3080
+----------------------------------------------------------------
+<hl>written</hl> high level language correctly translated low
+level language primary system post optimization step code
+generation low level language programs
+
+CACM-1214
+----------------------------------------------------------------
+<hl>written</hl> list processor slip series problems increasing
+difficulty solved routines cacm august 1965 lapidus goldstein
+ca6581 jb march 6 1978
+
+CACM-2002
+----------------------------------------------------------------
+<hl>written</hl> conventional higher languages functions
+positioning locating scaling layout multiple subplots axes
+labels elements plot handled software system user specifies
+
+CACM-1741
+----------------------------------------------------------------
+<hl>written</hl> rotating drum memory independent read heads
+continuously display picture generated swept horizontal lines
+standard tv monitor serves display device
+
+CACM-2939
+----------------------------------------------------------------
+<hl>written</hl> implement abstractions clu library permits
+incremental program development complete type checking performed
+compile time discussed cacm august 1977 liskov
+
+CACM-2233
+----------------------------------------------------------------
+<hl>written</hl> final code primitive process advantage relative
+security source document known moment cypher decoded graders
+work completed help univac 118
+
+CACM-1854
+----------------------------------------------------------------
+<hl>written</hl> pl36 presented cacm september 1969 wirth
+multiprogramming parallelism interrupt inputoutput computer
+organization handling pl36 4.21 4.22 4.32 4.41 6.21
+
+CACM-0321
+----------------------------------------------------------------
+<hl>written</hl> later lies problem algol general restrictions
+lifted lot technical details crop hard learn correctly paper
+obscure features language considered
+
+CACM-2356
+----------------------------------------------------------------
+<hl>written</hl> interact piece additional information secondary
+goal include specification information meet goal technique
+illustrated means variety examples tutorial system cacm
+
+CACM-1464
+----------------------------------------------------------------
+<hl>written</hl> map fortran algol called algol main program
+addition procedures coded map included algol program assembly
+loading time exceeds compilation
+
+CACM-1468
+----------------------------------------------------------------
+<hl>written</hl> ibm 794 system rewritten cdc 36 system paper
+descriptive models considering specific application bubble
+chamber pictures description generated phase
+
+CACM-1215
+----------------------------------------------------------------
+<hl>written</hl> alcor group ibm 79 known significant techniques
+compiler writing organizational details compiler timing
+estimates indication compiler requirements cacm august
+
+CACM-2317
+----------------------------------------------------------------
+<hl>written</hl> remain foreseeable future great deal
+theoretical interest algol 68 extensible languages practical
+impact problemoriented languages important language development
+area
+
+CACM-3077
+----------------------------------------------------------------
+<hl>written</hl> combining forms chosen programming power power
+algebraic laws general theorems algebra give detailed behavior
+termination conditions large classes programs
+
+CACM-1549
+----------------------------------------------------------------
+<hl>written</hl> list language insuring degree machine
+independence finally application algorithm number list
+structures appearing literature cacm august 1967 schorr waite
+

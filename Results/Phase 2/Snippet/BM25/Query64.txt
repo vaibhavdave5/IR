@@ -1,0 +1,639 @@
+CACM-2651
+----------------------------------------------------------------
+<hl>el1</hl> constructing general purpose programming language
+key issue providing sufficient set data types operations manner
+permits natural problemoriented notation efficient
+
+CACM-1307
+----------------------------------------------------------------
+<hl>remember</hl> vocabulary language vocabulary displayed
+onmenus means computerdrive scope selects vocabulary elements
+required pointing light pen small unordered set rewriting
+
+CACM-1717
+----------------------------------------------------------------
+<hl>dont</hl> care terms efficient manner cacm july 1968
+dietmeyer duley prime implicants extremal switching function
+minimization cubical complexes ternary encoding
+
+CACM-0527
+----------------------------------------------------------------
+<hl>list</hl> structure onetoone correspondence established
+recursive definition concept description <hl>list</hl> structure
+definition description <hl>list</hl> structure concept built
+elementary <hl>list</hl> structures <hl>list</hl> structures
+obtained compared description <hl>list</hl> structure discussed
+author previous publication cacm august 1962 banerji ca6281 jb
+march 17 1978
+
+CACM-0397
+----------------------------------------------------------------
+<hl>articles</hl> programming terms hardware terms equipment
+machine systems abbreviations suitable standard card reference
+information processing cacm february 1961 grems ca6121
+
+CACM-2513
+----------------------------------------------------------------
+<hl>list</hl> original <hl>list</hl> structure destroyed moved
+cacm 1973 reingold <hl>list</hl> moving <hl>list</hl> copying
+<hl>list</hl> traversal garbage collection lisp 4.19 4.49
+
+CACM-1853
+----------------------------------------------------------------
+<hl>list</hl> structure <hl>list</hl> representation
+<hl>list</hl> compact <hl>list</hl> garbage collection
+relocation storage reclamation macro primitive <hl>list</hl>
+operations plex processing plex pointer ... <hl>list</hl>
+representation definition garbage collection system
+implementation compact lists stored sequentially memory chained
+pointers convenient swym system permits <hl>list</hl> chained
+
+CACM-1588
+----------------------------------------------------------------
+<hl>list</hl> processing concepts <hl>list</hl> processing
+introduced pli language facilities write pli procedures operate
+simple complex data <hl>list</hl> organizations listprocessing
+languages
+
+CACM-2772
+----------------------------------------------------------------
+<hl>list</hl> classteacher timetable problems principal
+components procedures solution classteacher timetable problems
+maintenance opportunity <hl>list</hl> opportunity <hl>list</hl>
+maintenance methods based conditions
+
+CACM-1424
+----------------------------------------------------------------
+<hl>list</hl> processing mapping black diagrams digital circuits
+<hl>list</hl> structures <hl>list</hl> processing program
+written control data 36 mapping carry circuit analysis
+
+CACM-2998
+----------------------------------------------------------------
+<hl>list</hl> structure measurement lisp <hl>list</hl> structure
+regularity poin ter compression zipfs law <hl>list</hl>
+linearization poin ter entropy 3.69 4.29 4.34 ... <hl>list</hl>
+structure lisp static measurements <hl>list</hl> structure large
+lisp programs reported analyzed paper measurements reveal
+substantial regularity predictability poin ters
+
+CACM-2882
+----------------------------------------------------------------
+<hl>list</hl> threaded <hl>list</hl> cellular <hl>list</hl>
+organizations hybrid combinations systems effectiveness
+methodology demonstrated model study effect database
+organizations data retrieval systems
+
+CACM-2137
+----------------------------------------------------------------
+<hl>list</hl> effectively minimizes number pages moment cacm
+december 1971 rochfeld lisp <hl>list</hl> processing paging
+virtual memory garbage collection core fragmentation ...
+<hl>list</hl> representation local sequential lists created
+compilation block level sequential created dynamically garbage
+collection algorithm introduced make lists compact partial
+
+CACM-2857
+----------------------------------------------------------------
+<hl>list</hl> structure pair pointers adjacent nodes reference
+requires additional space yield efficient algorithms instance
+circular link ends <hl>list</hl> redundant <hl>list</hl>
+<hl>list</hl> traversal easier link null edge references allow
+threading nonrecursive lists replace header cells enhance famous
+exclusiveortrick doublelink lists cacm
+
+CACM-1957
+----------------------------------------------------------------
+<hl>list</hl> set generator construct evaluating set expressions
+<hl>list</hl> set generator defined algorithms <hl>list</hl> set
+generator construct added <hl>list</hl> processing system
+
+CACM-0367
+----------------------------------------------------------------
+<hl>list</hl> lines numeric order simple technique create high
+speed <hl>list</hl> topological order cacm april 1961 lasser
+ca6141 jb march 17
+
+CACM-2767
+----------------------------------------------------------------
+<hl>list</hl> algorithm simulation time flow mechanisms event
+<hl>list</hl> algorithm simulation executive event scheduling
+routine discrete system simulation sorting 3.74 4.22 ...
+<hl>list</hl> algorithms algorithms considered schedule events
+general purpose discrete simulation system algorithms based
+endorder tree structure event notices indexed linear
+
+CACM-1255
+----------------------------------------------------------------
+<hl>list</hl> processing application eeg analysis set
+subroutines discussed designed aid programming computations
+indexed lists numbers machine language symbolic assembly system
+
+CACM-2262
+----------------------------------------------------------------
+<hl>list</hl> processing typically growing demand space program
+execution paper examines practical implications growth virtual
+memory computer system proposes garbage collection
+
+CACM-2051
+----------------------------------------------------------------
+<hl>list</hl> processing techniques sort count pair words
+assigned relative function total frequency data correspondence
+found pair words output <hl>list</hl> correspondence
+
+CACM-2665
+----------------------------------------------------------------
+<hl>list</hl> structures bounded workspace algorithms presented
+<hl>list</hl> structure copying bounded workspace primarily
+theoretical interest shows cell tag bits task performed
+
+CACM-1035
+----------------------------------------------------------------
+<hl>list</hl> expression quantities occur modes makes address
+greater number inputoutput equipment removes restrictions
+complexity <hl>list</hl> quantities transmitted magnetic core
+memory
+
+CACM-3112
+----------------------------------------------------------------
+<hl>list</hl> processing real time serial computer realtime
+<hl>list</hl> processing system time required elementary
+<hl>list</hl> operations cons car cdr rplaca replacd
+<hl>list</hl> processing systems lack property allocating
+<hl>list</hl> cell heap garbage collection process requires time
+proportional heap size finish realtime <hl>list</hl>
+<hl>list</hl> representation arrays sizes program stack hash
+linking simple extensions system reference counting found
+inferior applications cacm april 1978 baker
+
+CACM-1264
+----------------------------------------------------------------
+<hl>list</hl> produce condensed uncondensed object decks execute
+users program <hl>list</hl> card input program <hl>list</hl>
+punched output provide storage dump execute
+
+CACM-2838
+----------------------------------------------------------------
+<hl>list</hl> processor long times garbage collection requires
+performing garbage collection processor parallel <hl>list</hl>
+processing operations single processor timeshared algorithms
+recovering <hl>list</hl> structures manner presented analyzed
+determine sufficient conditions <hl>list</hl> processor needs
+wait collector techniques shown require processing power regular
+garbage
+
+CACM-1878
+----------------------------------------------------------------
+<hl>list</hl> structures slip consequence referencecountbased
+spacerecovery system employed slip reentrant <hl>list</hl>
+structures recovered explicitly erased lisplike
+garbagecollection schemes free impediment <hl>list</hl> slip
+amended mark lists programmer wishes assume responsibility
+modification lisplike garbage collector recovers abandoned
+reentrant <hl>list</hl> structures appended slip
+
+CACM-1972
+----------------------------------------------------------------
+<hl>list</hl> compacting algorithm simple nonrecursive
+<hl>list</hl> structure compacting scheme garbage collector
+suitable compact lisplike <hl>list</hl> structures presented
+algorithm avoids need
+
+CACM-0482
+----------------------------------------------------------------
+<hl>list</hl> processor philco 2 computer cacm september 1962
+feldman ca6291 jb march 17 1978 7:31 pm 482 5 482 482
+
+CACM-0572
+----------------------------------------------------------------
+<hl>list</hl> algorithm 1 cacm june 1962 kiviat ca62612 jb march
+17 1978 9:26 pm 572 5 572 572 5 572
+
+CACM-0573
+----------------------------------------------------------------
+<hl>list</hl> algorithm 11 cacm june 1962 kiviat ca62613 jb
+march 17 1978 9:27 pm 573 5 573 573 5 573
+
+CACM-2725
+----------------------------------------------------------------
+<hl>list</hl> algorithms corrigendum cacm august 1975 vaucher
+duval ca7581 jb january 6 1978 3:43 pm 2725 5 2725 2725 5
+
+CACM-3106
+----------------------------------------------------------------
+<hl>list</hl> structures algorithm presented copying arbitrarily
+linked <hl>list</hl> structure block contiguous storage
+locations destroying original <hl>list</hl> fixed number program
+variables
+
+CACM-2766
+----------------------------------------------------------------
+<hl>list</hl> structures linear time bounded workspace bounded
+workspace copying algorithm arbitrary <hl>list</hl> structures
+algorithm operates linear time require tag bits
+
+CACM-2570
+----------------------------------------------------------------
+<hl>list</hl> schedules parallel processing systems problem
+scheduling processors minimize execution time program consists
+set partially ordered tasks studied cases task
+
+CACM-0143
+----------------------------------------------------------------
+<hl>list</hl> computer systems programs ibm 65 datatron 25
+univac ss8 cacm october 196 romberg ca615 jb march 2 1978 8:21
+
+CACM-3164
+----------------------------------------------------------------
+<hl>list</hl> artificial gradient experiments suggest large
+considerably faster asymptotically onr number nodes expected
+number nodes reachable paths node cacm september
+
+CACM-1389
+----------------------------------------------------------------
+<hl>list</hl> language l6 pronounced lsix programming language
+<hl>list</hl> structure manipulations facilities underlie
+<hl>list</hl> processors ipl lisp comit ad snobol permits
+
+CACM-2855
+----------------------------------------------------------------
+<hl>list</hl> structures storage program variables required hold
+original <hl>list</hl> copy original <hl>list</hl> destroyed
+moved mark bits pointers copy distinguishable pointers
+
+CACM-1830
+----------------------------------------------------------------
+<hl>list</hl> 3.7 4.41 ca69116 jb february 15 1978 1:27 pm 183 5
+183 183 5 183 183 183
+
+CACM-1890
+----------------------------------------------------------------
+<hl>list</hl> computer memory movement cars transfer cars block
+expressed proper formula formula based supposition speed cars
+block determined density cars
+
+CACM-3061
+----------------------------------------------------------------
+<hl>list</hl> processing sequential searching dynamic reordering
+simulation 3.74 8.1 ca78911 dh january 29 1979 6:3 pm 361 4 361
+2885
+
+CACM-2162
+----------------------------------------------------------------
+<hl>list</hl> processing language l6 number ideas incorporated
+processor cacm september 1971 isoda goto bit table dynamic
+storage allocation buddy system
+
+CACM-2723
+----------------------------------------------------------------
+<hl>list</hl> cells processor operating primary aim allow
+<hl>list</hl> processor run unimpeded processor reclaims
+<hl>list</hl> storage complex cases involving <hl>list</hl>
+processors ... <hl>list</hl> operations performing garbage
+collection continuously examined capabilities processor defined
+interprocessor communication interlocks complete procedures
+garbage collection standard <hl>list</hl> processing
+
+CACM-0944
+----------------------------------------------------------------
+<hl>list</hl> properties construct numeric alphabetic
+alphanumeric trees trees information storage retrieval
+properties applicable problems involving large quantities data
+problems quantity
+
+CACM-1549
+----------------------------------------------------------------
+<hl>list</hl> structures method returning registers free
+<hl>list</hl> essential part <hl>list</hl> processing system
+paper past solutions recovery problem reviewed compared
+algorithm
+
+CACM-1671
+----------------------------------------------------------------
+<hl>list</hl> processor embedded lisp made system construction
+easy providing sophisticated capabilities linguist system
+written bbn lisp scientific data system 94
+
+CACM-1050
+----------------------------------------------------------------
+<hl>list</hl> structures <hl>list</hl> structured parts
+breakdown proposed discussed implementation facts presented
+operating program techniques cacm june 1964 brian ca64617 jb
+
+CACM-2361
+----------------------------------------------------------------
+<hl>list</hl> compacting garbage collection 4.19 4.49 ca72412 jb
+january 31 1978 12:32 pm 2156 4 2361 2361 4 2361 2513
+
+CACM-1051
+----------------------------------------------------------------
+<hl>list</hl> items <hl>list</hl> concept originally proposed
+newell simon shaw single computer words elements <hl>list</hl>
+report describes consecutive words element results
+
+CACM-1847
+----------------------------------------------------------------
+<hl>list</hl> await examination stage process take top element
+pushdown <hl>list</hl> examine inspect edges vz graph examined
+tree fundamental cycle added
+
+CACM-2314
+----------------------------------------------------------------
+<hl>list</hl> processing <hl>list</hl> processing systems
+designed facilitate production large programs manipulate large
+complex symbolic data stores paper presents overview number
+
+CACM-0793
+----------------------------------------------------------------
+<hl>list</hl> structures cacm august 1963 baecker ca6385 jb
+march 13 1978 8:43 pm 15 4 793 1549 4 793 2723
+
+CACM-2168
+----------------------------------------------------------------
+<hl>list</hl> tracing systems allowing multiple celltypes
+listprocessing systems allowed single size configuration
+<hl>list</hl> cell paper system arbitrarily sizes configurations
+<hl>list</hl>
+
+CACM-2648
+----------------------------------------------------------------
+<hl>list</hl> structures storing multiprecise integers package
+coded ibms basic assembly language makes heavy macro language
+conditional assembly optimally coded trial
+
+CACM-1288
+----------------------------------------------------------------
+<hl>list</hl> processor presented paper highlights clp teaching
+language employed cornell university constructed serve means
+introducing simulation listprocessing concepts advantages clp
+
+CACM-2421
+----------------------------------------------------------------
+<hl>list</hl> data structure process lines drawing strips groups
+scan lines small primary memory buffer area accumulate binary
+image group scan
+
+CACM-2885
+----------------------------------------------------------------
+<hl>list</hl> approximately optimal order respect average time
+required search element assuming element searched fixed
+probability independent previous searches performed move
+
+CACM-3074
+----------------------------------------------------------------
+<hl>list</hl> emanating pointedto location passing pointing
+locations terminating pointedto locations transplanted contents
+cacm august 1978 morris garbage collection compaction compact
+
+CACM-1590
+----------------------------------------------------------------
+<hl>list</hl> points waveform candidates pitch markers markers
+validated error detection correction procedurebout 95 percent
+pitch periods recognized correctly 1 2
+
+CACM-3095
+----------------------------------------------------------------
+<hl>list</hl> range conditions considered process visiting
+minimal number nodes retrieve data satisfying range conditions
+called selective traversal presented paper algorithm
+
+CACM-1457
+----------------------------------------------------------------
+<hl>list</hl> structures main data manipulations performed
+automatic information systems briefly reviewed variety data
+representations describe structured information examined
+characteristics processing
+
+CACM-1046
+----------------------------------------------------------------
+<hl>articles</hl> published past years brooker morris joined
+rohl recent paper presented interesting programming system
+developed ferranti atlas computer present paper
+
+CACM-1162
+----------------------------------------------------------------
+<hl>list</hl> form arbitrary stream bits bit stream treated
+machine language program character stream user desire
+metalanguage map assembly language assembly
+
+CACM-0731
+----------------------------------------------------------------
+<hl>list</hl> processor <hl>list</hl> processing system
+<hl>list</hl> cell forward backward link datum system intended
+imbeding higher level languages capable calling functions
+
+CACM-2184
+----------------------------------------------------------------
+<hl>list</hl> found context viewed abstraction based terms
+equivalent expression muname listvalue listexpression cacm july
+1971 fraser operating system programming language
+
+CACM-1710
+----------------------------------------------------------------
+<hl>list</hl> structure set languages modeling graphics 4.2 4.22
+ca6884 jb february 22 1978 11:2 171 5 171 171 5 171
+
+CACM-2605
+----------------------------------------------------------------
+<hl>list</hl> structure error control 4.49 5.1 5.11 5.12 5.14
+5.19 ca7493 jb january 17 1978 9:1 1258 4 265 1292
+
+CACM-1247
+----------------------------------------------------------------
+<hl>list</hl> automatic recursive programming rudimentary
+compiler subroutine communication bookkeeping debugging aids
+cacm june 1965 brown ca6568 jb march 6 1978
+
+CACM-2323
+----------------------------------------------------------------
+<hl>list</hl> number natural developments field algebraic
+manipulation prospects general theory functions defined ordinary
+differential equations discussed claim made recent developments
+
+CACM-2484
+----------------------------------------------------------------
+<hl>list</hl> tree ring problem information organization storage
+reduced defining relations formulating algorithms set
+constraints results presented valuable designers design concepts
+
+CACM-1216
+----------------------------------------------------------------
+<hl>list</hl> processing subroutines recursion routine developed
+computes prints symbolic derivative absolutely continuous
+elementary function variables made listprocessing languages
+chain rule
+
+CACM-2944
+----------------------------------------------------------------
+<hl>list</hl> processing optimization reference counts storage
+management 3.8 4.12 4.2 4.34 ca7778 jb december 28 1977 8:38
+2855 4 2944
+
+CACM-2954
+----------------------------------------------------------------
+<hl>list</hl> structures bounded workspace linear time unlike
+previous similar algorithm makes assumptions storage allocation
+system operations likely highlevel language distinctive
+
+CACM-1456
+----------------------------------------------------------------
+<hl>list</hl> processing languages ideally suited producing
+complex associative structures inadequate vehicles language
+processing large scaleat east auxiliary memory continuous
+extension
+
+CACM-2065
+----------------------------------------------------------------
+<hl>list</hl> processing picture processing 3.12 3.34 3.63 4.39
+6.29 ca751 jb february 13 1978 2:27 pm 265 5 265 265
+
+CACM-3032
+----------------------------------------------------------------
+<hl>list</hl> algorithms add reverse path forwarding broadcast
+routing method exploits routing procedures data structures
+packet switching reverse path forwarding practical
+
+CACM-2879
+----------------------------------------------------------------
+<hl>list</hl> processing cognition heuristics problem solving 1
+2.1 3.3 3.6 5.7 ca7631 jb january 5 1978 8:39 124 4 2879
+
+CACM-1708
+----------------------------------------------------------------
+<hl>list</hl> processor implementation lisp paging secondary
+storage utilization efficiency paged computation 3.7 4.1 4.2
+ca6886 jb february 22 1978 1:45
+
+CACM-2339
+----------------------------------------------------------------
+<hl>list</hl> historical response patterns word strings concept
+translation word coding 3.3 3.42 3.63 3.66 3.71 3.74 3.75 5.6
+ca7266 jb
+
+CACM-3008
+----------------------------------------------------------------
+<hl>list</hl> structures examined embeddings graphs model loss
+proximity involved storage schemes elementary proof arrays
+stored linear lists bounded loss proximity
+
+CACM-2299
+----------------------------------------------------------------
+<hl>list</hl> processing macro language paging parameter
+substitution recursion state table storage allocation string
+manipulation text editing virtual memory 3.73 3.74
+
+CACM-2156
+----------------------------------------------------------------
+<hl>list</hl> processing storage allocation 4.19 4.49 ca7198 jb
+february 2 1978 1:36 pm 178 4 2156 1781 4 2156 1826
+
+CACM-2902
+----------------------------------------------------------------
+<hl>list</hl> performed surprisingly algorithms employing
+poweroftwo block sizes favorable processing requirements
+generally unfavorable memory usage algorithms employing lifo
+fifo memory
+
+CACM-1485
+----------------------------------------------------------------
+<hl>list</hl> processing languages illustrate forms advantages
+disadvantages factors influencing choice form component language
+discussed paper concludes suggestion programming languages
+evolve
+
+CACM-1935
+----------------------------------------------------------------
+<hl>list</hl> search method binary nature offers potential
+information retrieval systems cacm february 1969 arora dent
+binary pattern examination graph theory
+
+CACM-2936
+----------------------------------------------------------------
+<hl>list</hl> algorithms paper event scheduling algorithm
+presented improves aspects previously published algorithms
+algorithms performance insensitive skewed distributions
+worstcase complexity number
+
+CACM-2177
+----------------------------------------------------------------
+<hl>list</hl> edges ii packed adjacency matrix denotes word
+length machine employed storage machine words required graph
+nodes edges increases essentially
+
+CACM-2927
+----------------------------------------------------------------
+<hl>list</hl> preprocessing balancing 5.25 5.39 ca7797 jb
+december 27 1977 12:55 pm 1841 4 2927 1841 4 2927 1967 4
+
+CACM-1024
+----------------------------------------------------------------
+<hl>list</hl> cacm august 1964 waite ca6486 jb march 9 1978 7:2
+pm 124 4 124 124 4 124 151 4
+
+CACM-1470
+----------------------------------------------------------------
+<hl>list</hl> processing languages illustrate forms elementary
+program statements take form commands requirements implicit
+specifications command imperative statement commands action
+requirement
+
+CACM-2538
+----------------------------------------------------------------
+<hl>list</hl> included cacm march 1973 austing engel computer
+science education course proposals small colleges programming
+course social implications course computer
+
+CACM-3030
+----------------------------------------------------------------
+<hl>list</hl> processing problem discuss number extensions
+programming languages ease hierarchical program design proof
+cacm december 1978 spitzen levitt robinson program
+
+CACM-2594
+----------------------------------------------------------------
+<hl>list</hl> structures enable user create complicated
+structures sufficient protection deletions result unreachable
+data elements guarantee additions performed properly remedy
+situation
+
+CACM-1184
+----------------------------------------------------------------
+<hl>list</hl> language makes blocks computer registers sizes
+smaller blocks obtained successively splitting larger half
+larger blocks reconstituted parts simultaneously free
+
+CACM-1214
+----------------------------------------------------------------
+<hl>list</hl> processor slip series problems increasing
+difficulty solved routines cacm august 1965 lapidus goldstein
+ca6581 jb march 6 1978 8:1
+
+CACM-2359
+----------------------------------------------------------------
+<hl>list</hl> techniques conditions long overflow chains
+significant overflow lack tight disk space constraints record
+keys small compared total record size
+
+CACM-2719
+----------------------------------------------------------------
+<hl>list</hl> processing lisp algebraic manipulation programming
+languages analysis algorithms 3.69 4.22 5.24 5.25 ca7595 jb
+january 6 1978 2:11 pm
+
+CACM-0106
+----------------------------------------------------------------
+<hl>list</hl> longer needed desired erase parts overlap lists
+lisp mccarthy employs elegant inefficient solution problem
+present paper describes general method
+
+CACM-1393
+----------------------------------------------------------------
+<hl>list</hl> processing system compared lisp slip systems pm
+subroutines arithmetic large integers constituting independently
+subsystem pm compared alpak system respects
+
+CACM-0627
+----------------------------------------------------------------
+<hl>list</hl> structures cacm march 1962 weizenbaum ca6235 jb
+march 2 1978 3:7 pm 249 4 627 254 4 627 272
+

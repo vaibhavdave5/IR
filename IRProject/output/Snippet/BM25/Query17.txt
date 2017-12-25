@@ -1,0 +1,230 @@
+CACM-1658
+----------------------------------------------------------------
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... <hl>sharing</hl> <hl>operating</hl>
+<hl>system</hl> <hl>operating</hl> <hl>system</hl> run wide
+variety configurations 19 handle large number online console
+users <hl>time</hl> running line background ... computer
+<hl>systems</hl> extended core storage multiprogrammed
+<hl>operating</hl> <hl>systems</hl> multiprocessor
+<hl>operating</hl> <hl>systems</hl> control data corporation 66
+<hl>operating</hl> system ecs 4.3 4.32 ... teaching
+<hl>system</hl> model incorporated <hl>operating</hl>
+<hl>system</hl> large computer model transferred control
+<hl>operating</hl> <hl>system</hl> execute functions teaching
+recovered control order resume
+
+CACM-2253
+----------------------------------------------------------------
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... <hl>sharing</hl> <hl>operating</hl>
+<hl>system</hl> <hl>operating</hl> <hl>system</hl> run wide
+variety configurations 19 handle large number online console
+users <hl>time</hl> running line background ... computer
+<hl>systems</hl> extended core storage multiprogrammed
+<hl>operating</hl> <hl>systems</hl> multiprocessor
+<hl>operating</hl> <hl>systems</hl> control data corporation 66
+<hl>operating</hl> system ecs 4.3 4.32 ... teaching
+<hl>system</hl> model incorporated <hl>operating</hl>
+<hl>system</hl> large computer model transferred control
+<hl>operating</hl> <hl>system</hl> execute functions teaching
+recovered control order resume
+
+CACM-2897
+----------------------------------------------------------------
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... <hl>sharing</hl> <hl>operating</hl>
+<hl>system</hl> <hl>operating</hl> <hl>system</hl> run wide
+variety configurations 19 handle large number online console
+users <hl>time</hl> running line background ... computer
+<hl>systems</hl> extended core storage multiprogrammed
+<hl>operating</hl> <hl>systems</hl> multiprocessor
+<hl>operating</hl> <hl>systems</hl> control data corporation 66
+<hl>operating</hl> system ecs 4.3 4.32 ... teaching
+<hl>system</hl> model incorporated <hl>operating</hl>
+<hl>system</hl> large computer model transferred control
+<hl>operating</hl> <hl>system</hl> execute functions teaching
+recovered control order resume
+
+CACM-1795
+----------------------------------------------------------------
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... <hl>sharing</hl> <hl>operating</hl>
+<hl>system</hl> <hl>operating</hl> <hl>system</hl> run wide
+variety configurations 19 handle large number online console
+users <hl>time</hl> running line background ... computer
+<hl>systems</hl> extended core storage multiprogrammed
+<hl>operating</hl> <hl>systems</hl> multiprocessor
+<hl>operating</hl> <hl>systems</hl> control data corporation 66
+<hl>operating</hl> system ecs 4.3 4.32 ... teaching
+<hl>system</hl> model incorporated <hl>operating</hl>
+<hl>system</hl> large computer model transferred control
+<hl>operating</hl> <hl>system</hl> execute functions teaching
+recovered control order resume
+
+CACM-2491
+----------------------------------------------------------------
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... <hl>sharing</hl> <hl>operating</hl>
+<hl>system</hl> <hl>operating</hl> <hl>system</hl> run wide
+variety configurations 19 handle large number online console
+users <hl>time</hl> running line background ... computer
+<hl>systems</hl> extended core storage multiprogrammed
+<hl>operating</hl> <hl>systems</hl> multiprocessor
+<hl>operating</hl> <hl>systems</hl> control data corporation 66
+<hl>operating</hl> system ecs 4.3 4.32 ... teaching
+<hl>system</hl> model incorporated <hl>operating</hl>
+<hl>system</hl> large computer model transferred control
+<hl>operating</hl> <hl>system</hl> execute functions teaching
+recovered control order resume
+
+CACM-2495
+----------------------------------------------------------------
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... <hl>sharing</hl> <hl>operating</hl>
+<hl>system</hl> <hl>operating</hl> <hl>system</hl> run wide
+variety configurations 19 handle large number online console
+users <hl>time</hl> running line background ... computer
+<hl>systems</hl> extended core storage multiprogrammed
+<hl>operating</hl> <hl>systems</hl> multiprocessor
+<hl>operating</hl> <hl>systems</hl> control data corporation 66
+<hl>operating</hl> system ecs 4.3 4.32 ... teaching
+<hl>system</hl> model incorporated <hl>operating</hl>
+<hl>system</hl> large computer model transferred control
+<hl>operating</hl> <hl>system</hl> execute functions teaching
+recovered control order resume
+
+CACM-2748
+----------------------------------------------------------------
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... <hl>sharing</hl> <hl>operating</hl>
+<hl>system</hl> <hl>operating</hl> <hl>system</hl> run wide
+variety configurations 19 handle large number online console
+users <hl>time</hl> running line background ... computer
+<hl>systems</hl> extended core storage multiprogrammed
+<hl>operating</hl> <hl>systems</hl> multiprocessor
+<hl>operating</hl> <hl>systems</hl> control data corporation 66
+<hl>operating</hl> system ecs 4.3 4.32 ... teaching
+<hl>system</hl> model incorporated <hl>operating</hl>
+<hl>system</hl> large computer model transferred control
+<hl>operating</hl> <hl>system</hl> execute functions teaching
+recovered control order resume
+
+CACM-2904
+----------------------------------------------------------------
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... <hl>sharing</hl> <hl>operating</hl>
+<hl>system</hl> <hl>operating</hl> <hl>system</hl> run wide
+variety configurations 19 handle large number online console
+users <hl>time</hl> running line background ... computer
+<hl>systems</hl> extended core storage multiprogrammed
+<hl>operating</hl> <hl>systems</hl> multiprocessor
+<hl>operating</hl> <hl>systems</hl> control data corporation 66
+<hl>operating</hl> system ecs 4.3 4.32 ... teaching
+<hl>system</hl> model incorporated <hl>operating</hl>
+<hl>system</hl> large computer model transferred control
+<hl>operating</hl> <hl>system</hl> execute functions teaching
+recovered control order resume
+
+CACM-1134
+----------------------------------------------------------------
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... <hl>sharing</hl> <hl>operating</hl>
+<hl>system</hl> <hl>operating</hl> <hl>system</hl> run wide
+variety configurations 19 handle large number online console
+users <hl>time</hl> running line background ... computer
+<hl>systems</hl> extended core storage multiprogrammed
+<hl>operating</hl> <hl>systems</hl> multiprocessor
+<hl>operating</hl> <hl>systems</hl> control data corporation 66
+<hl>operating</hl> system ecs 4.3 4.32 ... teaching
+<hl>system</hl> model incorporated <hl>operating</hl>
+<hl>system</hl> large computer model transferred control
+<hl>operating</hl> <hl>system</hl> execute functions teaching
+recovered control order resume
+
+CACM-1947
+----------------------------------------------------------------
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... <hl>sharing</hl> <hl>operating</hl>
+<hl>system</hl> <hl>operating</hl> <hl>system</hl> run wide
+variety configurations 19 handle large number online console
+users <hl>time</hl> running line background ... computer
+<hl>systems</hl> extended core storage multiprogrammed
+<hl>operating</hl> <hl>systems</hl> multiprocessor
+<hl>operating</hl> <hl>systems</hl> control data corporation 66
+<hl>operating</hl> system ecs 4.3 4.32 ... teaching
+<hl>system</hl> model incorporated <hl>operating</hl>
+<hl>system</hl> large computer model transferred control
+<hl>operating</hl> <hl>system</hl> execute functions teaching
+recovered control order resume
+

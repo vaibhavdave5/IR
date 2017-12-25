@@ -1,0 +1,701 @@
+CACM-2200
+----------------------------------------------------------------
+<hl>theorem</hl> expressed form permits serve basis devising
+division operations produce quotient <hl>remainder</hl>
+complement form <hl>algorithms</hl> division yielding complement
+results derived
+
+CACM-2644
+----------------------------------------------------------------
+<hl>number</hl> strategies inference rules presently
+consideration automated <hl>theorem</hl> proving need developing
+language <hl>especially</hl> oriented automated <hl>theorem</hl>
+proving paper discusses features
+
+CACM-2229
+----------------------------------------------------------------
+<hl>series</hl> fourier <hl>series</hl> cacm january 1971 brucke
+<hl>series</hl> expansion <hl>series</hl> inversion root
+extraction binomial <hl>theorem</hl> newton iterations chebyshev
+<hl>series</hl> poisson ... <hl>series</hl> methods generation
+fractional negative powers formal <hl>series</hl> poisson
+<hl>series</hl> chebyshev <hl>series</hl> shown elementary
+operations addition subtraction multiplication rational positive
+<hl>series</hl> constructed basically approaches binomial
+<hl>theorem</hl> iteration methods methods relationship pointed
+wellknown classical formulas obtained cases shown convergence
+properties formulas
+
+CACM-3021
+----------------------------------------------------------------
+<hl>number</hl> raising publicly power taking <hl>remainder</hl>
+result divided publicly product large secret <hl>prime</hl>
+numbers decryption similaronly secret power 1 security
+
+CACM-1933
+----------------------------------------------------------------
+<hl>number</hl> generator algorithm coding technique presented
+quick evaluation lehmer pseudorandom <hl>number</hl> generator
+modulo 231 1 <hl>prime</hl> mersenne <hl>number</hl> produces
+231 <hl>prime</hl> factorization 261 2 primitive root 261 1
+largest <hl>prime</hl> mersenne <hl>number</hl> construction
+pseudorandom <hl>number</hl> generator increased cycle length
+cacm
+
+CACM-2927
+----------------------------------------------------------------
+<hl>prime</hl> <hl>number</hl> generation <hl>number</hl> theory
+linked list preprocessing balancing 5.25 5.39 ca7797 jb december
+27 1977 12:55 pm 1841 4 ... <hl>prime</hl> numbers integer
+computational complexity finding primes modified sieve
+eratosthenes doubly linked lists yields algorithm arithmetic
+complexity upper bound shown
+
+CACM-3131
+----------------------------------------------------------------
+<hl>number</hl> system focus <hl>number</hl> system supporting
+computational <hl>algorithms</hl> <hl>especially</hl>
+microcomputer control signal processing applications focus
+wideranging character floatingpoint numbers uniformity
+
+CACM-1874
+----------------------------------------------------------------
+<hl>number</hl> random <hl>number</hl> generator multiplicative
+congruential generator power residue twos complement arithmetic
+ibm 36 arithmetic 3.15 5.5 6.32 ca6976 jb ... <hl>series</hl>
+sequences residues considered relationships established shown
+sequence positive negative residues produced simply economically
+conventional approach period loss desirable statistical
+
+CACM-1725
+----------------------------------------------------------------
+<hl>number</hl> memory accesses retrieve order <hl>number</hl>
+distinct words memory lewin proves readout method distinct
+binary words 2m 1 memory accesses <hl>number</hl> memory
+accesses method unlike methods independent word length paper
+simple proof <hl>theorem</hl> derived elementary aspects
+structure sets binary numbers ... <hl>theorem</hl> associative
+memories efficient method ordered retrieval binary words
+associative memory lewin based special readout circuits digit
+values present individual ... <hl>theorem</hl> column digit
+values digit variety column sensing arrangement digit readout
+digit variety readout memory access memory access frequency
+ordered
+
+CACM-2089
+----------------------------------------------------------------
+<hl>prime</hl> <hl>number</hl> algorithm 31 $a1 cacm march 197
+rapp scott <hl>prime</hl> numbers generator 5 ca739 jb february
+13 1978 3:45
+
+CACM-1840
+----------------------------------------------------------------
+<hl>prime</hl> <hl>number</hl> generator algorithm 357 cacm
+october 1969 singleton <hl>prime</hl> numbers factoring
+<hl>number</hl> theory 3.15 5.3 ca6916 jb february 15
+
+CACM-1420
+----------------------------------------------------------------
+<hl>number</hl> generator multiplicative congruential
+pseudorandom <hl>number</hl> generator discussed modulus largest
+<hl>prime</hl> accumulator capacity multiplier primitive root
+<hl>prime</hl> generator passes usual
+
+CACM-0942
+----------------------------------------------------------------
+<hl>series</hl> analysis authors recently concerned timeseries
+study constituted fairly typical piece applied statistical
+research <hl>involving</hl> extensive computations moderately
+large quantity
+
+CACM-1697
+----------------------------------------------------------------
+<hl>chinese</hl> characters included cacm september 1968 hayashl
+duncan kuno <hl>chinese</hl> characters inputoutput orthography
+rand tablet pdp1 automatic typesetting manmachine communication
+
+CACM-2462
+----------------------------------------------------------------
+<hl>prime</hl> <hl>number</hl> generator algorithm r357 cacm
+august 1973 demorgan ca73812 jb january 23 1978 1:31 2462 5 2462
+2462 5
+
+CACM-1539
+----------------------------------------------------------------
+<hl>prime</hl> <hl>number</hl> generator 1 <hl>prime</hl>
+<hl>number</hl> generator 2 algorithm 35 algorithm 31 algorithm
+311 cacm september 1967 chartres ca6797c jb
+
+CACM-2402
+----------------------------------------------------------------
+<hl>algorithms</hl> adapted environment pictorial pattern
+recognition techniques make <hl>number</hl> approaches xray
+structure determination based molecular model building chemical
+information frame <hl>algorithms</hl> hindered fact
+crosscorrelation model correct structure computed fundamental
+incompleteness measured data compute upper bound
+crosscorrelation simple demonstrates information basis
+
+CACM-1841
+----------------------------------------------------------------
+<hl>prime</hl> <hl>number</hl> generator treesort principle
+algorithm 356 cacm october 1969 singleton <hl>prime</hl> numbers
+<hl>number</hl> theory sorting 3.15 5.3 5.31 ca6915
+
+CACM-2289
+----------------------------------------------------------------
+<hl>algorithms</hl> exploit possibilities parallelism
+<hl>especially</hl> problems solutions inherently serial
+parallelized <hl>algorithms</hl> presented solution spanning
+tree distance path problems direct applications
+<hl>algorithms</hl> exhibit computation time cases grows rate
+exceeding log2 <hl>number</hl> nodes graph straightforward
+cellular implementations wellknown serial <hl>algorithms</hl>
+problems require
+
+CACM-0804
+----------------------------------------------------------------
+<hl>series</hl> <hl>algorithms</hl> 134 cacm july 1963 thacher
+jr ca6372 jb march 14 1978 8:19 84 5 84 84 5 84
+
+CACM-3037
+----------------------------------------------------------------
+<hl>prime</hl> factorization integers 2 time proportional cacm
+december 1978 gries misra primes <hl>algorithms</hl> data
+structures 5.25 5.24 5.29 ca78122 dh
+
+CACM-1257
+----------------------------------------------------------------
+<hl>number</hl> lines point previously assembled program core
+<hl>remainder</hl> program relocated appropriately cacm 1965
+evans darley ca65514 jb march 7 1978
+
+CACM-2794
+----------------------------------------------------------------
+<hl>theorem</hl> prover determines set clauses interpreted
+statespacer mode problemreduction mode presented analogous
+concepts problemreduction <hl>theorem</hl> proving terminology
+refer noted relationship <hl>theorem</hl> proving language
+recognition 3.64 ca7525 jb january 12 1978 8:27 2794 5 2794 2794
+5 2794 2794 2794
+
+CACM-1385
+----------------------------------------------------------------
+<hl>chinese</hl> news items periodical literature 1965 period
+computer technology china reviewed headings initial planning
+organization educational aspects computer technology automation
+
+CACM-1538
+----------------------------------------------------------------
+<hl>prime</hl> <hl>number</hl> generator 2 algorithm 311 cacm
+september 1967 chartres ca6797b jb march 23 1978 2:34 pm 1538 5
+1538
+
+CACM-2276
+----------------------------------------------------------------
+<hl>algorithms</hl> <hl>number</hl> procedures convert taylor
+<hl>series</hl> expansions directly sampling steps approach
+sampling continuous distribution exponential distribution
+definite recommendation made case
+
+CACM-2606
+----------------------------------------------------------------
+<hl>series</hl> expansions method compared graggbulirshstoer
+taylor <hl>series</hl> method taylor <hl>series</hl> method
+method shown superior speed accuracy method shown superior
+solution ... <hl>algorithms</hl> algorithm stepbystep procedure
+solving initial problem ordinary differential equations designed
+approximate poles small integer order solutions differential
+equations continued
+
+CACM-2206
+----------------------------------------------------------------
+<hl>prime</hl> <hl>number</hl> linear equations gaussian
+elimination matrix inversion determinant adjoint matrix
+illcondition 3.15 5.14 ca7136 jb february 3 1978 4:23
+
+CACM-2507
+----------------------------------------------------------------
+<hl>prime</hl> <hl>number</hl> linear equations gaussian
+elimination matrix inversion determinant adjoint matrix
+illcondition 3.5 5.14 ca73513 jb january 23 1978 4:34
+
+CACM-2031
+----------------------------------------------------------------
+<hl>number</hl> arithmetic operations <hl>number</hl> storage
+locations linear <hl>theorem</hl> lame bound <hl>number</hl>
+iterations euclidean algorithm integers extended case integers
+algorithm construct
+
+CACM-1537
+----------------------------------------------------------------
+<hl>prime</hl> <hl>number</hl> generator 1 algorithm 31 cacm
+september 1967 chartres ca6797a jb february 27 1978 3:12 pm 1537
+5 1537
+
+CACM-1967
+----------------------------------------------------------------
+<hl>number</hl> theory <hl>prime</hl> numbers complex numbers
+5.39 ca71112 jb february 9 1978 4:28 pm 1841 4 1967 1967 4 1967
+
+CACM-1691
+----------------------------------------------------------------
+<hl>number</hl> generators ibm 36 hutchinson states
+<hl>prime</hl> modulo multiplicative congruential pseudorandom
+generator attributed lehmer passed usual statistical tests
+random <hl>number</hl>
+
+CACM-2167
+----------------------------------------------------------------
+<hl>algorithms</hl> <hl>numbertheoretic</hl> conjectures rely
+results nonexistence <hl>algorithms</hl> classes expressions
+included cacm august 1971 moses algebraic manipulation algebraic
+simplification canonical simplification
+
+CACM-2555
+----------------------------------------------------------------
+<hl>involving</hl> variableprecision operations sumei error
+bounds denotes operations precision ei denotes error operations
+ith argument paper presents efficient variableprecision
+exponential
+
+CACM-0063
+----------------------------------------------------------------
+<hl>chinese</hl> ancients analyzes applicability binary
+trinities octal diagrams modern electronicdigitalcomputer design
+logic cacm september 1959 li ca5996 jb march 22
+
+CACM-2767
+----------------------------------------------------------------
+<hl>algorithms</hl> <hl>algorithms</hl> considered schedule
+events general purpose discrete simulation system
+<hl>algorithms</hl> based endorder tree structure event notices
+indexed linear list
+
+CACM-0116
+----------------------------------------------------------------
+<hl>chinese</hl> adder survey literature history mathematics
+instruments calculation uncovered reference device purpose
+communication enlist help members bringing light known
+concerning
+
+CACM-1717
+----------------------------------------------------------------
+<hl>prime</hl> implicants ternary encoding decimal arithmetic
+decimal arithmetic ternary encoding cubes topological
+considerations algorithm obtain extremals <hl>prime</hl>
+implicants boolean functions
+
+CACM-1679
+----------------------------------------------------------------
+<hl>series</hl> procedure presented calculating complex discrete
+fourier transform realvalued time <hl>series</hl> procedure
+<hl>number</hl> points <hl>series</hl> integral power algorithm
+preserves order <hl>series</hl> real discussed hardware software
+implementations algorithm perform log2 complex multiply add
+operations require real storage locations analyzing npoint
+record
+
+CACM-1171
+----------------------------------------------------------------
+<hl>number</hl> iterations <hl>algorithms</hl> <hl>number</hl>
+constraints <hl>number</hl> variables ratio cacm november 1965
+mueller cooper ca65111 jb march 6 1978 4:5 pm
+
+CACM-0944
+----------------------------------------------------------------
+<hl>involving</hl> large quantities data problems quantity word
+length distribution stored information known priori rapidly
+processing purpose paper examine storage search
+
+CACM-2490
+----------------------------------------------------------------
+<hl>algorithms</hl> graph manipulation algorithm a447 efficient
+<hl>algorithms</hl> presented partitioning graph connected
+components biconnected components simple paths algorithm
+partitioning graph simple <hl>number</hl> vertices
+<hl>number</hl> edges algorithm requires time space proportional
+max ve executed random access computer cacm june 1973 hopcroft
+tarjan
+
+CACM-2447
+----------------------------------------------------------------
+<hl>remainder</hl> formulas 5.13 5.16 ca7398 jb january 23 1978
+8:52 2447 5 2447 2447 5 2447 2447 2447
+
+CACM-2114
+----------------------------------------------------------------
+<hl>algorithms</hl> retrieve records generalized structure
+presented cacm february 197 hsiao attributevalue pair index
+keyword record record address kpointer klist directory
+
+CACM-2657
+----------------------------------------------------------------
+<hl>algorithms</hl> <hl>theorem</hl> proving consequence finding
+primitive resolutions 3.6 3.64 4.2 4.42 5.21 5.22 5.24 ca74413
+jb january 18 1978 9:32
+
+CACM-2283
+----------------------------------------------------------------
+<hl>algorithms</hl> rectangular hexagonal triangular arrays
+report thinning <hl>algorithms</hl> developed rectangular
+hexagonal triangular arrays approach development algorithm
+pictorial results produced <hl>algorithms</hl>
+<hl>algorithms</hl> compared found algorithm operating
+triangular array sensitive image irregularities noise yield
+thinned image reduced <hl>number</hl> points concluded algorithm
+operating
+
+CACM-2544
+----------------------------------------------------------------
+<hl>theorem</hl> convergence newton iterates analytic function
+variable extended include computational errors complex interval
+arithmetic numerical examples polynomials real complex roots
+
+CACM-2605
+----------------------------------------------------------------
+<hl>number</hl> standard numerical analysis problems accuracy
+limit 2 correct decimal places computed <hl>number</hl> bounded
+interval multiple precision midpoint arithmetic operations
+
+CACM-2232
+----------------------------------------------------------------
+<hl>algorithms</hl> feature extraction obtained focus
+theoretical subject matter results consist settheoretic
+definition widthatangle <hl>theorem</hl> relating pattern
+boundary radius vector descriptions
+
+CACM-1924
+----------------------------------------------------------------
+<hl>algorithms</hl> lead enormous savings <hl>number</hl> page
+faults occurring small part total matrix main memory time
+examination addition multiplication inversion
+<hl>algorithms</hl> <hl>number</hl> pagepulls required matrix
+manipulation <hl>algorithms</hl> studied function
+<hl>number</hl> pages main memory algorithm cacm march 1969
+mckellar coffman jr matrix
+
+CACM-2146
+----------------------------------------------------------------
+<hl>algorithms</hl> polyphase sorting procedure examinedhe
+optimum algorithm based minimizing total <hl>number</hl> unit
+strings read displayed logic algorithm complicated dispersion
+<hl>algorithms</hl> <hl>algorithms</hl> discussed horizontal
+approximately onefourth onehalf percent reading writing
+<hl>algorithms</hl> today additional onefourth percent
+improvement achieved utilizing modified optimum algorithm
+
+CACM-2306
+----------------------------------------------------------------
+<hl>algorithms</hl> early origins mathematics discussed
+emphasizing aspects greatest interest standpoint computer
+science <hl>number</hl> babylonian tablets translated english
+quoted cacm july
+
+CACM-2561
+----------------------------------------------------------------
+<hl>algorithms</hl> implemented model fact retrieval system
+formal query language propertylist data structure program
+experiments procedures test data bases altered deleting
+
+CACM-1094
+----------------------------------------------------------------
+<hl>prime</hl> twins algorithm 223 cacm april 1964 shimrat
+ca64414 jb march 1 1978 1:13 194 5 194 194 5 194
+
+CACM-3079
+----------------------------------------------------------------
+<hl>theorem</hl> proving deduction program verification equality
+3.64 3.66 5.21 ca7879 dh february 7 1979 3:41 pm 379 5 379 379
+
+CACM-2694
+----------------------------------------------------------------
+<hl>series</hl> coefficients algorithm a473 cacm january 1974
+piessens legendre <hl>series</hl> chebyshev <hl>series</hl> 5.13
+ca7415 jb january 18 1978 2:21 pm
+
+CACM-2410
+----------------------------------------------------------------
+<hl>series</hl> combined recurrence scheme clenshaw summing
+finite <hl>series</hl> terms satisfy threeterm recurrence
+formula cacm november 1973 salzer orthogonal expansions
+<hl>series</hl>
+
+CACM-2770
+----------------------------------------------------------------
+<hl>prime</hl> <hl>number</hl> previous work quadratic hash
+methods limited mainly case table size <hl>prime</hl>
+<hl>number</hl> results derived composite numbers shown
+composite
+
+CACM-1780
+----------------------------------------------------------------
+<hl>series</hl> sine <hl>series</hl> function approximation
+curve fitting trigonometric <hl>series</hl> 5.13 ca6822 jb
+february 23 1978 1:34 pm 178 5 178
+
+CACM-1099
+----------------------------------------------------------------
+<hl>especially</hl> suited programming work intense training
+constant experience locating objects unseen environment superbly
+trained memory blind brings work programming skills
+
+CACM-3166
+----------------------------------------------------------------
+<hl>algorithms</hl> numerical computation standard deviation
+unweighted sampled data analyzed <hl>algorithms</hl> wellknown
+statistical computational literature <hl>algorithms</hl>
+specifically intended automatic computation discussion
+<hl>algorithms</hl> analyzed conditions accurate conclude
+<hl>algorithms</hl> provide accurate answers problems
+<hl>algorithms</hl> substantially accurate difficult problems
+cacm september 1979 chan lewis
+
+CACM-2806
+----------------------------------------------------------------
+<hl>theorem</hl> merits alternatives normbound condition numbers
+linear systems known eigen systems cacm january 1975 birkhoff
+matrices eigenvalues norms condition numbers
+
+CACM-1710
+----------------------------------------------------------------
+<hl>number</hl> data items arbitrary <hl>number</hl>
+relationships data items represented special picture language
+proved drawing asp structures paper asp structures built
+
+CACM-2267
+----------------------------------------------------------------
+<hl>algorithms</hl> reveal properties floatingpoint arithmetic
+<hl>algorithms</hl> presented form fortran subroutines
+subroutine computes radix <hl>number</hl> digits floatingpoint
+numbers rounding chopping machine
+
+CACM-2355
+----------------------------------------------------------------
+<hl>especially</hl> high accuracy obtained integrand values
+received requires computation cosine transformation arithmetic
+cost prohibitive paper parts companion paper ii computing
+
+CACM-3026
+----------------------------------------------------------------
+<hl>series</hl> tory analysis projection 11 <hl>series</hl>
+systems sperry univacs largescale main frame computer systems
+beginning 117 1962 11 <hl>series</hl> progressed <hl>series</hl>
+hardware architecture based 36bit word complement structure
+obtains operand storage highspeed register operands highspeed
+registers 11 operating system designed
+
+CACM-2138
+----------------------------------------------------------------
+<hl>especially</hl> suitable writing production software systems
+specific machine pdp1: compilers operating systems
+<hl>prime</hl> design goals design ability produce highly
+efficient
+
+CACM-3027
+----------------------------------------------------------------
+<hl>number</hl> features conducive production efficient compiled
+code highlevel language source programs design processor traced
+initial ideas associatively addressed store final
+
+CACM-3141
+----------------------------------------------------------------
+<hl>number</hl> processes known priori decentralized algorithm
+technique selective message extinction order achieve average
+<hl>number</hl> message passes order log cacm 1979
+
+CACM-2067
+----------------------------------------------------------------
+<hl>prime</hl> implicants minimal forms minimization
+incompletely functions 6.1 ca7417 jb february 13 1978 2:32 pm
+267 5 267 267 5
+
+CACM-2210
+----------------------------------------------------------------
+<hl>theorem</hl> induced specifications proved desired program
+extracted proof technique applied transform recursively defined
+functions iterative programs frequently major gain inefficiency
+
+CACM-1995
+----------------------------------------------------------------
+<hl>series</hl> summation arbitrary precision $c6 algorithm 393
+cacm september 197 abdali function evaluation <hl>series</hl>
+summation approximation 5.12 5.13 ca791 jb
+
+CACM-2332
+----------------------------------------------------------------
+<hl>series</hl> summation arbitrary precision algorithm r393
+cacm june 1972 sale function evaluation <hl>series</hl>
+summation approximation 5.12 5.13 ca72613 jb january
+
+CACM-2963
+----------------------------------------------------------------
+<hl>algorithms</hl> finding longest common subsequence sequences
+length bestcase running time algorithm problem presented running
+time nlog total <hl>number</hl> ordered pairs
+
+CACM-3055
+----------------------------------------------------------------
+<hl>algorithms</hl> dutch national flag problem solutions dutch
+national flag problem dijkstra meyer dijkstra starts simple
+program arrives improved program refinement
+
+CACM-2936
+----------------------------------------------------------------
+<hl>algorithms</hl> <hl>algorithms</hl> performance insensitive
+skewed distributions worstcase complexity <hl>number</hl> events
+set tests conducted estimate average complexity showed nearly
+independent cacm
+
+CACM-1497
+----------------------------------------------------------------
+<hl>remainder</hl> suitably rounded singleprecision divisor
+segmented division denoted 2 1 precision basic division found
+normalization requirement narrowed smaller range divisors
+
+CACM-2424
+----------------------------------------------------------------
+<hl>prime</hl> system designed constructed university california
+berkeley <hl>prime</hl> experimental timesharing properties
+continuous availability data privacy cost effectiveness
+technique dynamic verification
+
+CACM-1862
+----------------------------------------------------------------
+<hl>number</hl> computers small capacity larger ibm 364
+exception computing science academic programs rare situation
+means attributable responsible computing developments strive
+
+CACM-2948
+----------------------------------------------------------------
+<hl>number</hl> small remote computers terminals attached
+connecting medium speed telephone lines service large
+<hl>number</hl> terminals types system design presented
+<hl>algorithms</hl>
+
+CACM-1295
+----------------------------------------------------------------
+<hl>remainder</hl> 36bit cells links unidirectional forward te
+calculation expected completion time activitybackward tl
+calculation time latest allowable completion activity
+calculations
+
+CACM-2208
+----------------------------------------------------------------
+<hl>number</hl> entries filed firstlevel storehis expression
+measure effectively firstlevel store means examples storage
+utilization studied function hashing algorithm <hl>number</hl>
+storage ... <hl>number</hl> storage areas entry filed hierarchy
+hashing algorithm attempt place entry areas area full entry
+slower secondlevel store areas firstlevel
+
+CACM-1110
+----------------------------------------------------------------
+<hl>series</hl> method numerical solution class parabolic
+partial differential equations fourier <hl>series</hl> method
+applied class parabolic partial differential equations reduces
+problem
+
+CACM-1495
+----------------------------------------------------------------
+<hl>series</hl> reversion algorithm developed expressing
+solution equation fy gx power <hl>series</hl> power seriesand
+root known yx algorithm illustrated equation yy
+
+CACM-2825
+----------------------------------------------------------------
+<hl>series</hl> statistical computer programs cacm october 1976
+frane analysis variance cluster analysis contingency tables data
+analysis discriminant analysis factor analysis
+
+CACM-0974
+----------------------------------------------------------------
+<hl>series</hl> patient heart cycles examined valid comparison
+heart beats made technique presented automatic analysis long
+<hl>series</hl> heart cycles digital computer
+
+CACM-2764
+----------------------------------------------------------------
+<hl>theorem</hl> proving approaches understanding problem cacm
+1975 wilks artificial intelligence computational linguistics
+template paraplate stereotype machine translation understanding
+natural language
+
+CACM-3164
+----------------------------------------------------------------
+<hl>algorithms</hl> presented simple path matrix representation
+list artificial gradient experiments suggest large considerably
+faster asymptotically onr <hl>number</hl> nodes expected
+<hl>number</hl>
+
+CACM-3018
+----------------------------------------------------------------
+<hl>number</hl> complete subgraphs relationship edgecliquecover
+problem graph coloring problem established <hl>algorithms</hl>
+problems constructed algorithm consequences relationship keyword
+conflict problem edgecliquecover
+
+CACM-3107
+----------------------------------------------------------------
+<hl>especially</hl> difficult combinations parameter values cacm
+april 1978 cheng beta variates random numbers simulation 5.5 8.1
+ca7849 dh february 26
+
+CACM-0693
+----------------------------------------------------------------
+<hl>involving</hl> unimodal functions variables technique proven
+optimal sense onedimensional fibonaccian search valuable kinds
+calculations cacm october 1963 krolak cooper ca63132
+
+CACM-1609
+----------------------------------------------------------------
+<hl>number</hl> examination periods satisfies constraint student
+required take examinations simultaneously found steps course
+examinations scheduled period grouped ways minimum
+<hl>number</hl>
+
+CACM-2521
+----------------------------------------------------------------
+<hl>series</hl> algorithm a446 cacm april 1973 broucke chebyshev
+<hl>series</hl> differentiation integration curve
+fittingapproximations negative powers 5.12 5.13 5.16 ca7347 jb
+
+CACM-1635
+----------------------------------------------------------------
+<hl>involving</hl> points choice parameters bound principal part
+truncation error term minimum fourthorder method minimum
+thirdorder method cacm february 1967 byrne
+
+CACM-1433
+----------------------------------------------------------------
+<hl>algorithms</hl> paper meant support effort attempted find
+characteristics pivot column found <hl>number</hl> repetitions
+transfer data tape core memory considered simplification
+
+CACM-2325
+----------------------------------------------------------------
+<hl>algorithms</hl> components numerical mathematics discussed
+foundations finite precision <hl>number</hl> systems
+computational complexity synthesis analysis <hl>algorithms</hl>
+analysis error programs program libraries
+
+CACM-1957
+----------------------------------------------------------------
+<hl>algorithms</hl> list set generator construct added list
+processing system system handles sets efficiently generates set
+results expression <hl>involving</hl> sets set
+
+CACM-2924
+----------------------------------------------------------------
+<hl>algorithms</hl> enable teractive modification bspline
+representation sectional curves stages process spatial
+information graphically displayed user complex surfaces created
+combination <hl>number</hl>
+
+CACM-1159
+----------------------------------------------------------------
+<hl>especially</hl> compilers computer methods examined
+bootstrap technique singled detailed discussion emphasis
+economics considerations determine applicability bootstrapping
+specific case discussed attempt
+

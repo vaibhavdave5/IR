@@ -1,0 +1,708 @@
+CACM-2921
+----------------------------------------------------------------
+<hl>regular</hl> <hl>expressions</hl> converted fsms rrp
+grammars describe syntax programming <hl>languages</hl>
+concisely understandably cf grammars troduced class parsers rrp
+lrm parsers <hl>regular</hl> <hl>expressions</hl> syntax
+diagramslrk grammars parser construction parsing programming
+<hl>languages</hl> language generation formal definition
+compilers translators scanners 4.2 5.21 5.23
+
+CACM-2650
+----------------------------------------------------------------
+<hl>regular</hl> <hl>languages</hl> <hl>regular</hl>
+<hl>events</hl> finite state automata compiler error recovery
+spelling correction string match problem correction corrector
+errors nondeterministic finitestate
+
+CACM-1898
+----------------------------------------------------------------
+<hl>regular</hl> coulomb wave functions algorithm 292 cacm 1969
+kolbig coulomb wave functions wave functions <hl>regular</hl>
+coulomb wave functions 5.12 ca69511
+
+CACM-1896
+----------------------------------------------------------------
+<hl>regular</hl> coulomb wave functions algorithm 292 s22 cacm
+1969 gautschi coulomb wave functions wave functions
+<hl>regular</hl> coulomb wave functions 5.12
+
+CACM-1739
+----------------------------------------------------------------
+<hl>regular</hl> expression search algorithm method locating
+specific character strings embedded character text
+implementation method form compiler discussed compiler accepts
+<hl>regular</hl>
+
+CACM-1993
+----------------------------------------------------------------
+<hl>regular</hl> coulomb wave functions algorithm 292 $s22 cacm
+september 197 cody paciorek coulomb wave functions wave
+functions <hl>regular</hl> coulomb wave
+
+CACM-2051
+----------------------------------------------------------------
+<hl>regular</hl> sound correspondences genetically related
+<hl>languages</hl> investigator arrange data input aligning
+pairs suspected cognates program tabulates correspondences list
+processing techniques
+
+CACM-1665
+----------------------------------------------------------------
+<hl>regular</hl> <hl>expressions</hl> output system lexical
+processor reads string characters combines items defined
+<hl>regular</hl> <hl>expressions</hl> output item identified
+code number pointer <hl>events</hl> substituted character string
+processors generalized decisionmaking mechanisms based ordered
+sequence <hl>events</hl> system range applications area lexical
+processing convenient advantages
+
+CACM-1355
+----------------------------------------------------------------
+<hl>regular</hl> coulomb wave functions algorithm 292 cacm
+november 1966 gautschi ca66113a jb march 2 1978 3:43 pm 1355 4
+1355
+
+CACM-2112
+----------------------------------------------------------------
+<hl>expressions</hl> translation equations describe syntax
+leftcontext sensitive semantics contextfree <hl>languages</hl>
+formal procedure deriving set translation equations
+specifications pushdown translator translator
+
+CACM-1906
+----------------------------------------------------------------
+<hl>regular</hl> pattern lines pins terminals vias feedthrough
+holes program interconnection planned routingtypically upper pin
+horizontally lower pin top virtual aperture
+
+CACM-1846
+----------------------------------------------------------------
+<hl>events</hl> occur handled simple priority rules problem
+<hl>dealing</hl> simultaneous <hl>events</hl> separate processes
+introduced abstraction problem developed admits solution
+majority commonly ... <hl>events</hl> occur problems simulating
+discrete event systems computer systems conventional digital
+computer dealt systems assumed network interconnected sequential
+processes briefly ... <hl>events</hl> report found cases shown
+find solution extending information solution technique cases
+technique computationally unfeasible additional information
+provided cacm september
+
+CACM-1453
+----------------------------------------------------------------
+<hl>regular</hl> expression notation describing algebraic
+language syntax algol paper fortran ii computer program carrying
+elimination algorithm gornsimilar gaussian elimination linear
+
+CACM-1612
+----------------------------------------------------------------
+<hl>dealing</hl> complicated syntactic structures practice
+sparsely occupied arithmetic <hl>expressions</hl> cacm april
+1967 brooker ca6743 jb february 28 1978 11:32 1612
+
+CACM-2838
+----------------------------------------------------------------
+<hl>regular</hl> garbage collectors efficiently average behavior
+program shown nearly equal worstcase performance sufficient
+conditions suitable measuring typical behavior algorithm cacm
+
+CACM-3064
+----------------------------------------------------------------
+<hl>events</hl> accessed executed additional features problems
+dealt include proper handling simultaneous <hl>events</hl>
+<hl>events</hl> created scheduled executed points simulated time
+infinite ... <hl>events</hl> eventmanipulation system presented
+consists major parts part addresses familiar problem event
+scheduling efficiency number scheduled <hl>events</hl> grows
+large part
+
+CACM-2253
+----------------------------------------------------------------
+<hl>expressions</hl> normal form programming <hl>languages</hl>
+program optimization range operations symbolic manipulation
+syntactic analysis wellformed <hl>expressions</hl> 4.12 4.22
+5.14 ca72122 jb
+
+CACM-3042
+----------------------------------------------------------------
+<hl>height</hl> balance maintained nodes iying paths number
+nodes pk tree asymptotically grows power <hl>height</hl> worst
+case procedure node insertion class
+
+CACM-1694
+----------------------------------------------------------------
+<hl>events</hl> algorithm presented efficiently evaluates
+probability union independent mutually exclusive <hl>events</hl>
+problem evaluating sums products combinations variables minimum
+time storage
+
+CACM-3056
+----------------------------------------------------------------
+<hl>events</hl> small registers small counter approximate counts
+large numbers resulting expected error precisely controlled 8bit
+counters bytes track 13 <hl>events</hl>
+
+CACM-3096
+----------------------------------------------------------------
+<hl>height</hl> equal exactly greater <hl>height</hl> left
+subtree advantage general avl tree bit balancing information
+required bits required acl tree shown
+
+CACM-1135
+----------------------------------------------------------------
+<hl>languages</hl> fully meets requirements set codasyl
+<hl>languages</hl> including machineindependence cacm february
+1964 lombardi ca6428 jb march 1 1978 4:8 1135 ...
+<hl>expressions</hl> structure digital compute programming
+language covers wide class business processing applications
+presented structure based identifying incorporating compiler
+aspects common <hl>expressions</hl> express information
+characteristic application furthermorelocal process affecting
+output involved effected local modifications program
+modification entry tables structure inexpensive preparation
+
+CACM-3082
+----------------------------------------------------------------
+<hl>events</hl> distributed system concept event happening
+distributed system examined shown define partial ordering
+<hl>events</hl> distributed algorithm synchronizing system
+logical clocks
+
+CACM-1469
+----------------------------------------------------------------
+<hl>languages</hl> family unimplemented computing
+<hl>languages</hl> intended span differences application area
+unified framework framework dictates rules usercoined names
+conventions characterizing functional
+
+CACM-3043
+----------------------------------------------------------------
+<hl>expressions</hl> inputoutput special cases cacm november
+1978 hansen concurrent programming distributed processes
+microprocessor networks nondeterminism guarded regions
+programming <hl>languages</hl> process
+
+CACM-1886
+----------------------------------------------------------------
+<hl>expressions</hl> factorization set <hl>expressions</hl>
+compiled methods presented increasing efficiency object code
+produced factoring <hl>expressions</hl> finding set
+subexpressions occurs <hl>expressions</hl> subexpressions
+<hl>expressions</hl> information computed correct sequence
+factors need retained memory minimal amount time assignment
+algorithm executed order minimize total number temporary
+<hl>expressions</hl> factoring polynomials encountered symbol
+manipulating systems cacm june 1969 breuer factorization
+algorithms code optimization sequencing operations detection
+common subexpressions
+
+CACM-1696
+----------------------------------------------------------------
+<hl>dealing</hl> sequences stochastic matrices discussed
+computation times investigated experimentally compared recently
+propose method cacm september 1968 fox landi stochastic matrix
+
+CACM-2495
+----------------------------------------------------------------
+<hl>expressions</hl> instruction sets presentday computers cacm
+june 1973 stockhausen arithmetic <hl>expressions</hl> code
+generation compilers objectcode optimization register assignment
+trees 4.12
+
+CACM-2710
+----------------------------------------------------------------
+<hl>languages</hl> casual user relational data model tabular
+data interactive problem solving nonprocedural
+<hl>languages</hl> relational completeness 3.5 3.7 4.2 ca75112
+jb ... <hl>expressions</hl> square data sublanguage paper
+presents data sublanguage called square intended ad hoc
+interactive problem solving noncomputer specialists square based
+
+CACM-1324
+----------------------------------------------------------------
+<hl>dealing</hl> ambiguities translating formal
+<hl>languages</hl> searching large tree structures cacm january
+1965 simmons ca65113 jb march 8 1978 2:21 pm
+
+CACM-2320
+----------------------------------------------------------------
+<hl>languages</hl> operating systems concurrent processes shared
+data mutual exclusion critical regions process communication
+synchronizing <hl>events</hl> 4.2 4.3 ca7278 jb january
+
+CACM-3128
+----------------------------------------------------------------
+<hl>events</hl> processes synchronization mechanism proposed
+abstract objects called eventcounts sequencers processes control
+ordering <hl>events</hl> directly mutual exclusion protect
+manipulations shared
+
+CACM-3194
+----------------------------------------------------------------
+<hl>events</hl> recognized native speakers language parallels
+problems chemical analysis pointed cacm january 1959 dunham
+fridshal sward ca5912 es march 17
+
+CACM-1551
+----------------------------------------------------------------
+<hl>expressions</hl> paper deals algorithms concerning
+arithmetic <hl>expressions</hl> fortran iv compiler hitac52
+computer accumulators algorithms generate object code minimizes
+frequency storing
+
+CACM-2304
+----------------------------------------------------------------
+<hl>events</hl> early years personal people organizations
+technologies computers 194555 period western part united
+statesare happened cacm july 1972 sprague history
+
+CACM-2081
+----------------------------------------------------------------
+<hl>expressions</hl> find forms suited computation forms called
+normal forms completeness results obtained sense expression
+equivalent expression normal form found calculus
+
+CACM-2316
+----------------------------------------------------------------
+<hl>languages</hl> discussed cacm july 1972 sammet programming
+<hl>languages</hl> higher level <hl>languages</hl>
+<hl>languages</hl> history future directions language
+interrelationships programming language tree ...
+<hl>languages</hl> history future paper discusses history future
+programming <hl>languages</hl> higher level <hl>languages</hl>
+difficulties writing history key part paper tree showing
+
+CACM-2767
+----------------------------------------------------------------
+<hl>events</hl> general purpose discrete simulation system
+algorithms based endorder tree structure event notices indexed
+linear list algorithms tested set typical
+
+CACM-2930
+----------------------------------------------------------------
+<hl>events</hl> leading establishment advanced computer science
+test discussed content specifications rationale set sample
+questions included cacm september 1977 austing education
+
+CACM-1827
+----------------------------------------------------------------
+<hl>events</hl> system identified recorded supervisor dumped
+magnetic tape auxiliary program offline processing
+<hl>events</hl> user programs unrelated system actions recorded
+supervisor
+
+CACM-0154
+----------------------------------------------------------------
+<hl>expressions</hl> evaluating cacm september 196 berin ca693
+jb march 2 1978 8:49 pm 154 5 154 154 5 154 154
+
+CACM-0413
+----------------------------------------------------------------
+<hl>expressions</hl> cacm january 1961 huskey wattenburg ca6111
+jb march 17 1978 1:3 413 5 413 413 5 413 413 413
+
+CACM-2617
+----------------------------------------------------------------
+<hl>expressions</hl> cacm august 1974 denning graham ca7487 jb
+january 17 1978 9:44 2617 5 2617 2617 5 2617 2617 2617
+
+CACM-2450
+----------------------------------------------------------------
+<hl>dealing</hl> resource allocation dearth published data
+program measurements hope workers field find experimental
+evidence substantiate base theoretical work cacm september
+
+CACM-2586
+----------------------------------------------------------------
+<hl>expressions</hl> instruction sets presentday computers
+errata cacm october 1974 stockhausen ca74112 jb january 16 1978
+11:5 2586 5 2586 2586
+
+CACM-2719
+----------------------------------------------------------------
+<hl>expressions</hl> execution behavior paper discusses
+mechanization analysis describes system metric able analyze
+simple lisp programs produce closedform <hl>expressions</hl>
+running time
+
+CACM-2712
+----------------------------------------------------------------
+<hl>expressions</hl> number terms <hl>expressions</hl> grows
+combinatorially size network direct summation impractical
+algorithm show combinatorial operation count algorithm based
+generalization horners
+
+CACM-2567
+----------------------------------------------------------------
+<hl>dealing</hl> stiff systems differential equations general
+order case linear system constant coefficients linear forcing
+terms case method order implemented put
+
+CACM-3077
+----------------------------------------------------------------
+<hl>languages</hl> von neumann computers von neumann
+<hl>languages</hl> models computing systems applicative
+computing systems applicative state transition systems program
+transformation program ... <hl>languages</hl> growing enormous
+stronger inherent defects basic level fat weak primitive
+wordatatime style programming inherited common ancestorthe von
+neumann computer <hl>expressions</hl> world statements inability
+effectively powerful combining forms building programs existing
+lack mathematical properties reasoning programs alternative
+functional style programming <hl>languages</hl> functional style
+programming algebra programs variables range programs operations
+combining forms algebra transform programs solve equations
+unknowns programs transforms
+
+CACM-2704
+----------------------------------------------------------------
+<hl>dealing</hl> exceptions orderly reliable proposed language
+features serve highlight exception handling issues showing
+deficiencies approaches remedied cacm december 1975 goodenough
+
+CACM-1703
+----------------------------------------------------------------
+<hl>languages</hl> computer services cacm august 1968 mooers
+standardization programming <hl>languages</hl> trac t64 language
+tranemark public identification programming <hl>languages</hl>
+standards accommodate ... <hl>languages</hl> user public wants
+standardization reliable identification programming
+<hl>languages</hl> related services achieving goals illustrated
+methods adopted trac t64 interactive language
+
+CACM-2705
+----------------------------------------------------------------
+<hl>languages</hl> natural <hl>languages</hl> mathematics social
+aspects programming illuminated analogies similar aspects
+mathematics natural <hl>languages</hl> split pure applied
+mathematics found similarly <hl>languages</hl> flexion wordorder
+based language types speaks programming language design based
+general abstract constructs analogy incidents history artificial
+auxiliary <hl>languages</hl>
+
+CACM-3120
+----------------------------------------------------------------
+<hl>events</hl> processes work compilerwriter easier
+conceptually practice forget problems outset avoids special
+processing problem technique applied construction algol 68
+compiler
+
+CACM-1254
+----------------------------------------------------------------
+<hl>expressions</hl> cacm june 1965 galler fischer ca6561 jb
+march 7 1978 12:49 pm 1254 5 1254 1254 5 1254 1254
+
+CACM-2802
+----------------------------------------------------------------
+<hl>expressions</hl> algebra functions algebraic properties
+function <hl>expressions</hl> permit reformulation expansion
+reduction nested subexpression independently environment
+modeling known stepwise program refinement
+
+CACM-1459
+----------------------------------------------------------------
+<hl>languages</hl> realtime <hl>languages</hl> requirements
+programming <hl>languages</hl> special nature applications
+environment object programs executed environment compiled
+language extensions ultimately advance developments
+
+CACM-2895
+----------------------------------------------------------------
+<hl>events</hl> computation occur language write specifications
+readerswriters problem writer priority readerswriters problem
+cacm december 1977 greif formal specificationsprogram
+correctness parallel
+
+CACM-2799
+----------------------------------------------------------------
+<hl>dealing</hl> weighted data data removal presented updating
+mean square standard deviation process requires square roots
+cacm january 1975 hanson mean
+
+CACM-0556
+----------------------------------------------------------------
+<hl>expressions</hl> cacm july 1972 bottenbirruch grau ca6275 jb
+march 17 1978 8:52 pm 1139 4 556 1947 4 556 556
+
+CACM-1807
+----------------------------------------------------------------
+<hl>expressions</hl> fortran method optimizing computation
+arithmetic indexing <hl>expressions</hl> fortran program
+presented method based linear analysis definition points
+variables branching loop
+
+CACM-2603
+----------------------------------------------------------------
+<hl>languages</hl> deterministic <hl>languages</hl> class
+reducing transition <hl>languages</hl> introduced eickel paul
+bauer samelson shown morris proper superclass simple precedence
+<hl>languages</hl> paper
+
+CACM-2052
+----------------------------------------------------------------
+<hl>events</hl> scheduled times cacm june 197 grimes allocation
+conflict matrix connected component scheduling spanning tree
+undirected linear graph 1.9 3.51
+
+CACM-3169
+----------------------------------------------------------------
+<hl>expressions</hl> online query system cacm october 1979 gudes
+hoffman query boolean expression optimal evaluation information
+retrieval 3.5 3.7 3.74 ca7912
+
+CACM-1259
+----------------------------------------------------------------
+<hl>expressions</hl> easily translatable characteristics
+examples form expression changed equivalent expression save
+space gain power cacm 1965 weldon baker ca65512 jb
+
+CACM-2090
+----------------------------------------------------------------
+<hl>expressions</hl> algorithm 377 $r2 cacm march 197 levine
+algebra symbolic algebra symbolic multiplication algebraic
+distribution algebraic multiplication distribution algorithm
+multiplication
+
+CACM-2305
+----------------------------------------------------------------
+<hl>languages</hl> plankalkul attempt korrad zuse 194s devise
+notational conceptual system writing today termed program early
+approach programming language lead practical <hl>languages</hl>
+investigation historical interest provide insights lead
+advancements state art modern programming terminology plankalkul
+presented extent reconstruct published literature cacm
+
+CACM-1503
+----------------------------------------------------------------
+<hl>events</hl> model testing fortran program basic design
+problems relate representation passage time allocation storage
+organization input data comparison differently designed
+
+CACM-2295
+----------------------------------------------------------------
+<hl>languages</hl> algol semantics recursive composition design
+programming <hl>languages</hl> data structures 1.3 4.2 4.22 5.23
+5.24 ca7287 jb january 3 1978
+
+CACM-3168
+----------------------------------------------------------------
+<hl>expressions</hl> online query system cacm october 1979 laird
+query boolean expression information retrieval organization
+3.53.7 3.73 3.74 ca7911 db january
+
+CACM-2175
+----------------------------------------------------------------
+<hl>expressions</hl> arithmetic expression broken component
+subexpressions depending hardware environment expression
+executed subexpressions evaluated serials parallel combination
+modes paper shows expression
+
+CACM-1098
+----------------------------------------------------------------
+<hl>languages</hl> discussed approximately speed finally authors
+give heuristics aid selection <hl>languages</hl> problem
+applications concluding <hl>languages</hl> considered distinctly
+superior listprocessing applications ... <hl>languages</hl>
+important common features listprocessing <hl>languages</hl>
+reviewed forms data structures manipulated necessity dynamic
+allocation storage pushdown stores recursive operations
+principal ... <hl>languages</hl> including detailed comparison
+comit iplv lisp 1.5 slip detailed comparison presented comit
+iplv lisp 1.5 slip wellknown computer programming
+
+CACM-1852
+----------------------------------------------------------------
+<hl>languages</hl> algorithm easily implemented contemporary
+computing machines experience programming <hl>languages</hl>
+implementation based algorithm language transferred machine
+manweek machine cacm september
+
+CACM-1366
+----------------------------------------------------------------
+<hl>languages</hl> write substantial costs occur training
+implementation computer time inappropriate language chosenore
+computer simulation <hl>languages</hl> developed comparisons
+evaluations existing <hl>languages</hl> ... <hl>languages</hl>
+purpose paper present comparison computer simulation
+<hl>languages</hl> involved comparing software packages digital
+computers discussed part issue obvious users digital ...
+<hl>languages</hl> computational characteristics simulation
+discussed special attention paid distinction continuous discrete
+change models part iii presents detailed comparison simulation
+<hl>languages</hl>
+
+CACM-2413
+----------------------------------------------------------------
+<hl>expressions</hl> counterexample supposed optimality
+algorithm generating schedules trees tasks unequal execution
+times presented comparison critical path heuristic discussed
+cacm november
+
+CACM-1923
+----------------------------------------------------------------
+<hl>languages</hl> basic inputoutput support facilities shown
+technique provide potentially inexpensive methods programs
+communicate deeply embedded facilities command language
+processors cacm
+
+CACM-1305
+----------------------------------------------------------------
+<hl>expressions</hl> inputoutput lists subscripted variables
+cacm march 1965 mancino cecchi ca6532 jb march 7 1978 6:23 pm
+135 4 135
+
+CACM-3189
+----------------------------------------------------------------
+<hl>expressions</hl> floatingpoint arithmetic easily revised
+fixedpoint cacm november 1962 stiegler ca621124 es march 17 1982
+1:1 1788 5 3189 3189
+
+CACM-3203
+----------------------------------------------------------------
+<hl>expressions</hl> designed problemms large amount routine
+manipulation program human intervention grad recognize
+simplifications external guidance complicated
+<hl>expressions</hl> notably involving nested
+
+CACM-2254
+----------------------------------------------------------------
+<hl>languages</hl> general interest data structure partitioning
+consists dynamic tree structures derive maintain array control
+information sufficient detail design array <hl>languages</hl>
+
+CACM-2406
+----------------------------------------------------------------
+<hl>languages</hl> concentrate declaration logical data
+structures concern structures physically realized computer
+system need data definition <hl>languages</hl> describe logical
+physical aspects <hl>languages</hl> key systems advanced data
+management systems distributed data bases paper reviews past
+work data definition language describing logical physical
+
+CACM-1678
+----------------------------------------------------------------
+<hl>languages</hl> abstract switching computability ph computer
+science program number courses listed area describe automata
+formal <hl>languages</hl> abstract switching computability ph
+
+CACM-2560
+----------------------------------------------------------------
+<hl>expressions</hl> obtained longrun probability cpu storage
+devices busy numerical results quantify gains cpu utilization
+obtainable multiprogramming presence type storage system
+
+CACM-2742
+----------------------------------------------------------------
+<hl>events</hl> proper sequence paper presents method
+significantly reducing time spent scanning future event lists
+discrete event simulations models presented improve
+
+CACM-3199
+----------------------------------------------------------------
+<hl>expressions</hl> algems basic algebraic operations additions
+subtractions multiplications division exponentiation capable
+handling number single letter variables variable exponents
+finding highest
+
+CACM-0284
+----------------------------------------------------------------
+<hl>expressions</hl> algorithm algebraically manipulating
+<hl>expressions</hl> form sumcipi i1...n developed conjunction
+development programs systems analysis problems algorithm
+enablesus derive system transfer
+
+CACM-1835
+----------------------------------------------------------------
+<hl>languages</hl> programming <hl>languages</hl> student
+programming systems language design high school programs college
+courses 1.51 1.52 4.12 4.22 ca69111 jb february
+
+CACM-1934
+----------------------------------------------------------------
+<hl>expressions</hl> trees description tree representing
+evaluation arithmetic expression drawn number accumulators
+needed computation represented straightforward manner
+representation reduces choice order
+
+CACM-2862
+----------------------------------------------------------------
+<hl>events</hl> page reference event significantly reduces
+required computation time estimating performance pff algorithm
+cacm 1976 chu opderbeck pff replacement algorithm
+
+CACM-2936
+----------------------------------------------------------------
+<hl>events</hl> set tests conducted estimate average complexity
+showed nearly independent cacm august 1977 franta maly
+simulation time flow mechanisms event
+
+CACM-1485
+----------------------------------------------------------------
+<hl>languages</hl> illustrate forms advantages disadvantages
+factors influencing choice form component language discussed
+paper concludes suggestion programming <hl>languages</hl> evolve
+permit convenient
+
+CACM-2814
+----------------------------------------------------------------
+<hl>languages</hl> 197475 cacm december 1976 sammet ca76121 jb
+january 3 1978 2:38 pm 2814 5 2814 2814 5 2814 2814
+
+CACM-3150
+----------------------------------------------------------------
+<hl>languages</hl> exist lays directions future research cacm
+july 1979 winograd programming programming <hl>languages</hl>
+programming systems systems development 4 4.2 4.22 ...
+<hl>languages</hl> computer technology matures growing ability
+create large systems leading basic nature programming
+programming language concepts adequate building maintaining
+systems
+
+CACM-1706
+----------------------------------------------------------------
+<hl>expressions</hl> provide alternative computational patterns
+arrays strings processed quantifiers class things assigned
+identifier restricted procedure expressed notation language
+facilities implemented
+
+CACM-2873
+----------------------------------------------------------------
+<hl>languages</hl> lg specifically designed nonprogrammers easy
+learn close natural language geometry cacm april 1976 raymond
+interactive programming problem oriented <hl>languages</hl>
+
+CACM-0628
+----------------------------------------------------------------
+<hl>languages</hl> cacm march 1962 grau ca6234 jb march 2 1978
+3:9 pm 628 5 628 628 5 628 628 628
+
+CACM-0651
+----------------------------------------------------------------
+<hl>languages</hl> systems information retrieval cacm january
+1962 grems ca6218 jb march 2 1978 4:36 pm 651 5 651 651 5
+
+CACM-1928
+----------------------------------------------------------------
+<hl>events</hl> 4.22 4.29 6.9 ca6921 jb february 2 1978 9:58
+1885 5 1928 1928 5 1928 1928 5 1928 1928
+
+CACM-2914
+----------------------------------------------------------------
+<hl>expressions</hl> computation kinds distributions finally
+examples families distributions computed published stack depth
+distribution cacm november 1977 turner strecker virtual memory
+
+CACM-1457
+----------------------------------------------------------------
+<hl>languages</hl> outlined light procedures requiring
+implementation advantages programming <hl>languages</hl>
+retrieval application examined suggestions made design
+programming facilities aid information retrieval
+
+CACM-3044
+----------------------------------------------------------------
+<hl>expressions</hl> evaluation conditional expression succeed
+deciding predicate diverges alternatives records nodes fields
+content cacm november 1978 friedman wise parallel evaluation
+

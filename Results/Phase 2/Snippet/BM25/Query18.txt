@@ -1,0 +1,744 @@
+CACM-2714
+----------------------------------------------------------------
+<hl>parallel</hl> <hl>processors</hl> consider linearly ordered
+sets bn mn pm <hl>parallel</hl> <hl>processors</hl> working
+synchronously paper presents algorithm merging <hl>parallel</hl>
+<hl>processors</hl> requires ... <hl>parallel</hl> merging
+<hl>parallel</hl> binary insertion 5.31 ca7515 jb january 6 1978
+1:5 2714 4 2714 375 4 2714 2664 5
+
+CACM-3110
+----------------------------------------------------------------
+<hl>code</hl> <hl>machines</hl> spandependent instructions
+modern computers instructions lengths depend distance instance
+instruction operand instruction paper considers problem
+minimizing lengths programs
+
+CACM-3156
+----------------------------------------------------------------
+<hl>parallel</hl> computers present <hl>parallel</hl> algorithm
+n2 <hl>processors</hl> find connected components undirected
+graph vertices time time bound achieved n$n$log2n
+<hl>processors</hl> algorithm
+
+CACM-1852
+----------------------------------------------------------------
+<hl>processors</hl> programming <hl>languages</hl> algorithm
+easily implemented contemporary computing <hl>machines</hl>
+experience programming <hl>languages</hl> implementation based
+algorithm language transferred machine manweek machine
+
+CACM-2138
+----------------------------------------------------------------
+<hl>especially</hl> suitable writing production software systems
+specific machine pdp1: <hl>compilers</hl> operating systems
+prime design goals design ability produce <hl>highly</hl>
+efficient <hl>code</hl> allow access relevant hardware features
+host machine provide rational means cope evolutionary nature
+systems programs major feature contributes realization
+
+CACM-2175
+----------------------------------------------------------------
+<hl>parallel</hl> exceeds number <hl>processors</hl> execution
+subexpressions postponed procedure combines requirement earlier
+ordering considerations provide optimal execution sequence cacm
+july 1971 <hl>parallel</hl> processing cache arithmetic
+expressions subexpression ordering computational trees
+<hl>compilers</hl> 4.12 4.32 ca7177 jb february 2 1978 4:49 pm
+1781
+
+CACM-3075
+----------------------------------------------------------------
+<hl>parallel</hl> sorting algorithms <hl>parallel</hl>
+bucketsort algorithm presented requires time olog
+<hl>processors</hl> algorithm makes technique requires space
+product <hl>processors</hl> time realistic
+
+CACM-0670
+----------------------------------------------------------------
+<hl>especially</hl> diverse states basic question banks
+authorized law invest facilities directly cooperatives
+challenging questions relating offpremises <hl>processors</hl>
+respect obligation disclose
+
+CACM-0950
+----------------------------------------------------------------
+<hl>parallel</hl> methods integrating ordinary differential
+equations paper dedicated proposition order take full advantage
+realtime computations <hl>highly</hl> <hl>parallel</hl>
+computers expected future
+
+CACM-2897
+----------------------------------------------------------------
+<hl>code</hl> generation technique <hl>compilers</hl> recent
+developments optimizing techniques allowed design
+<hl>compilers</hl> emerge compiler translates parsed source
+<hl>code</hl> lower level <hl>code</hl> ... <hl>code</hl>
+elaborate optimizations improve object <hl>code</hl> contexts
+concatenate statement <hl>code</hl> produced compiler
+expansionoptimization strategy compares favorably <hl>code</hl>
+produced conventional pli ... <hl>code</hl> performs
+optimizations result statement expansionthe task tailoring
+<hl>code</hl> take advantage special cases optimizations paper
+evidence strategy result good object
+
+CACM-2266
+----------------------------------------------------------------
+<hl>highly</hl> <hl>parallel</hl> algorithm approximating zeros
+polynomial real zeros algorithm based newtons method
+simultaneously approximates zeros polynomial real zeros
+algorithm conceptually <hl>parallel</hl> computation determines
+starting values convergence zeros guaranteed multiple zeros
+multiplicity readily determined point method polynomial
+deflation cacm november 1972
+
+CACM-1811
+----------------------------------------------------------------
+<hl>processors</hl> communication cooperating
+<hl>processors</hl> means data storage shared
+<hl>processors</hl> program determination distribution
+electrical network written parallelprocessor computing system
+execution program ... <hl>processors</hl> simultaneously execute
+separate tasks single job cooperating decrease solution time
+computational problem <hl>processors</hl> independent
+instruction counters meaning processor executes ...
+<hl>processors</hl> applied approaches 1n times solution time
+single processor improper programming actually lead increase
+solution time number <hl>processors</hl> stability method
+
+CACM-1795
+----------------------------------------------------------------
+<hl>code</hl> serial <hl>parallel</hl> computation cacm december
+1969 fateman <hl>code</hl> optimization sequencing operations
+detection common subexpressions 4.12 ca691217 jb february 15
+
+CACM-2921
+----------------------------------------------------------------
+<hl>machines</hl> automata regular expressions syntax
+diagramslrk grammars parser construction parsing programming
+<hl>languages</hl> language generation formal definition
+<hl>compilers</hl> translators scanners 4.2
+
+CACM-2685
+----------------------------------------------------------------
+<hl>parallel</hl> execution loops methods developed
+<hl>parallel</hl> execution iterations loop asynchronous
+multiprocessor computers array computers considered practical
+application design <hl>compilers</hl> computers
+
+CACM-2495
+----------------------------------------------------------------
+<hl>code</hl> generation arithmetic expressions instruction sets
+presentday computers cacm june 1973 stockhausen arithmetic
+expressions <hl>code</hl> generation <hl>compilers</hl>
+objectcode optimization register
+
+CACM-3066
+----------------------------------------------------------------
+<hl>code</hl> walkthroughsinspections paper describes experiment
+program testing employing 59 <hl>highly</hl> experienced data
+processing professionals methods test small pli program results
+... <hl>code</hl> walkthroughs <hl>code</hl> inspections
+personnel selection 4.6 ca7896 dh february 5 1979 1:47 366 5 366
+366 5 366 366
+
+CACM-2112
+----------------------------------------------------------------
+<hl>machines</hl> regular expression transduction expression
+contextfree <hl>languages</hl> translation recognizers parsing
+metacompilers pushdown transducer syntax directed
+<hl>compilers</hl> finite state automata 4.1
+
+CACM-1665
+----------------------------------------------------------------
+<hl>code</hl> number pointer block storage characters character
+count item <hl>processors</hl> produced system based finitestate
+<hl>machines</hl> state machine corresponds unique condition ...
+<hl>processors</hl> finite state techniques practical
+application theory finitestate automata generate lexical
+<hl>processors</hl> dealt tutorial article aed rword system
+developed part ... <hl>processors</hl> generated compared
+favorably speed carefully handcoded programs accomplish task
+lexical <hl>processors</hl> aedo mad produced techniques
+employed independent nature items <hl>processors</hl>
+generalized decisionmaking mechanisms based ordered sequence
+events system range applications area lexical processing
+convenient advantages speed important consideration designing
+
+CACM-2570
+----------------------------------------------------------------
+<hl>parallel</hl> processing systems problem scheduling
+<hl>processors</hl> minimize execution time program consists set
+partially ordered tasks studied cases task execution times
+
+CACM-1923
+----------------------------------------------------------------
+<hl>languages</hl> basic inputoutput support facilities shown
+technique provide potentially inexpensive methods programs
+communicate deeply embedded facilities command language
+<hl>processors</hl> cacm
+
+CACM-2706
+----------------------------------------------------------------
+<hl>compaction</hl> character sets note discusses reduction set
+basis problem clique cover problem cacm november 1975 kou wong
+<hl>compaction</hl> character sets
+
+CACM-1159
+----------------------------------------------------------------
+<hl>especially</hl> <hl>compilers</hl> computer methods examined
+bootstrap technique singled detailed discussion emphasis
+economics considerations determine applicability bootstrapping
+specific case discussed attempt
+
+CACM-3150
+----------------------------------------------------------------
+<hl>languages</hl> enabled programmer escape intricacies
+<hl>machines</hl> order <hl>code</hl> higher level programming
+systems provide means understand manipulate complex systems
+components order <hl>languages</hl> exist lays directions future
+research cacm july 1979 winograd programming programming
+<hl>languages</hl> programming systems systems development 4 4.2
+4.22
+
+CACM-0243
+----------------------------------------------------------------
+<hl>horizontal</hl> vertical main diagonal family codes
+restricted dimensions evidenced discussion minnick ashenhurst
+similar multidimensional singlebit selection plan purpose
+fourdimensional <hl>code</hl>
+
+CACM-1163
+----------------------------------------------------------------
+<hl>highly</hl> successful encouraging application techniques
+source object <hl>languages</hl> cacm december 1965 olsen
+ca65126 jb march 6 1978 4:5 pm 1163
+
+CACM-2896
+----------------------------------------------------------------
+<hl>parallel</hl> programs correct <hl>parallel</hl> program
+dijkstras onthefly garbage collector proved correct proof method
+developed owicki fine degree terleaving program makes
+
+CACM-2785
+----------------------------------------------------------------
+<hl>parallel</hl> computer architectures cacm march 1975 lawrie
+layman baer randal glypnir illiac iv programming language
+<hl>parallel</hl> computation <hl>parallel</hl> architecture 4.2
+
+CACM-0637
+----------------------------------------------------------------
+<hl>compilers</hl> <hl>compilers</hl> pointed advantages pol
+constructing programming systems report presents results project
+completed 1961 neliac system generate compiler ibm 141
+
+CACM-3175
+----------------------------------------------------------------
+<hl>code</hl> letter assigned probabilities representing plain
+text letters probabilities updated <hl>parallel</hl>
+<hl>code</hl> letters joint letter probabilities iterating
+updating scheme results
+
+CACM-2064
+----------------------------------------------------------------
+<hl>compilers</hl> today elements structures restricted scalars
+sophisticated applications restriction impose cumbersome data
+representations efficient system devised implemented elements
+multidimensional arrays <hl>code</hl> words describe arrays
+codewords providing needed descriptive information
+hyperstructures form cacm 197 sitton multidimensional arrays
+matrix operations storage control
+
+CACM-2497
+----------------------------------------------------------------
+<hl>processors</hl> memorycontentgenerated interrupts
+implementations lockunlock method synchronizing
+<hl>processors</hl> multiprocessor system require
+uninterruptable memorypause type instructions interlock scheme
+called readinterlock require <hl>processors</hl> special
+readinterlock cycle repertoire memory modules processor examines
+lock memory location readinterlock instruction interrupted lock
+set examining lock immediately
+
+CACM-2423
+----------------------------------------------------------------
+<hl>code</hl> generator realizable assembly language fortran
+algol subroutine called syntactic rule applied parse program
+typical onepass <hl>compilers</hl> constructed pgs translate ...
+<hl>compilers</hl> paper describes parsergenerating system pgs
+cdc65 computer purdue university pgs fortrancoded compiler input
+translation grammar bnf syntactic rule corresponds
+
+CACM-2567
+----------------------------------------------------------------
+<hl>especially</hl> efficient dealing stiff systems differential
+equations general order case linear system constant coefficients
+linear forcing terms case method order
+
+CACM-1425
+----------------------------------------------------------------
+<hl>machines</hl> <hl>languages</hl> formation rules part paper
+flow diagrams introduced represent inter al mappings set diagram
+decomposable finite number base diagrams ... <hl>machines</hl>
+family proper subfamily family turing <hl>machines</hl> cacm
+1966 bohm jacopini ca66512 jb march 3 1978 9:35 1425 4 1425
+
+CACM-2886
+----------------------------------------------------------------
+<hl>languages</hl> <hl>compilers</hl> formal definition
+attribute grammars discussion important aspects included paper
+concentrates evaluation semantic attributes passes left
+derivation tree program
+
+CACM-2644
+----------------------------------------------------------------
+<hl>languages</hl> 3.6 4.22 5.21 ca7462 jb january 17 1978 3:37
+pm 2644 5 2644 2644 5 2644 2644 2644
+
+CACM-2298
+----------------------------------------------------------------
+<hl>machines</hl> support research decision purchase machine
+appears superior considered organization definition goals group
+project phases reported emphasis early results achieved
+
+CACM-2904
+----------------------------------------------------------------
+<hl>compilers</hl> optimization compiled <hl>code</hl> program
+analysis operator strength reduction test replacement strongly
+connected region 4.12 5.24 5.32 ca771112 jb december
+
+CACM-1988
+----------------------------------------------------------------
+<hl>processors</hl> programming languagescompilers interpreters
+assemblersand interactions complex systems compilercompilers
+extendible <hl>languages</hl> formalism define answer question
+bootstrapping metacompiler metaphase interpretive addition
+
+CACM-1099
+----------------------------------------------------------------
+<hl>especially</hl> suited programming work intense training
+constant experience locating objects unseen environment superbly
+trained memory blind brings work programming skills
+
+CACM-3127
+----------------------------------------------------------------
+<hl>machines</hl> running minicomputers architectures system
+application programs written highlevel language system
+implemented software hardware interface user programs
+application programs thoth
+
+CACM-2433
+----------------------------------------------------------------
+<hl>code</hl> structuring crucial illiac optimization problem
+satisfactory method data allocation presented language
+structures utilize storage method express <hl>parallel</hl>
+algorithms cacm
+
+CACM-3005
+----------------------------------------------------------------
+<hl>highly</hl> compact instruction encoding scheme presented
+reduce program size factor 3 unlike huffman <hl>code</hl>
+utilizes variable length fields method fixed
+
+CACM-0303
+----------------------------------------------------------------
+<hl>languages</hl> <hl>processors</hl> suggestions paper part
+terminology work university pennsylvanias office computer
+research education work jointly supported national science
+foundation air
+
+CACM-1154
+----------------------------------------------------------------
+<hl>machines</hl> powerful finite automata powerful general
+turing <hl>machines</hl> presented felt <hl>machines</hl>
+category closely related digital computers finite automata
+unrestricted turing
+
+CACM-3171
+----------------------------------------------------------------
+<hl>code</hl> 4.12 4.13 4.2 4.42 ca7914 db january 17 198 9:57
+3171 5 3171 3171 5 3171 3171 3171
+
+CACM-2289
+----------------------------------------------------------------
+<hl>parallel</hl> processing paper shown cellular arrays
+inherently suited solution graph problems adjacency matrix graph
+easily mapped array matrix element stored <hl>especially</hl>
+problems solutions inherently serial parallelized algorithms
+presented solution spanning tree distance path problems direct
+applications wire routing pert chart
+
+CACM-2514
+----------------------------------------------------------------
+<hl>parallel</hl> examples involving array <hl>languages</hl>
+consisting simple geometrical patterns language neuron pictures
+cacm 1973 mercer rosenfeld picture grammars array grammars
+
+CACM-3080
+----------------------------------------------------------------
+<hl>code</hl> system proving programs written high level
+language correctly translated low level language primary system
+post optimization step <hl>code</hl> generation
+
+CACM-1738
+----------------------------------------------------------------
+<hl>highly</hl> efficient communication user debugging program
+improved techniques applicable online debugging programs
+techniques presented illustrated opak octal package debugging
+program
+
+CACM-1409
+----------------------------------------------------------------
+<hl>parallel</hl> <hl>machines</hl> flipflop arithmetic control
+registers hardware development aimed concept easy modification
+elaborate console controls effective manmachine interaction low
+cost
+
+CACM-1591
+----------------------------------------------------------------
+<hl>processors</hl> <hl>compilers</hl> library users programs
+disposal write assemble debug execute terminal program written
+language processed operating system course include text
+
+CACM-2717
+----------------------------------------------------------------
+<hl>languages</hl> nonprocedural <hl>languages</hl> 3.5 3.75
+4.29 4.4 4.9 ca7512 jb january 6 1978 1:45 pm 2155 4 2717 246 4
+
+CACM-3148
+----------------------------------------------------------------
+<hl>languages</hl> based primitive notions module message
+transaction key methodology shown independent <hl>languages</hl>
+<hl>machines</hl> appears programming wide range tasks part
+ambitious
+
+CACM-2411
+----------------------------------------------------------------
+<hl>compilers</hl> program documentation program flow graphs
+programming language design proof programs semantics programming
+<hl>languages</hl> structured programming 4.12 4.22 5.24
+ca731115
+
+CACM-0082
+----------------------------------------------------------------
+<hl>processors</hl> substitution computeroriented symbols
+programmeroriented symbols language <hl>processors</hl> examined
+feasible method presented cacm june 1959 williams ca5962 jb
+march 22
+
+CACM-1262
+----------------------------------------------------------------
+<hl>parallel</hl> processing statements suggested allow
+programmer writing procedureoriented language sections program
+executed <hl>parallel</hl> statements hold serve partly brackets
+establishing range
+
+CACM-1680
+----------------------------------------------------------------
+<hl>processors</hl> <hl>compilers</hl> simulation models
+mathematical solution techniques stored data library user
+programs incorporated instructional material reprogramming
+illustrations applications presented implications
+
+CACM-1603
+----------------------------------------------------------------
+<hl>machines</hl> int combination hardwaresoftware monitor
+designed control wide variety realtime inputoutput devices
+simple hardware additions provide uniform device machine
+interface
+
+CACM-1807
+----------------------------------------------------------------
+<hl>compilers</hl> proved produce excellent object <hl>code</hl>
+significantly reducing compilation speed cacm december 1969
+busam england fortran optimization expressions
+<hl>compilers</hl> compilation
+
+CACM-1362
+----------------------------------------------------------------
+<hl>code</hl> extension ascii asa tutorial american standard
+<hl>code</hl> information interchange ascii number control
+characters principle <hl>code</hl> extension representation
+information directly ... <hl>code</hl> extension concepts
+graphic substitution syntactic representation meet similar
+requirements covered topics truly concerned <hl>code</hl>
+extension linked discussion <hl>code</hl> applications ...
+<hl>code</hl> manner characters previously completely paper
+presents set mutually consistent philosophies regarding
+<hl>code</hl> extension applications suggests corollary set
+doctrines application
+
+CACM-2253
+----------------------------------------------------------------
+<hl>code</hl> goal generate <hl>code</hl> handling tedious
+address calculations necessitated complicated data structures
+paper preoccupied indexing position relationship indexing
+indexing position
+
+CACM-2700
+----------------------------------------------------------------
+<hl>parallel</hl> programs proving <hl>parallel</hl> program
+property convenient assume statement indivisible statement
+interleaved rest program sufficient conditions obtained show
+assumption statement
+
+CACM-2973
+----------------------------------------------------------------
+<hl>parallel</hl> computer <hl>parallel</hl> sorting
+<hl>parallel</hl> merge routing comparison steps perfect shuffle
+processor terconnection pattern 4.32 5.25 5.31 ca7749 jb
+december
+
+CACM-0048
+----------------------------------------------------------------
+<hl>code</hl> minimumdistancethree <hl>code</hl> 64 1bit
+<hl>code</hl> words employed station identification
+<hl>code</hl> embedding shiftregister <hl>code</hl> period 123
+permits <hl>code</hl> employed punctuation ... <hl>code</hl>
+indexing applications communication shiftregister <hl>code</hl>
+1 calling 64 wireless telemetering stations fixed cyclical order
+high degree redundancy permitting singleerror
+
+CACM-1135
+----------------------------------------------------------------
+<hl>languages</hl> fully meets requirements set codasyl
+<hl>languages</hl> including machineindependence cacm february
+1964 lombardi ca6428 jb march 1 1978 4:8 1135 ...
+<hl>compilers</hl> translate source programs efficient machine
+codes approach adopted departs conventional mechanical language
+design philosophies stresses structural analysis class processes
+
+CACM-3074
+----------------------------------------------------------------
+<hl>compaction</hl> algorithm area storage scattered marked
+nodes differing sizes wish rearrange compact mass end area
+revising pointers marked nodes show
+
+CACM-1844
+----------------------------------------------------------------
+<hl>machines</hl> computation requirements mix users system
+organization inherently simpler reliable approach timesharing
+computers potential <hl>highly</hl> system low cost economic
+configurations
+
+CACM-2491
+----------------------------------------------------------------
+<hl>code</hl> concept threaded <hl>code</hl> presented
+alternative machine language <hl>code</hl> hardware software
+realizations software realized interpretive <hl>code</hl>
+needing interpreter extensions optimizations
+
+CACM-2748
+----------------------------------------------------------------
+<hl>code</hl> efficient arrangement interpretive <hl>code</hl>
+related bells notion threaded <hl>code</hl> requires space
+amenable machine independent implementations cacm june 1975
+dewar
+
+CACM-2645
+----------------------------------------------------------------
+<hl>languages</hl> estimating program efficiency
+<hl>languages</hl> enabling users estimate efficiency computer
+programs presented program efficiency wishes estimate written
+language gotoless programming <hl>processors</hl>
+<hl>languages</hl> processor syntaxdirected translator compiles
+program symbolic formula representing execution time program
+sound processor set procedures program processor set
+
+CACM-2231
+----------------------------------------------------------------
+<hl>horizontal</hl> vertical projections finite binary pattern
+construct original pattern paper give characterization patterns
+reconstructable projection algorithms developed reconstruct
+unambiguous ambiguous
+
+CACM-2929
+----------------------------------------------------------------
+<hl>compilers</hl> structured programming <hl>languages</hl>
+runtime statistics 4.12 ca7795 jb december 27 1977 1:23 pm 186 4
+2929 1132 4 2929
+
+CACM-1747
+----------------------------------------------------------------
+<hl>parallel</hl> processing <hl>parallel</hl> programming
+multiprocessing 2.11 4.12 4.13 4.2 4.3 4.42 4.43 5.24 6.2 6.35
+ca6859 jb february 23 1978 ... <hl>parallel</hl> processes
+protection multiprogrammed systems assignment capability indexes
+cacm 1968 van horn computer design computer design criteria
+computer systems computer
+
+CACM-1385
+----------------------------------------------------------------
+<hl>machines</hl> 195859 soviet aid vacuum 19664 due withdrawal
+soviet aid presumably allchinesemade <hl>machines</hl> 1965
+present computer applications trend automation control
+
+CACM-2692
+----------------------------------------------------------------
+<hl>code</hl> capable clipping polygon single boundary reentered
+clip subsequent boundaries reentrant stage clipping need store
+vertex values begin processing soon <hl>code</hl> reentered
+clipping subsequent boundaries clipping complex window shapes
+practical perspective applications dimentions sixplane truncated
+pyramid chosen clipping volume additional
+
+CACM-1652
+----------------------------------------------------------------
+<hl>code</hl> direct application problems area information
+retrieval document classification computeraided teaching text
+editing <hl>code</hl> called ipc information processing
+<hl>code</hl> 8bit ... <hl>code</hl> nonnumeric information
+processing applications online systems <hl>code</hl>
+specifically designed simplify internal information processing
+operations online computer system respect nonnumeric
+
+CACM-2633
+----------------------------------------------------------------
+<hl>compaction</hl> 4.41 5.13 ca74613 jb january 17 1978 2:48 pm
+2633 4 2633 2633 5 2633 2633 5 2633 2633
+
+CACM-1655
+----------------------------------------------------------------
+<hl>code</hl> extension procedures information interchange
+proposed usa standard cacm december 1968 standard <hl>code</hl>
+<hl>code</hl> information interchange characters shift shift
+escape
+
+CACM-2989
+----------------------------------------------------------------
+<hl>processors</hl> isps isp features evaluated terms time saved
+feature methods based analysis traces program executions concept
+register life troduced answer
+
+CACM-0719
+----------------------------------------------------------------
+<hl>machines</hl> class compilation advantages <hl>machines</hl>
+fixedlength words cacm october 1963 rotenberg opler ca6316 jb
+march 13 1978 6:25 pm 719
+
+CACM-1158
+----------------------------------------------------------------
+<hl>parallel</hl> processing constructs organizing explicating
+<hl>parallel</hl> program segments discussed extensions algol 6
+constructs serve metacommands motivated equipment
+multiprocessing capability cacm
+
+CACM-1947
+----------------------------------------------------------------
+<hl>compilers</hl> data flow analysis dominance efficiency
+fortran graph theory loop structure machine instructions object
+<hl>code</hl> optimization redundancy elimination register
+assignment
+
+CACM-2579
+----------------------------------------------------------------
+<hl>compilers</hl> programming <hl>languages</hl> virtual memory
+demand paging 4.12 4.2 4.39 ca74115 jb january 16 1978 1:24 1781
+4 2579 187
+
+CACM-2819
+----------------------------------------------------------------
+<hl>compaction</hl> huffman codes ngram encoding comparison
+algorithms 3.7 3.73 4.33 ca76114 jb january 3 1978 3:26 pm 253 4
+2819
+
+CACM-2820
+----------------------------------------------------------------
+<hl>highly</hl> interactive diagnostic compilerinterpreter
+beginning programmers prepare debug execute fairly simple
+programs graphics display terminal complete syntax checking
+semantic analysis
+
+CACM-2034
+----------------------------------------------------------------
+<hl>machines</hl> widely varying characteristics cacm july 197
+waite bootstrapping macro processing machine independence
+programming <hl>languages</hl> implementation techniques 4.12
+4.22 ca773
+
+CACM-2939
+----------------------------------------------------------------
+<hl>especially</hl> data abstractionsare programming process
+procedural abstraction supported conventional <hl>languages</hl>
+procedure subroutine clu addition procedures linguistic
+mechanisms support data control
+
+CACM-1389
+----------------------------------------------------------------
+<hl>processors</hl> ipl lisp comit ad snobol permits user closer
+machine <hl>code</hl> order write fasterrunning programs storage
+efficiently build wider variety
+
+CACM-2401
+----------------------------------------------------------------
+<hl>parallel</hl> processing algorithm shrinking binary patterns
+obtain single isolated elements pattern presented procedure
+counting patterns matrix hardware implementation algorithm large
+<hl>parallel</hl> nature process possibility shrinking pattern
+regardless complexity configuration problems regarding merging
+disconnection patterns process determination maximum number
+steps obtain
+
+CACM-3048
+----------------------------------------------------------------
+<hl>highly</hl> concurrent computers deterministic simulation
+simulation presented practical technique performance evaluation
+alternative configurations <hl>highly</hl> concurrent computers
+technique constructing detailed deterministic
+
+CACM-1756
+----------------------------------------------------------------
+<hl>code</hl> proposed usa standard cacm april 1968 usa standard
+card <hl>code</hl> punched card punched card <hl>code</hl>
+holepatterns holepatterns assignment punched
+
+CACM-1310
+----------------------------------------------------------------
+<hl>machines</hl> cacm february 1965 weiler klema ca65214 jb
+march 7 1978 1:55 pm 131 5 131 131 5 131 131
+
+CACM-3059
+----------------------------------------------------------------
+<hl>parallel</hl> processing programs application cpuio ioio
+overlap approximate queueing models internal <hl>parallel</hl>
+processing individual programs multiprogrammed system developed
+paper solution
+
+CACM-2767
+----------------------------------------------------------------
+<hl>especially</hl> chosen show advantages limitations
+algorithms endorder tree algorithm shown advantageous
+replacement algorithm simulation <hl>languages</hl> promising
+algorithm indexed list concept
+
+CACM-2834
+----------------------------------------------------------------
+<hl>code</hl> applications algorithms presented generate nbit
+binary reflected gray <hl>code</hl> codewords fixed weight
+<hl>code</hl> algorithms efficient time required generate
+element
+
+CACM-1463
+----------------------------------------------------------------
+<hl>machines</hl> salient characteristics extensible
+<hl>machines</hl> em facility providing system control
+programtoprogram programtodata linkage address connection intent
+paper expand clarify remarks
+
+CACM-2316
+----------------------------------------------------------------
+<hl>languages</hl> discussed cacm july 1972 sammet programming
+<hl>languages</hl> higher level <hl>languages</hl>
+<hl>languages</hl> history future directions language
+interrelationships programming language tree ...
+<hl>languages</hl> history future paper discusses history future
+programming <hl>languages</hl> higher level <hl>languages</hl>
+difficulties writing history key part paper tree showing
+
+CACM-1167
+----------------------------------------------------------------
+<hl>highly</hl> desirable goal advent largescale computers
+pitfalls make difficult achieve completely automatic
+translations analyzed shown primarily semantic nature
+semiautomatic procedure
+

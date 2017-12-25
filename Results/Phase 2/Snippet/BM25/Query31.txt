@@ -1,0 +1,763 @@
+CACM-1686
+----------------------------------------------------------------
+<hl>digital</hl> holography reviewed <hl>mathematical</hl> model
+computational techniques authors <hl>digital</hl> holographic
+process discussed <hl>applications</hl> computer holography
+suggested computer holograms made threedimensional
+<hl>image</hl> discussed photographs <hl>images</hl>
+reconstructed <hl>digital</hl> holograms presented cacm october
+1968 lesem hirsch holography optics fourier transforms computer
+<hl>applications</hl> display
+
+CACM-3047
+----------------------------------------------------------------
+<hl>images</hl> <hl>digital</hl> terrain models cacm november
+1978 horn bachman <hl>image</hl> registration synthetic
+<hl>images</hl> surface models automatic hill shading
+<hl>digital</hl> terrain ... <hl>images</hl> register real
+<hl>images</hl> surface models number <hl>image</hl> analysis
+tasks benefit registration <hl>image</hl> model surface imaged
+automatic navigation visible light ... <hl>image</hl> synthetic
+<hl>image</hl> obtained surface model known positions light
+sources synthetic <hl>image</hl> intensity calculated
+reflectance map convenient <hl>describing</hl> surface
+reflection ... <hl>images</hl> requires exact alignment
+<hl>images</hl> <hl>digital</hl> terrain models addition
+automatic classification terrain satellite imagery requires
+alignment deal correctly effects varying
+
+CACM-2065
+----------------------------------------------------------------
+<hl>mathematical</hl> laboratory mit conceived marvin minsky
+cacm 197 hodes <hl>image</hl> <hl>processing</hl> biomedical
+<hl>image</hl> <hl>processing</hl> online <hl>image</hl>
+<hl>processing</hl> semiautomatic <hl>image</hl>
+<hl>processing</hl> <hl>processing</hl> biomedical picture
+<hl>processing</hl> online picture <hl>processing</hl>
+semiautomatic picture <hl>processing</hl> semiautomatic
+karyotyping karyotyping list <hl>processing</hl> picture
+<hl>processing</hl> 3.12 3.34 3.63
+
+CACM-2142
+----------------------------------------------------------------
+<hl>image</hl> <hl>processing</hl> efficient encoding
+<hl>image</hl> <hl>processing</hl> linear programming
+<hl>mathematical</hl> programming monte carlo techniques
+optimization picture compression picture description picture
+<hl>processing</hl>
+
+CACM-2370
+----------------------------------------------------------------
+<hl>image</hl> <hl>processing</hl> presented cacm april 1972
+herbst scanners pseudorandom displays interactive terminal
+<hl>image</hl> <hl>processing</hl> pattern recognition 4.41 6.35
+ca7243 jb ... <hl>digital</hl> computer dotmode vector displays
+analog input output facilities variety experimental equipment
+system design programming support typical <hl>applications</hl>
+scanner control
+
+CACM-3013
+----------------------------------------------------------------
+<hl>digital</hl> laplacian gradient operator distance center
+centroid neighborhood edge briefly considered turns equivalent
+standard <hl>digital</hl> <hl>approximations</hl> gradient cacm
+february1978 schachter ... <hl>digital</hl> pictures note
+describes operators respond step edges ramps similar
+<hl>digital</hl> laplacian max sum differences difference mean
+median gray levels
+
+CACM-2283
+----------------------------------------------------------------
+<hl>image</hl> irregularities <hl>noise</hl> yield thinned
+<hl>image</hl> reduced number points concluded algorithm
+operating conjunction hexagonal array features strike balance
+arrays cacm
+
+CACM-1144
+----------------------------------------------------------------
+<hl>digital</hl> computer determination alpha source activity
+technique determining activity homogeneity alpha source believed
+technique <hl>digital</hl> computer <hl>applications</hl> field
+nuclear physics
+
+CACM-3015
+----------------------------------------------------------------
+<hl>image</hl> reconstruction choice relaxation parameters
+discussed cacm february 1978 herman lent lutz biomedical
+<hl>image</hl> <hl>processing</hl> <hl>image</hl> reconstruction
+xray tomography <hl>mathematical</hl>
+
+CACM-2528
+----------------------------------------------------------------
+<hl>image</hl> reconstruction data compression picture
+<hl>processing</hl> 3.63 5.3 ca73311 jb january 24 1978 1:22
+2528 5 2528 2528 5 2528
+
+CACM-0533
+----------------------------------------------------------------
+<hl>digital</hl> synthesis correlated stationary <hl>noise</hl>
+note propose method generating stationary <hl>noise</hl>
+prescribed autocovariance function <hl>digital</hl> methods need
+technique arises testing <hl>processing</hl> engineering systems
+inputs corrupted correlated <hl>noise</hl> known form required
+technique simple produces strictsense stationary <hl>noise</hl>
+agrees approximately rt prescribed
+
+CACM-1929
+----------------------------------------------------------------
+<hl>images</hl> computers microfilm plotters <hl>digital</hl>
+computers widely <hl>processing</hl> information data kinds
+including pictorial information contained photographs graphical
+representations efficient conversion ... <hl>digital</hl>
+computer illustrative examples methods cacm february 1969
+schroeder computer <hl>images</hl> half tone pictures microfilm
+plotters <hl>processing</hl> 3.1 3.15 3.24
+
+CACM-2529
+----------------------------------------------------------------
+<hl>image</hl> reconstruction data compression picture
+<hl>processing</hl> 3.63 5.3 ca7331 jb january 24 1978 1:25 2142
+4 2529 2529 4 2529
+
+CACM-2826
+----------------------------------------------------------------
+<hl>image</hl> control sequence drive <hl>image</hl> sequence
+movement simplicity stick figure <hl>image</hl> encourages high
+level interaction design stage compatibility basic key
+
+CACM-2125
+----------------------------------------------------------------
+<hl>image</hl> illustrated ordered sequence contour points
+connection graph <hl>image</hl> obtained modified ledley
+algorithm <hl>image</hl> scan minimal perimeter polygon
+subjected constraints
+
+CACM-1891
+----------------------------------------------------------------
+<hl>image</hl> screen optical separation achieved viewing
+<hl>image</hl> color filters display interactive viewed large
+group people time cacm june 1969 ophir
+
+CACM-1741
+----------------------------------------------------------------
+<hl>image</hl> desired display computer <hl>image</hl> written
+rotating drum memory independent read heads continuously display
+picture generated swept horizontal lines standard <hl>image</hl>
+displayed pointing interaction difficult pointing function
+coordinates point screen inverse map generation process required
+calculate coordinates point screen inverse
+
+CACM-2421
+----------------------------------------------------------------
+<hl>image</hl> group scan lines portion drawing plotted buffer
+reused portion list <hl>processing</hl> procedures single pass
+xy display required generating binary
+
+CACM-0674
+----------------------------------------------------------------
+<hl>andrews</hl> hassler decou ca631118 jb march 13 1978 3:18 pm
+674 5 674 674 5 674 674 674
+
+CACM-2188
+----------------------------------------------------------------
+<hl>subject</hl> cost constraint found <hl>applications</hl>
+optimum configurations turn <hl>find</hl> general display system
+design guidelines cacm june 1971 foley design guidelines ...
+<hl>processing</hl> graphics processor supporting data
+<hl>processing</hl> system work reported develops objective
+quantitative design procedure helps give understanding configure
+display systems <hl>mathematical</hl> model computer driven
+graphics system parameters model functions capabilities graphics
+hardware computational requirements graphics application model
+analyzed numerical queueing
+
+CACM-0195
+----------------------------------------------------------------
+<hl>patterson</hl> ca652 jb march 22 1978 1:33 pm 195 5 195 195
+5 195 195 195
+
+CACM-1327
+----------------------------------------------------------------
+<hl>image</hl> limited entry decision table computer memory
+binary <hl>image</hl> set input conditions created data
+<hl>image</hl> scan decision table <hl>image</hl> arrive
+
+CACM-1839
+----------------------------------------------------------------
+<hl>singular</hl> <hl>decomposition</hl> complex matrix
+algorithm 358 f1 45 cacm october 1969 businger goulub
+<hl>singular</hl> values matrix <hl>decomposition</hl> squares
+solution pseudoinverse
+
+CACM-2231
+----------------------------------------------------------------
+<hl>original</hl> pattern paper give characterization patterns
+reconstructable projection algorithms developed reconstruct
+unambiguous ambiguous patterns shown unambiguous pattern
+perfectly reconstructed time
+
+CACM-2721
+----------------------------------------------------------------
+<hl>digital</hl> simulation river plankton population dynamics
+paper deals development <hl>mathematical</hl> model
+<hl>digital</hl> simulation fortran iv phytoplankton zooplankton
+population densities river ... <hl>digital</hl> simulations
+examinations aquatic ecosystems environmental planning involving
+examinations cacm september 1975 claudson <hl>digital</hl>
+simulation <hl>mathematical</hl> modeling plankton population
+dynamics
+
+CACM-2211
+----------------------------------------------------------------
+<hl>image</hl> stored core memory computer software scan
+conversion convert rectangular coordinates point word bit output
+display array core storage results
+
+CACM-1543
+----------------------------------------------------------------
+<hl>mathematical</hl> computation method devised
+<hl>digital</hl> computer nonnumeric work symbolic algebraic
+manipulation differentiation illustrate techniques involved
+<hl>digital</hl> computer derive equations motion ...
+<hl>digital</hl> computers numerical data <hl>processing</hl>
+stage reducing need human participation formulation types
+computer problems tensor calculus computer language designed
+facilitate
+
+CACM-2674
+----------------------------------------------------------------
+<hl>include</hl> general graphics fundamentally scan conversion
+algorithms developed support display presented suitable
+noninteractive <hl>applications</hl> interactive
+<hl>applications</hl> algorithms implemented fortran cdc
+
+CACM-2486
+----------------------------------------------------------------
+<hl>mathematical</hl> formulas solutions problems devised
+information system <hl>american</hl> institute physics
+<hl>include</hl> representation special characters foreign
+alphabets <hl>mathematical</hl> symbols input keyboards
+
+CACM-1196
+----------------------------------------------------------------
+<hl>applications</hl> differential equations general problem
+solving large class problems leading <hl>digital</hl> computer
+<hl>processing</hl> formulated terms numerical solution systems
+ordinary differential
+
+CACM-2050
+----------------------------------------------------------------
+<hl>applications</hl> content analysis stringent coverage
+requirement preliminary studies show harvard syntactic analyzer
+produce correct unambiguous identification <hl>subject</hl>
+object verbs approximately
+
+CACM-2829
+----------------------------------------------------------------
+<hl>images</hl> 1974 catmull developed algorithm rendering
+<hl>images</hl> bivariate surface patches paper describes
+extensions algorithm areas texture simulation lighting models
+parameterization <hl>digital</hl> signal <hl>processing</hl>
+theory patch rendering algorithm accurate computation surface
+normal patch picture element permitting simulation mirror
+reflections amount light
+
+CACM-1261
+----------------------------------------------------------------
+<hl>digital</hl> networks simulation <hl>digital</hl> networks
+<hl>digital</hl> computer engineer effective means analyzing
+timequantized logical behavior <hl>digital</hl> network modeled
+set timedependent timeindependent <hl>describing</hl>
+inputoutput relationship model element comprising network mode
+simplicity utilizing fortran iv programming system
+<hl>digital</hl> network simulator discussed illustrated
+simplicity
+
+CACM-1424
+----------------------------------------------------------------
+<hl>digital</hl> circuits list <hl>processing</hl> mapping black
+diagrams <hl>digital</hl> circuits list structures list
+<hl>processing</hl> program written control data 36 mapping
+carry
+
+CACM-2893
+----------------------------------------------------------------
+<hl>american</hl> local governments computers electronic data
+<hl>processing</hl> major technological innovation operations
+<hl>american</hl> local government paper establishes substantial
+variation larger local ... <hl>include</hl> measured need
+computer <hl>applications</hl> presence external funding support
+computing finally paper suggests framework identifying key
+determinants technological innovations cacm ...
+<hl>applications</hl> central question addressed explain
+differences governments extent adopt computers hypotheses tested
+streams explanatory factors data 5 city county governments
+
+CACM-2402
+----------------------------------------------------------------
+<hl>digital</hl> computers encourages development algorithms
+adapted environment pictorial pattern recognition techniques
+make number approaches xray structure determination based
+molecular model
+
+CACM-2446
+----------------------------------------------------------------
+<hl>outer</hl> <hl>product</hl> 5.3 ca7399 jb january 23 1978
+8:49 2446 5 2446 2446 5 2446 2446 2446
+
+CACM-1108
+----------------------------------------------------------------
+<hl>processing</hl> portion system presented detail general
+operation tracker head assembly data readout operation entire
+system effect data <hl>processing</hl> considerations design ...
+<hl>digital</hl> data processor tracking partially illuminated
+moon study lunar tracking techniques fabrication breadboard
+assess feasibility technique selected conducted define tracking
+... <hl>digital</hl> computer tracker drive mechanism system
+units connected cascade comprise control loop application
+optical telescope radial mechanical scanning mechanism read
+
+CACM-1384
+----------------------------------------------------------------
+<hl>mathematical</hl> requirements undergraduate program
+computer science <hl>subject</hl> debate association computing
+machinerys curriculum committee believes requirements
+essentially <hl>mathematical</hl> content physical sciences
+
+CACM-1383
+----------------------------------------------------------------
+<hl>digital</hl> computer education <hl>mathematical</hl>
+sciences <hl>digital</hl> computer profoundly altered definition
+interesting mathematics importance applied logic human affairs
+changed existence logical
+
+CACM-2415
+----------------------------------------------------------------
+<hl>patterson</hl> automatic integration numerical integration
+automatic quadrature numerical quadrature 5.16 ca731111 jb
+january 2 1978 9:51 1352 4 2415 2415
+
+CACM-1272
+----------------------------------------------------------------
+<hl>applications</hl> processes factor analysis
+<hl>applications</hl> quick unbiased evaluation large volume
+incoming mail telegrams yielding summary reports humans
+computers produce cacm ... <hl>processing</hl> automatic
+abstracting citation indexing mechanical translation procedures
+editing required automatic method leaves desired paper discusses
+economy editing function amount
+
+CACM-2004
+----------------------------------------------------------------
+<hl>image</hl> <hl>processing</hl> hidden surface polygonal
+surface structure presentations 4.9 ca791 jb february 1 1978
+2:27 pm 24 4 24 24
+
+CACM-1700
+----------------------------------------------------------------
+<hl>subject</hl> index entries search program device operational
+late 1963 item entered store 18byte mask created items
+meaningful words inclusive operation <hl>product</hl> operation
+mask similarly constructed question mask equal question mask
+question words present store item equality conclusive words
+store item
+
+CACM-1571
+----------------------------------------------------------------
+<hl>processing</hl> laboratory brain research institute ucla
+system represents attempt provide research workers institute
+ability interact directly highly sophisticated <hl>digital</hl>
+computing
+
+CACM-2275
+----------------------------------------------------------------
+<hl>singular</hl> <hl>decomposition</hl> constrain unknown
+function approximation represents probability distribution
+nonnegative number test cases presented set actual experimental
+data analyzed procedures
+
+CACM-0721
+----------------------------------------------------------------
+<hl>american</hl> standard flowchart symbols information
+<hl>processing</hl> paper presents essential contents proposed
+<hl>american</hl> standard flowchart symbols information
+<hl>processing</hl> proposed standard prepared
+
+CACM-1251
+----------------------------------------------------------------
+<hl>american</hl> standard ifipicc vocabularies compared
+proposed <hl>american</hl> standard vocabulary information
+<hl>processing</hl> ifipicc vocabulary terms information
+<hl>processing</hl> analyzed compared cacm june
+
+CACM-0104
+----------------------------------------------------------------
+<hl>digital</hl> simulation discrete flow systems discrete flow
+systems discussed characterized movement randomly arriving items
+interacting channels programing <hl>digital</hl> computer
+simulate
+
+CACM-2687
+----------------------------------------------------------------
+<hl>include</hl> general graphics feasibility display shown
+deriving minimum number patterns required read memory character
+generator synthesize arbitrary line synthesis process
+
+CACM-2174
+----------------------------------------------------------------
+<hl>original</hl> work gale shapley assignment method stable
+marriage criterion extended <hl>find</hl> stable marriage
+assignments algorithm derived <hl>finding</hl> stable marriage
+assignments
+
+CACM-2906
+----------------------------------------------------------------
+<hl>processing</hl> <hl>applications</hl> application
+development today laborin tensive recent years highlevel
+languages increasingly explored solution problem business
+definition language bdl language <hl>processing</hl> problems
+concepts bdl mimic evolved years businesses methods results
+sublanguages components defining business forms
+<hl>describing</hl> business organization writing calculations
+
+CACM-1796
+----------------------------------------------------------------
+<hl>subject</hl> algorithms 1969 cacm december 1969 1969 index
+supplement index <hl>subject</hl> algorithms 196 1968 comm acm
+11 12 dec 1968
+
+CACM-2304
+----------------------------------------------------------------
+<hl>digital</hl> computer field tended impersonal heavy emphasis
+eastern universities commercial developments <hl>article</hl>
+records events early years personal people organizations
+technologies
+
+CACM-3021
+----------------------------------------------------------------
+<hl>applications</hl> electronic mail electronic funds transfer
+systems message encrypted representing number raising publicly
+power taking remainder result divided publicly <hl>product</hl>
+... <hl>digital</hl> signatures publickey cryptosystems
+encryption method presented property publicly revealing
+encryption key reveal decryption key important consequences
+couriers secure means
+
+CACM-0531
+----------------------------------------------------------------
+<hl>subject</hl> errors misspellings marriage problems
+interested maintenance psychiatric case register maryland
+reports hundred psychiatric agencies refer patient records
+linked order
+
+CACM-0397
+----------------------------------------------------------------
+<hl>processing</hl> paper proposes card format suitable variety
+reference information <hl>processing</hl> 8column ibm card
+divided fieldsreference material field columns 167
+identification
+
+CACM-3057
+----------------------------------------------------------------
+<hl>find</hl> transformed <hl>digital</hl> picture picture sum
+absolute errors gray level togram transformed picture reference
+picture minimized equivalent placing k1 linearly
+
+CACM-0893
+----------------------------------------------------------------
+<hl>digital</hl> computer 79 nyu modified <hl>include</hl>
+significance mode operation intended facilitate identification
+significant bits results floatingpoint arithmetic operations
+manner floatingpoint
+
+CACM-0670
+----------------------------------------------------------------
+<hl>subject</hl> statutes regulations affected important common
+law rules established courts legal ramifications involve
+mechanization significant economically attractive phenomenon
+premises <hl>processing</hl>
+
+CACM-2643
+----------------------------------------------------------------
+<hl>digital</hl> computer retaining fast access individual bits
+considers problem minimizing storage needed tables reduction
+techniques developed problem shown reduce covering
+
+CACM-1415
+----------------------------------------------------------------
+<hl>decomposition</hl> long complex english sentences shorter
+kernellike constituent sentences microsentenceshas suggested
+avenue conducting automatic retrieval natural language messages
+explore prospects
+
+CACM-1233
+----------------------------------------------------------------
+<hl>processing</hl> systems standard working paper paper
+intended outline conventions considered flowcharts information
+<hl>processing</hl> systems conventions applied symbols
+appearing proposed <hl>american</hl>
+
+CACM-1085
+----------------------------------------------------------------
+<hl>processing</hl> proposed <hl>american</hl> standard cacm
+1964 ca6454 jb march 1 1978 12:14 185 5 185 185 5 185 185 185
+
+CACM-0078
+----------------------------------------------------------------
+<hl>digital</hl> analog solve initial problems boundary problems
+<hl>mathematical</hl> process found compensate machines
+inadequacy compensating machine imperfection course normal
+activity numerical
+
+CACM-1388
+----------------------------------------------------------------
+<hl>expansions</hl> dependent variables <hl>expansions</hl>
+determined symbolically nonnumeric parameters <hl>original</hl>
+equations carried final <hl>expansions</hl> exact influence
+parameters problem solution easily displayed
+
+CACM-1846
+----------------------------------------------------------------
+<hl>find</hl> method simulating parallel events report found
+cases shown <hl>find</hl> solution extending information
+solution technique cases technique computationally unfeasible
+additional ... <hl>digital</hl> computer dealt systems assumed
+network interconnected sequential processes briefly reviewed
+common techniques handle simulations simultaneous events occur
+handled simple
+
+CACM-0605
+----------------------------------------------------------------
+<hl>processing</hl> techniques tabulate make motion pictures
+vehicle movements model vehicle assigned <hl>digital</hl>
+identification giving points entry exit type vehicle desired
+
+CACM-1660
+----------------------------------------------------------------
+<hl>subject</hl> algorithms 1961968 cacm december 1968 ca68126
+jb february 21 1978 1:39 pm 166 5 166 166 5 166 166
+
+CACM-1952
+----------------------------------------------------------------
+<hl>subject</hl> algorithms 197 cacm december 197 ca71211 jb
+february 9 1978 2:5 pm 1952 5 1952 1952 5 1952 1952
+
+CACM-3040
+----------------------------------------------------------------
+<hl>finding</hl> values set variables <hl>subject</hl> set
+constraints theory consistency levels networks formulated
+related problems backtrack tree search efficiency algorithm
+developed
+
+CACM-1359
+----------------------------------------------------------------
+<hl>applications</hl> manipulation data strings complex
+<hl>processing</hl> function information storage retrieval
+<hl>applications</hl> data string manipulation discussed context
+interpretive <hl>processing</hl> environment controlled
+
+CACM-0185
+----------------------------------------------------------------
+<hl>processing</hl> abilities large extent schedule workload
+scheduling routine capable extremely rapid execution prove
+selfdefeating construction schedule entails determining programs
+run
+
+CACM-1066
+----------------------------------------------------------------
+<hl>applications</hl> linear programming linear programming
+models grown extensively recent years concept organizing
+computer code undergone radical change longer adequate merely
+<hl>mathematical</hl> algorithm simplex method computer code
+advanced code cope variety situations respective computer
+subprograms organized integrated system emphasis paper devoted
+<hl>applications</hl> petroleum industry placing systems
+components system translation problem statement terms basic data
+linear programming matrix coefficients data transmission direct
+
+CACM-2005
+----------------------------------------------------------------
+<hl>american</hl> national standard x3.211967 rectangular holes
+twelverow punched cards cacm august 197 tabulatingcard hollerith
+card keypunch information <hl>processing</hl> 6.35 ca7816
+
+CACM-0695
+----------------------------------------------------------------
+<hl>mathematical</hl> physical developments calculation comments
+made regarding reliability economics utility weaknesses
+limitations disk system future <hl>applications</hl> noted disk
+connotations cacm ... <hl>describing</hl> stretch ibm 73
+computer special emphasis organization operation inputoutput
+equipment physical characteristics twodisk system 419434 72bit
+words 8 usecperword
+
+CACM-1721
+----------------------------------------------------------------
+<hl>singular</hl> points system differential equations
+developing method intersection point determined identified
+<hl>singular</hl> point modifications applied system ensure
+<hl>singular</hl> point stable <hl>singular</hl> point approach
+point integral parameter tends infinity addition method
+systematically searching intersection points prescribed
+rectangular area cacm july 1968
+
+CACM-3059
+----------------------------------------------------------------
+<hl>processing</hl> programs application cpuio ioio overlap
+approximate queueing models internal parallel
+<hl>processing</hl> individual programs multiprogrammed system
+developed paper solution technique <hl>decomposition</hl> models
+formulated terms cpuio ioio overlap applied analysis problems
+percentage performance improvement cpuio overlap found greatest
+systems approximate cpuio
+
+CACM-2232
+----------------------------------------------------------------
+<hl>subject</hl> matter results consist settheoretic definition
+widthatangle theorem relating pattern boundary radius vector
+descriptions alternate widths widths calculated illustrative
+graphical
+
+CACM-1566
+----------------------------------------------------------------
+<hl>digital</hl> computer considered shown conventionally
+uniform <hl>approximations</hl> sqrtx provide optimal starting
+values problem obtaining optimal starting values problem
+obtaining optimal
+
+CACM-1135
+----------------------------------------------------------------
+<hl>digital</hl> compute programming language covers wide class
+business <hl>processing</hl> <hl>applications</hl> presented
+structure based identifying incorporating compiler aspects
+common processes class
+
+CACM-2051
+----------------------------------------------------------------
+<hl>article</hl> explains usefulness limitations programs
+illustrates small portion hypothetical data cacm june 197 frantz
+comparative linguistics natural language <hl>processing</hl>
+comparative <hl>processing</hl> 3.42 ca764 jb february 13 1978
+11:51 251 5 251 251 5 251 251 251
+
+CACM-1440
+----------------------------------------------------------------
+<hl>approximations</hl> square root calculation ibm system36
+starting <hl>approximations</hl> square root calculation newtons
+method presented form facilitate ibm system36 square root
+
+CACM-1659
+----------------------------------------------------------------
+<hl>mathematical</hl> linguistics language computer language
+data <hl>processing</hl> computational linguistics course
+curriculum computational linguistics graduate program
+computational linguistics bibliography computer science
+
+CACM-0986
+----------------------------------------------------------------
+<hl>american</hl> standard specification generalpurpose paper
+cards information <hl>processing</hl> cacm october 1964 ca64116
+jb march 9 1978 4:35 pm 986 5
+
+CACM-1652
+----------------------------------------------------------------
+<hl>processing</hl> <hl>applications</hl> online systems code
+specifically designed simplify internal information
+<hl>processing</hl> operations online computer system respect
+nonnumeric <hl>applications</hl> maximize transfer
+
+CACM-3132
+----------------------------------------------------------------
+<hl>find</hl> central solutions pattern classification twoclass
+pattern recognition standard technique algorithm
+<hl>finding</hl> hyperplanes separates classes linearly
+separable training set traditional <hl>find</hl> hyperplane
+separates points hyperplane necessarily centered empty space
+classes central hyperplane favor class lower error rate
+classifying points noncentral
+
+CACM-1680
+----------------------------------------------------------------
+<hl>processing</hl> tutorial system adept displayexpedited
+<hl>processing</hl> tutorial system system designed improve
+mancomputer communications employing display unit interleave
+tutoring computer operations
+
+CACM-2054
+----------------------------------------------------------------
+<hl>processing</hl> system online <hl>digital</hl> computer
+<hl>processing</hl> system considered ordinary telephone
+complete terminal device input computer provided sequence spoken
+words output
+
+CACM-2130
+----------------------------------------------------------------
+<hl>subject</hl> paper segmentation techniques proposed
+ramamoorthy <hl>subject</hl> limitations arise preferred segment
+size compatible physical restrictions imposed computing
+equipment generalization ramamoorthys
+
+CACM-2994
+----------------------------------------------------------------
+<hl>digital</hl> display circular arcs circular arcs drawn
+incremental display device cathode ray tube <hl>digital</hl>
+plotter matrix prin ter sign testing
+
+CACM-1793
+----------------------------------------------------------------
+<hl>processing</hl> proposed <hl>american</hl> national standard
+cacm december 1969 alphameric handwritten input encoding
+transcription numerals upper case hand printed 2.43 4.41
+
+CACM-2819
+----------------------------------------------------------------
+<hl>digital</hl> data system consists encoder analysis program
+decoder algorithms encoding string differ slightly earlier
+proposals analysis program attempts <hl>find</hl> optimal
+
+CACM-1873
+----------------------------------------------------------------
+<hl>applications</hl> cacm july 1969 fox linear programming
+revised simplex method multiple pricing <hl>product</hl> 5.19
+5.41 ca6977 jb february 17 19789:8
+
+CACM-0973
+----------------------------------------------------------------
+<hl>mathematical</hl> model relating ventricular dipoles surface
+potentials sketched shown inverse problemthat determining
+electrical heart parameters basis skin potential measurementsmay
+viewed
+
+CACM-2788
+----------------------------------------------------------------
+<hl>finding</hl> circles array accumulators cacm february 1975
+kimme balard sklansky picture <hl>processing</hl> pattern
+recognition curve detectionline fitting 3.63 ca75211 jb
+
+CACM-1476
+----------------------------------------------------------------
+<hl>american</hl> standards association charged task groups
+x3.3.4 responsibility define functional control requirements
+characteristics governing operation <hl>digital</hl> data
+generating receiving systems
+
+CACM-3156
+----------------------------------------------------------------
+<hl>find</hl> connected components undirected graph vertices
+time time bound achieved n$n$log2n processors algorithm
+<hl>find</hl> transitive closure symmetric boolean matrix assume
+
+CACM-3114
+----------------------------------------------------------------
+<hl>original</hl> difference datum cacm april 1978 heckel
+difference isolation word <hl>processing</hl> text editing
+program maintenance hash coding compression bandwidth
+compression
+
+CACM-2606
+----------------------------------------------------------------
+<hl>approximations</hl> integration algorithm found
+implementation compared programmed algorithms algorithm
+stepbystep procedure solving initial problem ordinary
+differential equations designed approximate poles
+

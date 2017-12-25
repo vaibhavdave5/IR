@@ -1,0 +1,820 @@
+CACM-2634
+----------------------------------------------------------------
+<hl>statistical</hl> software social sciences hundred college
+university computer installations offer types
+<hl>statistical</hl> <hl>packages</hl> general widely osiris
+spss bmd datatext tsar <hl>tests</hl> made systems results
+summarized cost performance cacm june 1974 slysz
+<hl>statistical</hl> computation <hl>statistical</hl> software
+descriptive statistics bivariate tables pearson
+
+CACM-1344
+----------------------------------------------------------------
+<hl>statistical</hl> computations based algebraically
+<hl>models</hl> based machinereadable <hl>statistical</hl> model
+related symbolic specifications efficient method performing
+calculations <hl>statistical</hl> <hl>models</hl> balanced
+complete
+
+CACM-1709
+----------------------------------------------------------------
+<hl>linear</hl> <hl>regression</hl> <hl>statistical</hl>
+recurrence formulas correlation <hl>linear</hl>
+<hl>statistical</hl> <hl>models</hl> <hl>statistical</hl>
+computer programs curve fitting 4 4.4 5 5.5 5.1 5.13
+
+CACM-1474
+----------------------------------------------------------------
+<hl>models</hl> roundoff error describe series experiments
+testing validity <hl>models</hl> concluded <hl>models</hl>
+general good discrepancies rare mild <hl>test</hl> techniques
+experiment types
+
+CACM-1171
+----------------------------------------------------------------
+<hl>algorithms</hl> <hl>linear</hl> programming
+<hl>statistical</hl> comparison primaldual commonly
+primalsimplex algorithm solving <hl>linear</hl> programming
+problems made assumption starting full artificial basis
+conditions
+
+CACM-1637
+----------------------------------------------------------------
+<hl>test</hl> difference mean experiments suggested shown
+variance sample mean relates spectrum generating process
+estimation quantities <hl>interest</hl> results expand
+possibilities <hl>statistical</hl>
+
+CACM-1695
+----------------------------------------------------------------
+<hl>system</hl> modeling neural networks description presented
+plexus <hl>system</hl> enables user construct neural network
+analyze output data produced network store retrieve ...
+<hl>models</hl> coordinated experimental work plexus networks
+built <hl>components</hl> representing individual neurons
+external stimuli interconnecting fibers component detailed
+nature provision made <hl>capabilities</hl> provided data
+resulting simulation network analyzed variety techniques ranging
+examinations gross characteristics data determination detailed
+<hl>statistical</hl> properties cacm september <hl>system</hl>
+simulation library systems modeling network simulation neural
+networks neurophysiological <hl>models</hl> online simulation
+simulation 3.12 3.19 3.29 3.65 ca6896 jb
+
+CACM-2999
+----------------------------------------------------------------
+<hl>capabilities</hl> world bank <hl>system</hl> identified
+wrapsworld bank retrieval array processing <hl>system</hl> cacm
+february 1977 muller array processing table processing
+<hl>statistical</hl>
+
+CACM-1698
+----------------------------------------------------------------
+<hl>system</hl> <hl>design</hl> cacm september 1968 denning
+<hl>statistical</hl> <hl>models</hl> inputoutput operating
+<hl>system</hl> <hl>design</hl> inputoutput <hl>design</hl> 4.3
+4.41 5.5 ca6893 jb february ... <hl>statistical</hl> model
+console behavior multiuser computers ability computer
+<hl>system</hl> communicate world efficiently important ability
+perform computations efficiently difficult characterize user
+
+CACM-3049
+----------------------------------------------------------------
+<hl>system</hl> paper presents conceptual view graphics leading
+<hl>design</hl> sembegs outlines major <hl>components</hl>
+<hl>system</hl> <hl>design</hl> sembegs founded basic assumption
+true aim ... <hl>system</hl> sembegs sembegs complete batch
+environment graphical <hl>system</hl> <hl>components</hl>
+handling graphical data displaying contents variety graphical
+hardware performing graphical batch ... <hl>capabilities</hl>
+sembegs built basic graphical data management <hl>system</hl>
+bagdams common means communicating descriptions graphical
+entities <hl>components</hl> sembegs bagdams facilities storing
+
+CACM-1252
+----------------------------------------------------------------
+<hl>statistical</hl> tables approach automatic <hl>system</hl>
+<hl>design</hl> preparation <hl>statistical</hl> tables
+important function data processing systems organizations
+symbolic notation description tables shown
+
+CACM-1816
+----------------------------------------------------------------
+<hl>generalized</hl> <hl>squares</hl> fit orthogonal polynomials
+algorithm 296 cacm november 1969 watson <hl>squares</hl> curve
+fitting orthogonal polynomials threeterm recurrence polynomial
+<hl>regression</hl>
+
+CACM-2395
+----------------------------------------------------------------
+<hl>regression</hl> quadratic programming algorithm magnified
+diagonal method nonlinear <hl>regression</hl> <hl>linear</hl>
+constraints <hl>regression</hl> method published jacm july 197
+cacm january 1972
+
+CACM-1691
+----------------------------------------------------------------
+<hl>linear</hl> recurrence modulo irreducible polynomials
+primitive trinomials modulo congruential generators prime
+numbers <hl>statistical</hl> <hl>tests</hl> randomness ibm 36
+32bit versus 36bit ... <hl>statistical</hl> <hl>tests</hl>
+random number generators empirically shown generators type
+produce sequences autocorrelation functions lag 5 exhibit
+evidence nonrandomness multiplicative constants
+
+CACM-1631
+----------------------------------------------------------------
+<hl>statistical</hl> <hl>tests</hl> <hl>tests</hl> results
+<hl>tests</hl> presented <hl>tests</hl> numbers satisfactory
+recommended suitable <hl>tests</hl> applied random numbers
+computer simulations cacm february 1967
+
+CACM-1398
+----------------------------------------------------------------
+<hl>multivariate</hl> type problems biological social sciences
+approach outlined solution type <hl>multivariate</hl> problem
+found biological social sciences medicine approach logical
+<hl>statistical</hl>
+
+CACM-3138
+----------------------------------------------------------------
+<hl>linear</hl> programming numerical <hl>linear</hl> algebra
+modified givens transformations <hl>linear</hl> programming
+<hl>test</hl> cases 5 5.4 5.41 5.1 5.14 ca7944 dh 21 ...
+<hl>linear</hl> <hl>squares</hl> problem column row dropped
+formal scaling imaginary unit 1 <hl>squares</hl> addition column
+row elimination process procedure successive ssive
+
+CACM-2216
+----------------------------------------------------------------
+<hl>statistical</hl> <hl>tests</hl> values thousand trees 1
+points moments distribution function satisfactory agreement
+moments computed generating function empirical <hl>tests</hl>
+analytical results ... <hl>algorithms</hl> discussed hoare
+singleton van emden solution integral equation advanced
+<hl>algorithms</hl> family makes minor reductions expected
+sorting effort substantially reduces
+
+CACM-2062
+----------------------------------------------------------------
+<hl>models</hl> sequential sampling <hl>models</hl> experimental
+<hl>design</hl> 3.31 3.5 3.54 5.5 ca754 jb february 13 1978 2:11
+pm 262 5 262
+
+CACM-2825
+----------------------------------------------------------------
+<hl>statistical</hl> computer programs cacm october 1976 frane
+analysis variance cluster analysis contingency tables data
+analysis discriminant analysis factor analysis graphics
+
+CACM-2849
+----------------------------------------------------------------
+<hl>statistical</hl> arbitration switching packets destinations
+ether distributed receiving stations packet address recognition
+<hl>design</hl> principles implementation based experience
+operating ethernet 1 <hl>included</hl> completeness cacm july
+1976 metcalfe boggs computer networks packet switching
+multiprocessing distributed control distributed computing
+broadcast communication <hl>statistical</hl> arbitration
+
+CACM-1206
+----------------------------------------------------------------
+<hl>tests</hl> number equations made quickly intractable
+problems easily solved <hl>design</hl> experiments greatly
+simplified computational mathematical techniques reduce bias sjp
+discussed
+
+CACM-0536
+----------------------------------------------------------------
+<hl>regression</hl> solution simultaneous equations set
+observables bound relation parameters equation frequently
+problem determining set values ai minimizes sum <hl>squares</hl>
+differences
+
+CACM-1876
+----------------------------------------------------------------
+<hl>test</hl> matrices <hl>sign</hl> patterns prescribed
+positive spectra class orthogonal transformations presented
+members transform positive diagonal matrix matrix special
+<hl>sign</hl> patterns
+
+CACM-3166
+----------------------------------------------------------------
+<hl>algorithms</hl> numerical computation standard deviation
+unweighted sampled data analyzed <hl>algorithms</hl> wellknown
+<hl>statistical</hl> computational literature
+<hl>algorithms</hl> specifically intended automatic computation
+discussion <hl>algorithms</hl> analyzed conditions accurate
+conclude <hl>algorithms</hl> provide accurate answers problems
+<hl>algorithms</hl> substantially accurate difficult problems
+cacm september 1979 chan lewis
+
+CACM-2225
+----------------------------------------------------------------
+<hl>statistical</hl> <hl>design</hl> experiments 5.39 5.5 ca7119
+jb february 8 1978 1:27 2225 5 2225 2225 5 2225 2225 2225
+
+CACM-1420
+----------------------------------------------------------------
+<hl>statistical</hl> <hl>tests</hl> addition significant bits
+random significant bitsa property generators modulus 2k possess
+cacm june 1966 hutchinson ca6662 jb march
+
+CACM-2525
+----------------------------------------------------------------
+<hl>statistical</hl> study accuracy floating point number
+systems paper presents <hl>statistical</hl> results
+<hl>tests</hl> accuracy arithmetic systems evaluating sums
+products products analytic
+
+CACM-1066
+----------------------------------------------------------------
+<hl>linear</hl> programming <hl>linear</hl> programming
+<hl>models</hl> grown extensively recent years concept
+organizing computer code undergone radical change longer
+adequate merely reduce <hl>system</hl> emphasis paper devoted
+underlying principles future <hl>linear</hl> programming systems
+based viewpoints influenced demands applications petroleum
+industry placing systems <hl>components</hl>
+
+CACM-0069
+----------------------------------------------------------------
+<hl>statistical</hl> programs ibm 65part collection descriptions
+<hl>statistical</hl> programs university computing centers ibm
+65s cacm august 1959 hamblen ca5984 jb march
+
+CACM-1423
+----------------------------------------------------------------
+<hl>generalized</hl> inverse matrix <hl>generalized</hl> inverse
+matrix important analysis extension concept inverse applies
+matrices applications numerical analysis widely existing
+<hl>algorithms</hl> fairly <hl>generalized</hl> inverse extra
+effort additional storage requirements algorithm
+<hl>generalized</hl> inverse matrix including special case mn
+nonsingular case mn ranka case
+
+CACM-2145
+----------------------------------------------------------------
+<hl>design</hl> printed circuit boards help helps automate
+<hl>design</hl> stage step closer production logical
+<hl>design</hl> <hl>design</hl> wiring patterns twolayer circuit
+boards <hl>packages</hl> discrete <hl>components</hl>
+transistors resistors help employs methods wiring heuristic
+method simulates human approaches wiring <hl>design</hl>
+theoretically interesting timeconsuming method
+
+CACM-1605
+----------------------------------------------------------------
+<hl>system</hl> differences variables differences due
+<hl>design</hl> factors eliminated <hl>statistical</hl> analysis
+experimental results provided strong evidence important
+<hl>system</hl> differences critique experimental ...
+<hl>system</hl> ctss compared ibm ibsys batchprocessing
+<hl>system</hl> means statistically designed experiment
+identical set programming problems assigned group programming
+subjects influences
+
+CACM-1146
+----------------------------------------------------------------
+<hl>formula</hl> multidimensional quadrature point seconddegree
+quadrature <hl>formula</hl> integration sdimensional
+hyperrectangle presented points lie surface weights opposite
+<hl>sign</hl> attached points opposite
+
+CACM-1433
+----------------------------------------------------------------
+<hl>linear</hl> programming algorithm <hl>design</hl>
+combinatorial problem <hl>linear</hl> programming
+<hl>models</hl> grow bigger bigger size actual data memorized
+put magnetic tape disk
+
+CACM-1629
+----------------------------------------------------------------
+<hl>statistical</hl> programs small medium size 4k characters 8k
+words fortran ii compiler exists availability announced major
+<hl>design</hl> criteria ease ease
+
+CACM-2604
+----------------------------------------------------------------
+<hl>linear</hl> programming <hl>linear</hl> programming
+interactive graphic display <hl>system</hl> implemented solve
+region <hl>design</hl> problem partitioning region
+nonoverlapping subregions areas proportions total
+
+CACM-1946
+----------------------------------------------------------------
+<hl>tests</hl> performed sample problems conclusively show
+bezouts determinant superior respects <hl>univariate</hl>
+polynomials case collins reduced prs algorithm faster bezouts
+determinant ... <hl>algorithms</hl> computing resultant
+polynomials variables key repetitive step computation solving
+systems polynomial equations elimination studied determining
+algorithm computer implementation depends ... <hl>tests</hl>
+reported detail cacm january 1969 ku adler resultant algorithm
+gcd algorithm polynomial resultant elimination bezouts
+determinant sylvesters determinant reduced
+
+CACM-1619
+----------------------------------------------------------------
+<hl>statistical</hl> computations neely discussed computational
+error generated <hl>algorithms</hl> compute statistics present
+paper methods errorfree simple concept costly machine time
+mentioned
+
+CACM-1874
+----------------------------------------------------------------
+<hl>statistical</hl> properties easily generated sequence
+involving absolute values shown period attractive
+<hl>statistical</hl> properties <hl>statistical</hl> properties
+sequences related previously established criteria
+
+CACM-1835
+----------------------------------------------------------------
+<hl>students</hl> important important features iitran
+procedureoriented language onelevel block structure variety data
+types powerful features <hl>included</hl> discussion
+<hl>design</hl> principles student
+
+CACM-1978
+----------------------------------------------------------------
+<hl>capabilities</hl> simply power achieve fast turnaround
+develop interactive routines easy take advantage insight visual
+<hl>capabilities</hl> human problem solver online systems
+<hl>design</hl> considerations interactive routines
+implementation online <hl>squares</hl> datafitting program peg
+presented results obtained empirical data conclusion area future
+work field
+
+CACM-2904
+----------------------------------------------------------------
+<hl>linear</hl> function <hl>test</hl> replacement discussed
+<hl>algorithms</hl> fit integrated package local optimization
+<hl>algorithms</hl> cacm november 1977 cocke compilers
+optimization compiled code
+
+CACM-2217
+----------------------------------------------------------------
+<hl>regression</hl> program produce optimal coefficients
+<hl>linear</hl> polynomial functions terms features automatic
+datahandling routines written passing data learning program
+proving program <hl>regression</hl> analysis experience pp
+number experiments performed <hl>test</hl> effectiveness
+generality learning program results showed learning produced
+dramatic improvements solutions problems
+
+CACM-1578
+----------------------------------------------------------------
+<hl>generalized</hl> <hl>squares</hl> fit orthogonal polynomials
+algorithm 296 cacm june 1967 makinson ca6767f jb march 23 1978
+3:33 pm 1578 5
+
+CACM-2343
+----------------------------------------------------------------
+<hl>design</hl> overlay configuration overlay structuring
+complex task tools including graphic display <hl>included</hl>
+proposal order aid programmer <hl>design</hl> content overlays
+briefly
+
+CACM-0382
+----------------------------------------------------------------
+<hl>statistical</hl> programs university north carolina cacm
+february 1961 bush ca61216 jb march 17 1978 12:48 382 5 382 382
+5
+
+CACM-2135
+----------------------------------------------------------------
+<hl>linear</hl> functional attempt made approximate polynomial
+approximating <hl>algorithms</hl> developed rapid computation
+wide class selections includes lagrangian hermitian rules
+special cases
+
+CACM-2389
+----------------------------------------------------------------
+<hl>test</hl> resulting arrangements according variety
+constraints <hl>algorithms</hl> solve problems expressed
+language rely heuristic programming language search
+<hl>algorithms</hl> detailed cacm february ... <hl>system</hl>
+general space planning computer language set programs language
+allow formulating solving class space planning problems language
+extension algol includes
+
+CACM-1875
+----------------------------------------------------------------
+<hl>sign</hl> derivatives bernstein polynomials <hl>linear</hl>
+concavity constraints quadratic programming splines 5.13 5.41
+ca6975 jb february 17 1978 9:22 1875 5
+
+CACM-0050
+----------------------------------------------------------------
+<hl>statistical</hl> programs ibm 65part ii cacm october 1959
+hamblen ca5919 jb march 22 1978 4:9 pm 5 5 5 5
+
+CACM-2592
+----------------------------------------------------------------
+<hl>test</hl> problems <hl>linear</hl> programming codes users
+<hl>linear</hl> programming computer codes realized necessity
+evaluating capacity effectiveness accuracy solutions provided
+codes large <hl>linear</hl> programming codes installations
+assumed generating correct solutions benchmarked <hl>test</hl>
+problems known solutions reason failure adequately <hl>test</hl>
+codes rarely large <hl>linear</hl> programming <hl>test</hl>
+problems known solutions method permits generation <hl>test</hl>
+problems arbitrary size wide range numerical characteristics
+cacm october 1974
+
+CACM-1802
+----------------------------------------------------------------
+<hl>regression</hl> direct product matrices algorithm 366 cacm
+december 1969 claringbold analysis variance analysis covariance
+<hl>regression</hl> analysis experimental <hl>design</hl> matrix
+direct
+
+CACM-2167
+----------------------------------------------------------------
+<hl>system</hl> describe techniques akin substitution techniques
+decrease thesize expression make intelligible user delineate
+spectrum approaches <hl>design</hl> automatic simplification
+<hl>capabilities</hl> algebraic ... <hl>algorithms</hl>
+numbertheoretic conjectures rely results nonexistence
+<hl>algorithms</hl> classes expressions <hl>included</hl> cacm
+august 1971 moses algebraic manipulation algebraic
+simplification canonical simplification
+
+CACM-1823
+----------------------------------------------------------------
+<hl>statistical</hl> analysis 5.5 ca69117 jb february 15 1978
+12:22 pm 1823 5 1823 1823 5 1823 1823 1823
+
+CACM-3087
+----------------------------------------------------------------
+<hl>design</hl> implementation <hl>system</hl> illustrated
+detailed examples operation <hl>system</hl> <hl>components</hl>
+examples <hl>system</hl> operation language processing portion
+<hl>system</hl> number augmented transition networks
+<hl>system</hl> <hl>components</hl> construct formal query
+relational database optimize order searching relations methods
+discussed handling vague complex questions providing browsing
+ability ... <hl>system</hl> large relational database typing
+requests english casual users able obtain explicit answers large
+relational database aircraft flight maintenance data
+
+CACM-2533
+----------------------------------------------------------------
+<hl>sign</hl> sequence fffx ordered cacm march 1973 salzer gray
+code <hl>sign</hl> sequences ordering positive monotonic
+functions binary <hl>system</hl> galois sum
+
+CACM-0942
+----------------------------------------------------------------
+<hl>statistical</hl> research involving extensive computations
+moderately large quantity data wehave found numerical processes
+required built completely small number basic operations
+
+CACM-1732
+----------------------------------------------------------------
+<hl>statistical</hl> analysis 5.5 ca68613 jb february 22 1978
+3:21 pm 1732 5 1732 1732 5 1732 1732 1732
+
+CACM-2970
+----------------------------------------------------------------
+<hl>statistical</hl> accuracy method includes <hl>test</hl>
+check normality assumption sequential procedure relies paper
+illustrates method empty idle state regenerative state describes
+
+CACM-0322
+----------------------------------------------------------------
+<hl>components</hl> recognizing fact occupying storage medium
+required incompatibilities resolved manually setting computer
+<hl>system</hl> required set conventions considered minimize
+computer setup
+
+CACM-1671
+----------------------------------------------------------------
+<hl>system</hl> construction easy providing sophisticated
+<hl>capabilities</hl> linguist <hl>system</hl> written bbn lisp
+scientific data <hl>system</hl> 94 computer designed online
+interactive fashion ... <hl>design</hl> implementation
+<hl>system</hl> alleviate problem rule evaluation linguist area
+phonology presented permits user define online sets rules
+statable framework presented
+
+CACM-1586
+----------------------------------------------------------------
+<hl>generalized</hl> bairstow algorithm bairstow algorithm
+<hl>generalized</hl> case polynomial <hl>linear</hl> combination
+polynomials satisfying threeterm recursion convergence
+properties method derived cacm june
+
+CACM-1862
+----------------------------------------------------------------
+<hl>capabilities</hl> argentine chilean universities author
+reports trip universities argentina chile november 1968
+describing university conditions computing activities
+universities experiencing student <hl>students</hl>
+participating university government chile allowing participation
+university computing service academic activities limited number
+computers small capacity larger ibm 364 <hl>system</hl> hard
+overcome universities especially strong european traditions
+adapt slowly academic resources disciplines superimposed severe
+technological economic constraints developing nation
+<hl>capabilities</hl> future progress retarded cacm august 1969
+finerman university education computing science academic
+programs university computing centers surveys computing centers
+
+CACM-2114
+----------------------------------------------------------------
+<hl>system</hl> information retrieval <hl>generalized</hl>
+structure provided concepts keyword index record directory
+structure directory decoding record retrieval defined frequently
+structures inverted
+
+CACM-2890
+----------------------------------------------------------------
+<hl>algorithms</hl> analytic <hl>models</hl> storeandforward
+communications network constructed find optimal message routing
+illustrate equilibrium stationary state maintained adaptive
+routing algorithm <hl>models</hl>
+
+CACM-1195
+----------------------------------------------------------------
+<hl>linear</hl> tandem <hl>system</hl> series computer programs
+developed operational processing national aeronautics space
+administration <hl>linear</hl> <hl>system</hl> ibm 14179
+combined data processing
+
+CACM-2993
+----------------------------------------------------------------
+<hl>linear</hl> programming <hl>models</hl> investigation
+average queue size class queues resulted formulation
+<hl>linear</hl> programming problems illconditioned cases
+attempting solve <hl>linear</hl> programming
+
+CACM-2930
+----------------------------------------------------------------
+<hl>test</hl> discussed content specifications rationale set
+sample questions <hl>included</hl> cacm september 1977 austing
+education computer science graduate school admissions
+<hl>test</hl>
+
+CACM-2490
+----------------------------------------------------------------
+<hl>algorithms</hl> graph manipulation algorithm a447 efficient
+<hl>algorithms</hl> presented partitioning graph connected
+<hl>components</hl> biconnected <hl>components</hl> simple paths
+algorithm partitioning graph simple
+
+CACM-1750
+----------------------------------------------------------------
+<hl>design</hl> multiple computer <hl>system</hl> extended core
+storage large quantities addressable executable fast random
+access memory heighten multiprogramming performance
+multicomputer <hl>system</hl> <hl>design</hl> hardware
+arrangement software <hl>components</hl> functions
+<hl>system</hl> based planned configuration dual cdc 66s share
+million words extended core storage generalization
+
+CACM-2306
+----------------------------------------------------------------
+<hl>algorithms</hl> early origins mathematics discussed
+emphasizing aspects greatest <hl>interest</hl> standpoint
+computer science number babylonian tablets translated english
+quoted cacm july
+
+CACM-2324
+----------------------------------------------------------------
+<hl>test</hl> problems construction user oriented software
+comparisons known <hl>algorithms</hl> demonstrate techniques
+specific problems cacm july 1972 shanno weil integer programming
+
+CACM-2670
+----------------------------------------------------------------
+<hl>squares</hl> problems nonlinear <hl>squares</hl> frequently
+arise variables solved separated <hl>linear</hl> nonlinear part
+variable projection algorithm developed recently designed take
+advantage
+
+CACM-2795
+----------------------------------------------------------------
+<hl>capabilities</hl> memory model model encompasses diverse
+classes linguistic knowledge include executable <hl>tests</hl>
+conceptual properties stored discrimination nets information
+relating conceptual
+
+CACM-2812
+----------------------------------------------------------------
+<hl>system</hl> <hl>design</hl> problem statement language
+problem statement analyzer physical <hl>system</hl>
+<hl>design</hl> accurately defined systems systems optimization
+<hl>design</hl> algorithm 2.44 3.5 ... <hl>design</hl>
+information systems paper describes computeraided analysis
+<hl>design</hl> development integrated financial management
+<hl>system</hl> navy material command support activity nmcsa
+computeraided <hl>design</hl> computer selection performance
+evaluation major <hl>components</hl> problem statement language
+problem statement analyzer generator alternative designs
+performance evaluator statement requirements
+
+CACM-1032
+----------------------------------------------------------------
+<hl>linear</hl> model evaluation function relevancy developed
+rewards <hl>system</hl> retrieving relevant documents retrieving
+nonrelevant penalizes <hl>system</hl> escaped relevant documents
+false drops ... <hl>components</hl> identification information
+tagging effective retrieval searching strategy enter circumvent
+scanning nonrelevant material organization make access
+information efficient identification information
+
+CACM-2488
+----------------------------------------------------------------
+<hl>squares</hl> piecewise cubic curve fitting matrices involved
+<hl>linear</hl> <hl>squares</hl> formulation determined problem
+fitting piecewise cubic functions possessing continuous
+derivative arrays
+
+CACM-2198
+----------------------------------------------------------------
+<hl>generalized</hl> data base management systems paper
+separately published introduction main report analyzes features
+<hl>generalized</hl> data base management systems introduction
+review ... <hl>capabilities</hl> selfcontained
+<hl>capabilities</hl> section assesses effect data base task
+group proposals final section outlines ten major topics main
+body full
+
+CACM-2096
+----------------------------------------------------------------
+<hl>statistical</hl> significance important conclusions
+information <hl>statistical</hl> significance lacking papers
+computer experiments artificial intelligence field experiments
+serve model future work cacm
+
+CACM-1411
+----------------------------------------------------------------
+<hl>algorithms</hl> computation means standard deviations
+correlation coefficients <hl>algorithms</hl> computation basic
+statistics compared performance systematically generated
+<hl>test</hl> data statistics calculated mean
+
+CACM-1264
+----------------------------------------------------------------
+<hl>system</hl> braille <hl>capabilities</hl> blnsys operating
+<hl>system</hl> designed 4k 141 common optional features
+attached tape drives printed output <hl>system</hl> executing
+programs ... <hl>system</hl> tape inputouput subroutines
+<hl>included</hl> <hl>system</hl> cacm 1965 landwehr mclaughlin
+mueller lichstein pollack ca6557 jb march 7 1978 2:3 pm
+
+CACM-2820
+----------------------------------------------------------------
+<hl>components</hl> caps table driven reduce space needed
+implementation increase flexibility multilingual <hl>system</hl>
+5 <hl>students</hl> caps learn fortran pli cobolin conjunction
+
+CACM-3086
+----------------------------------------------------------------
+<hl>algorithms</hl> combinatorial problems computational
+complexity computational <hl>models</hl> decision tree programs
+lower bounds 5.25 5.26 5.3 5.39 ca7872 dh february 8
+
+CACM-2188
+----------------------------------------------------------------
+<hl>system</hl> response time <hl>system</hl> cost distribution
+data storage processing graphics processor supporting data
+processing <hl>system</hl> work reported develops objective
+quantitative ... <hl>system</hl> configuration subject cost
+constraint found applications optimum configurations turn find
+general display <hl>system</hl> <hl>design</hl> guidelines cacm
+june 1971 foley ... <hl>design</hl> computer graphics systems
+display <hl>system</hl> designers faced difficult task selecting
+major subsystems intelligent subsystem chosen large numbers
+alternatives selection ... <hl>system</hl> parameters model
+functions <hl>capabilities</hl> graphics hardware computational
+requirements graphics application model analyzed numerical
+queueing analysis simulation obtain average response
+
+CACM-1764
+----------------------------------------------------------------
+<hl>included</hl> references cacm april 1968 organick computer
+appreciation <hl>students</hl> liberal arts courses survey
+courses beginning programming course content computer courses
+
+CACM-2950
+----------------------------------------------------------------
+<hl>algorithms</hl> based abstract model scheduling
+<hl>system</hl> formalizes notion priority classes scheduling
+<hl>algorithms</hl> defined related existing <hl>algorithms</hl>
+criterion implementation efficiency algorithm
+<hl>algorithms</hl> include commonly implemented timeinvariant
+<hl>algorithms</hl> dependence processing rates priorities
+derived abstract model framework implementing flexible
+schedulers real operating systems
+
+CACM-1801
+----------------------------------------------------------------
+<hl>regression</hl> analysis experimental <hl>design</hl>
+balanced experiment missing data interblock estimate intra block
+estimate 5.14 5.5 ca691211 jb february 15 1978
+
+CACM-1238
+----------------------------------------------------------------
+<hl>system</hl> requirements requisition accounting
+<hl>system</hl> san francisco overseas supply agency osa
+<hl>included</hl> exception reporting osa simultaneous
+satisfaction reporting requirement accounting
+
+CACM-2627
+----------------------------------------------------------------
+<hl>algorithms</hl> optimal scheduling <hl>algorithms</hl>
+deterministic scheduling <hl>models</hl> 4.32 5.39 ca7474 jb
+january 17 1978 12:56 pm 2627 5 2627 2627 ...
+<hl>algorithms</hl> known minimizing mean finishing time
+addition presenting analyzing <hl>algorithms</hl> shown general
+meanfinishingtime problem independent tasks polynomial complete
+unlikely admit
+
+CACM-3131
+----------------------------------------------------------------
+<hl>system</hl> focus number <hl>system</hl> supporting
+computational <hl>algorithms</hl> especially microcomputer
+control signal processing applications focus wideranging
+character floatingpoint numbers uniformity state <hl>system</hl>
+focus computations typically times faster single precision
+fixedpoint integer arithmetic mixture operations comparable
+speed hardware arithmetic applications <hl>algorithms</hl> 8bit
+
+CACM-2994
+----------------------------------------------------------------
+<hl>linear</hl> algorithm incremental digital display circular
+arcs circular arcs drawn incremental display device cathode ray
+tube digital plotter matrix prin
+
+CACM-2868
+----------------------------------------------------------------
+<hl>system</hl> <hl>design</hl> main features general purpose
+multiaccess operating <hl>system</hl> developed cdc 64 berkeley
+presented good bad points discussed retrospect distinctive
+<hl>design</hl> <hl>capabilities</hl> protection organization
+<hl>system</hl> sequence layers building facilities provided
+earlier protecting malfunctions later problems maintaining
+protection layers levels added
+
+CACM-2771
+----------------------------------------------------------------
+<hl>design</hl> graphics machined <hl>components</hl> polyhedra
+shape synthesis threedimensional modeling 3.2 8.2 ca7546 jb
+january 9 1978 3:59 pm 2771 5
+
+CACM-1680
+----------------------------------------------------------------
+<hl>system</hl> adept displayexpedited processing tutorial
+<hl>system</hl> <hl>system</hl> designed improve mancomputer
+communications employing display unit interleave tutoring
+computer operations simulation programming <hl>system</hl>
+terminating rescheduling relinquishing computer resources
+allocated surrendering control operating <hl>system</hl> perform
+jobs expands power flexibility computerassisted instruction
+making immediately
+
+CACM-1410
+----------------------------------------------------------------
+<hl>system</hl> performance requires description stochastic
+processes governing user inputs program activity paper
+<hl>statistical</hl> description user input process sdcarpa
+generalpurpose timesharing
+
+CACM-2645
+----------------------------------------------------------------
+<hl>included</hl> limitations present <hl>system</hl> relation
+knuths work analysis <hl>algorithms</hl> directions research
+discussed cacm june 1974 ccohen zuckerman programming languages
+syntaxdirected ... <hl>formula</hl> representing execution time
+program sound processor set procedures program processor set
+procedures algebraic manipulation called user operate
+<hl>formula</hl> produced
+
+CACM-2067
+----------------------------------------------------------------
+<hl>design</hl> <hl>generalized</hl> prime implicants minimal
+forms minimization incompletely functions 6.1 ca7417 jb february
+13 1978 2:32 pm 267 5 267
+
+CACM-1366
+----------------------------------------------------------------
+<hl>packages</hl> computer simulation offer features
+generalpurpose <hl>packages</hl> analysis strengths weaknesses
+suggests ways future simulation languages <hl>packages</hl>
+improved cacm october 1966 ... <hl>models</hl> part iii presents
+detailed comparison simulation languages <hl>packages</hl>
+simscript clp csl gasp cpss sol characteristics summarized
+series tables implications
+
+CACM-2951
+----------------------------------------------------------------
+<hl>system</hl> data obtainable diverse arpa network systems
+studied detail describe predict response time network
+timesharing systems depends measure <hl>system</hl> activity ...
+<hl>statistical</hl> performance evaluation tools employed
+investigate feasibility dynamic response time monitor capable
+providing comparative response time information users wishing
+process
+

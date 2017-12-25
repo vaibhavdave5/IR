@@ -1,0 +1,763 @@
+CACM-3043
+----------------------------------------------------------------
+<hl>distributed</hl> <hl>processes</hl> concurrent programming
+concept language concept concurrent <hl>processes</hl> common
+variables introduced <hl>processes</hl> communicate synchronize
+means <hl>procedure</hl> <hl>calls</hl> guarded regions
+<hl>distributed</hl> storage paper <hl>examples</hl>
+<hl>distributed</hl> <hl>processes</hl> shows include procedures
+coroutines classes monitors <hl>processes</hl> semaphores
+buffers path expressions inputoutput special cases
+
+CACM-1135
+----------------------------------------------------------------
+<hl>procedure</hl> <hl>descriptions</hl> onetoone translations
+flowcharts invariant pattern <hl>procedure</hl> identified
+characteristic class batch <hl>processes</hl> philosophy
+potential overcome wellknown deficiencies businessoriented
+languages ... <hl>processes</hl> represented languages
+<hl>opposed</hl> emphasizing formal contentsindependent
+syntactical definitions relies <hl>exclusively</hl>
+nonprocedural representation process sets tables relations data
+results control
+
+CACM-3128
+----------------------------------------------------------------
+<hl>processes</hl> requires controlling relative ordering events
+<hl>processes</hl> synchronization mechanism proposed
+<hl>abstract</hl> objects called eventcounts sequencers
+<hl>processes</hl> control ordering events directly
+<hl>distributed</hl> systems mechanism defined formally
+<hl>examples</hl> relationship mechanism protection
+<hl>mechanisms</hl> system explained eventcounts shown
+applicable situations confinement information matters
+implementation
+
+CACM-2931
+----------------------------------------------------------------
+<hl>complete</hl> <hl>examples</hl> give wideranging
+mathematical answers queries machine computable process machine
+simulate process programs naturally enter giving
+<hl>descriptions</hl> <hl>processes</hl> definition ...
+<hl>implementations</hl> remains showing <hl>abstract</hl>
+conceptualizations actualized say unified theory cacm september
+1977 scott logic programming languages automata denotational
+semantics acalculus
+
+CACM-2939
+----------------------------------------------------------------
+<hl>procedure</hl> subroutine clu addition procedures linguistic
+<hl>mechanisms</hl> support data control abstractions paper
+troduction abstraction <hl>mechanisms</hl> clu means programming
+<hl>examples</hl> utility ... <hl>mechanisms</hl> clu clu
+programming language designed support abstractions program
+construction <hl>work</hl> programming methodology led
+realization kinds abstractionsprocedural control especially data
+
+CACM-3049
+----------------------------------------------------------------
+<hl>environment</hl> graphical system sembegs sembegs
+<hl>complete</hl> batch <hl>environment</hl> graphical system
+components handling graphical data displaying contents variety
+graphical hardware performing ... <hl>communicating</hl>
+<hl>descriptions</hl> graphical entities components sembegs
+bagdams facilities storing retrieving manipulating
+<hl>descriptions</hl> graphical entities provided received
+application programs graphics packages
+
+CACM-2377
+----------------------------------------------------------------
+<hl>mechanisms</hl> implementing rings protection
+<hl>mechanisms</hl> implementing rings protection
+<hl>mechanisms</hl> allow crossring <hl>calls</hl> subsequent
+occur trapping supervisor automatic hardware validation
+references
+
+CACM-2519
+----------------------------------------------------------------
+<hl>problem</hl> <hl>communicating</hl> complex information
+nature difficulty involved <hl>communicating</hl> mathematical
+results scientists computer based information retrieval system
+examined <hl>problem</hl> analyzed terms
+
+CACM-3103
+----------------------------------------------------------------
+<hl>abstract</hl> type programs produced <hl>abstract</hl> types
+inefficient space time paper system choosing efficient
+<hl>implementations</hl> <hl>abstract</hl> types library
+<hl>implementations</hl> discussed process ... <hl>abstract</hl>
+data types sets lists programmer time saved automating process
+filling lowlevel implementation details past programming systems
+provided single general
+
+CACM-1829
+----------------------------------------------------------------
+<hl>environment</hl> <hl>remote</hl> entry graphic monitor
+program developed carnegiemellon university cdc g21 computer
+general purpose batchprocessing system <hl>remote</hl> entry
+existing g21 <hl>calls</hl> take place actions human program
+interact symmetrical equal basis medium graphic monitor choice
+made designing graphic monitor constraints existing
+
+CACM-2342
+----------------------------------------------------------------
+<hl>communicating</hl> parallel <hl>processes</hl> kinds
+interference <hl>communicating</hl> parallel <hl>processes</hl>
+examined dijkstra knuth solutions mutual exclusion
+<hl>problem</hl> subproblems form parallel programs informal ...
+<hl>processes</hl> operate formation partial rules calculation
+transition rules applicable hardware <hl>processes</hl> software
+<hl>processes</hl> symmetry <hl>processes</hl> required cacm
+june 1972 gilbert ... <hl>problem</hl> subproblems formulated
+questions inclusion sets states existence sequences mechanical
+proof <hl>procedure</hl> shown verify prove correctness
+discredit prove incorrectness attempted ... <hl>processes</hl>
+formal programs interference mutual exclusion operating systems
+parallel <hl>processes</hl> 4 4.1 4.3 4.32 4.42 5.24 6.2 ca7263
+jb january
+
+CACM-2742
+----------------------------------------------------------------
+<hl>mechanisms</hl> discrete event simulation simulation models
+large complex realworld applications occasionally earned
+reputation eating hours computer time <hl>problem</hl>
+attributed part ... <hl>problem</hl> burdensome cacm june 1975
+wyman discrete event simulation simulation event scanning
+<hl>mechanisms</hl> 4.34 5.5 8.1 ca75611 jb january 9
+
+CACM-1014
+----------------------------------------------------------------
+<hl>problem</hl> analysis variance number factors increases
+exponential rise number interactions experimenter
+<hl>interested</hl> interactions impossible ignore experimental
+designs <hl>problem</hl> getting error
+
+CACM-2870
+----------------------------------------------------------------
+<hl>mechanisms</hl> guarantee secure information flow computer
+system <hl>mechanisms</hl> examined mathematical framework
+suitable formulating requirements secure information flow
+security classes central <hl>mechanisms</hl> enforce security
+model unifying view systems restrict information flow enables
+classification according security objectives suggests approaches
+leads construction automatic
+
+CACM-2900
+----------------------------------------------------------------
+<hl>problem</hl> allocation problemie <hl>problem</hl> finding
+optimal set network sites locate copies fileis known general
+polynomial <hl>complete</hl> heuristics aids finding optimal
+
+CACM-2851
+----------------------------------------------------------------
+<hl>work</hl> previous <hl>work</hl> satisfiability logical
+formulas cacm july 1976 keller parallel program correctness
+verification assertions deadlock mutual exclusion petrinet 4.6
+... <hl>abstract</hl> conceptual model parallelprogram model
+model distinguish control data states model includes capability
+representation infinite set control states allowing arbitrarily
+<hl>processes</hl> executing program induction principle
+presented treats control data state sets ground place variables
+observed correctness conditions expressed enumeration set
+<hl>examples</hl> presented induction principle demonstrate
+proofs mutual exclusion shown assertionsoriented proof methods
+special cases induction principle special case assertions method
+
+CACM-2848
+----------------------------------------------------------------
+<hl>processes</hl> automated result interview structure
+<hl>complete</hl> decision tables sets decision rules purpose
+paper provide <hl>procedure</hl> synthesizing decision rules
+provide aid
+
+CACM-2958
+----------------------------------------------------------------
+<hl>abstract</hl> data types development data structures
+<hl>abstract</hl> data types play significant role development
+software reliable efficient flexible paper presents discusses
+<hl>abstract</hl> data types <hl>examples</hl> presented topdown
+development symbol table block structured language discussion
+proof correctness paper discussion problems involved
+constructing
+
+CACM-2895
+----------------------------------------------------------------
+<hl>problem</hl> specification language tended behavior
+<hl>communicating</hl> parallel <hl>processes</hl>
+specifications constrain ts order events computation occur
+language write specifications readerswriters <hl>problem</hl>
+
+CACM-3120
+----------------------------------------------------------------
+<hl>processes</hl> <hl>work</hl> compilerwriter easier
+conceptually practice forget problems outset avoids special
+processing <hl>problem</hl> technique applied construction algol
+68 compiler <hl>examples</hl>
+
+CACM-1534
+----------------------------------------------------------------
+<hl>remote</hl> console display subsystem conventional job stack
+<hl>environment</hl> drums buffering input output slow
+peripherals execution normal job stack <hl>work</hl> display
+
+CACM-2439
+----------------------------------------------------------------
+<hl>environment</hl> userwritten programs dartmouth timesharing
+system communicate <hl>remote</hl> terminals simultaneously
+control interactions terminals programs written standard input
+output instructions language
+
+CACM-2969
+----------------------------------------------------------------
+<hl>procedure</hl> location <hl>problem</hl> application model
+cacm 1977 morgan levin computer networks databases
+<hl>distributed</hl> databases optimal location 3.81 3.51 4.33
+ca7753
+
+CACM-3171
+----------------------------------------------------------------
+<hl>implementations</hl> high level languages suitable
+circumstances method requires absolutely overhead time space
+execution program cacm october 1979 klint line number
+
+CACM-2844
+----------------------------------------------------------------
+<hl>mechanisms</hl> cacm july 1976 gonnet discrete event
+simulation eventscanning <hl>mechanisms</hl> priority queues
+heaps 4.34 8.1 ca7679 jb january 4 1978
+
+CACM-1905
+----------------------------------------------------------------
+<hl>implementations</hl> dantzigs simplex method linear
+programming based forming inverse basic matrix updating inverse
+step method <hl>implementations</hl> bad roundoff error
+properties
+
+CACM-0409
+----------------------------------------------------------------
+<hl>environment</hl> compiler flexible largescale programming
+system facilitate solution information processing problems
+provide intercommunication programs andor programmers developed
+realized ibm 7979 <hl>descriptions</hl> instances large complex
+data sets algorithms defined data sets data algorithms expressed
+family command descriptive languages concept distinct data
+
+CACM-1595
+----------------------------------------------------------------
+<hl>work</hl> unearthing <hl>theoretical</hl> error induced
+literature computer combinatorics represents chronologically
+early application side result underscores continuing usefulness
+area cacm 1967
+
+CACM-2232
+----------------------------------------------------------------
+<hl>work</hl> clarify word description made precise computer
+algorithms feature extraction obtained focus
+<hl>theoretical</hl> subject matter results consist settheoretic
+definition widthatangle
+
+CACM-2721
+----------------------------------------------------------------
+<hl>mechanisms</hl> involved simulation parameters varied
+illustrating response ecosystem conditions including types
+chemical thermal pollution investigation accuracy simulation
+methods simulation actual
+
+CACM-2936
+----------------------------------------------------------------
+<hl>mechanisms</hl> event scanning <hl>mechanisms</hl>
+multilinked lists 3.34 4.22 5.5 8.1 ca7787 jb december 28 1977
+7:15 2844 4 2936 2844
+
+CACM-1145
+----------------------------------------------------------------
+<hl>processes</hl> attempt narrow search isomorphism demonstrate
+exists scheme relied <hl>exclusively</hl> solution program
+designed avoid excessive computation fruitless lines git written
+
+CACM-3141
+----------------------------------------------------------------
+<hl>processes</hl> note presents improvement lelanns algorithm
+finding largest smallest set uniquely numbered
+<hl>processes</hl> arranged circle central controller exists
+number <hl>processes</hl>
+
+CACM-2371
+----------------------------------------------------------------
+<hl>processes</hl> timesharing system communication system
+extended <hl>processes</hl> <hl>distributed</hl> computer
+network hypothetical application system existing network
+discussed cacm april 1972 walden
+
+CACM-3105
+----------------------------------------------------------------
+<hl>abstract</hl> data types cacm 1978 jones liskovb programming
+languages access control data types <hl>abstract</hl> data types
+type checking capabilities 4.2
+
+CACM-2877
+----------------------------------------------------------------
+<hl>procedure</hl> global data relationships program exposed
+codified static analysis methods paper <hl>procedure</hl>
+determines definitions <hl>possibly</hl> reach node control flow
+graph
+
+CACM-1485
+----------------------------------------------------------------
+<hl>mechanisms</hl> linking elementary statements means program
+obtain data inputs alternative forms components compared
+evaluated <hl>examples</hl> frequently list processing languages
+illustrate
+
+CACM-1527
+----------------------------------------------------------------
+<hl>procedure</hl> subject paper <hl>procedure</hl> automatic
+retrieval segments stored information explicitly implicitly
+represented questions posed natural language sentences
+<hl>procedure</hl> makes sentence <hl>exclusively</hl> generated
+grammar based rules grammar sentence recognizer evaluate
+sentences questions normal situation recognition function
+succeeds case posed question drawn
+
+CACM-1518
+----------------------------------------------------------------
+<hl>problem</hl> predicting performance modern computer systems
+formidable general technique ease <hl>problem</hl> macroscopic
+simulation paper reports applicability technique system36 paper
+describes
+
+CACM-1623
+----------------------------------------------------------------
+<hl>problem</hl> stated solved formac solution <hl>problem</hl>
+formac notable methods tried failed <hl>problem</hl>
+straightforward untenable hand involved elaborate formac
+language program
+
+CACM-2767
+----------------------------------------------------------------
+<hl>mechanisms</hl> event list algorithm simulation time flow
+<hl>mechanisms</hl> event list algorithm simulation executive
+event scheduling routine discrete system simulation sorting
+
+CACM-2816
+----------------------------------------------------------------
+<hl>distributed</hl> free space cost function describing excess
+costs due physical disorganization defined function minimized
+obtain optimum reorganization points numerical <hl>examples</hl>
+
+CACM-1681
+----------------------------------------------------------------
+<hl>remote</hl> typewriter console easy english natural command
+language designed simplify communication man machine
+<hl>remote</hl> typewriter console developed retrieval documents
+computerized ... <hl>remote</hl> console communication
+information retrieval manmachine communication <hl>remote</hl>
+terminal communication translator document retrieval
+conversational mode information retrieval language symbolic
+command
+
+CACM-2020
+----------------------------------------------------------------
+<hl>procedure</hl> paper manner allocate computing resources
+considered extent pricing mechanism fits mold discussed pricing
+serve rationing mechanism times consideration means
+
+CACM-2949
+----------------------------------------------------------------
+<hl>distributed</hl> computer network correctness proofs
+computer networks <hl>distributed</hl> control network topology
+routing <hl>problem</hl> networks <hl>distributed</hl> operating
+system store forward packet
+
+CACM-3064
+----------------------------------------------------------------
+<hl>problem</hl> event scheduling efficiency number scheduled
+events grows large part deals apparent <hl>problem</hl>
+providing efficiency flexibility scheduled events accessed
+executed
+
+CACM-2626
+----------------------------------------------------------------
+<hl>mechanisms</hl> control sharing information multics system
+design principles help provide insight tradeoffs designs key
+<hl>mechanisms</hl> include access control lists hierarchical
+
+CACM-1470
+----------------------------------------------------------------
+<hl>mechanisms</hl> linking elementary statements means program
+obtain data inputs alternative forms components compared
+evaluated <hl>examples</hl> frequently list processing languages
+illustrate
+
+CACM-0616
+----------------------------------------------------------------
+<hl>work</hl> language structure group goal <hl>work</hl> arrive
+proper structure machineindependent problemdefining language
+systems level data processing report based part mathematical
+
+CACM-2932
+----------------------------------------------------------------
+<hl>examples</hl> practical <hl>theoretical</hl> significance
+directions research discussed cacm september 1977 rabin
+complexity computations algebraic complexity tractable problems
+probabilistic algorithms 5.25
+
+CACM-2536
+----------------------------------------------------------------
+<hl>remote</hl> job entry <hl>remote</hl> terminals 3.81 4.32
+4.41 ca7333 jb january 24 1978 11:23 1657 4 2536 28 4 2536 ...
+<hl>remote</hl> terminal access large scale computer considered
+problems embedding telecommunications io operating system
+discussed shown decentralization intelligence acquired frontend
+processing
+
+CACM-2314
+----------------------------------------------------------------
+<hl>mechanisms</hl> interactive features facilitate program
+composition entry testing debugging editing optimization
+packaging implementation generalized <hl>environment</hl>
+structure model allow programming control
+
+CACM-2383
+----------------------------------------------------------------
+<hl>problem</hl> discussed simulating human composition western
+popular music computer relevant theories music harmony problems
+kind program schemes known <hl>work</hl> discussed
+
+CACM-3018
+----------------------------------------------------------------
+<hl>problem</hl> connection method optimization <hl>problem</hl>
+shown equivalent <hl>problem</hl> covering edges graph
+<hl>complete</hl> subgraphs objective minimizing number
+<hl>complete</hl> subgraphs relationship edgecliquecover
+
+CACM-1550
+----------------------------------------------------------------
+<hl>problem</hl> results influenced fact bonus points completion
+programming <hl>problem</hl> number runs evidence support
+instant batch cacm august 1967 smith ca6785
+
+CACM-1325
+----------------------------------------------------------------
+<hl>remote</hl> online realtime computer diagnosis clinical
+electrocardiogram presented paper report hardware software
+system configuration function system <hl>remote</hl> online
+realtime digital
+
+CACM-1506
+----------------------------------------------------------------
+<hl>work</hl> small computer ibm system 363 techniques resource
+allocation important reason core storage computational
+facilities inputoutput scheduled unusual feature system
+
+CACM-1099
+----------------------------------------------------------------
+<hl>work</hl> intense training constant experience locating
+objects unseen <hl>environment</hl> superbly trained memory
+blind brings <hl>work</hl> programming skills sighted need
+acquire
+
+CACM-1911
+----------------------------------------------------------------
+<hl>problem</hl> class grammars outlined precise specification
+generative <hl>procedure</hl> paper inverse form lisp function
+definitions cacm april 1969 petrick postal rosenbaum
+
+CACM-3148
+----------------------------------------------------------------
+<hl>distributed</hl> computing programming <hl>distributed</hl>
+loosely coupled systems <hl>problem</hl> growing interest paper
+describes approach <hl>distributed</hl> computing level general
+purpose programming languages
+
+CACM-3111
+----------------------------------------------------------------
+<hl>work</hl> increases square <hl>work</hl> required
+communicants select key method logically kind protection passive
+eaves dropper suggests research topic highly rewarding
+
+CACM-2096
+----------------------------------------------------------------
+<hl>procedure</hl> improvement minimax backingup
+<hl>procedure</hl> widely computer program gameplaying purposes
+based principle desirable options making decisions face
+uncertainty minimax <hl>procedure</hl> <hl>procedure</hl>
+assigns max min node function highest lowest valued successors
+<hl>procedure</hl> written lisp play game kalah demonstrated
+<hl>procedure</hl> significantly superior <hl>procedure</hl>
+statistical significance important conclusions information
+statistical significance lacking papers computer experiments
+artificial intelligence field experiments serve model future
+<hl>work</hl>
+
+CACM-0020
+----------------------------------------------------------------
+<hl>processes</hl> technique discussed applied iterative
+<hl>procedure</hl> solution equation accelerates rate
+convergence iteration converges induces convergence iteration
+diverges illustrative cacm june
+
+CACM-2376
+----------------------------------------------------------------
+<hl>communicating</hl> <hl>processes</hl> formalization
+welldefined synchronization mechanism prove concurrently running
+<hl>processes</hl> system communicate correctly demonstrated
+system consisting sending <hl>processes</hl> deposit messages
+
+CACM-1153
+----------------------------------------------------------------
+<hl>procedure</hl> generating normal random variables technique
+generating <hl>distributed</hl> random numbers faster general
+readily applicable binary decimal computers cacm january 1964
+
+CACM-2840
+----------------------------------------------------------------
+<hl>mechanisms</hl> computing systems presented appropriateness
+argued safety <hl>problem</hl> protection systems model
+determine situation subject acquire object restricted cases
+shown <hl>problem</hl>
+
+CACM-3081
+----------------------------------------------------------------
+<hl>processes</hl> active <hl>environment</hl> structure long
+rerooting indivisible operation finally concept rerooting shown
+combine concept shallow binding lisp dijkstras display algol ...
+<hl>environment</hl> tree transformation called rerooting
+rerooting completely general reversible optional sense lisp 1.5
+interpreter operate correctly rerooting invoked context change
+
+CACM-1369
+----------------------------------------------------------------
+<hl>procedure</hl> determining half rotations ndimensional
+euclidean space method variant cyclic jacobi <hl>procedure</hl>
+utilizers elementary plane rotations obtain half rotation matrix
+
+CACM-3146
+----------------------------------------------------------------
+<hl>work</hl> real world problems sufficient magnitude
+complexity program students acquire essential skills software
+engineering team <hl>work</hl> software project management
+software
+
+CACM-1742
+----------------------------------------------------------------
+<hl>work</hl> efficiently channel sufficient number instructions
+understood small processor powerful channel found successive
+improvements display processor design lie circular path
+
+CACM-2890
+----------------------------------------------------------------
+<hl>theoretical</hl> analysis simple network cacm january 1976
+agnew routing algorithms adaptive routing quadratic routing
+alternate routing storeandforward network <hl>distributed</hl>
+network
+
+CACM-2929
+----------------------------------------------------------------
+<hl>procedure</hl> invocation modified copy <hl>procedure</hl>
+body general <hl>problem</hl> inline substitution minimize
+execution time subject size constrain ts formulated approximate
+algorithmic
+
+CACM-3127
+----------------------------------------------------------------
+<hl>communicating</hl> <hl>processes</hl> providing efficient
+interprocess communication primitives cacm february 1979
+cheriton malcolm melen sager portability real time operating
+systems minicomputer
+
+CACM-3137
+----------------------------------------------------------------
+<hl>distributed</hl> information systems macro model
+<hl>distributed</hl> information system presented model
+describes major costs information system perspective enduser
+making evident effect
+
+CACM-1458
+----------------------------------------------------------------
+<hl>environment</hl> make <hl>processes</hl> related producing
+checking programs main programming language changed provide
+facility online user system surrounding programming language
+paper
+
+CACM-1677
+----------------------------------------------------------------
+<hl>mechanisms</hl> paging segmentation handling 4.3 4.4 6.2
+ca68112 jb february 21 1978 3:11 pm 1677 5 1677 1677 5 1677
+
+CACM-2905
+----------------------------------------------------------------
+<hl>complete</hl> sense set smallest table elements stored
+retrieved perfect hashing function constructed method found
+nonuniformly <hl>distributed</hl> sets method give sparse
+
+CACM-1344
+----------------------------------------------------------------
+<hl>complete</hl> nature presented fixes mixed random analysis
+variance models considered <hl>procedure</hl> obtaining variance
+components calculated statistics model terms included cacm
+
+CACM-2522
+----------------------------------------------------------------
+<hl>processes</hl> competing recent research timesharing paging
+systems developed working set model program behavior source
+allocation strategy based model proposed
+<hl>implementations</hl>
+
+CACM-1399
+----------------------------------------------------------------
+<hl>procedure</hl> obtaining structural <hl>descriptions</hl>
+contextfree grammar performing recognition according strongly
+equivalent leftrecursionfreegrammar effect allowing null strings
+rewriting rules discussed cacm
+
+CACM-2396
+----------------------------------------------------------------
+<hl>processes</hl> english sentences unrestricted content
+restricted format model applies syntactic analysis eliminate
+interpretations employs simplified semantic intersection
+<hl>procedure</hl> find valid
+
+CACM-2849
+----------------------------------------------------------------
+<hl>distributed</hl> packet switching local computer networks
+ethernet branching broadcast communication system carrying
+digital data packets locally <hl>distributed</hl> computing
+stations packet <hl>distributed</hl> contending transmitting
+stations controlled statistical arbitration switching packets
+destinations ether <hl>distributed</hl> receiving stations
+packet address recognition design principles implementation
+
+CACM-1180
+----------------------------------------------------------------
+<hl>procedure</hl> decides imperative applicable replacement
+<hl>procedure</hl> modifies part workspace imperatives applied
+accordance definitions symbolic terms presented systematically
+assertion table process
+
+CACM-2092
+----------------------------------------------------------------
+<hl>examples</hl> systems performance limitations
+questionanswering capability presented discussed shown semantic
+information deductive question answering greatly facilitates
+process topdown <hl>procedure</hl> works
+
+CACM-2979
+----------------------------------------------------------------
+<hl>problem</hl> solving learning <hl>processes</hl> hand
+machine learning large scale programming systems programming
+techniques terest humans make deductive inductive inferences
+form
+
+CACM-1844
+----------------------------------------------------------------
+<hl>problem</hl> programs developed <hl>remote</hl> terminal
+users run dedicated batch system compatible computers cacm
+october 1969 baskin horowitz tennison rittenhouse multiple ...
+<hl>remote</hl> terminals simplest form disk drive connected
+terminal crosspoint switching network disk drive connected
+computer active terminal user occupies dedicated
+
+CACM-3082
+----------------------------------------------------------------
+<hl>distributed</hl> system concept event happening
+<hl>distributed</hl> system examined shown define partial
+ordering events <hl>distributed</hl> algorithm synchronizing
+system logical clocks totally
+
+CACM-1679
+----------------------------------------------------------------
+<hl>procedure</hl> presented calculating complex discrete
+fourier transform realvalued time series <hl>procedure</hl>
+number points series integral power algorithm preserves order
+symmetry
+
+CACM-1855
+----------------------------------------------------------------
+<hl>procedure</hl> techniques keeping size analysis record
+reasonable limits avoiding need dynamic application
+transformational rules number <hl>examples</hl> output produced
+program output
+
+CACM-2578
+----------------------------------------------------------------
+<hl>distributed</hl> control cacm november 1974 dijkstra
+multiprocessing networks selfstabilization synchronization
+mutual exclusion robustness sharing error recovery
+<hl>distributed</hl> control harmonious cooperation
+
+CACM-1588
+----------------------------------------------------------------
+<hl>complete</hl> range programming language operations data
+list structures problems eliminated listprocessing facilities
+pli basic concepts list processing philosophy pli language
+
+CACM-2702
+----------------------------------------------------------------
+<hl>problem</hl> parameters complexity <hl>problem</hl> depends
+strongly representation chosen specifically shown
+<hl>problem</hl> npcomplete expressed unary expressed binary
+<hl>problem</hl> <hl>complete</hl> nondeterministic exponential
+
+CACM-2142
+----------------------------------------------------------------
+<hl>problem</hl> find representative picture algorithms monte
+carlo methods designed solve <hl>problem</hl> algorithms
+applicable large varied number fields important reconstruction
+<hl>possibly</hl>
+
+CACM-2174
+----------------------------------------------------------------
+<hl>problem</hl> original <hl>work</hl> gale shapley assignment
+method stable marriage criterion extended find stable marriage
+assignments algorithm derived finding stable marriage
+<hl>problem</hl> algorithm 411 applies paper cacm july 1971
+mcvitie wilsonl assignment problems assignment procedures
+combinatorics discrete mathematics operational research stable
+
+CACM-2912
+----------------------------------------------------------------
+<hl>problem</hl> read repeated obtained incorrect result
+techniques transmitting messages <hl>processes</hl> solutions
+assume synchronizing mechanism data written process read
+<hl>processes</hl> cacm ... <hl>problem</hl> sharing data
+asynchronous process considered assumed process time modify data
+concurrent reading writing permitted general theorems proved
+algorithms presented
+
+CACM-1724
+----------------------------------------------------------------
+<hl>work</hl> design generalization partial pass column sort
+ashenhurst amphisbaenic sort nagler power sort tabulated sizes
+input number <hl>work</hl> consideration <hl>problem</hl>
+
+CACM-2920
+----------------------------------------------------------------
+<hl>problem</hl> deadlock avoidance <hl>problem</hl> defined
+informally determination priori information <hl>processes</hl>
+resources operating system safe situations realized endangering
+smooth running system
+
+CACM-2450
+----------------------------------------------------------------
+<hl>theoretical</hl> <hl>work</hl> cacm september 1973
+rodriguezrosell virtual memory paging working set software
+measurement program behavior 4.3 ca7395 jb january 23
+
+CACM-1846
+----------------------------------------------------------------
+<hl>problem</hl> dealing simultaneous events separate
+<hl>processes</hl> introduced abstraction <hl>problem</hl>
+developed admits solution majority commonly encountered problems
+technique find method simulating ... <hl>processes</hl>
+simultaneous events occur problems simulating discrete event
+systems computer systems conventional digital computer dealt
+systems assumed network interconnected sequential
+
+CACM-1010
+----------------------------------------------------------------
+<hl>procedure</hl> wishes simple complex implementation
+smallscale multiuser computer system permits users <hl>work</hl>
+independently machine obtain satisfactory response typewriter
+communication cacm
+

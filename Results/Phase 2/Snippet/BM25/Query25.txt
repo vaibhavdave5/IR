@@ -1,0 +1,879 @@
+CACM-2318
+----------------------------------------------------------------
+<hl>computer</hl> system models <hl>performance</hl>
+<hl>evaluation</hl> models constitute means investigating
+<hl>computer</hl> system <hl>performance</hl> paper examines
+interrelationships models methods evaluating
+<hl>performance</hl> <hl>computer</hl>
+
+CACM-1938
+----------------------------------------------------------------
+<hl>evaluation</hl> timesharing <hl>systems</hl> difficult
+criteria successfully perform firstlevel quantitative
+timesharing system <hl>performance</hl> <hl>evaluation</hl> cacm
+january 1969 stimler timesharing <hl>performance</hl> criteria
+... <hl>performance</hl> timesharing <hl>systems</hl> defined
+article multiaccess <hl>systems</hl> permit terminal user
+utilize essentially full resources system sharing time terminal
+users terminal
+
+CACM-2542
+----------------------------------------------------------------
+<hl>evaluation</hl> system critical failure software system
+design implementation methodology <hl>performance</hl> proposed
+design evaluated actually implemented paper reasons failure
+explored methodology <hl>performance</hl> <hl>evaluation</hl>
+design implementation system based simple high level language
+describe evolving system stages development source language
+description direct input <hl>performance</hl> information
+obtained routines feedback problems adversely affect
+<hl>performance</hl> detected early corrected costly major
+reimplementation proposed system cacm february 1973
+
+CACM-2984
+----------------------------------------------------------------
+<hl>performance</hl> cacm march 1977 borovits eindor
+<hl>computer</hl> system <hl>performance</hl>
+<hl>evaluation</hl> costutilization system balance 2.44 ca7738
+jb december 29 1977 6:41
+
+CACM-2268
+----------------------------------------------------------------
+<hl>computer</hl> programs integrating differential equations
+study comparing <hl>performance</hl> <hl>computer</hl> programs
+integrating <hl>systems</hl> ordinary differential equations
+reported integration methods represented include
+
+CACM-3089
+----------------------------------------------------------------
+<hl>performance</hl> rollback recovery <hl>systems</hl>
+intermittent failures mathematical model transactionoriented
+system intermittent failures proposed system assumed operate
+checkpointing rollbackrecovery method ensure
+<hl>performance</hl> measures including availability response
+time system saturation point cacm june 1978 gelenbe derochette
+database reliability <hl>systems</hl> checkpoints recovery
+procedures
+
+CACM-2812
+----------------------------------------------------------------
+<hl>computer</hl> programs specifically designed aid process
+applications software design <hl>computer</hl> selection
+<hl>performance</hl> <hl>evaluation</hl> major components
+problem statement language problem statement ...
+<hl>systems</hl> logical system design problem statement
+language problem statement analyzer physical system design
+accurately defined <hl>systems</hl> <hl>systems</hl>
+optimization design algorithm ... <hl>performance</hl> evaluator
+statement requirements written ads accurately defined
+<hl>systems</hl> analyzed problem statement analyzer ads ads
+problem definition supplemented additional information ...
+<hl>systems</hl> paper describes computeraided analysis design
+development integrated financial management system navy material
+command support activity nmcsa computeraided analysis consists
+
+CACM-2990
+----------------------------------------------------------------
+<hl>performance</hl> information retrieval <hl>systems</hl>
+evaluated number ways published <hl>evaluation</hl> work based
+measuring retrieval <hl>performance</hl> average user query
+unfortunately formal proofs <hl>evaluation</hl> based optimizing
+<hl>performance</hl> specific user query concept query term
+accuracy troduced probability occurrence query term documents
+relevant query relating
+
+CACM-1653
+----------------------------------------------------------------
+<hl>performance</hl> <hl>evaluation</hl> survey appraisal state
+art system <hl>performance</hl> <hl>evaluation</hl> reviewed
+<hl>evaluation</hl> goals problems examined throughput
+turnaround availability defined fundamental measures
+
+CACM-2634
+----------------------------------------------------------------
+<hl>evaluation</hl> statistical software social sciences hundred
+college university <hl>computer</hl> installations offer types
+statistical packages general widely osiris spss bmd datatext
+
+CACM-3048
+----------------------------------------------------------------
+<hl>performance</hl> <hl>evaluation</hl> highly concurrent
+computers deterministic simulation simulation presented
+practical technique <hl>performance</hl> <hl>evaluation</hl>
+alternative configurations highly concurrent computers technique
+constructing <hl>performance</hl> <hl>evaluation</hl> necessity
+emulating system case study implementation simulator model
+cpumemory subsystem ibm 3691 results evaluating alternative
+system designs discussed
+
+CACM-3119
+----------------------------------------------------------------
+<hl>systems</hl> simple queueing models study
+<hl>performance</hl> tradeoffs multiple processor
+<hl>systems</hl> issues considered include impact cpu service
+disciplines distributions level multiprogramming
+
+CACM-1908
+----------------------------------------------------------------
+<hl>computer</hl> <hl>systems</hl> conducted mit paper study
+known attempt evaluate <hl>systems</hl> predominant user
+population decadethe professionals nonprogrammers
+<hl>computer</hl> aid decisionmaking problemsolving
+<hl>computer</hl> <hl>systems</hl> higher level
+<hl>performance</hl> attained timesharing users indications
+significantly lower costs resulted timesharing users stopped
+work reached <hl>performance</hl> level
+
+CACM-2894
+----------------------------------------------------------------
+<hl>computer</hl> service measurement measurement methodology
+applicable teractive <hl>computer</hl> service primary purpose
+enable external useroriented assessment <hl>computer</hl>
+<hl>performance</hl> frequently ternal system
+
+CACM-2951
+----------------------------------------------------------------
+<hl>performance</hl> <hl>evaluation</hl> tools employed
+investigate feasibility dynamic response time monitor capable
+providing comparative response time information users wishing
+process computing <hl>systems</hl> studied detail describe
+predict response time network timesharing <hl>systems</hl>
+depends measure system activity load level cacm july 1977 mamrak
+<hl>computer</hl> networks timesharing <hl>systems</hl>
+comparative response time arpa network anlytic modeling
+simulation benchmark jobs system measurement 4.6 6.2 8.1 ca7771
+
+CACM-2882
+----------------------------------------------------------------
+<hl>evaluation</hl> model database organization data retrieval
+<hl>systems</hl> experimental work valuation large scale data
+retrieval <hl>systems</hl> scarce due difficulty prohibitive
+cost <hl>systems</hl> data retrieval <hl>systems</hl> organized
+database organizations including inverted list threaded list
+cellular list organizations hybrid combinations <hl>systems</hl>
+effectiveness methodology
+
+CACM-2522
+----------------------------------------------------------------
+<hl>computer</hl> system cacm april 1973 rodriguezrosell dupuy
+working set dispatcher scheduler timesharing <hl>systems</hl>
+resource allocation software <hl>evaluation</hl> operating
+<hl>systems</hl> supervisory
+
+CACM-3070
+----------------------------------------------------------------
+<hl>computer</hl> <hl>systems</hl> paper describes structure
+operation hybrid simulation model discreteevent simulation
+analytic techniques combined produce efficient accurate system
+models based ... <hl>performance</hl> <hl>evaluation</hl>
+simulation queueing network models central server model 4.32
+4.35 8.1 ca7892 dh february 5 1979 3:32 pm 2712
+
+CACM-2535
+----------------------------------------------------------------
+<hl>computer</hl> affects <hl>performance</hl> timeshared
+computercommunications system concluded values system parameters
+noticeable improvement <hl>performance</hl> <hl>computer</hl>
+model sense timeshared scheduling delays reduced
+<hl>performance</hl> analytical simulation results based model
+computercommunications system md1 queue multiplexor tandem
+single exponential server <hl>computer</hl> analytical results
+include general
+
+CACM-3136
+----------------------------------------------------------------
+<hl>computer</hl> <hl>systems</hl> econometric models
+<hl>computer</hl> market developed study relationships system
+price hardware <hl>performance</hl> single measures
+priceperformance groschs law shown simplified <hl>computer</hl>
+<hl>systems</hl> market developing small business
+<hl>computer</hl> <hl>systems</hl> market unstable low price
+predictability cacm april 1979 cale gremillion mckenney
+priceperformance
+
+CACM-2988
+----------------------------------------------------------------
+<hl>performance</hl> measures response time memory utilization
+graphically displayed multiphase analytically soluble model
+proposed broadly applicable analysis teractive <hl>computer</hl>
+<hl>systems</hl> nonpaged <hl>performance</hl> queueing network
+models teractive <hl>computer</hl> <hl>systems</hl> 4.32 ca7734
+jb december 3 1977 12:51 2988 4 2988 175 5 2988
+
+CACM-1032
+----------------------------------------------------------------
+<hl>systems</hl> information storage retrieval <hl>systems</hl>
+composed major components identification information tagging
+effective retrieval searching strategy enter circumvent scanning
+nonrelevant material <hl>evaluation</hl> function relevancy
+developed rewards system retrieving relevant documents
+retrieving nonrelevant penalizes system escaped relevant
+documents false drops inadequacies linear
+
+CACM-2298
+----------------------------------------------------------------
+<hl>computer</hl> <hl>systems</hl> language processors
+inputoutput <hl>systems</hl> nanoprogram project management
+hardware <hl>evaluation</hl> 4.1 4.2 4.3 6.2 ca7284 jb january 3
+1978
+
+CACM-2892
+----------------------------------------------------------------
+<hl>computer</hl> communication networks interprocess
+communication measurement packet switching <hl>performance</hl>
+<hl>evaluation</hl> efficiency resource sharing 3.81 4.39 4.6
+4.9 ca7611 jb january
+
+CACM-1827
+----------------------------------------------------------------
+<hl>performance</hl> monitoring <hl>performance</hl> measurement
+program behavior <hl>performance</hl> data multiprogramming
+<hl>performance</hl> software measurement timesharing
+<hl>performance</hl> system <hl>evaluation</hl> software monitor
+software instrumentation ... <hl>performance</hl> monitoring
+timesharing system software measurement facility part general
+purpose timesharing system date collection facility dcf
+implemented michigan terminal system
+
+CACM-2344
+----------------------------------------------------------------
+<hl>performance</hl> ascertain parameters controllable
+jobscheduling algorithm including scheduling require
+optimization parameters controllable scheduling algorithm marked
+effect system <hl>performance</hl> system <hl>performance</hl>
+... <hl>performance</hl> timesharing <hl>systems</hl> simulation
+simulation model timesharing system finite noncontiguous store
+infinite auxiliary store study variation system parameters store
+size ... <hl>performance</hl> supervisor overheads size store
+speed cpu comparison made results simulation model analytical
+equations quantumoriented nonpreemptive timesharing
+<hl>systems</hl> comparison found ... <hl>performance</hl>
+obtained variable timeslice techniques selecting optimum
+roundrobin cycle time appears features benefit optimization
+parameters controllable scheduling algorithm affect system
+
+CACM-1719
+----------------------------------------------------------------
+<hl>performance</hl> realtime data processing <hl>systems</hl>
+typified automated airline reservation system discussed paper
+criteria evaluating <hl>performance</hl> methodology calculating
+optimizing outlined method ... <hl>performance</hl> continually
+increasing size complexity number types cost data processing
+<hl>systems</hl> causing reexamination government industry
+criteria methods calculating optimizing data ...
+<hl>performance</hl> calculation optimization drumoriented
+message switching system cacm july 1968 stimler brons realtime
+system analysis realtime system design realtime system
+
+CACM-1267
+----------------------------------------------------------------
+<hl>performance</hl> <hl>systems</hl> data transmission transfer
+rate information bits asa tutorial standard information thruput
+characteristic <hl>systems</hl> <hl>performance</hl> discussed
+discussion includes pertinent
+
+CACM-2798
+----------------------------------------------------------------
+<hl>systems</hl> blockage buffers model interleaved memory
+<hl>systems</hl> presented analysis model monte carlo simulation
+discussed simulations investigate <hl>performance</hl> system
+structures schemes ... <hl>systems</hl> modular memory
+<hl>systems</hl> memory <hl>performance</hl> analysis blockage
+buffer conflict buffer simulation monte carolo simulation 5.5
+6.34 ca7521 jb january
+
+CACM-2741
+----------------------------------------------------------------
+<hl>systems</hl> stepbystep approach model dynamic behavior
+evaluate <hl>performance</hl> computing <hl>systems</hl>
+proposed based technique variable aggregation concept nearly
+decomposable system borrowed ... <hl>performance</hl>
+<hl>evaluation</hl> saturation instabilities thrashing
+aggregation system levels hierarchynetworks queues 4.31 4.32 8.1
+8.2 ca7571 jb january 9 1978 1:39
+
+CACM-2852
+----------------------------------------------------------------
+<hl>systems</hl> graduate professional programs
+<hl>computer</hl> science cacm july 1976 conte halstead
+education information <hl>systems</hl> administration
+<hl>computer</hl> center management <hl>computer</hl> system ...
+<hl>computer</hl> center management proposed course graduate
+professional programs <hl>computer</hl> science information
+<hl>systems</hl> mcfarlan nolan made strong case adding course
+information
+
+CACM-3028
+----------------------------------------------------------------
+<hl>computer</hl> design manchester university <hl>systems</hl>
+stand mark developed period 194649 atlas paper places
+<hl>computer</hl> torical context describes architecture system
+software
+
+CACM-1518
+----------------------------------------------------------------
+<hl>performance</hl> modern <hl>computer</hl> <hl>systems</hl>
+formidable general technique ease problem macroscopic simulation
+paper reports applicability technique system36 paper describes
+experimental model
+
+CACM-1750
+----------------------------------------------------------------
+<hl>computer</hl> <hl>systems</hl> extended core storage
+multiprogrammed operating <hl>systems</hl> multiprocessor
+operating <hl>systems</hl> control data corporation 66 operating
+system ecs 4.3 4.32
+
+CACM-1030
+----------------------------------------------------------------
+<hl>computer</hl> logic simulation digital <hl>computer</hl>
+integral part <hl>computer</hl> design automation
+<hl>systems</hl> <hl>evaluation</hl> boolean functions
+characterize <hl>computer</hl> simulated constitutes major
+portion
+
+CACM-2571
+----------------------------------------------------------------
+<hl>performance</hl> <hl>evaluation</hl> 4.32 8.1 ca74123 jb
+january 16 1978 9:51 2571 4 2571 372 4 2571 3119 4 2571 2245
+
+CACM-2151
+----------------------------------------------------------------
+<hl>systems</hl> provide similar measuring facilities cacm
+october 1971 nemeth rovner operating <hl>systems</hl>
+multiprogramming <hl>systems</hl> timesharing <hl>systems</hl>
+software measurement user program ... <hl>systems</hl>
+description hardware software scheme measuring user programs
+timeshared environment tx2 <hl>computer</hl> mit lincoln
+laboratory implementation system characteristics implementation
+reported
+
+CACM-2375
+----------------------------------------------------------------
+<hl>performance</hl> criteria peripheral memory devices realtime
+<hl>systems</hl> response time rotational delay scheduling
+policies seek time simulation storage units timesharing
+<hl>systems</hl> ... <hl>performance</hl> showing discrimination
+individual requests choice utility function measure total
+<hl>performance</hl> including system oriented individual
+request oriented measures function differentiate ...
+<hl>performance</hl> criteria expected seek time system
+orientedand expected waiting time individual io request oriented
+analytical simulation results obtained variance waiting
+
+CACM-2106
+----------------------------------------------------------------
+<hl>computer</hl> education graduate school management years
+experience led belief creative design <hl>evaluation</hl>
+management information <hl>systems</hl> requires understanding
+related <hl>computer</hl> technology <hl>systems</hl> explained
+machine language level machine exposition fulfill criteria raise
+spurious issues allow undue effort solution interesting problems
+capable exposing
+
+CACM-2319
+----------------------------------------------------------------
+<hl>systems</hl> cacm july 1972 lynch <hl>computer</hl> system
+operating system <hl>performance</hl> <hl>evaluation</hl>
+<hl>performance</hl> measurement measurement techniques
+modularity layering structured programming paging ...
+<hl>performance</hl> overview future positions respect operating
+system <hl>performance</hl> great deal information large number
+models subsystems developed gaps exist knowledge severe
+
+CACM-3091
+----------------------------------------------------------------
+<hl>performance</hl> standards predicting program development
+time program estimation techniques program development equation
+programming experience programmer <hl>evaluation</hl> programmer
+scheduling programmer productivity ... <hl>computer</hl>
+programming productivity propose research examine relationship
+processing characteristics programs experience characteristics
+programmers program development time ultimate objective develop
+technique
+
+CACM-3072
+----------------------------------------------------------------
+<hl>computer</hl> system model studies integrated feedbackdriven
+scheduling <hl>systems</hl> multiprogrammed multiprocessor
+<hl>computer</hl> <hl>systems</hl> presented basic control
+variables dataflow rates processes executing <hl>systems</hl>
+feature simulated continuousflow preemptresume scheduling
+inputoutput activity attention amount memory resource required
+effective processing io activity buffer space assignment
+<hl>performance</hl> measured user cpu time optimal nearoptimal
+static schedulers imbeded identical system structures workload
+environments improvement greatest heavy io demand
+
+CACM-1699
+----------------------------------------------------------------
+<hl>evaluation</hl> information retrieval teletypewriter
+experiments designed evaluate capabilities mechanized
+information retrieval <hl>systems</hl> emphasis interactive
+manmachine language mechanical psychological limitations design
+<hl>systems</hl> laboratory basic assumption research
+information retrieval system manmachine dialogue remote inquiry
+terminal provide searcher tools actually performing search
+library <hl>evaluation</hl> system include ease learning time
+effectiveness actual retrieval experiments conclusions resulting
+detailed cacm september 1968 rubinoff bergman franks rubinoff
+<hl>evaluation</hl> experimental document retrieval document
+retrieval document perusal manmachine communication remote
+console communication teletypewriter communication remote
+terminal communication retrieval command
+
+CACM-1805
+----------------------------------------------------------------
+<hl>evaluation</hl> hardware <hl>evaluation</hl> monitor
+operating system system software supervisors
+<hl>performance</hl> time sharing time slicing 2.43 2.44 4.32
+ca69127 jb february
+
+CACM-1931
+----------------------------------------------------------------
+<hl>evaluation</hl> computational results show accuracy running
+times expected determinant <hl>evaluation</hl> application
+determinants program test set functions form chebyshev system
+presented <hl>evaluation</hl> chebyshev system mathematical
+proof <hl>computer</hl> 5.11 5.13 5.14 ca6927 jb february 2 1978
+1:49 1524 4 1931 1931 4
+
+CACM-1347
+----------------------------------------------------------------
+<hl>systems</hl> error sensitivities program <hl>evaluation</hl>
+propagation variance technique sensitivity timevarying
+<hl>systems</hl> initial condition parameter errors involves
+determination systemdependent partial derivative
+
+CACM-2711
+----------------------------------------------------------------
+<hl>performance</hl> correlate inversely space density approach
+based space density computations choose optimum indexing
+vocabulary collection documents typical <hl>evaluation</hl>
+results shown
+
+CACM-3088
+----------------------------------------------------------------
+<hl>computer</hl> <hl>systems</hl> equations directly applicable
+configuration consisting sets identical cpus io processors main
+storage partitions user tasks examples provided illustrate
+
+CACM-2452
+----------------------------------------------------------------
+<hl>evaluation</hl> selection organizationa model system work
+discusses factors affect data base organization
+<hl>performance</hl> elusive subject presents methodology model
+programmed system
+
+CACM-1792
+----------------------------------------------------------------
+<hl>performance</hl> exploratory experiments conducted system
+development corporation compare debugging <hl>performance</hl>
+programmers working conditions online line access
+<hl>computer</hl> known studies measure ... <hl>performance</hl>
+programmercomputer communication programming
+experimentalempirical studies programming cost effectiveness
+programming <hl>performance</hl> debugging effectiveness time
+sharing batch processing factor analysis application ...
+<hl>performance</hl> controlled conditions standard tasks
+statistically significant results experiments faster debugging
+online conditions important practical finding involves striking
+individual differences <hl>performance</hl> methodological
+problems encountered designing conducting experiments
+limitations findings pointed hypotheses presented account
+results suggestions made research cacm january 1968
+
+CACM-2859
+----------------------------------------------------------------
+<hl>systems</hl> simple model tested measurements program
+behavior simulations <hl>systems</hl> memory references real
+programs model results provide good indication
+<hl>performance</hl> expected
+
+CACM-0893
+----------------------------------------------------------------
+<hl>evaluation</hl> linear equations solution determinant
+<hl>evaluation</hl> matrix inversion cacm march 1963 goldstein
+ca63327 jb march 14 1978 12:47 pm 3131
+
+CACM-2217
+----------------------------------------------------------------
+<hl>evaluation</hl> functions guide search proof goal achievable
+thirteen general features predicate calculus clauses created
+automatic learning <hl>evaluation</hl> functions pp multiple
+
+CACM-3153
+----------------------------------------------------------------
+<hl>systems</hl> memory allocations possibility giving quality
+service jobs classes regulating memory allocation examined
+context paged <hl>computer</hl> system parameterized algorithms
+partition
+
+CACM-2849
+----------------------------------------------------------------
+<hl>systems</hl> viewed local <hl>computer</hl> networks loosely
+coupled multiprocessors ethernets shared communication facility
+ether passive broadcast medium central control coordination
+access <hl>performance</hl> heavy loads packet protocol error
+controlled communication included completeness cacm july 1976
+metcalfe boggs <hl>computer</hl> networks packet switching
+multiprocessing
+
+CACM-0096
+----------------------------------------------------------------
+<hl>evaluation</hl> finite series integration differential
+equation reeves electronic analog <hl>computer</hl> litton 4 ibm
+74 <hl>computer</hl> results generally applicable equations
+separated
+
+CACM-2967
+----------------------------------------------------------------
+<hl>evaluation</hl> hardware <hl>evaluation</hl> parallel
+processing database management 3.71 3.72 3.73 3.74 4.34 4.6 6.22
+8.2 ca7755 jb december 29 1977 ... <hl>computer</hl> graphics
+associative processing line drawings apld system utilizes
+hardware associative memory creates modifies deletes stores
+retrieves twodimensional line drawings
+
+CACM-0436
+----------------------------------------------------------------
+<hl>evaluation</hl> polynomials <hl>computer</hl> cacm december
+1962 knuth ca62123 jb march 17 1978 5:16 pm 1223 4 436 1388 4
+436
+
+CACM-1844
+----------------------------------------------------------------
+<hl>systems</hl> terminal oriented <hl>systems</hl> multiple
+processor <hl>systems</hl> high availability conversational
+<hl>systems</hl> general purpose timesharing <hl>systems</hl>
+realtime response system modular constructed <hl>systems</hl>
+graphics switch intercomputer communications control
+<hl>computer</hl> problem <hl>computer</hl> rollin rollout 6.21
+ca6912 jb february 15 1978 3:52 pm 1844 ... <hl>computer</hl>
+supervises collection distribution messages remote terminals
+simplest form disk drive connected terminal crosspoint switching
+network disk drive connected <hl>computer</hl> ...
+<hl>computer</hl> sharing system alternative approach design
+organization general purpose interactive multiterminal computing
+system presented system organization conceptually simple
+arrangement bank ... <hl>computer</hl> terminal users simple
+manner ratio users computers dependent size power machines
+computation requirements mix users system organization
+inherently simpler
+
+CACM-1620
+----------------------------------------------------------------
+<hl>evaluation</hl> routines method nested multiplication
+commonly function <hl>evaluation</hl> routines evaluate
+approximation polynomials polynomial <hl>evaluation</hl> methods
+developed recent years require fewer
+
+CACM-1374
+----------------------------------------------------------------
+<hl>evaluation</hl> determinant determinant <hl>evaluation</hl>
+algorithms 41 269 cacm september 1966 bergson ca6699e jb march
+23 1978 4:29 pm 1374 5
+
+CACM-1071
+----------------------------------------------------------------
+<hl>systems</hl> development general timesharing
+<hl>systems</hl> requires revision accounting procedures
+<hl>computer</hl> usage timesharing system users operate
+concurrently precise amount <hl>computer</hl> time
+
+CACM-1341
+----------------------------------------------------------------
+<hl>computer</hl> <hl>systems</hl> building <hl>computer</hl>
+<hl>systems</hl> tend break levels control command communication
+system break problems correspondingly continued structure raises
+questions effects
+
+CACM-2048
+----------------------------------------------------------------
+<hl>performance</hl> adaptive quadrature schemes based
+newtoncotes 2n 1 point rules 1 2 3 4 5 approximating set
+definite integrals integral$1x2
+
+CACM-1415
+----------------------------------------------------------------
+<hl>performance</hl> automatic message retrieval
+<hl>systems</hl> practical manmachine <hl>systems</hl> human
+monitors select preferred syntactic interpretation sentence cacm
+june 1966 carmody jones
+
+CACM-2886
+----------------------------------------------------------------
+<hl>evaluation</hl> schemes ease adapting attribute grammar
+programming language lefttoright <hl>evaluation</hl> scheme
+discussed cacm february 1976 bochmann attribute grammars
+semantics programming ... <hl>evaluation</hl> left paper
+describes attribute grammars definition programming languages
+compilers formal definition attribute grammars discussion
+important aspects included paper concentrates
+
+CACM-2936
+----------------------------------------------------------------
+<hl>systems</hl> exhibited <hl>performance</hl> superior
+commonly simple linked list algorithms paper event scheduling
+algorithm presented improves aspects previously published
+algorithms algorithms
+
+CACM-2016
+----------------------------------------------------------------
+<hl>performance</hl> measurement multiprogramming
+<hl>systems</hl> measuring tools system analysis multics
+metering event tracing demand paging script driven measurement
+2.44 4.32 4.39
+
+CACM-1940
+----------------------------------------------------------------
+<hl>evaluation</hl> polynomial <hl>evaluation</hl> algol
+procedure horners scheme 4.22 5.12 ca6919 jb february 2 1978
+11:46 194 5 194 194 5
+
+CACM-1689
+----------------------------------------------------------------
+<hl>evaluation</hl> polynomial <hl>evaluation</hl> algol
+procedure horners scheme 5.12 4.22 ca68912 jb february 21 1978
+4:33 pm 1689 5 1689 1689
+
+CACM-2985
+----------------------------------------------------------------
+<hl>systems</hl> <hl>computer</hl> services chargeout
+<hl>systems</hl> user management attitudes computerbased
+information <hl>systems</hl> investigated evidence provided
+relationship conforms general pattern expected hypothesis ...
+<hl>systems</hl> development main tenance computerbased
+<hl>systems</hl> asserted category organizational change felt
+need change part usermanager prerequisite change taking place
+research <hl>computer</hl> management <hl>computer</hl> budget
+chargeout stage hypothesis control 2.41 2.43 3.5 ca7737 jb
+december 29 1977 6:43 2977 4 2985
+
+CACM-0417
+----------------------------------------------------------------
+<hl>computer</hl> paper points variety ways <hl>computer</hl>
+<hl>systems</hl> business industry involved legal entanglements
+suggests <hl>computer</hl> specialists responsibility call
+assistance forestalling minimizing
+
+CACM-1671
+----------------------------------------------------------------
+<hl>evaluation</hl> linguist area phonology presented permits
+user define online sets rules statable framework presented sound
+patterns english chomsky halle 1968 <hl>computer</hl> designed
+online interactive fashion control user command executed cacm
+november 1968 borrow fraser phonology rule tester linguistics
+transformational grammar
+
+CACM-2437
+----------------------------------------------------------------
+<hl>performance</hl> analysis keytoaddress transformation
+methods abstract concept paper presents approach analysis
+<hl>performance</hl> keytoaddress transformation methods
+approach keys assumed selected key <hl>performance</hl>
+transformation methods potential methods analysis methods
+<hl>performance</hl> classified key distributions partial
+transformations identified analytically approach applied group
+transformation methods
+
+CACM-1728
+----------------------------------------------------------------
+<hl>evaluation</hl> page replacement algorithms assessing
+effects <hl>performance</hl> amount storage allocated executing
+programs cacm july 1968 coffman varian paging <hl>systems</hl>
+paging <hl>systems</hl> singlelevel storage onelevel storage
+operating system simulation operating <hl>systems</hl>
+supervisor simulation machine language program interpretation
+4.13 4.32 4.39 4.9
+
+CACM-1196
+----------------------------------------------------------------
+<hl>computer</hl> processing formulated terms numerical solution
+<hl>systems</hl> ordinary differential equations powerful
+methods existence solution <hl>systems</hl> good general purpose
+routine solution
+
+CACM-3169
+----------------------------------------------------------------
+<hl>evaluation</hl> boolean expressions online query system cacm
+october 1979 gudes hoffman query boolean expression optimal
+<hl>evaluation</hl> information retrieval 3.5 3.7
+
+CACM-0322
+----------------------------------------------------------------
+<hl>computer</hl> efficiently view growing number programming
+<hl>systems</hl> programming <hl>systems</hl> coded utilize
+fixed set hardware components recognizing fact occupying storage
+medium
+
+CACM-2479
+----------------------------------------------------------------
+<hl>systems</hl> information <hl>systems</hl> administration
+information <hl>systems</hl> management <hl>computer</hl>
+management 1.52 3.51 ca7377 jb january 23 1978 12:3 pm 2479 4
+... <hl>systems</hl> recommended addendum information
+<hl>systems</hl> administration addendum report acm curriculum
+committee <hl>computer</hl> education management proposed
+proposed addendum include curriculum course
+
+CACM-3026
+----------------------------------------------------------------
+<hl>systems</hl> sperry univacs largescale main frame
+<hl>computer</hl> <hl>systems</hl> beginning 117 1962 11 series
+progressed succession compatible <hl>computer</hl> models latest
+system
+
+CACM-2017
+----------------------------------------------------------------
+<hl>systems</hl> dynamic storage allocation measurement
+<hl>systems</hl> program behavior <hl>performance</hl>
+<hl>evaluation</hl> memory management 4.32 4.49 4.9 5.31 ca784
+jb february 1
+
+CACM-3035
+----------------------------------------------------------------
+<hl>computer</hl> management <hl>computer</hl> budget university
+computing <hl>computer</hl> planning 2.41 3.51 ca78124 dh
+january 18 1979 4:26 pm 2977 4 335
+
+CACM-1747
+----------------------------------------------------------------
+<hl>computer</hl> design <hl>computer</hl> design criteria
+<hl>computer</hl> <hl>systems</hl> <hl>computer</hl>
+<hl>systems</hl> design input equipment input equipment design
+operating <hl>systems</hl> operating <hl>systems</hl> design ...
+<hl>computer</hl> explained examples applications criteria
+concern reading timeofday clock synchronization parallel
+processes protection multiprogrammed <hl>systems</hl> assignment
+capability indexes cacm 1968 ... <hl>systems</hl> facilitate
+debugging designer computing system adopt explicit criteria
+accepting rejecting proposed system features criteria kind input
+recordability input specifiability
+
+CACM-1236
+----------------------------------------------------------------
+<hl>systems</hl> operations <hl>evaluation</hl> procedures cacm
+june 1965 salton lesk ca65619 jb march 6 1978 9:41 pm 1236 5
+1236 1236
+
+CACM-2502
+----------------------------------------------------------------
+<hl>computer</hl> science education cacm 1973 estell education
+<hl>computer</hl> engineering <hl>computer</hl> sciences
+curriculum <hl>systems</hl> design 1.52 6 ca73518 jb january 23
+
+CACM-2553
+----------------------------------------------------------------
+<hl>computer</hl> science educationdiscussion cacm january 1973
+blount education <hl>computer</hl> engineering <hl>computer</hl>
+science curriculum <hl>systems</hl> design 1.52 6 ca7318 jb
+january
+
+CACM-1951
+----------------------------------------------------------------
+<hl>computer</hl> communications studies decomposed elements
+model data examined operational multiaccess <hl>systems</hl>
+model shown robust variables model distribution independent
+<hl>systems</hl> examined <hl>systems</hl> studied cacm december
+197 fuchs jackson <hl>computer</hl> communications timesharing
+operating <hl>systems</hl> optimization models 3.8 3.81 6.2
+ca71212 jb february
+
+CACM-1529
+----------------------------------------------------------------
+<hl>performance</hl> algorithms absolute <hl>performance</hl>
+compared standard primalsimplex solution decomposition cacm
+october 1967 bell ca6714 jb february 27 1978 2:33 pm
+
+CACM-2712
+----------------------------------------------------------------
+<hl>evaluation</hl> general closed queueing networks solution
+separable closed queueing networks requires <hl>evaluation</hl>
+homogeneous multinomial expressions number terms expressions
+grows combinatorially
+
+CACM-1572
+----------------------------------------------------------------
+<hl>systems</hl> development large scale timesharing
+<hl>systems</hl> raised number problems computation center
+management develop hardware configuration <hl>systems</hl>
+software adjustments made unfortunately
+
+CACM-1272
+----------------------------------------------------------------
+<hl>computer</hl> output exemplified concordance preparing
+survey article lecture opportunities heavy editing chief
+interpretation expansion <hl>computer</hl> output processes
+factor analysis applications
+
+CACM-3078
+----------------------------------------------------------------
+<hl>computer</hl> <hl>systems</hl> <hl>computer</hl> aided
+algebra analytical results related availability
+<hl>computer</hl> system constructed unreliable processors
+presented paper results obtained computeraided algebraic
+<hl>systems</hl> modeled markov semimarkov processes potential
+range application techniques wider problem availability analyzed
+cacm july 1978 chattergy pooch computeraided algebra
+
+CACM-0040
+----------------------------------------------------------------
+<hl>performance</hl> binary addresses essential powerful
+operations practical decimal instruction formats hand decimal
+numbers essential communicating man <hl>computer</hl>
+applications requiring processing ... <hl>computer</hl> greater
+simplicity binary arithmetic unit greater compactness binary
+numbers contribute directly arithmetic speed obvious important
+binary addressing instruction formats
+
+CACM-0671
+----------------------------------------------------------------
+<hl>computer</hl> system savings bank institution traced early
+conceptual needs bank consummation design teleregister
+corporation bank equipment criteria led development telefile
+
+CACM-2624
+----------------------------------------------------------------
+<hl>systems</hl> implemented limited number generation
+<hl>computer</hl> <hl>systems</hl> cp67 ibm 3667 previous
+empirical studies known generation <hl>computer</hl>
+<hl>systems</hl> dec pdp1 support
+
+CACM-2262
+----------------------------------------------------------------
+<hl>computer</hl> <hl>systems</hl> list processing typically
+growing demand space program execution paper examines practical
+implications growth virtual memory <hl>computer</hl> system
+proposes
+
+CACM-0533
+----------------------------------------------------------------
+<hl>performance</hl> data processing engineering
+<hl>systems</hl> inputs corrupted correlated noise known form
+required technique simple produces strictsense stationary noise
+agrees approximately
+
+CACM-1066
+----------------------------------------------------------------
+<hl>systems</hl> components system translation problem statement
+terms basic data linear programming matrix coefficients data
+transmission direct <hl>computer</hl> entry data
+<hl>computer</hl> ... <hl>computer</hl> code undergone radical
+change longer adequate merely reduce mathematical algorithm
+simplex method <hl>computer</hl> code advanced code cope variety
+situations
+
+CACM-3027
+----------------------------------------------------------------
+<hl>computer</hl> system outline background mu5 project aims
+ideas mu5 discussed description instruction set includes number
+features conducive production efficient compiled
+
+CACM-2989
+----------------------------------------------------------------
+<hl>evaluation</hl> features instruction set processor
+architectures paper presents methods empirical
+<hl>evaluation</hl> features instruction set processors isps isp
+features evaluated terms
+

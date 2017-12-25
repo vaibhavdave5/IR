@@ -1,0 +1,220 @@
+CACM-2699
+----------------------------------------------------------------
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... <hl>sharing</hl> <hl>operating</hl>
+<hl>system</hl> <hl>operating</hl> <hl>system</hl> run wide
+variety configurations 19 handle large number online console
+users <hl>time</hl> running line background ... teaching
+<hl>system</hl> model incorporated <hl>operating</hl>
+<hl>system</hl> large computer model transferred control
+<hl>operating</hl> <hl>system</hl> execute functions teaching
+recovered control order resume abacii written run
+<hl>operating</hl> <hl>system</hl> ibsys <hl>ibm</hl> 744
+graphic <hl>system</hl> teaching <hl>system</hl> terminated
+rescheduled student studying course presented cathoderay display
+
+CACM-1923
+----------------------------------------------------------------
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... <hl>sharing</hl> <hl>operating</hl>
+<hl>system</hl> <hl>operating</hl> <hl>system</hl> run wide
+variety configurations 19 handle large number online console
+users <hl>time</hl> running line background ... teaching
+<hl>system</hl> model incorporated <hl>operating</hl>
+<hl>system</hl> large computer model transferred control
+<hl>operating</hl> <hl>system</hl> execute functions teaching
+recovered control order resume abacii written run
+<hl>operating</hl> <hl>system</hl> ibsys <hl>ibm</hl> 744
+graphic <hl>system</hl> teaching <hl>system</hl> terminated
+rescheduled student studying course presented cathoderay display
+
+CACM-3171
+----------------------------------------------------------------
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... <hl>sharing</hl> <hl>operating</hl>
+<hl>system</hl> <hl>operating</hl> <hl>system</hl> run wide
+variety configurations 19 handle large number online console
+users <hl>time</hl> running line background ... teaching
+<hl>system</hl> model incorporated <hl>operating</hl>
+<hl>system</hl> large computer model transferred control
+<hl>operating</hl> <hl>system</hl> execute functions teaching
+recovered control order resume abacii written run
+<hl>operating</hl> <hl>system</hl> ibsys <hl>ibm</hl> 744
+graphic <hl>system</hl> teaching <hl>system</hl> terminated
+rescheduled student studying course presented cathoderay display
+
+CACM-2717
+----------------------------------------------------------------
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... <hl>sharing</hl> <hl>operating</hl>
+<hl>system</hl> <hl>operating</hl> <hl>system</hl> run wide
+variety configurations 19 handle large number online console
+users <hl>time</hl> running line background ... teaching
+<hl>system</hl> model incorporated <hl>operating</hl>
+<hl>system</hl> large computer model transferred control
+<hl>operating</hl> <hl>system</hl> execute functions teaching
+recovered control order resume abacii written run
+<hl>operating</hl> <hl>system</hl> ibsys <hl>ibm</hl> 744
+graphic <hl>system</hl> teaching <hl>system</hl> terminated
+rescheduled student studying course presented cathoderay display
+
+CACM-2906
+----------------------------------------------------------------
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... <hl>sharing</hl> <hl>operating</hl>
+<hl>system</hl> <hl>operating</hl> <hl>system</hl> run wide
+variety configurations 19 handle large number online console
+users <hl>time</hl> running line background ... teaching
+<hl>system</hl> model incorporated <hl>operating</hl>
+<hl>system</hl> large computer model transferred control
+<hl>operating</hl> <hl>system</hl> execute functions teaching
+recovered control order resume abacii written run
+<hl>operating</hl> <hl>system</hl> ibsys <hl>ibm</hl> 744
+graphic <hl>system</hl> teaching <hl>system</hl> terminated
+rescheduled student studying course presented cathoderay display
+
+CACM-2527
+----------------------------------------------------------------
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... <hl>sharing</hl> <hl>operating</hl>
+<hl>system</hl> <hl>operating</hl> <hl>system</hl> run wide
+variety configurations 19 handle large number online console
+users <hl>time</hl> running line background ... teaching
+<hl>system</hl> model incorporated <hl>operating</hl>
+<hl>system</hl> large computer model transferred control
+<hl>operating</hl> <hl>system</hl> execute functions teaching
+recovered control order resume abacii written run
+<hl>operating</hl> <hl>system</hl> ibsys <hl>ibm</hl> 744
+graphic <hl>system</hl> teaching <hl>system</hl> terminated
+rescheduled student studying course presented cathoderay display
+
+CACM-2198
+----------------------------------------------------------------
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... <hl>sharing</hl> <hl>operating</hl>
+<hl>system</hl> <hl>operating</hl> <hl>system</hl> run wide
+variety configurations 19 handle large number online console
+users <hl>time</hl> running line background ... teaching
+<hl>system</hl> model incorporated <hl>operating</hl>
+<hl>system</hl> large computer model transferred control
+<hl>operating</hl> <hl>system</hl> execute functions teaching
+recovered control order resume abacii written run
+<hl>operating</hl> <hl>system</hl> ibsys <hl>ibm</hl> 744
+graphic <hl>system</hl> teaching <hl>system</hl> terminated
+rescheduled student studying course presented cathoderay display
+
+CACM-3148
+----------------------------------------------------------------
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... <hl>sharing</hl> <hl>operating</hl>
+<hl>system</hl> <hl>operating</hl> <hl>system</hl> run wide
+variety configurations 19 handle large number online console
+users <hl>time</hl> running line background ... teaching
+<hl>system</hl> model incorporated <hl>operating</hl>
+<hl>system</hl> large computer model transferred control
+<hl>operating</hl> <hl>system</hl> execute functions teaching
+recovered control order resume abacii written run
+<hl>operating</hl> <hl>system</hl> ibsys <hl>ibm</hl> 744
+graphic <hl>system</hl> teaching <hl>system</hl> terminated
+rescheduled student studying course presented cathoderay display
+
+CACM-2316
+----------------------------------------------------------------
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... <hl>sharing</hl> <hl>operating</hl>
+<hl>system</hl> <hl>operating</hl> <hl>system</hl> run wide
+variety configurations 19 handle large number online console
+users <hl>time</hl> running line background ... teaching
+<hl>system</hl> model incorporated <hl>operating</hl>
+<hl>system</hl> large computer model transferred control
+<hl>operating</hl> <hl>system</hl> execute functions teaching
+recovered control order resume abacii written run
+<hl>operating</hl> <hl>system</hl> ibsys <hl>ibm</hl> 744
+graphic <hl>system</hl> teaching <hl>system</hl> terminated
+rescheduled student studying course presented cathoderay display
+
+CACM-3150
+----------------------------------------------------------------
+<hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching ... <hl>sharing</hl> <hl>operating</hl>
+<hl>system</hl> <hl>operating</hl> <hl>system</hl> run wide
+variety configurations 19 handle large number online console
+users <hl>time</hl> running line background ... teaching
+<hl>system</hl> model incorporated <hl>operating</hl>
+<hl>system</hl> large computer model transferred control
+<hl>operating</hl> <hl>system</hl> execute functions teaching
+recovered control order resume abacii written run
+<hl>operating</hl> <hl>system</hl> ibsys <hl>ibm</hl> 744
+graphic <hl>system</hl> teaching <hl>system</hl> terminated
+rescheduled student studying course presented cathoderay display
+

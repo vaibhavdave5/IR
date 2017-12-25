@@ -1,0 +1,7 @@
+-	Results for Task 1 can be found in the folder Results -> Phase 1 -> Task 1
+-	Results for Task 2 ->PRF can be found in the folder Results -> Phase 1 -> Task 2
+-	Results for Task 3-A can be found in the folder Results -> Phase 1 -> Task 3_A
+-	Results for Task 3-B can be found in the folder Results -> Phase 1 -> Task 3_B
+-	Results for Phase 2 can be found in the folder Results -> Phase 2 -> Snippet -> BM25
+-	Results for Phase 3 can be found in the folder Results -> Phase 3.
+-	Results(Evaluation and Scores) for ExtraCredit, Proximity Model can be found in folder Results -> Proximity 

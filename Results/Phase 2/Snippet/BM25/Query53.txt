@@ -1,0 +1,692 @@
+CACM-0139
+----------------------------------------------------------------
+<hl>binomial</hl> <hl>coefficients</hl> algorithm 19 cacm
+october 196 kenyon ca619 jb march 2 1978 8:14 pm 139 5 139 139 5
+
+CACM-0514
+----------------------------------------------------------------
+<hl>binomial</hl> <hl>coefficients</hl> algorithm 19 cacm august
+1962 george ca62814 jb march 17 1978 9:4 pm 514 5 514 514 5
+
+CACM-0569
+----------------------------------------------------------------
+<hl>binomial</hl> <hl>coefficients</hl> algorithm 19 cacm june
+1962 steck ca62616 jb march 17 1978 9:22 pm 569 5 569 569 5
+
+CACM-2229
+----------------------------------------------------------------
+<hl>binomial</hl> <hl>theorem</hl> iteration methods methods
+relationship pointed wellknown classical formulas obtained cases
+shown convergence properties formulas improved additional
+computations finally
+
+CACM-2210
+----------------------------------------------------------------
+<hl>mathematical</hl> <hl>induction</hl> applied
+<hl>relation</hl> version <hl>induction</hl> rule form program
+constructed explored detail cacm march 1971 manna waldinger
+artificial intelligence answer <hl>mathematical</hl>
+<hl>induction</hl> principle problem solving <hl>theorem</hl>
+proving 3.64 5.23 5.24 ca7132 jb february 3 1978 4:48 pm 1515 4
+221
+
+CACM-2391
+----------------------------------------------------------------
+<hl>binomial</hl> <hl>coefficients</hl> 5.11 5.3 5.5 ca72112 jb
+february 1 1978 8:55 2391 5 2391 2391 5 2391 2391 2391
+
+CACM-1186
+----------------------------------------------------------------
+<hl>binomial</hl> <hl>coefficients</hl> specific problems
+analyzed general technique exposed algol program developed
+problems cacm october 1965 lynchw ca6519 jb march 6
+
+CACM-2986
+----------------------------------------------------------------
+<hl>relations</hl> computations <hl>relations</hl> boolean
+matrices directed graphs computation precedence
+<hl>relations</hl> contextfree grammar practical algorithm
+asymptotically faster common compute operator precedence ...
+<hl>matrix</hl> directed graph wirthweber precedence
+<hl>relation</hl> linear precedence function slr grammar
+tcanonical precedence <hl>relation</hl> 4.12 5.23 5.25 ca7736 jb
+december ... <hl>relations</hl> steps shown compute linear
+precedence functions steps shown compute linear precedence
+functions steps size grammer heart algorithms general
+<hl>theorem</hl>
+
+CACM-2769
+----------------------------------------------------------------
+<hl>relations</hl> algorithm computing transitive closure binary
+<hl>relation</hl> represented boolean <hl>matrix</hl> algorithm
+similar warshalls executes faster sparse matrices computers
+paging environment
+
+CACM-2031
+----------------------------------------------------------------
+<hl>theorem</hl> lame bound number iterations euclidean
+algorithm <hl>integers</hl> extended case <hl>integers</hl>
+algorithm construct minimal set multipliers presented fortran
+program algorithm ... <hl>integers</hl> version euclidean
+algorithm finding greatest common divisor <hl>integers</hl> ai
+multipliers xi gcd xnan presented number arithmetic operations
+number storage
+
+CACM-2981
+----------------------------------------------------------------
+<hl>relation</hl> subgoal <hl>induction</hl> commonly
+<hl>induction</hl> rules explored shown subgoal
+<hl>induction</hl> viewed specialized form computation
+<hl>induction</hl> set sufficient conditions presented guarantee
+<hl>induction</hl> steps proof subgoal <hl>induction</hl> valid
+cacm april 1977 morris jr wegbreit program verification proving
+programs correct <hl>induction</hl> rule computation ...
+<hl>induction</hl> proof method subgoal <hl>induction</hl>
+presented alternative supplement commonly inductive assertion
+method major virtue prove loops correctness directly inputoutput
+specification
+
+CACM-1567
+----------------------------------------------------------------
+<hl>relations</hl> symmetric polynomials light <hl>theory</hl>
+symmetric <hl>group</hl> approach unifies earlier work lends
+insight previously published work aaron booker generalization
+graeffes
+
+CACM-1817
+----------------------------------------------------------------
+<hl>coefficients</hl> algorithm 255 cacm november 1969
+<hl>hall</hl> ray numerical integration fourier
+<hl>coefficients</hl> filons method 5.16 ca691113 jb february 15
+1978
+
+CACM-1609
+----------------------------------------------------------------
+<hl>university</hl> course examinations computer approach
+problem scheduling course examinations presented principle
+examination schedule requires minimum number examination periods
+satisfies constraint <hl>group</hl> period minimal schedule
+obtained known algorithms carrying procedures prohibitively
+expensive approximations ideal procedure outlined yield
+nonminimal feasible schedules small
+
+CACM-1948
+----------------------------------------------------------------
+<hl>group</hl> <hl>theory</hl> survey computers applied
+increasingly diverse range problems <hl>group</hl>
+<hl>theory</hl> important areas application present coset
+enumeration subgroup lattices automorphism <hl>group</hl>
+<hl>theory</hl> programs range simple combinatorial numerical
+programs large symbol manipulation systems survey important
+algorithms contrasted results obtained existing programs
+
+CACM-1321
+----------------------------------------------------------------
+<hl>1321</hl> 5 <hl>1321</hl> <hl>1321</hl> 5 <hl>1321</hl>
+<hl>1321</hl> 5 <hl>1321</hl> 175 5 <hl>1321</hl> 984 6
+<hl>1321</hl> 986 6 <hl>1321</hl> 12 6
+
+CACM-2648
+----------------------------------------------------------------
+<hl>theory</hl> package optimized trial division routine number
+<hl>theory</hl> package doubly linked list structures storing
+multiprecise <hl>integers</hl> package coded ibms basic
+
+CACM-0248
+----------------------------------------------------------------
+<hl>mathematical</hl> programmingimpressions panel discussion
+panel discussion proprietary <hl>mathematical</hl> programming
+sponsored special interest committee <hl>mathematical</hl>
+programming acm <hl>hall</hl> discussionon september 7th
+
+CACM-1887
+----------------------------------------------------------------
+<hl>relation</hl> determinant pentadiagonal <hl>matrix</hl>
+recursive <hl>relation</hl> relating leading principal minors
+developed determinant pentadiagonal <hl>matrix</hl> numerical
+included calculating eigenvalues cacm june
+
+CACM-2476
+----------------------------------------------------------------
+<hl>hall</hl> artificial intelligence andor graphs language
+<hl>theory</hl> contextfree grammars 3.6 3.64 5.23 ca7371 jb
+january 23 1978 11:21 2476 5
+
+CACM-2613
+----------------------------------------------------------------
+<hl>transitivity</hl> sets algorithm a482 cacm august 1974 mckay
+regener <hl>transitivity</hl> sets 5.39 ca74811 jb january 17
+1978 9:35 2613 5
+
+CACM-0495
+----------------------------------------------------------------
+<hl>coefficients</hl> normal equations elements symmetric
+positivedefinite <hl>matrix</hl> order solve normal equations
+evaluate precision measures resulting parameters inversion
+<hl>matrix</hl> <hl>coefficients</hl> required ...
+<hl>matrix</hl> procedure inverting symmetric <hl>matrix</hl>
+devised cacm august 1962 busing levy ca62833 jb march 17 1978
+9:9 pm 495 5
+
+CACM-1933
+----------------------------------------------------------------
+<hl>modulo</hl> 231 1 prime mersenne number produces 231 2
+numbers pbit greater 31 computer computation method extendible
+limited problems modular
+
+CACM-1707
+----------------------------------------------------------------
+<hl>matrix</hl> similar positive <hl>matrix</hl> result
+construct similarity transformation applied upper triangular
+<hl>matrix</hl> yields positive <hl>matrix</hl> preassigned
+positive spectrum cacm august
+
+CACM-1922
+----------------------------------------------------------------
+<hl>link</hl> <hl>link</hl> control procedures <hl>link</hl>
+establishmenttermination procedures <hl>link</hl> message
+transfer procedures <hl>link</hl> error control procedures
+<hl>link</hl> pollingselection procedures data <hl>link</hl>
+
+CACM-2327
+----------------------------------------------------------------
+<hl>theory</hl> brains source ideas automata theorythe study
+brainhas pushed <hl>mathematical</hl> development
+<hl>theory</hl> paper suggests ways automata <hl>theory</hl>
+evolve 25 years
+
+CACM-1870
+----------------------------------------------------------------
+<hl>integers</hl> construct binary numbers <hl>probability</hl>
+bit word 1bit assume desired parameter techniques making numbers
+simulation programming cacm july 1969 donnelly
+
+CACM-1308
+----------------------------------------------------------------
+<hl>mathematical</hl> model consists <hl>group</hl>
+surfacedefining quadric equations created system modular
+subprogram subprograms convert <hl>mathematical</hl> model
+instructions driving automatic drafting machines
+
+CACM-3010
+----------------------------------------------------------------
+<hl>313</hl> students <hl>university</hl> minnesota 1972
+computer science majors found complex structure social science
+majors cacm march 1978 anderson values attitudes
+
+CACM-1914
+----------------------------------------------------------------
+<hl>matrix</hl> scaling integer programming algorithm 348 cacm
+april 1969 klimpel integer programming linear algebra
+<hl>mathematical</hl> programming <hl>matrix</hl> condition
+<hl>matrix</hl> scaling
+
+CACM-3130
+----------------------------------------------------------------
+<hl>313</hl> 2899 4 <hl>313</hl> <hl>313</hl> 4 <hl>313</hl>
+<hl>313</hl> 4 <hl>313</hl> 1771 5 <hl>313</hl> 33 5
+<hl>313</hl> <hl>313</hl> 5 <hl>313</hl> <hl>313</hl> ...
+<hl>313</hl> 1927 4 <hl>313</hl> 2147 4 <hl>313</hl> 2163 4
+<hl>313</hl> 2345 4 <hl>313</hl> 2478 4 <hl>313</hl> 2594 4
+<hl>313</hl> 2852
+
+CACM-0373
+----------------------------------------------------------------
+<hl>coefficients</hl> <hl>matrix</hl> multiplication algorithm
+39 cacm march 1961 sassouni ca6139 jb march 17 1978 12:37 373 5
+373 373 5
+
+CACM-0313
+----------------------------------------------------------------
+<hl>313</hl> 5 <hl>313</hl> <hl>313</hl> 5 <hl>313</hl>
+<hl>313</hl> 313
+
+CACM-0679
+----------------------------------------------------------------
+<hl>binomial</hl> <hl>coefficients</hl> area logical control
+chief feature notation variably nested looping discussion
+subprogramming focused madcaps notation procedures cacm november
+1963
+
+CACM-2484
+----------------------------------------------------------------
+<hl>relations</hl> algorithm constructing subsets set algorithm
+selecting element set objects <hl>relations</hl> algorithms
+results information structures list tree ring problem
+information
+
+CACM-3103
+----------------------------------------------------------------
+<hl>313</hl> 2151 4 <hl>313</hl> <hl>313</hl> 4 <hl>313</hl>
+<hl>313</hl> 4 <hl>313</hl> 3148 4 <hl>313</hl> 186 5
+<hl>313</hl> 2877 5 <hl>313</hl> <hl>313</hl>
+
+CACM-2806
+----------------------------------------------------------------
+<hl>matrix</hl> related hadamards determinant <hl>theorem</hl>
+merits alternatives normbound condition numbers linear systems
+known eigen systems cacm january 1975 birkhoff matrices
+
+CACM-2028
+----------------------------------------------------------------
+<hl>integers</hl> multipliers $a1 algorithm 386 cacm july 197
+bradley greatest common divisor euclidean algorithm number
+<hl>theory</hl> diophantine equations 3.15 5.1
+
+CACM-2169
+----------------------------------------------------------------
+<hl>coefficients</hl> designed implemented handle large problems
+ease efficiency considerable effort spent ensure minimum amount
+machine dependence implementation permitting system installed
+
+CACM-1066
+----------------------------------------------------------------
+<hl>matrix</hl> <hl>coefficients</hl> data transmission direct
+computer entry data computer center data processing editing
+prior solving simplex algorithm efficient reliable code
+
+CACM-1691
+----------------------------------------------------------------
+<hl>modulo</hl> irreducible polynomials primitive trinomials
+<hl>modulo</hl> congruential generators prime numbers
+statistical tests randomness ibm 36 32bit versus 36bit word size
+
+CACM-3013
+----------------------------------------------------------------
+<hl>313</hl> 5 <hl>313</hl> <hl>313</hl> 5 <hl>313</hl>
+<hl>313</hl> 313
+
+CACM-0727
+----------------------------------------------------------------
+<hl>mathematical</hl> <hl>theory</hl> suppliedxtension method
+natural ndimensional problems means 4dimensional cacm september
+1963 greenspan yohe ca63931 jb march 13 1978 6:57
+
+CACM-2457
+----------------------------------------------------------------
+<hl>induction</hl> structural <hl>induction</hl> including
+examples applications cacm august 1973 manna nes vuillemin
+recursive programs fixed point computational <hl>induction</hl>
+structural <hl>induction</hl>
+
+CACM-2416
+----------------------------------------------------------------
+<hl>matrix</hl> transposition place algorithm a467 cacm november
+1973 brenner transposition <hl>matrix</hl> operations
+permutations primitive roots number <hl>theory</hl> 3.15 5.14
+5.39
+
+CACM-2794
+----------------------------------------------------------------
+<hl>theorem</hl> prover determines set clauses interpreted
+statespacer mode problemreduction mode presented analogous
+concepts problemreduction <hl>theorem</hl> proving terminology
+refer noted relationship <hl>theorem</hl> proving language
+recognition 3.64 ca7525 jb january 12 1978 8:27 2794 5 2794 2794
+5 2794 2794 2794
+
+CACM-1295
+----------------------------------------------------------------
+<hl>link</hl> <hl>link</hl> defined memory location address
+memory location time information activity carried <hl>link</hl>
+typical net majority activities 36bit cell remainder
+
+CACM-2298
+----------------------------------------------------------------
+<hl>university</hl> york buffalo consisted phases evaluation
+machines support research decision purchase machine appears
+superior considered organization definition goals <hl>group</hl>
+project
+
+CACM-1867
+----------------------------------------------------------------
+<hl>theory</hl> shown lj 2 asymptotically average interval sign
+lj2 2.6662 cacm july 1969 hooker replacement selecting sorting
+sequence lengths asymptotic
+
+CACM-2720
+----------------------------------------------------------------
+<hl>theory</hl> disk drive characterized queueing model service
+time disk drive represented <hl>probability</hl> density
+function sum uniform distributions total response time
+
+CACM-2081
+----------------------------------------------------------------
+<hl>matrix</hl> <hl>matrix</hl> concatenation <hl>matrix</hl>
+sequences programming languages sequence operations symbol
+manipulation 4.12 4.22 5.14 5.41 ca743 jb february 13 1978 ...
+<hl>matrix</hl> calculus introduced intention developing data
+structures suitable high level algorithmic language
+<hl>mathematical</hl> programming paper investigates special
+structure matrices utilized
+
+CACM-2644
+----------------------------------------------------------------
+<hl>theorem</hl> proving need developing language especially
+oriented automated <hl>theorem</hl> proving paper discusses
+features instructions language language permits easy extension
+automated
+
+CACM-1020
+----------------------------------------------------------------
+<hl>1321</hl> 12
+
+CACM-2134
+----------------------------------------------------------------
+<hl>relation</hl> solution time problem size cacm december 1971
+bourgeois lassalle operations research optimization
+<hl>theory</hl> assignment problem rectangular matrices
+algorithm 5.39
+
+CACM-1649
+----------------------------------------------------------------
+<hl>relation</hl> general purpose data directed input output
+routines <hl>matrix</hl> manipulation discussed cacm january
+1967 hassitt ca6716 jb february 28 1978
+
+CACM-3100
+----------------------------------------------------------------
+<hl>induction</hl> knowledge acquisition partial matching
+interference graph matching learning <hl>induction</hl>
+knowledge representation informal retrieval abstraction
+generalization language learning complexity predicate
+
+CACM-0986
+----------------------------------------------------------------
+<hl>1321</hl> 986
+
+CACM-1533
+----------------------------------------------------------------
+<hl>university</hl> michigan executive system
+<hl>mathematical</hl> model computers executive system
+postulated parameters estimated aid extensive data systems
+operation simplifying assumptions made
+
+CACM-1725
+----------------------------------------------------------------
+<hl>theorem</hl> associative memories efficient method ordered
+retrieval binary words associative memory lewin based special
+readout circuits digit values present individual
+<hl>theorem</hl> derived elementary aspects structure sets
+binary numbers presented cacm july 1968 wolinsky associative
+memories contentaddressed memories ordered lists ordered
+<hl>theorem</hl> column digit values digit variety column
+sensing arrangement digit readout digit variety readout memory
+access memory access frequency ordered
+
+CACM-1099
+----------------------------------------------------------------
+<hl>group</hl> blind professional number aids techniques
+developed mediate machines programmer paper describes techniques
+aids designed staff medical computing center <hl>university</hl>
+
+CACM-2739
+----------------------------------------------------------------
+<hl>group</hl> restrictions tree conform order valid sentence
+analysis coverage grammar increased efficient representation
+essential development paper presents programming language
+designed
+
+CACM-2192
+----------------------------------------------------------------
+<hl>induction</hl> principle inductive method proving things
+recursively defined functions shown proving partial functions
+equivalent applicable proofs interpreters programming languages
+cacm
+
+CACM-2931
+----------------------------------------------------------------
+<hl>theory</hl> applications logic big question methods logic
+significance direction applied parts computability
+<hl>theory</hl> programming languages offer obvious opportunity
+syntactic formalization <hl>theory</hl> complete examples give
+wideranging <hl>mathematical</hl> answers queries machine
+computable process machine simulate process programs naturally
+enter giving descriptions processes
+
+CACM-1476
+----------------------------------------------------------------
+<hl>group</hl> proposal national international standardization
+field control procedures describes work task <hl>group</hl> work
+presented detail work presented earlier papers control
+<hl>group</hl> document x3.3.444 1964: transparentmode control
+procedures data communication task <hl>group</hl> document
+x3.3.458 december 1964: comm acm 8 apr 1965
+
+CACM-0616
+----------------------------------------------------------------
+<hl>group</hl> codasyl development committee report represents
+results phase work language structure <hl>group</hl> goal work
+arrive proper structure machineindependent problemdefining
+language <hl>mathematical</hl> model called information algebra
+developed primarily bosak hoped report read avid interest
+programming language designers implementors interested
+developing theoretical
+
+CACM-1170
+----------------------------------------------------------------
+<hl>relation</hl> word governor depth pattern sentence system
+tested 4 elementary basic english sentences including 3 earlier
+knowlton learning parser 4
+
+CACM-2446
+----------------------------------------------------------------
+<hl>group</hl> algorithm a455 cacm september 1973 hunter
+williams symmetric <hl>group</hl> skew representation partition
+young diagram lattice permutation binary model outer
+
+CACM-0068
+----------------------------------------------------------------
+<hl>university</hl> computers data processing related fields
+study made <hl>university</hl> programs united states fields
+computers data processing operations research closely related
+<hl>university</hl> policies organization administration
+faculties students researches curricula equipment financing
+investigated integrated <hl>university</hl> program recommended
+reflecting conviction present activities related
+
+CACM-0298
+----------------------------------------------------------------
+<hl>integers</hl> obtained bits generated numbers tests
+substantiated randomness numbers set <hl>integers</hl> coming
+significant bits cacm august 1961 kuehn ca6186 jb
+
+CACM-2608
+----------------------------------------------------------------
+<hl>relations</hl> fresnel integral similar integrals cacm
+august1974 acton recurrence <hl>relations</hl> fresnel integral
+exponential integral 5.12 ca74816 jb january 17 1978
+
+CACM-2515
+----------------------------------------------------------------
+<hl>relations</hl> procedure constructing minimal eventnode
+network represent set precedence <hl>relations</hl> parallel
+activities presented minimal eventnode network eventnode network
+number nodes <hl>relations</hl> counterexamples show algorithm
+presented fisher liebman nemhauser produces eventnode networks
+minimal procedure includes setcovering problem time required
+grow exponentially
+
+CACM-1935
+----------------------------------------------------------------
+<hl>theory</hl> information retrieval <hl>mathematical</hl>
+model partitioning probabilistic method random sequencing search
+techniques tree structures 3.74 5.32 ca6923 jb february 2
+
+CACM-1543
+----------------------------------------------------------------
+<hl>coefficients</hl> good demonstration computers capability
+nonnumeric work assist formulation process precedes numerical
+data processing stage problem serves illustrate advantages
+<hl>mathematical</hl>
+
+CACM-1403
+----------------------------------------------------------------
+<hl>integers</hl> minimum monotonic increasing function defined
+partially ordered set assumed set minimal points observation
+devise efficient method finding smallest functional
+
+CACM-1784
+----------------------------------------------------------------
+<hl>coefficients</hl> cacm january 1968 rabinowitz numerical
+integration quadrature truncation error theoretical error
+<hl>coefficients</hl> practical error <hl>coefficients</hl>
+integration analytical functions roundoff
+
+CACM-2326
+----------------------------------------------------------------
+<hl>theory</hl> computation fix point <hl>theory</hl> scott
+semantics computer programs defined terms fix points recursive
+programs justification existing verification techniques
+extension
+
+CACM-2186
+----------------------------------------------------------------
+<hl>matrix</hl> riccati equation determine feedback
+<hl>matrix</hl> technique shown significantly faster comparable
+accuracy cacm june 1971 bosarge jr johnson splines regulator
+
+CACM-1862
+----------------------------------------------------------------
+<hl>university</hl> education computing science academic
+programs <hl>university</hl> computing centers surveys computing
+centers <hl>university</hl> computing capabilities
+universitystudent relationship argentine universities chilean
+... <hl>university</hl> conditions computing activities
+universities experiencing student discontent status quo
+solutions attempting contrast argentina excluding students
+participating <hl>university</hl> government chile
+
+CACM-2851
+----------------------------------------------------------------
+<hl>induction</hl> principle demonstrate proofs mutual exclusion
+shown assertionsoriented proof methods special cases
+<hl>induction</hl> principle special case assertions method
+called parallel
+
+CACM-1672
+----------------------------------------------------------------
+<hl>coefficients</hl> integration periodic analytic functions
+trapezoidal rule theoretical practical values error
+<hl>coefficients</hl> bounding error integrating periodic
+analytic functions trapezoidal rule
+
+CACM-1217
+----------------------------------------------------------------
+<hl>integers</hl> algorithm 264 cacm august 1965 mckay ca6587 jb
+march 6 1978 8:19 pm 1217 5 1217 1217 5 1217
+
+CACM-1694
+----------------------------------------------------------------
+<hl>probability</hl> union large number events algorithm
+presented efficiently evaluates <hl>probability</hl> union
+independent mutually exclusive events problem evaluating sums
+products combinations
+
+CACM-1859
+----------------------------------------------------------------
+<hl>hall</hl> spline interpolation error bounds 5.1 5.13 ca6984
+jb february 15 1978 5:58 pm 1859 5 1859 1859 5 1859
+
+CACM-2052
+----------------------------------------------------------------
+<hl>relation</hl> activities conflict additional constraints
+time space connected component graph found algorithm gotlieb
+corneil corresponds set events scheduled times cacm
+
+CACM-1961
+----------------------------------------------------------------
+<hl>relation</hl> speed complexity extensions undirected sgraphs
+discussed cacm december 197 tiernan algorithm graph
+<hl>theory</hl> circuit search algorithm path search algorithm
+
+CACM-0241
+----------------------------------------------------------------
+<hl>probability</hl> distribution method presented calculation
+machine moments <hl>probability</hl> distribution necessitating
+additions references memory moment minimum multiplication 2n
+additions 2n references
+
+CACM-3148
+----------------------------------------------------------------
+<hl>relations</hl> aspects project discussed cacm june 1979
+feldman distributed computing modules messages assertions 4.22
+4.32 ca7964 dh august 21 1979
+
+CACM-2779
+----------------------------------------------------------------
+<hl>relation</hl> orthogonal polynomials widely discrete squares
+data fitting variant classical algorithm numerical properties
+presented reason improved performance explained cacm march
+
+CACM-2544
+----------------------------------------------------------------
+<hl>theorem</hl> convergence newton iterates analytic function
+variable extended include computational errors complex interval
+arithmetic numerical examples polynomials real complex roots
+
+CACM-3124
+----------------------------------------------------------------
+<hl>mathematical</hl> study approaches defining nested arrays
+apl presented theorems exhibiting relationships definitional
+systems illustrated graph representations approaches define apl
+array
+
+CACM-3037
+----------------------------------------------------------------
+<hl>integers</hl> larger performed unit time method arithmetic
+complexity algorithm presented mairson version simpler elegant
+easily extended find prime factorization <hl>integers</hl>
+
+CACM-2032
+----------------------------------------------------------------
+<hl>relation</hl> trees studied past explainedesults
+<hl>probability</hl> distributions path lengths derived
+illustrated cacm july 197 coffman jr eve data structures tree
+
+CACM-0203
+----------------------------------------------------------------
+<hl>integers</hl> time cacm april 196 brown ca648 jb march 22
+1978 1:46 pm 23 5 23 23 5 23 23
+
+CACM-1097
+----------------------------------------------------------------
+<hl>integers</hl> base base known simple algorithm integer
+conversion number systems presented proved cacm april 1964
+gladwin ca64411 jb march 1
+
+CACM-2549
+----------------------------------------------------------------
+<hl>probability</hl> density <hl>probability</hl> distribution
+dipole distribution cauchy distribution simulation monte carlo
+3.17 5.5 ca73112 jb january 24 1978 3:42 pm
+
+CACM-1365
+----------------------------------------------------------------
+<hl>coefficients</hl> nonlinear maximum likelihood estimation
+tensor analysis generation <hl>coefficients</hl> equations
+keplerian motion types analysiswhich arose solution specific
+practical problems physics
+
+CACM-2420
+----------------------------------------------------------------
+<hl>transitivity</hl> partial orderings close relationship
+predicates program developed modified version rules
+theoremprover found powerful solving problems involving partial
+orderings paper
+
+CACM-0453
+----------------------------------------------------------------
+<hl>group</hl> algorithm 136 cacm november 1962 wells ca62118 jb
+march 17 1978 6:17 pm 453 5 453 453 5 453
+
+CACM-0722
+----------------------------------------------------------------
+<hl>group</hl> representation algol symbols cacm october 1963
+ca6313 jb march 13 1978 6:36 pm 722 5 722 722 5 722
+
+CACM-0725
+----------------------------------------------------------------
+<hl>group</hl> participation computer demonstration cacm october
+1963 mccormick ca63933 jb march 13 1978 6:5 pm 725 5 725 725 5
+

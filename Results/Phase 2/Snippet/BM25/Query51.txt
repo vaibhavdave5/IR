@@ -1,0 +1,739 @@
+CACM-3075
+----------------------------------------------------------------
+<hl>parallel</hl> sorting <hl>algorithms</hl> <hl>parallel</hl>
+bucketsort algorithm presented requires time olog
+<hl>processors</hl> algorithm makes technique requires space
+product <hl>processors</hl> time realistic
+
+CACM-3156
+----------------------------------------------------------------
+<hl>parallel</hl> computers present <hl>parallel</hl> algorithm
+n2 <hl>processors</hl> find connected components undirected
+graph vertices time time bound achieved n$n$log2n
+<hl>processors</hl> algorithm <hl>processors</hl> access common
+memory simultaneous access location permitted fetch instructions
+store instructions cacm august 1979 hirschberg chandra sarwate
+graph theory
+
+CACM-2714
+----------------------------------------------------------------
+<hl>parallel</hl> <hl>processors</hl> consider linearly ordered
+sets bn mn pm <hl>parallel</hl> <hl>processors</hl> working
+synchronously paper presents algorithm merging <hl>parallel</hl>
+<hl>processors</hl> requires ... <hl>parallel</hl> merging
+<hl>parallel</hl> binary insertion 5.31 ca7515 jb january 6 1978
+1:5 2714 4 2714 375 4 2714 2664 5
+
+CACM-2570
+----------------------------------------------------------------
+<hl>parallel</hl> processing systems problem scheduling
+<hl>processors</hl> minimize execution time program consists set
+partially ordered tasks studied cases task execution times
+<hl>algorithms</hl> suggested literature vary significantly
+execution time bschedule coffman graham nearoptimal dynamic
+programming solution case execution times random variables
+presented
+
+CACM-1811
+----------------------------------------------------------------
+<hl>processors</hl> communication cooperating
+<hl>processors</hl> means data storage shared
+<hl>processors</hl> program determination distribution
+electrical network written parallelprocessor computing system
+execution program ... <hl>processors</hl> simultaneously execute
+separate tasks single job cooperating decrease solution time
+computational problem <hl>processors</hl> independent
+instruction counters meaning processor executes ...
+<hl>processors</hl> applied approaches 1n times solution time
+single processor improper programming actually lead increase
+solution time number <hl>processors</hl> stability method
+
+CACM-2973
+----------------------------------------------------------------
+<hl>parallel</hl> computer <hl>algorithms</hl> presented sorting
+n2 elements meshconnected processor array require routing
+comparison steps previous algorithm takes time log
+<hl>algorithms</hl>
+
+CACM-0950
+----------------------------------------------------------------
+<hl>parallel</hl> methods integrating ordinary differential
+equations paper dedicated proposition order take full advantage
+realtime computations highly <hl>parallel</hl> computers
+expected future
+
+CACM-3006
+----------------------------------------------------------------
+<hl>paging</hl> <hl>algorithms</hl> types anomalous behavior
+occur paged virtual memory operating systems redefined type
+anomaly concerns fact reference strings <hl>paging</hl>
+<hl>algorithms</hl> <hl>paging</hl> <hl>algorithms</hl> examined
+terms anomaly potential reference string examples anomalies
+presented <hl>paging</hl> algorithm properties inclusion
+property generalized inclusion property discussed
+
+CACM-2175
+----------------------------------------------------------------
+<hl>parallel</hl> exceeds number <hl>processors</hl> execution
+subexpressions postponed procedure combines requirement earlier
+ordering considerations provide optimal execution sequence cacm
+july 1971 ... <hl>parallel</hl> combination modes paper shows
+expression execution time minimized consideration ordering
+subexpressions subexpressions executed order decreasing memory
+processor time requirements
+
+CACM-2266
+----------------------------------------------------------------
+<hl>parallel</hl> numerical <hl>algorithms</hl> real polynomials
+real zeros newtons method starting values guaranteed convergence
+5.15 ca72113 jb january 27 1978 2:35
+
+CACM-2497
+----------------------------------------------------------------
+<hl>processors</hl> memorycontentgenerated interrupts
+implementations lockunlock method synchronizing
+<hl>processors</hl> multiprocessor system require
+uninterruptable memorypause type instructions interlock scheme
+called readinterlock require <hl>processors</hl> special
+readinterlock cycle repertoire memory modules processor examines
+lock memory location readinterlock instruction interrupted lock
+set examining lock immediately
+
+CACM-1752
+----------------------------------------------------------------
+<hl>paging</hl> machine discussed relation combined batch
+processing timesharing environment synopsis task scheduling
+<hl>paging</hl> <hl>algorithms</hl> implemented results
+comparative simulation tracing development
+
+CACM-1810
+----------------------------------------------------------------
+<hl>paging</hl> automatic <hl>paging</hl> demand <hl>paging</hl>
+folding automatic folding storage hierarchies memory hierarchies
+replacement <hl>algorithms</hl> performance measurement 4 4.19
+4.39 6.2
+
+CACM-2289
+----------------------------------------------------------------
+<hl>algorithms</hl> exploit possibilities parallelism especially
+problems solutions inherently serial parallelized
+<hl>algorithms</hl> presented solution spanning tree distance
+path problems direct applications <hl>algorithms</hl> exhibit
+computation time cases grows rate exceeding log2 number nodes
+graph straightforward cellular implementations wellknown serial
+<hl>algorithms</hl> problems require <hl>parallel</hl>
+processing special purpose computers <hl>algorithms</hl>
+distance spanning tree problems 5.32 6.22 6.5 ca7291 jb january
+3 1978 9:16 2289
+
+CACM-3153
+----------------------------------------------------------------
+<hl>algorithms</hl> partition main memory classes jobs
+considered initially closed system consisting process
+<hl>paging</hl> devices fixed numbers jobs studied determine
+optimal <hl>algorithms</hl> numerical solutions economical lower
+bounds expected response times functions control parameters
+obtained applying results systems job classes cacm july
+
+CACM-2450
+----------------------------------------------------------------
+<hl>paging</hl> <hl>algorithms</hl> words working set commonly
+encountered literature dealing resource allocation dearth
+published data program measurements hope workers field find
+
+CACM-2557
+----------------------------------------------------------------
+<hl>parallel</hl> computers discussed <hl>algorithms</hl>
+presented properly parse matrix sequences subject constraints
+machine organization cacm january 1973 muraoka kuck matrix
+expressions
+
+CACM-3152
+----------------------------------------------------------------
+<hl>paging</hl> environment order multiply matrices minimizing
+number page fetches required efficient reorganize data submatrix
+form block multiplication known <hl>algorithms</hl> leave
+
+CACM-2433
+----------------------------------------------------------------
+<hl>parallel</hl> <hl>algorithms</hl> cacm october 1973
+millstein array processing parallelism detection explicit
+parallelism array allocation <hl>parallel</hl> control
+structures illiac iv fortran
+
+CACM-2128
+----------------------------------------------------------------
+<hl>processors</hl> reduce overhead algorithm application
+general resource allocation problems implemented means method
+efficiently handling dynamically changing segmented lists cacm
+january
+
+CACM-2022
+----------------------------------------------------------------
+<hl>paging</hl> cacm july 197 pomeranzj <hl>paging</hl> machines
+demand <hl>paging</hl> replacement algorithm 4.3 ca7715 jb
+february 1 1978 4:17 pm 222
+
+CACM-0082
+----------------------------------------------------------------
+<hl>processors</hl> substitution computeroriented symbols
+programmeroriented symbols language <hl>processors</hl> examined
+feasible method presented cacm june 1959 williams ca5962 jb
+march 22
+
+CACM-1924
+----------------------------------------------------------------
+<hl>algorithms</hl> studied function number pages main memory
+algorithm cacm march 1969 mckellar coffman jr matrix
+<hl>algorithms</hl> array processing <hl>paging</hl>
+<hl>algorithms</hl>
+
+CACM-1262
+----------------------------------------------------------------
+<hl>parallel</hl> processing statements suggested allow
+programmer writing procedureoriented language sections program
+executed <hl>parallel</hl> statements hold serve partly brackets
+establishing range
+
+CACM-2365
+----------------------------------------------------------------
+<hl>paging</hl> cacm april 1972 moler matrix <hl>algorithms</hl>
+linear equations fortran paged memory virtual memory array
+processing 4.22 4.32 5.14 ca7248
+
+CACM-2692
+----------------------------------------------------------------
+<hl>algorithms</hl> <hl>algorithms</hl> able clip polygons
+irregular convex planefaced volumes dimensions removing parts
+polygon lie volume dimensions <hl>algorithms</hl> permit
+clipping irregular <hl>algorithms</hl> easily handle difficult
+problem detecting vertex required corner clipping window
+<hl>algorithms</hl> achieve considerable simplicity clipping
+separately clipping plane window
+
+CACM-2700
+----------------------------------------------------------------
+<hl>parallel</hl> programs proving <hl>parallel</hl> program
+property convenient assume statement indivisible statement
+interleaved rest program sufficient conditions obtained show
+assumption statement
+
+CACM-1964
+----------------------------------------------------------------
+<hl>paging</hl> working set <hl>paging</hl> rate
+multiprogramming 4.3 4.32 ca71115 jb february 9 1978 4:23 pm
+1964 5 1964 1964 5
+
+CACM-1665
+----------------------------------------------------------------
+<hl>processors</hl> finite state techniques practical
+application theory finitestate automata generate lexical
+<hl>processors</hl> dealt tutorial article aed rword system
+developed part ... <hl>processors</hl> generated compared
+favorably speed carefully handcoded programs accomplish task
+lexical <hl>processors</hl> aedo mad produced techniques
+employed independent nature items ... <hl>processors</hl>
+produced system based finitestate machines state machine
+corresponds unique condition lexical processing character string
+state character read machine state ... <hl>processors</hl>
+generalized decisionmaking mechanisms based ordered sequence
+events system range applications area lexical processing
+convenient advantages speed important consideration designing
+
+CACM-2277
+----------------------------------------------------------------
+<hl>paging</hl> system cacm october 1972 morris demand
+<hl>paging</hl> dynamic storage allocation maniac ii memory
+allocation onelevel store <hl>paging</hl> <hl>paging</hl>
+associative ... <hl>paging</hl> utilization working sets maniac
+ii hardware implementation maniac ii computer working set model
+demand <hl>paging</hl> introduced denning discussed
+characteristics
+
+CACM-2114
+----------------------------------------------------------------
+<hl>algorithms</hl> retrieve records generalized structure
+presented cacm february 197 hsiao attributevalue pair index
+keyword record record address kpointer klist directory
+
+CACM-1601
+----------------------------------------------------------------
+<hl>parallel</hl> processing environment convergence insured
+extracting information iteration families numerical procedures
+technique procedures <hl>parallel</hl> processing environment
+developed measurements statistics reported <hl>parallel</hl>
+processing environment environment procedures obtained superior
+standard <hl>algorithms</hl> cacm 1967 shedler ca6755 jb
+february 28 1978 1:44 161 5
+
+CACM-2685
+----------------------------------------------------------------
+<hl>parallel</hl> execution loops methods developed
+<hl>parallel</hl> execution iterations loop asynchronous
+multiprocessor computers array computers considered practical
+application design compilers computers
+
+CACM-1884
+----------------------------------------------------------------
+<hl>paging</hl> machine running time programs <hl>paging</hl>
+machine generally increases store programs constrained run
+decreases experiments revealed cases reverse true decrease
+
+CACM-1158
+----------------------------------------------------------------
+<hl>parallel</hl> processing constructs organizing explicating
+<hl>parallel</hl> program segments discussed extensions algol 6
+constructs serve metacommands motivated equipment
+multiprocessing capability cacm
+
+CACM-2785
+----------------------------------------------------------------
+<hl>parallel</hl> computer architectures cacm march 1975 lawrie
+layman baer randal glypnir illiac iv programming language
+<hl>parallel</hl> computation <hl>parallel</hl> architecture 4.2
+
+CACM-2838
+----------------------------------------------------------------
+<hl>parallel</hl> list processing operations single processor
+timeshared <hl>algorithms</hl> recovering discarded list
+structures manner presented analyzed determine sufficient
+conditions list processor
+
+CACM-2669
+----------------------------------------------------------------
+<hl>paging</hl> exceptions increases linearly size
+<hl>paging</hl> memory resulting model easy manipulate
+applicable diverse problems choosing optimum size
+<hl>paging</hl> memory arranging <hl>paging</hl> demand
+<hl>paging</hl> memory models program models performance
+measurement multilevel memory systems virtual memory associative
+memory memory usage accounting multics
+
+CACM-2723
+----------------------------------------------------------------
+<hl>algorithms</hl> multiprocessing compactifying garbage
+collector presented discussed simple case <hl>processors</hl>
+performing lisplike list operations performing garbage
+collection continuously examined capabilities
+<hl>processors</hl> garbage collection <hl>processors</hl>
+briefly discussed cacm september 1975 steele jr garbage
+collection storage reclamation reclaimer storage allocation
+multiprocessing synchronization
+
+CACM-2401
+----------------------------------------------------------------
+<hl>parallel</hl> processing algorithm shrinking binary patterns
+obtain single isolated elements pattern presented procedure
+counting patterns matrix hardware implementation algorithm large
+<hl>parallel</hl> nature process possibility shrinking pattern
+regardless complexity configuration problems regarding merging
+disconnection patterns process determination maximum number
+steps obtain
+
+CACM-2522
+----------------------------------------------------------------
+<hl>algorithms</hl> employed allocate system resources processes
+competing recent research timesharing <hl>paging</hl> systems
+developed working set model program behavior source allocation
+
+CACM-2085
+----------------------------------------------------------------
+<hl>paging</hl> anomaly cacm march 197 dempster <hl>paging</hl>
+machines demand <hl>paging</hl> replacement algorithm 4.3 ca7313
+jb february 13 1978 3:39 pm
+
+CACM-2579
+----------------------------------------------------------------
+<hl>algorithms</hl> eliminate redundant computations describes
+usage counts provide basis register allocation paper compares
+register allocation based usage counts commonly register
+
+CACM-2740
+----------------------------------------------------------------
+<hl>parallel</hl> processes carefully justified semaphore
+constructions explained system proved free deadly embrace
+deadlock design principle alternative dijkstras hierarchical
+structuring operating <hl>parallel</hl> processes synchronizing
+primitives reentrant code rc 4 project management time schedule
+debugging project planning project scheduling reliability
+program proving
+
+CACM-3059
+----------------------------------------------------------------
+<hl>parallel</hl> processing programs application cpuio ioio
+overlap approximate queueing models internal <hl>parallel</hl>
+processing individual programs multiprogrammed system developed
+paper solution
+
+CACM-2297
+----------------------------------------------------------------
+<hl>paging</hl> machine paper concerned aspects contention main
+memory resources multiprogrammed computer system operating
+demand <hl>paging</hl> model presented number pageframes main
+
+CACM-1988
+----------------------------------------------------------------
+<hl>processors</hl> programming languagescompilers interpreters
+assemblersand interactions complex systems compilercompilers
+extendible languages formalism define answer question
+bootstrapping metacompiler metaphase interpretive addition
+
+CACM-2872
+----------------------------------------------------------------
+<hl>paging</hl> corrigendum cacm april 1976 fagin ca7644 jb
+january 4 1978 4:19 pm 2872 5 2872 2872 5 2872 2872
+
+CACM-2914
+----------------------------------------------------------------
+<hl>paging</hl> behavior families probability distributions
+needed virtual memory simulation model headway page fault
+distributions working set size distributions members families
+
+CACM-2863
+----------------------------------------------------------------
+<hl>algorithms</hl> virtual memory programs presented
+demonstrate improvement known realizable variable space
+<hl>algorithms</hl> cacm 1976 prieve fabry demand
+<hl>paging</hl> performance measurement ... <hl>algorithms</hl>
+presented optimum page replacement algorithm called vmin shown
+optimum respect criterion results simulating vmin dennings
+working set page partitioning
+
+CACM-2373
+----------------------------------------------------------------
+<hl>paging</hl> <hl>paging</hl> <hl>algorithms</hl> program
+behavior program modeling 4.3 ca7238 jb january 31 1978 2:7 pm
+164 4 2373 1892 4
+
+CACM-2498
+----------------------------------------------------------------
+<hl>algorithms</hl> assigning pages segments discussed algorithm
+simple implement problem choosing page sizes minimize expected
+total wasted space internal fragmentation page
+
+CACM-2195
+----------------------------------------------------------------
+<hl>parallel</hl> processing operations relative state computed
+<hl>parallel</hl> number stages equal length curves log2
+approximate method cacm 1971 montanari picture processing
+
+CACM-0141
+----------------------------------------------------------------
+<hl>parallel</hl> processing cacm october 196 yarbrough ca617 jb
+march 2 1978 8:16 pm 141 5 141 141 5 141 141
+
+CACM-0392
+----------------------------------------------------------------
+<hl>parallel</hl> processing cacm february 1961 nekora ca6126 jb
+march 17 1978 12:58 392 5 392 392 5 392 392 392
+
+CACM-2342
+----------------------------------------------------------------
+<hl>parallel</hl> processes kinds interference communicating
+<hl>parallel</hl> processes examined dijkstra knuth solutions
+mutual exclusion problem subproblems form <hl>parallel</hl>
+programs informal proofs <hl>parallel</hl> processes regarded
+machine proceeds state collection pertinent data values process
+configurations state accordance transition rule set rules yields
+sequences
+
+CACM-2851
+----------------------------------------------------------------
+<hl>parallel</hl> programs formal models <hl>parallel</hl>
+computation presented abstract conceptual model parallelprogram
+model model distinguish control data states model includes
+capability <hl>parallel</hl> place assertions shown incomplete
+formalization deadlock presented concept norm introduced yields
+extension deadlock problem floyds technique proving termination
+discussed
+
+CACM-1825
+----------------------------------------------------------------
+<hl>processors</hl> practical method constructing lrk
+<hl>processors</hl> developed <hl>processors</hl> capable
+recognizing parsing input single nobackup scan number steps
+equal length input
+
+CACM-1923
+----------------------------------------------------------------
+<hl>processors</hl> cacm march 1969 rosin operating systems
+interfaces inputoutput high level languages command language
+4.22 4.3 4.31 4.41 ca6934 jb
+
+CACM-1302
+----------------------------------------------------------------
+<hl>parallel</hl> signaling speeds data transmission proposed
+american stand ard cacm march 1965 ca6535 jb march 7 1978 6:8 pm
+132
+
+CACM-2895
+----------------------------------------------------------------
+<hl>parallel</hl> processes specifications constrain ts order
+events computation occur language write specifications
+readerswriters problem writer priority readerswriters problem
+cacm december
+
+CACM-2667
+----------------------------------------------------------------
+<hl>paging</hl> characteristics tasks function number pages
+tasks core cacm april 1974 boyse program behavior virtual memory
+<hl>paging</hl> demand <hl>paging</hl> software
+
+CACM-1828
+----------------------------------------------------------------
+<hl>parallel</hl> accessing <hl>parallel</hl> search search data
+base synchronization locking deadlock 3.73 3.74 4.32 ca69112 jb
+february 15 1978 1:13 pm
+
+CACM-1468
+----------------------------------------------------------------
+<hl>parallel</hl> processing <hl>algorithms</hl> proposed author
+years ago work applying bubble chamber pictures
+<hl>parallel</hl> processing simulator originally written ibm
+794 system
+
+CACM-2896
+----------------------------------------------------------------
+<hl>parallel</hl> programs correct <hl>parallel</hl> program
+dijkstras onthefly garbage collector proved correct proof method
+developed owicki fine degree terleaving program makes
+
+CACM-1795
+----------------------------------------------------------------
+<hl>parallel</hl> computation cacm december 1969 fateman code
+optimization sequencing operations detection common
+subexpressions 4.12 ca691217 jb february 15 1978 1:59
+
+CACM-1728
+----------------------------------------------------------------
+<hl>algorithms</hl> assessing effects performance amount storage
+allocated executing programs cacm july 1968 coffman varian
+<hl>paging</hl> systems <hl>paging</hl> dynamic program behavior
+
+CACM-2137
+----------------------------------------------------------------
+<hl>paging</hl> environment system employs block concept global
+local variables addition methods applied lisp systems means list
+representation local sequential lists
+
+CACM-2068
+----------------------------------------------------------------
+<hl>paging</hl> modeling 4.32 ca7416 jb february 13 1978 2:34 pm
+1892 4 268 268 4 268 2741 4 268 1526
+
+CACM-2664
+----------------------------------------------------------------
+<hl>processors</hl> cacm april 1974 tape sorting parallelism
+external sorting queues stacks 5.31 6.22 ca7446 jb january 18
+1978 9:44 2664
+
+CACM-1569
+----------------------------------------------------------------
+<hl>parallel</hl> structure notation grammar cacm july 1967
+irwin ca6774 jb february 28 1978 9:1 1569 5 1569 1569 5 1569
+
+CACM-2069
+----------------------------------------------------------------
+<hl>paging</hl> timesharing multiprogramming markovian computer
+models scheduling strategies operating systems memory management
+2.44 4.32 4.39 6.2 6.21 ca7415 jb february
+
+CACM-2881
+----------------------------------------------------------------
+<hl>paging</hl> counterexample exhibited natural conjecture
+concerning optimal group records pages independent reference
+model computer <hl>paging</hl> organization optimal recently
+miss ratio
+
+CACM-1957
+----------------------------------------------------------------
+<hl>algorithms</hl> list set generator construct added list
+processing system system handles sets efficiently generates set
+results expression involving sets set
+
+CACM-1846
+----------------------------------------------------------------
+<hl>parallel</hl> processes simultaneous events occur problems
+simulating discrete event systems computer systems conventional
+digital computer dealt systems assumed network interconnected
+<hl>parallel</hl> events report found cases shown find solution
+extending information solution technique cases technique
+computationally unfeasible additional information provided cacm
+
+CACM-2017
+----------------------------------------------------------------
+<hl>paging</hl> environment sorting study part extensive
+measurement project undertaken m4444x experimental
+<hl>paging</hl> system conceived implemented ibm research order
+explore virtual ... <hl>paging</hl> environment cacm august 197
+brawn gustavson mankin sorting merging virtual machines
+<hl>paging</hl> systems dynamic storage allocation measurement
+systems program
+
+CACM-2016
+----------------------------------------------------------------
+<hl>paging</hl> multiprogramming detail insight effectiveness
+lack individual tools provided cacm august 197 gintell saltzer
+instrumentation performance measurement multiprogramming systems
+measuring
+
+CACM-2950
+----------------------------------------------------------------
+<hl>algorithms</hl> based abstract model scheduling system
+formalizes notion priority classes scheduling
+<hl>algorithms</hl> defined related existing <hl>algorithms</hl>
+criterion implementation efficiency algorithm
+<hl>algorithms</hl> include commonly implemented timeinvariant
+<hl>algorithms</hl> dependence processing rates priorities
+derived abstract model framework implementing flexible
+schedulers real operating systems
+
+CACM-2283
+----------------------------------------------------------------
+<hl>algorithms</hl> rectangular hexagonal triangular arrays
+report thinning <hl>algorithms</hl> developed rectangular
+hexagonal triangular arrays approach development algorithm
+pictorial results produced <hl>algorithms</hl>
+<hl>algorithms</hl> compared found algorithm operating
+triangular array sensitive image irregularities noise yield
+thinned image reduced number points concluded algorithm
+operating
+
+CACM-2645
+----------------------------------------------------------------
+<hl>algorithms</hl> directions research discussed cacm june 1974
+ccohen zuckerman programming languages syntaxdirected
+translation symbolic manipulation program efficiency analysis
+<hl>algorithms</hl> 4.12
+
+CACM-3097
+----------------------------------------------------------------
+<hl>paging</hl> drum variable bounded rotation speed cacm
+may1978 sites <hl>paging</hl> drum charge coupled devices shift
+register memory memory hierarchy electronic
+
+CACM-2884
+----------------------------------------------------------------
+<hl>algorithms</hl> classical permutation enumeration
+<hl>algorithms</hl> encounter special cases requiring additional
+computation nth permutation generating permutations marks
+<hl>algorithms</hl> attribute special cases <hl>algorithms</hl>
+produce permutation single exchange marks <hl>algorithms</hl>
+infrequently exchange marks rules generating permutation simple
+performance tests counted execution assignment statements
+
+CACM-1684
+----------------------------------------------------------------
+<hl>processors</hl> translate tables conventional program base
+diagnostic facilities rules paper suggested rules unsatisfactory
+important aspect checking eliminate ambiguity tables ambiguity
+
+CACM-2526
+----------------------------------------------------------------
+<hl>paging</hl> holographic optical memory memory device memory
+hierarchy <hl>paging</hl> storage device storage hierarchy
+virtual memory 4.3 4.32 5.2 6.2 6.34
+
+CACM-2865
+----------------------------------------------------------------
+<hl>parallel</hl> programs axiomatic approach axiomatic method
+proving number properties <hl>parallel</hl> programs presented
+hoare set axioms partial correctness strong cases paper
+
+CACM-0303
+----------------------------------------------------------------
+<hl>processors</hl> suggestions paper part terminology work
+university pennsylvanias office computer research education work
+jointly supported national science foundation air force
+
+CACM-2226
+----------------------------------------------------------------
+<hl>algorithms</hl> zeroone programming problem purpose note
+report computational experience additional recently summarized
+gue al <hl>algorithms</hl> zeroone linear programming problem
+error
+
+CACM-2903
+----------------------------------------------------------------
+<hl>algorithms</hl> solve pattern matching problems recursion
+troduction <hl>algorithms</hl> manipulate stack translated
+recursive <hl>algorithms</hl> stack operations occur
+<hl>algorithms</hl> subjected transformation method
+
+CACM-3166
+----------------------------------------------------------------
+<hl>algorithms</hl> numerical computation standard deviation
+unweighted sampled data analyzed <hl>algorithms</hl> wellknown
+statistical computational literature <hl>algorithms</hl>
+specifically intended automatic computation discussion
+
+CACM-1747
+----------------------------------------------------------------
+<hl>parallel</hl> processing <hl>parallel</hl> programming
+multiprocessing 2.11 4.12 4.13 4.2 4.3 4.42 4.43 5.24 6.2 6.35
+ca6859 jb february 23 1978
+
+CACM-2166
+----------------------------------------------------------------
+<hl>processors</hl> celestial mechanics considered compared
+general manipulation packages future directions research systems
+briefly outlined illustrate relative simplicity algorithm
+required celestial
+
+CACM-1753
+----------------------------------------------------------------
+<hl>paging</hl> segmentation explained means users share
+procedures data discussed mechanism symbolic references
+dynamically transformed virtual machine addresses detail cacm
+1968
+
+CACM-1025
+----------------------------------------------------------------
+<hl>processors</hl> tied subroutines perform bookkeeping
+functions recursive nature language syntax checker problem
+recovery error required attention method devised permits
+programs
+
+CACM-3078
+----------------------------------------------------------------
+<hl>processors</hl> presented paper results obtained
+computeraided algebraic manipulation techniques major purpose
+paper demonstrate difficulties obtaining analytical solutions
+markov processes considerably
+
+CACM-3088
+----------------------------------------------------------------
+<hl>processors</hl> main storage partitions user tasks examples
+provided illustrate equations compute effective processing time
+record expected timesharing response time balanced
+
+CACM-0371
+----------------------------------------------------------------
+<hl>algorithms</hl> 2 3 algorithm 15 <hl>algorithms</hl> 25 26
+cacm march 1961 wilkinson ca61311 jb march 17 1978 12:35 371 5
+
+CACM-1658
+----------------------------------------------------------------
+<hl>algorithms</hl> zeroone programming problem paper concerned
+review examination existing <hl>algorithms</hl> zeroone
+programming problem computational experience summarized machine
+time storage requirements
+
+CACM-2262
+----------------------------------------------------------------
+<hl>paging</hl> segmentation page tables 4.32 ca72117 jb january
+27 1978 1:5 pm 2262 5 2262 2262 5 2262 2262 2262
+
+CACM-1742
+----------------------------------------------------------------
+<hl>processors</hl> flexibility power needed data channel
+computer display considered work efficiently channel sufficient
+number instructions understood small processor powerful channel
+
+CACM-2819
+----------------------------------------------------------------
+<hl>algorithms</hl> encoding string differ slightly earlier
+proposals analysis program attempts find optimal set codes
+representing substrings <hl>algorithms</hl> operation compared
+parameters
+

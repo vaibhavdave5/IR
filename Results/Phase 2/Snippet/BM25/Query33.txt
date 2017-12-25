@@ -1,0 +1,808 @@
+CACM-2697
+----------------------------------------------------------------
+<hl>linear</hl> systems solution <hl>linear</hl> systems
+<hl>real</hl> symmetric diagonally dominanttridiagonal
+coefficient <hl>matrices</hl> constant diagonals considered
+proved diagonals lu <hl>decomposition</hl> converges
+floatingpoint ... <hl>linear</hl> algebra <hl>linear</hl>
+systems toeplitz <hl>matrices</hl> tridiagonal <hl>matrices</hl>
+5 5.1 5.11 5.14 5.17 ca7412 jb january 18 1978 2:5 pm ...
+<hl>linear</hl> system 8n7 5n2k3 order matrix elements
+subdiagonals superdiagonals <hl>1</hl> 4n2k3 operations needed
+entire lu <hl>decomposition</hl> takes words storage
+considerable ... <hl>decomposition</hl> converges floatingpoint
+arithmetic limits lu diagonals floating point roughly machine
+precision limits <hl>real</hl> arithmetic fact exploited reduce
+number floatingpoint
+
+CACM-1954
+----------------------------------------------------------------
+<hl>eigenvalues</hl> <hl>eigenvectors</hl> <hl>real</hl>
+symmetric matrix algorithm 384 $f2 cacm december 197
+<hl>stewart</hl> <hl>real</hl> symmetric matrix
+<hl>eigenvalues</hl> <hl>eigenvectors</hl> qr algorithm 5.14
+
+CACM-2043
+----------------------------------------------------------------
+<hl>eigenvalues</hl> <hl>eigenvectors</hl> <hl>real</hl>
+symmetric matrix $f2 algorithm 384 cacm june 197
+<hl>stewart</hl> <hl>real</hl> symmetric matrix
+<hl>eigenvalues</hl> <hl>eigenvectors</hl> qr algorithm 5.14
+
+CACM-2047
+----------------------------------------------------------------
+<hl>eigenvalues</hl> implicit method effectively loose shift
+retard convergence paper presents method drawback cacm june 197
+<hl>stewart</hl> <hl>eigenvalues</hl> <hl>eigenvectors</hl> qr
+method
+
+CACM-2335
+----------------------------------------------------------------
+<hl>eigenvalues</hl> <hl>eigenvectors</hl> <hl>real</hl> general
+matrix algorithm r343 cacm june 1972 niessner
+<hl>eigenvalues</hl> <hl>eigenvectors</hl> qralgorithm
+nonsymmetric <hl>matrices</hl> general <hl>matrices</hl> 5.14
+ca7261
+
+CACM-2284
+----------------------------------------------------------------
+<hl>stewart</hl> <hl>linear</hl> algebra <hl>matrices</hl>
+<hl>linear</hl> equations 5.14 ca7296 jb january 27 1978 4:31 pm
+2284 5 2284 2284 5 2284
+
+CACM-1809
+----------------------------------------------------------------
+<hl>numerical</hl> <hl>analysis</hl> ph computer science program
+<hl>numerical</hl> <hl>analysis</hl> study methods procedures
+obtain <hl>approximate</hl> solutions mathematical problems
+emphasis scientific calculation difficulties ...
+<hl>numerical</hl> <hl>analysis</hl> course <hl>separation</hl>
+education 1.52 ca69123 jb february 15 1978 4:25 pm 189 5 189 189
+5 189 189
+
+CACM-2806
+----------------------------------------------------------------
+<hl>matrices</hl> <hl>eigenvalues</hl> norms condition numbers
+<hl>error</hl> <hl>analysis</hl> gramschmidt orthogonalization
+5.11 5.14 ca7515 jb january 12 1978 1:37 286 5 286
+
+CACM-2554
+----------------------------------------------------------------
+<hl>eigenvalue</hl> problem algorithm reducing generalized
+<hl>eigenvalue</hl> problem ax lambda bx ordinary problem case
+symmetric band <hl>matrices</hl> positive definite order matrix
+<hl>matrices</hl> partitioned mbym blocks algorithm terms blocks
+algorithm reduces generalized problem ordinary
+<hl>eigenvalue</hl> problem symmetric band matrix bandwidth
+algorithm similar <hl>matrices</hl> band form calculation
+requires order mn2 operation roundoff <hl>error</hl> calculation
+order sum errors nm steps algorithm errors largely determined
+
+CACM-3016
+----------------------------------------------------------------
+<hl>4</hl> 316 2481 <hl>4</hl> 316 2669 <hl>4</hl> 316 2863
+<hl>4</hl> 316 316 <hl>4</hl> 316 316 <hl>4</hl> 316 352
+<hl>4</hl> 316 ... <hl>error</hl> inherent
+<hl>decomposition</hl> models presented cacm february 1978
+<hl>stewart</hl> markov models <hl>numerical</hl> techniques
+simultaneous iteration neardecomposability 4.6 5.14 8.1 ca7827
+... <hl>4</hl> 316 3153 <hl>4</hl> 316 191 5 316 2741 5 316 316
+5 316 316 5 316 316 316
+
+CACM-2805
+----------------------------------------------------------------
+<hl>eigenvalues</hl> nonnormal <hl>matrices</hl> problem
+considered give <hl>bounds</hl> finite perturbations simple
+multiple <hl>eigenvalues</hl> nonnormal <hl>matrices</hl>
+<hl>bounds</hl> terms <hl>eigenvalues</hl> departure normality
+frobenius
+
+CACM-2281
+----------------------------------------------------------------
+<hl>matrices</hl> cacm september 1972 khalil <hl>linear</hl>
+algebra <hl>eigenvalues</hl> <hl>eigenvectors</hl> partial
+differential equations 5.14 5.17 ca7299 jb january 27 1978 4:18
+
+CACM-1501
+----------------------------------------------------------------
+<hl>eigenvectors</hl> 2n 2n matrix known <hl>eigenvalues</hl> 2n
+2n matrix obtained smaller <hl>matrices</hl> order easily
+constructed algorithm obtain <hl>eigenvectors</hl> 2n 2n
+
+CACM-2226
+----------------------------------------------------------------
+<hl>analysis</hl> algorithms <hl>zeroone</hl> programming
+problem purpose note report computational experience additional
+recently summarized gue al algorithms <hl>zeroone</hl>
+<hl>linear</hl> programming problem
+
+CACM-1963
+----------------------------------------------------------------
+<hl>matrices</hl> cacm november 197 rokne <hl>matrices</hl>
+condition numbers pei <hl>matrices</hl> <hl>eigenvectors</hl>
+<hl>eigenvalues</hl> 5.14 ca71116 jb february 9 1978 4:21 pm
+
+CACM-2695
+----------------------------------------------------------------
+<hl>numerical</hl> <hl>linear</hl> algebra consider class sparse
+<hl>matrices</hl> tridiagonalized row column permutations
+advantages transformation include absence roundoff errors
+improved computation time ... <hl>permutation</hl> algorithm
+<hl>eigenvalues</hl> graph bandwidth sparse matrix 5.14 5.32
+ca7414 jb january 18 1978 2:31 pm 2695 5 2695 2695
+
+CACM-1692
+----------------------------------------------------------------
+<hl>numerical</hl> solution thin plate heat transfer problem
+<hl>numerical</hl> solution system <hl>linear</hl> equations
+resulting discrete approximation thin plate heat transfer
+problem
+
+CACM-1766
+----------------------------------------------------------------
+<hl>operators</hl> <hl>eigenvalues</hl> <hl>linear</hl> ordinary
+differential operator unknown constants number
+<hl>eigenvalues</hl> values unknown constants estimated precise
+formulation provided effective <hl>numerical</hl> procedure
+<hl>eigenvalues</hl> differential <hl>operators</hl> nonlinear
+boundaryvalue problems inverse problemsdifferential equations
+system identification 3.15 3.17 5.17 ca6844 jb february 23 1978
+11:12
+
+CACM-0070
+----------------------------------------------------------------
+<hl>7</hl> 5 <hl>7</hl> <hl>7</hl> 5 <hl>7</hl> <hl>7</hl> 7
+
+CACM-1143
+----------------------------------------------------------------
+<hl>error</hl> <hl>bounds</hl> large great confidence select
+uniform technique running experiments analyzing data consider
+significant relative results <hl>subject</hl> cacm january 1964
+... <hl>analysis</hl> decaytype data comparative study made
+variety <hl>numerical</hl> techniques fitting experimental data
+decay type forms involving sums exponentials statistical errors
+
+CACM-1285
+----------------------------------------------------------------
+<hl>eigenvalues</hl> <hl>eigenvectors</hl> <hl>real</hl>
+symmetric matrix qr method algorithm 254 cacm april 1965
+businger ca6546 jb march <hl>7</hl> 1978 3:55 pm
+
+CACM-2887
+----------------------------------------------------------------
+<hl>4</hl> 2887 2556 <hl>4</hl> 2887 265 <hl>4</hl> 2887 278
+<hl>4</hl> 2887 2887 <hl>4</hl> 2887 2887 <hl>4</hl> 2887 1646 5
+2887 ... <hl>8</hl> percent <hl>error</hl> diagnosis found
+inaccurate feedback optimal users learning user cobol cacm
+january 1976 litecky <hl>davis</hl> errors programming
+<hl>error</hl> ... <hl>error</hl> types found 1777 errors
+classified 14 runs 73 cobol students <hl>error</hl> density high
+2 percent types contained <hl>8</hl> percent <hl>error</hl>
+inducing design <hl>8</hl> percent cobol misspellings
+classifiable <hl>error</hl> categories previous researchers
+implies cobol misspellings correctable existent algorithms
+reserved word ... <hl>error</hl> <hl>analysis</hl> diagnostics
+errorproneness <hl>error</hl> frequency spelling errors
+syntactic errors learning programming teaching programming 4.22
+4.2 4.6 ca7616 jb january
+
+CACM-3085
+----------------------------------------------------------------
+<hl>matrices</hl> order <hl>matrices</hl> computed affects
+number operations sufficient condition association
+<hl>matrices</hl> optimal order presented algorithm find order
+computation takes 25 ... <hl>4</hl> 385 385 <hl>4</hl> 385 2557
+5 385 385 5 385 385 5 385 385 385
+
+CACM-3086
+----------------------------------------------------------------
+<hl>linear</hl> functions interval endpoints allowed existence
+log lower bound determine <hl>real</hl> numbers demonstrated
+problems provide excellent opportunity discussing effects
+computational <hl>analysis</hl> results produced cacm july 1978
+fredman weide <hl>analysis</hl> algorithms combinatorial
+problems computational complexity computational models decision
+tree programs lower
+
+CACM-1423
+----------------------------------------------------------------
+<hl>analysis</hl> extension concept inverse applies
+<hl>matrices</hl> applications <hl>numerical</hl>
+<hl>analysis</hl> widely existing algorithms fairly complicated
+require considerable storage space simple extension
+
+CACM-1271
+----------------------------------------------------------------
+<hl>analysis</hl> cacm april 1965 <hl>davis</hl> lin ca6542 jb
+march <hl>7</hl> 1978 3:18 pm 1271 <hl>4</hl> 1271 1785
+<hl>4</hl> 1271 2543
+
+CACM-1636
+----------------------------------------------------------------
+<hl>invariant</hl> imbeding <hl>numerical</hl> integration
+boundaryvalue problems unstable <hl>linear</hl> systems ordinary
+differential equations diverse areas radiative transfer
+planetary atmospheres optimal guidance
+
+CACM-1998
+----------------------------------------------------------------
+<hl>real</hl> comparison complex matrix <hl>real</hl> matrix
+inversion made shown complex inversion fast <hl>real</hl>
+inversion rounding <hl>error</hl> bound complex inversion
+oneeighth <hl>real</hl> system cacm september 197 ehrlich
+complex matrix inversion matrix inversion inversion rounding
+errors rounding <hl>error</hl> bound <hl>error</hl>
+<hl>bounds</hl> complex
+
+CACM-2081
+----------------------------------------------------------------
+<hl>matrices</hl> sequences sequences <hl>matrices</hl>
+considered matrix <hl>operators</hl> areext ended sequence
+<hl>operators</hl> cumulative <hl>operators</hl> algorithms
+symbol manipulation matrix expressions find forms ...
+<hl>matrices</hl> matrix calculus introduced intention
+developing data structures suitable high level algorithmic
+language mathematical programming paper investigates special
+structure <hl>matrices</hl>
+
+CACM-1707
+----------------------------------------------------------------
+<hl>matrices</hl> positive <hl>matrices</hl> similarity
+transformation positive <hl>eigenvalues</hl> 5.1 5.14 ca6887 jb
+february 22 1978 1:42 177 <hl>4</hl> 177 177 <hl>4</hl>
+
+CACM-2809
+----------------------------------------------------------------
+<hl>operators</hl> cacm january 1975 bauer <hl>matrices</hl>
+norms positivity <hl>numerical</hl> range positivity cones
+vector latticeabsolute monotonic 5.11 5.14 ca7512 jb january
+
+CACM-1968
+----------------------------------------------------------------
+<hl>eigenvalues</hl> <hl>eigenvectors</hl> <hl>real</hl> general
+matrix algorithm 343 $f1 cacm november 197 knight mersereau
+<hl>eigenvalues</hl> <hl>eigenvectors</hl> latent roots
+householders method qr
+
+CACM-3153
+----------------------------------------------------------------
+<hl>4</hl> 3153 37 <hl>4</hl> 3153 3153 <hl>4</hl> 3153 3153
+<hl>4</hl> 3153 2741 5 3153 2891 5 3153 3153 5 3153 ...
+<hl>numerical</hl> solutions economical lower <hl>bounds</hl>
+expected response times functions control parameters obtained
+applying results systems job classes cacm july 1979 ...
+<hl>closed</hl> system consisting process paging devices fixed
+numbers jobs studied determine optimal degrees multiprogramming
+proportion processor time devoted class applying
+
+CACM-2544
+----------------------------------------------------------------
+<hl>4</hl> 2544 1931 <hl>4</hl> 2544 2214 <hl>4</hl> 2544 2544
+<hl>4</hl> 2544 2544 <hl>4</hl> 2544 2544 <hl>4</hl> 2544 1524 5
+2544 ... <hl>numerical</hl> examples polynomials <hl>real</hl>
+complex roots bessel function kind cacm february 1973 rokne
+<hl>real</hl> intervals complex intervals <hl>real</hl> interval
+arithmetic
+
+CACM-1709
+----------------------------------------------------------------
+<hl>matrices</hl> involved permits modification requiring half
+storage computations conventional algorithm additional storage
+<hl>analysis</hl> problems variables alternatively permits
+<hl>analysis</hl> problems number <hl>linear</hl> regression
+statistical recurrence formulas correlation <hl>linear</hl>
+statistical models statistical computer programs curve fitting
+<hl>4</hl> 4.4 5 5.5 5.1 5.13
+
+CACM-1782
+----------------------------------------------------------------
+<hl>numerical</hl> integration formula fourier <hl>analysis</hl>
+<hl>numerical</hl> integration formula presented unequal
+sampling intervals intervals equally spaced log scale
+formulation fourier <hl>analysis</hl>
+
+CACM-1347
+----------------------------------------------------------------
+<hl>4</hl> 1347 1216 <hl>4</hl> 1347 1216 <hl>4</hl> 1347 1278
+<hl>4</hl> 1347 1278 <hl>4</hl> 1347 1347 <hl>4</hl> 1347 1347
+<hl>4</hl> 1347 <hl>4</hl> 1347 1396 <hl>4</hl> 1347 1396
+<hl>4</hl> 1347 1396 <hl>4</hl> 1347 1536 <hl>4</hl> 1347 128 5
+1347 129 5 1347 ... <hl>error</hl> sensitivities program
+evaluation propagation variance technique <hl>sensitivity</hl>
+timevarying systems initial condition parameter errors involves
+determination systemdependent partial derivative
+<hl>matrices</hl>
+
+CACM-2213
+----------------------------------------------------------------
+<hl>eigenvalue</hl> problem algorithm 45 cacm february 1971 dell
+weil thompson <hl>eigenvalues</hl> matrix roots pencil roots 5.1
+5.3 ca7128 jb february
+
+CACM-2447
+----------------------------------------------------------------
+<hl>error</hl> <hl>analysis</hl> bivariate cubatures remainders
+obtained sard kernels <hl>numerical</hl> results computer graphs
+kernel functions cacm september 1973 barnhill pilcher cubatures
+
+CACM-1274
+----------------------------------------------------------------
+<hl>numerical</hl> solution npoint boundary problem
+<hl>linear</hl> ordinary differential equations method
+<hl>numerical</hl> solution thenpoint boundary problem
+homogeneous <hl>linear</hl> ordinary differential equations
+
+CACM-1662
+----------------------------------------------------------------
+<hl>eigenvalues</hl> <hl>eigenvectors</hl> <hl>real</hl> general
+matrix cacm december 1968 grad brebner <hl>eigenvalues</hl>
+<hl>eigenvectors</hl> latent roots latent vectors householders
+method qr algorithm
+
+CACM-3125
+----------------------------------------------------------------
+<hl>invariant</hl> computations loops separately invariants
+moved outward loop loop propose move expression directly
+entrance outermost loop <hl>invariant</hl> solving general
+problem ... <hl>analysis</hl> boolean systems 4.12 5.21 5.24
+ca7924 dh april <hl>1</hl> 1979 4:19 pm 3125 5 3125 3125 5 3125
+3125
+
+CACM-1577
+----------------------------------------------------------------
+<hl>eigenvalues</hl> <hl>eigenvectors</hl> <hl>real</hl>
+symmetric matrix qr method algorithm 254 cacm june 1967 welsch
+ca6767e jb march 23 1978 3:31 pm
+
+CACM-1876
+----------------------------------------------------------------
+<hl>matrices</hl> positive <hl>matrices</hl> sign patterns
+orthogonal transformations positive <hl>eigenvalues</hl> 5.1
+5.14 ca6974 jb february 17 1978 9:26 1876 <hl>4</hl> 1876
+<hl>4</hl> 1876 177 5 1876 1876 5 1876 1876 5 1876 1876 1876
+
+CACM-2807
+----------------------------------------------------------------
+<hl>error</hl> <hl>analysis</hl> <hl>bounds</hl> <hl>error</hl>
+solution bound residual 5.11 5.14 ca7514 jb january 12 1978 1:44
+287 5 287 287 5
+
+CACM-2605
+----------------------------------------------------------------
+<hl>4</hl> 265 1975 <hl>4</hl> 265 2555 <hl>4</hl> 265 265
+<hl>4</hl> 265 265 <hl>4</hl> 265 126 5 265 2286 5 265 ...
+<hl>numerical</hl> <hl>analysis</hl> program description program
+computing solution small number standard <hl>numerical</hl>
+<hl>analysis</hl> problems accuracy limit 2 correct decimal
+places computed
+
+CACM-2325
+----------------------------------------------------------------
+<hl>4</hl> 2325 1132 <hl>4</hl> 2325 1234 <hl>4</hl> 2325 1263
+<hl>4</hl> 2325 1265 <hl>4</hl> 2325 127 <hl>4</hl> 2325 1323
+<hl>4</hl> 2325 <hl>4</hl> 2325 1379 <hl>4</hl> 2325 138
+<hl>4</hl> 2325 1453 <hl>4</hl> 2325 1464 <hl>4</hl> 2325 1484
+<hl>4</hl> 2325 1491 <hl>4</hl> 2325 <hl>4</hl> 2325 1613
+<hl>4</hl> 2325 1614 <hl>4</hl> 2325 1781 <hl>4</hl> 2325 1825
+<hl>4</hl> 2325 186 <hl>4</hl> 2325 283 <hl>4</hl> 2325
+<hl>4</hl> 2325 2179 <hl>4</hl> 2325 2252 <hl>4</hl> 2325 2325
+<hl>4</hl> 2325 2341 <hl>4</hl> 2325 2546 <hl>4</hl> 2325 2645
+<hl>4</hl> 2325 <hl>4</hl> 2325 2684 <hl>4</hl> 2325 2842
+<hl>4</hl> 2325 2929 <hl>4</hl> 2325 2934 <hl>4</hl> 2325 369
+<hl>4</hl> 2325 669 <hl>4</hl> 2325
+
+CACM-2820
+----------------------------------------------------------------
+<hl>4</hl> 282 1358 <hl>4</hl> 282 138 <hl>4</hl> 282 1665
+<hl>4</hl> 282 1781 <hl>4</hl> 282 1787 <hl>4</hl> 282 1989
+<hl>4</hl> 282 <hl>4</hl> 282 2534 <hl>4</hl> 282 2541
+<hl>4</hl> 282 2698 <hl>4</hl> 282 278 <hl>4</hl> 282 2733
+<hl>4</hl> 282 282 <hl>4</hl> 282 <hl>4</hl> 282 2971 <hl>4</hl>
+282 345 <hl>4</hl> 282 373 <hl>4</hl> 282 3155 <hl>4</hl> 282
+2534 5 282 282 5 282 ... <hl>analysis</hl> performed program
+entered subsequently edited <hl>analysis</hl> performed
+character character remarkable feature caps ability diagnose
+errors compile time run time ... <hl>davis</hl> tindall
+interactive programming table driven compilers <hl>error</hl>
+correction interpreters debugging computer assisted instruction
+computer science education 1.5 4.12 4.13
+
+CACM-1147
+----------------------------------------------------------------
+<hl>numerical</hl> solution boundary problems <hl>linear</hl>
+ordinary differential equations <hl>numerical</hl> method
+presented solution boundary problems involving <hl>linear</hl>
+ordinary differential equations method <hl>numerical</hl>
+integration scheme reduce problem boundary values initial values
+comments made concerning <hl>numerical</hl> results applying
+method specific problem addition extension
+
+CACM-1014
+----------------------------------------------------------------
+<hl>analysis</hl> variance major problem <hl>analysis</hl>
+variance number factors increases exponential rise number
+interactions experimenter <hl>interested</hl> interactions
+impossible ignore experimental designs ... <hl>4</hl> 114 912 5
+114 114 5 114 114 5 114 114 114
+
+CACM-1905
+----------------------------------------------------------------
+<hl>linear</hl> programming lu <hl>decomposition</hl> standard
+computer implementations dantzigs simplex method <hl>linear</hl>
+programming based forming inverse basic matrix updating inverse
+step <hl>error</hl> properties paper theoretical background
+implementation based lu <hl>decomposition</hl> computed row
+interchanges basic matrix implementation slow good roundoff
+<hl>error</hl> behavior
+
+CACM-1104
+----------------------------------------------------------------
+<hl>numerical</hl> <hl>analysis</hl> cacm april 1964 forsythe
+ca6444 jb march <hl>1</hl> 1978 1:51 114 5 114 114 5 114 114 5
+
+CACM-1802
+----------------------------------------------------------------
+<hl>matrices</hl> algorithm 366 cacm december 1969 claringbold
+<hl>analysis</hl> variance <hl>analysis</hl> covariance
+regression <hl>analysis</hl> experimental design matrix direct
+product protection operator
+
+CACM-2778
+----------------------------------------------------------------
+<hl>eigenvalues</hl> nonnormal <hl>matrices</hl> corrigendum
+cacm march 1975 sluis ca7531 jb january 9 1978 4:26 pm 2778 5
+2778 2778 5
+
+CACM-0537
+----------------------------------------------------------------
+<hl>davis</hl> logemann loveland ca62724 jb march 17 1978 8:11
+pm 537 5 537 537 5 537 537 537
+
+CACM-0441
+----------------------------------------------------------------
+<hl>kahn</hl> ca62112 jb march 17 1978 5:58 pm 15 <hl>4</hl> 441
+1226 <hl>4</hl> 441 441 <hl>4</hl> 441 758 <hl>4</hl> 441
+
+CACM-1351
+----------------------------------------------------------------
+<hl>error</hl> <hl>bounds</hl> <hl>real</hl> zeros rational
+functions procedure implementing interval arithmetic version
+newtonraphson method proposed procedure require starting
+interval zeros rational
+
+CACM-1958
+----------------------------------------------------------------
+<hl>error</hl> <hl>error</hl> <hl>analysis</hl> 5.11 5.17 ca7125
+jb february 9 1978 3:4 pm 1958 5 1958 1958 5 1958 1958 1958
+
+CACM-1744
+----------------------------------------------------------------
+<hl>numerical</hl> methods obtaining chebyshev solution
+overdetermined system equations implementation stiefels exchange
+algorithm determining chebyshev solution overdetermined system
+<hl>linear</hl> equations presented ... <hl>linear</hl> systems
+<hl>linear</hl> equationsexchange algorithm 5.13 5.14 5.41
+ca6861 jb february 22 1978 4:5 pm 1744 5 1744 1744 5
+
+CACM-1333
+----------------------------------------------------------------
+<hl>8</hl> 1978 2:54 pm 1328 <hl>4</hl> 1333 1333 <hl>4</hl>
+1333 2144 <hl>4</hl> 1333 152 5 1333 1333 5 1333 1333
+
+CACM-2567
+----------------------------------------------------------------
+<hl>numerical</hl> solution initial problems systems ordinary
+differential equations presented method designed general purpose
+nature <hl>especially</hl> efficient dealing stiff systems
+differential <hl>linear</hl> system constant coefficients
+<hl>linear</hl> forcing terms case method order implemented put
+routine usage biological applicationswhere stiffness frequently
+appearswith favorable <hl>numerical</hl> solution ordinary
+differential equations initial problems stiff systems 5.17
+ca74127 jb january 13 1978 4:2 pm 2567 <hl>4</hl> 2567
+
+CACM-1658
+----------------------------------------------------------------
+<hl>analysis</hl> algorithms <hl>zeroone</hl> programming
+problem paper concerned review examination existing algorithms
+<hl>zeroone</hl> programming problem computational experience
+summarized machine time storage <hl>1</hl> variables reasonable
+amount machine time cacm december 1968 gue liggett cain
+operations research optimization theory integer programming
+<hl>zeroone</hl> variables
+
+CACM-1116
+----------------------------------------------------------------
+<hl>matrices</hl> limited tests method successfully produced
+timetables trial references relate timetable problem theorems
+<hl>matrices</hl> zeros theorems bipartite graphs problems
+applying
+
+CACM-1791
+----------------------------------------------------------------
+<hl>matrices</hl> algorithm 319 cacm january 1968 green matrix
+<hl>decomposition</hl> matrix factors matrix modifier matrix
+perturbation 5.14 ca6812 jb february 23
+
+CACM-2000
+----------------------------------------------------------------
+<hl>matrices</hl> 3.21 5.15 5.17 ca795 jb february <hl>1</hl>
+1978 1:39 pm 2 5 2 2 5 2 2 2
+
+CACM-3138
+----------------------------------------------------------------
+<hl>linear</hl> programming <hl>numerical</hl> <hl>linear</hl>
+algebra modified givens transformations <hl>linear</hl>
+programming test cases 5 5.4 5.41 5.1 5.14 ca7944 dh 21
+<hl>4</hl> 3138 3138 <hl>4</hl> 3138 1313 5 3138 3138 5 3138
+3138 5 3138 3138 3138 ... <hl>decomposition</hl> matrix column
+row vectors fundamental idea add column row analogous adding
+additional row data <hl>linear</hl> squares problem column row
+
+CACM-0559
+----------------------------------------------------------------
+<hl>eigenvalue</hl> problems approximately known
+<hl>eigenvectors</hl> cacm july 1962 appel ca6272 jb march 17
+1978 9:1 pm 559 5 559 559
+
+CACM-1286
+----------------------------------------------------------------
+<hl>eigenvalues</hl> <hl>real</hl> symmetric matrix qr method
+algorithm 253 cacm april 1965 businger ca6545 jb march
+<hl>7</hl> 1978 3:56 pm 1286
+
+CACM-0758
+----------------------------------------------------------------
+<hl>kahn</hl> ca6384 jb march 13 1978 7:58 pm 15 <hl>4</hl> 758
+1226 <hl>4</hl> 758 1723 <hl>4</hl> 758 441 <hl>4</hl> 758
+
+CACM-1404
+----------------------------------------------------------------
+<hl>analysis</hl> covariance extension accomplished utilizing
+connection <hl>analysis</hl> covariance <hl>analysis</hl>
+variance introducing operator results illustrated
+<hl>numerical</hl> <hl>analysis</hl> covariance basic
+computations shown ... <hl>analysis</hl> multifactor structure
+computational procedure <hl>analysis</hl> multiple covariance
+statistics discussed reference <hl>analysis</hl> variance
+special operator calculus developed hartly programming
+<hl>analysis</hl>
+
+CACM-2475
+----------------------------------------------------------------
+<hl>linear</hl> programming problems <hl>1</hl> variables
+algorithm a449 cacm july 1973 fiala <hl>linear</hl> programming
+<hl>zeroone</hl> variable 5.41 ca73711 jb january 23
+
+CACM-1797
+----------------------------------------------------------------
+<hl>linear</hl> programs <hl>1</hl> algorithm 341 cacm december
+1969 proll <hl>linear</hl> programming <hl>zeroone</hl>
+variables partial enumeration 5.41 ca691215 jb february 15
+
+CACM-1529
+----------------------------------------------------------------
+<hl>decomposition</hl> programming <hl>analysis</hl> matrix
+substructure petroleum blending problem analyzed order compare
+primal primaldual <hl>decomposition</hl> algorithms course
+<hl>analysis</hl> substructure discovered relevance
+
+CACM-3059
+----------------------------------------------------------------
+<hl>approximate</hl> queueing models internal parallel
+processing individual programs multiprogrammed system developed
+paper solution technique developed network
+<hl>decomposition</hl> models formulated terms <hl>analysis</hl>
+problems percentage performance improvement cpuio overlap found
+greatest systems <hl>approximate</hl> cpuio utilization balance
+low degrees multiprogramming percentage improvement ioio
+
+CACM-2073
+----------------------------------------------------------------
+<hl>linear</hl> programs <hl>1</hl> variables implicit
+enumeration algorithm 341 cacm april 197 guignard
+<hl>linear</hl> programming <hl>zeroone</hl> variables partial
+enumeration 5.41 ca7411
+
+CACM-1308
+----------------------------------------------------------------
+<hl>numerical</hl> controlled machine tools physical part
+characteristics center gravity computed subprograms dynamic
+<hl>analysis</hl> work proposed system presented experiments
+demonstrations discussed <hl>7</hl> 1978 1:46 pm 138 5 138 138 5
+138 138 138
+
+CACM-2548
+----------------------------------------------------------------
+<hl>4</hl> 2548 192 <hl>4</hl> 2548 1944 <hl>4</hl> 2548 1987
+<hl>4</hl> 2548 2548 <hl>4</hl> 2548 2548 5 2548 2548 5 2548
+
+CACM-2135
+----------------------------------------------------------------
+<hl>closed</hl> interval ab let <hl>linear</hl> functional
+attempt made <hl>approximate</hl> polynomial approximating
+algorithms developed rapid computation wide class selections
+includes lagrangian
+
+CACM-3200
+----------------------------------------------------------------
+<hl>linear</hl> boundary initial problems computer program
+developed obtaining <hl>approximate</hl> solutions
+<hl>linear</hl> initial boundaryvalue problems involving
+differential equations problem input program <hl>1</hl>
+equations symbolic form satisfied differential equations
+equations describing auxiliary conditions boundary conditions 2
+<hl>numerical</hl> description regions equations satisfied 3
+
+CACM-1353
+----------------------------------------------------------------
+<hl>linear</hl> programming technical note <hl>numerical</hl>
+steps simplex method <hl>linear</hl> programming reviewed
+tolerances needed <hl>numerical</hl> procedure defined objective
+criteria accomplishing <hl>numerical</hl>
+
+CACM-2555
+----------------------------------------------------------------
+<hl>error</hl> <hl>bounds</hl> denotes operations precision ei
+denotes <hl>error</hl> operations ith argument paper presents
+efficient variableprecision exponential operation <hl>error</hl>
+bound order
+
+CACM-1666
+----------------------------------------------------------------
+<hl>linear</hl> programs <hl>1</hl> variables implicit
+enumeration algorithm 341 cacm november 1968 byrne proll
+<hl>linear</hl> programming <hl>zeroone</hl> variables partial
+enumeration 5.41
+
+CACM-2353
+----------------------------------------------------------------
+<hl>numerical</hl> <hl>analysis</hl> partial differential
+equations biharmonic equation boundary problem 5.17 ca7257 jb
+january 31 1978 9:43 2352 <hl>4</hl> 2353 2353
+
+CACM-1990
+----------------------------------------------------------------
+<hl>numerical</hl> constants algorithm cacm september 197 dunham
+<hl>numerical</hl> algorithm <hl>numerical</hl> constants 5.1
+ca7915 jb february <hl>1</hl> 1978 9:48 199 5
+
+CACM-1887
+----------------------------------------------------------------
+<hl>numerical</hl> included calculating <hl>eigenvalues</hl>
+cacm june 1969 sweet pentadiagonal matrix quindiagonal matrix
+quindiagonal matrix band matrix determinant characteristic
+polynomial <hl>eigenvalues</hl>
+
+CACM-3115
+----------------------------------------------------------------
+<hl>4</hl> 3115 2466 <hl>4</hl> 3115 269 <hl>4</hl> 3115 2834
+<hl>4</hl> 3115 2834 <hl>4</hl> 3115 2834 <hl>4</hl> 3115 2853
+<hl>4</hl> 3115 <hl>4</hl> 3115 298 <hl>4</hl> 3115 3115
+<hl>4</hl> 3115 3115 <hl>4</hl> 3115 3115 <hl>4</hl> 3115 3115
+<hl>4</hl> 3115 3115 <hl>4</hl> 3115 ... <hl>matrices</hl>
+applied text encryption nonsingular binary <hl>matrices</hl>
+order nonsingular field <hl>1</hl> initial segment natural
+numbers onetoone correspondence natural number corresponds
+<hl>matrices</hl> produced mapping intermediate vectors
+<hl>matrices</hl> mapping application vernam encipherment method
+pseudorandom number sequences bit string formed form bytes text
+<hl>matrices</hl> combinatorics combinations nonsingular
+<hl>matrices</hl> encryption vernam pseudorandom numbers
+feedback shiftregister sequences random numbers 3.7 5.3 ca7841
+dh february 27
+
+CACM-2494
+----------------------------------------------------------------
+<hl>analysis</hl> methods cluster <hl>analysis</hl> cacm june
+1973 ling computer graphics cluster <hl>analysis</hl>
+<hl>numerical</hl> taxonomy hierarchical clustering factor
+<hl>analysis</hl> 3.1 3.3
+
+CACM-1916
+----------------------------------------------------------------
+<hl>analysis</hl> boolean program models timeshared paged
+environments directed graphs <hl>matrices</hl> frequently
+represent logical structure sequences computer instructions
+techniques addition data <hl>analysis</hl> models prior
+execution yields information valuable determining segmentation
+instructions data timeshared environment initial page loading
+execution <hl>analysis</hl> look ahead
+
+CACM-1909
+----------------------------------------------------------------
+<hl>numerical</hl> integration shown practical compute jnx
+<hl>numerical</hl> integration integral representation
+trapezoidal rule <hl>error</hl> approximation studied
+empirically cacm april 1969 stroud <hl>numerical</hl>
+integration trapezoidal rule 5.11 5.12 5.16 ca6948 jb february
+17 1978 4:13 pm 199 <hl>4</hl> 199 199 <hl>4</hl> 199
+
+CACM-1369
+----------------------------------------------------------------
+<hl>rotation</hl> matrix <hl>numerical</hl> examples cacm
+september 1966 mccamon ca6691 jb march 2 1978 4:32 pm 1369 5
+1369 1369 5
+
+CACM-0950
+----------------------------------------------------------------
+<hl>numerical</hl> <hl>analysis</hl> recast parallel form meant
+serial algorithms replaced algorithm consist subtasks computed
+knowledge results subtasks method proposed parallelizing
+<hl>numerical</hl>
+
+CACM-2186
+----------------------------------------------------------------
+<hl>numerical</hl> <hl>analysis</hl> 5.1 ca7164 jb february 3
+1978 1:12 2186 5 2186 2186 5 2186 2186 2186 ...
+<hl>numerical</hl> properties ritztrefftz algorithm optimal
+control paper ritztrefftz algorithm applied computer solution
+state regulator problem algorithm represents modification ritz
+direct
+
+CACM-1617
+----------------------------------------------------------------
+<hl>eigenvalues</hl> <hl>eigenvectors</hl> symmetric system
+algorithm 297 cacm march 1967 boothroyd ca67311a jb february 28
+1978 12:59 pm 1617 5 1617
+
+CACM-2239
+----------------------------------------------------------------
+<hl>numerical</hl> integration integration rule adaptive
+integration automatic integration simpsons rule
+<hl>numerical</hl> quadrature quadrature rule adaptive
+quadrature automatic quadrature roundoff <hl>error</hl>
+
+CACM-1151
+----------------------------------------------------------------
+<hl>matrices</hl> ii cacm january 1964 comstock ca6413 jb march
+<hl>1</hl> 1978 5:38 1151 <hl>4</hl> 1151 1265 <hl>4</hl> 1151
+2769 <hl>4</hl>
+
+CACM-1683
+----------------------------------------------------------------
+<hl>4</hl> 1683 1693 <hl>4</hl> 1683 1768 <hl>4</hl> 1683 1781
+<hl>4</hl> 1683 1787 <hl>4</hl> 1683 1787 <hl>4</hl> 1683 1836
+<hl>4</hl> 1683 <hl>4</hl> 1683 1945 <hl>4</hl> 1683 26
+<hl>4</hl> 1683 261 <hl>4</hl> 1683 261 <hl>4</hl> 1683 282
+<hl>4</hl> 1683 291 <hl>4</hl> 1683 <hl>4</hl> 1683 2179
+<hl>4</hl> 1683 234 <hl>4</hl> 1683 2356 <hl>4</hl> 1683 2546
+<hl>4</hl> 1683 263 <hl>4</hl> 1683 2698 <hl>4</hl> 1683
+<hl>4</hl> 1683 2824 <hl>4</hl> 1683 2982 <hl>4</hl> 1683 2986
+<hl>4</hl> 1683 345 <hl>4</hl> 1683 393 <hl>4</hl> 1683 1141 5
+1683 ... <hl>analysis</hl> boolean <hl>matrices</hl> relations
+4.12 5.23 ca6814 jb february 21 1978 4:9 pm 1496 <hl>4</hl> 1683
+1542 <hl>4</hl> 1683 1683
+
+CACM-1047
+----------------------------------------------------------------
+<hl>matrices</hl> similarity transformations method obtaining
+test <hl>matrices</hl> prescribed distribution characteristic
+roots process consists simple similarity transformations
+generate full <hl>matrices</hl> canonical
+
+CACM-2050
+----------------------------------------------------------------
+<hl>4</hl> 25 1659 <hl>4</hl> 25 1856 <hl>4</hl> 25 25
+<hl>4</hl> 25 1225 5 25 25 5 25 25 5 25 ... <hl>analysis</hl>
+automatic syntactic semantic <hl>analysis</hl> unrestricted
+natural language text applications content <hl>analysis</hl>
+stringent coverage requirement preliminary studies show harvard
+syntactic ... <hl>analysis</hl> parsing syntactic
+<hl>analysis</hl> natural language processing information
+retrieval language <hl>analysis</hl> text processing 3.42 3.71
+ca765 jb february 13 1978
+
+CACM-1859
+----------------------------------------------------------------
+<hl>error</hl> <hl>bounds</hl> periodic quintic splines explicit
+<hl>error</hl> <hl>bounds</hl> periodic quintic spline
+interpolation developed derivative periodic spline shown sixth
+fourth order
+
+CACM-2735
+----------------------------------------------------------------
+<hl>analysis</hl> keypunch <hl>operators</hl> machine
+<hl>operators</hl> 2.4 2.41 2.42 ca7577 jb january 9 1978 9:55
+2735 5 2735 2735 5 2735
+

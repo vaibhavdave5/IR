@@ -1,0 +1,729 @@
+CACM-2829
+----------------------------------------------------------------
+<hl>texture</hl> reflection <hl>computer</hl> generated images
+1974 catmull developed algorithm rendering images bivariate
+surface patches paper describes extensions algorithm areas
+<hl>texture</hl>
+
+CACM-2523
+----------------------------------------------------------------
+<hl>analysis</hl> method converting picture cartoon map regions
+correspond differently textured regions <hl>texture</hl> edges
+picture detected solid regions surrounded broken edges
+
+CACM-1002
+----------------------------------------------------------------
+<hl>computer</hl> time spent timeseries <hl>analysis</hl>
+multiplications minimum multiplication method devised digital
+filtering expectation line realtime <hl>analysis</hl> biological
+data filters constructed
+
+CACM-1679
+----------------------------------------------------------------
+<hl>analysis</hl> digital filtering spectral <hl>analysis</hl>
+realtime spectrum analyzers fourier <hl>analysis</hl> discrete
+fourier transform digital spectrum <hl>analysis</hl> fourier
+<hl>analysis</hl> algorithm fourier
+
+CACM-0533
+----------------------------------------------------------------
+<hl>analysis</hl> practice discrete harmonic <hl>analysis</hl>
+presented section cacm july 1962 peabody adorno ca62728 jb march
+17 1978 7:59 pm 533
+
+CACM-2325
+----------------------------------------------------------------
+<hl>computer</hl> science numerical mathematics viewed
+<hl>analysis</hl> continuous algorithms components numerical
+mathematics discussed foundations finite precision number
+systems computational complexity <hl>synthesis</hl>
+
+CACM-2494
+----------------------------------------------------------------
+<hl>analysis</hl> methods cluster <hl>analysis</hl> cacm june
+1973 ling <hl>computer</hl> graphics cluster <hl>analysis</hl>
+numerical taxonomy hierarchical clustering factor
+<hl>analysis</hl> 3.1 3.3 ... <hl>computer</hl> generated aid
+cluster <hl>analysis</hl> <hl>computer</hl> generated graphic
+method conjunction hierarchical scheme cluster <hl>analysis</hl>
+illustrated graphic principle representation elements data
+
+CACM-1809
+----------------------------------------------------------------
+<hl>analysis</hl> ph <hl>computer</hl> science program numerical
+<hl>analysis</hl> study methods procedures obtain approximate
+solutions mathematical problems emphasis scientific calculation
+difficulties education <hl>analysis</hl> program
+<hl>computer</hl> science department emphasize awareness
+problems <hl>computer</hl> implementation experimental
+procedures need solid background applied mathematics cacm
+december 1969
+
+CACM-2825
+----------------------------------------------------------------
+<hl>computer</hl> programs cacm october 1976 frane
+<hl>analysis</hl> variance cluster <hl>analysis</hl> contingency
+tables data <hl>analysis</hl> discriminant <hl>analysis</hl>
+factor <hl>analysis</hl> graphics outliers
+
+CACM-1260
+----------------------------------------------------------------
+<hl>analysis</hl> small <hl>computer</hl> <hl>analysis</hl>
+carried ibm 141 <hl>computer</hl> 4 bcd core memory cacm 1965
+marshall nelson wilenzick ca65511 jb march
+
+CACM-2125
+----------------------------------------------------------------
+<hl>digitized</hl> contour method extracting smooth polygonal
+contour <hl>digitized</hl> image illustrated ordered sequence
+contour points connection graph image obtained modified ledley
+
+CACM-2754
+----------------------------------------------------------------
+<hl>digitized</hl> waveform detected algorithm incorporating
+piecewise linear approximation tabular parsing techniques
+parameters serve identify waveform context enabling accurate
+measurement peak
+
+CACM-2771
+----------------------------------------------------------------
+<hl>synthesis</hl> solids bounded faces technique presented
+class solid objects synthesized stored <hl>computer</hl>
+<hl>synthesis</hl> begins primitive solids cube wedge cylinder
+solid
+
+CACM-1435
+----------------------------------------------------------------
+<hl>analysis</hl> variance techniques techniques data
+<hl>analysis</hl> consideredmultiple ranking procedures
+sequential sampling spectral <hl>analysis</hl> paper treats
+specific experimental design problems techniques
+
+CACM-2310
+----------------------------------------------------------------
+<hl>analysis</hl> humanities <hl>computer</hl> languageoriented
+humanities exhaustive listing detail indices concordances
+widespread accepted desirable implications <hl>computer</hl>
+science humanitiesa science entailing gathering
+<hl>analysis</hl> humanities establishing sciencehus areas
+humanities rigor precision analyzing literature teaching student
+write composition <hl>computer</hl> critically important
+facilitator cacm july
+
+CACM-1014
+----------------------------------------------------------------
+<hl>analysis</hl> variance major problem <hl>analysis</hl>
+variance number factors increases exponential rise number
+interactions experimenter interested interactions impossible
+ignore experimental designs
+
+CACM-1404
+----------------------------------------------------------------
+<hl>analysis</hl> multifactor structure computational procedure
+<hl>analysis</hl> multiple covariance statistics discussed
+reference <hl>analysis</hl> variance special operator calculus
+developed hartly programming <hl>analysis</hl>
+
+CACM-2286
+----------------------------------------------------------------
+<hl>analysis</hl> determining precision problem considered
+evaluating rational expression desired tolerance
+<hl>computer</hl> performs variableprecision floatingpoint
+arithmetic operations automatic error <hl>analysis</hl>
+technique
+
+CACM-1855
+----------------------------------------------------------------
+<hl>analysis</hl> language processing language <hl>analysis</hl>
+parsing <hl>analysis</hl> procedure recognition procedure
+english sentences linguistics psycholinguistics transformational
+grammar limited dictionary predictive <hl>analysis</hl> ...
+<hl>analysis</hl> procedure techniques keeping size
+<hl>analysis</hl> record reasonable limits avoiding need dynamic
+application transformational rules number examples output
+produced program
+
+CACM-0974
+----------------------------------------------------------------
+<hl>analysis</hl> long series heart cycles digital
+<hl>computer</hl> cacm november 1964 maher ca64119 jb march 9
+1978 4:3 pm 974 5
+
+CACM-2812
+----------------------------------------------------------------
+<hl>analysis</hl> consists set procedures <hl>computer</hl>
+programs specifically designed aid process applications software
+design <hl>computer</hl> selection performance evaluation major
+components problem ... <hl>analysis</hl> design information
+systems paper describes computeraided <hl>analysis</hl> design
+development integrated financial management system navy material
+command support activity nmcsa
+
+CACM-1653
+----------------------------------------------------------------
+<hl>analysis</hl> simulation <hl>synthesis</hl> presented levels
+approach evaluation requiring successively greater amounts
+information central role measurement performance evaluation
+development evaluation methods
+
+CACM-1709
+----------------------------------------------------------------
+<hl>analysis</hl> problems variables alternatively permits
+<hl>analysis</hl> problems number variables computations
+performed double precision cacm august 1968 breaux multiple
+linear regression ... <hl>analysis</hl> computational technique
+conventionally stepwise multiple linear regression requires
+storage matrix data number variables large requirement taxes
+storage capacity presently
+
+CACM-2050
+----------------------------------------------------------------
+<hl>analysis</hl> automatic syntactic semantic <hl>analysis</hl>
+unrestricted natural language text applications content
+<hl>analysis</hl> stringent coverage requirement preliminary
+studies show harvard syntactic <hl>analysis</hl> variables
+compares favorably methods variables compares favorably methods
+sample total text processed cacm june 197 damerau content
+<hl>analysis</hl> parsing
+
+CACM-0525
+----------------------------------------------------------------
+<hl>computer</hl> technique handling <hl>analysis</hl> variance
+cacm august 1962 howell ca6283 jb march 17 1978 7:32 pm 525 5
+525 525
+
+CACM-1801
+----------------------------------------------------------------
+<hl>analysis</hl> variance balanced experiments algorithm 367
+cacm december 1969 claringbold <hl>analysis</hl> variance
+<hl>analysis</hl> covariance regression <hl>analysis</hl>
+experimental design balanced experiment
+
+CACM-1823
+----------------------------------------------------------------
+<hl>analysis</hl> variance algorithm cacm november 1969 howell
+factorial variance <hl>analysis</hl> variance statistical
+<hl>analysis</hl> 5.5 ca69117 jb february 15 1978 12:22
+
+CACM-1732
+----------------------------------------------------------------
+<hl>analysis</hl> variance algorithm 33 cacm june 1968 oliveri
+factorial variance <hl>analysis</hl> variance statistical
+<hl>analysis</hl> 5.5 ca68613 jb february 22 1978
+
+CACM-2739
+----------------------------------------------------------------
+<hl>computer</hl> grammars natural language past years number
+systems <hl>computer</hl> <hl>analysis</hl> natural language
+sentences based augmented contextfree grammars contextfree
+grammar defines <hl>analysis</hl> coverage grammar increased
+efficient representation essential development paper presents
+programming language designed specifically compact perspicuous
+statement restrictions natural language
+
+CACM-1782
+----------------------------------------------------------------
+<hl>analysis</hl> numerical integration formula presented
+unequal sampling intervals intervals equally spaced log scale
+formulation fourier <hl>analysis</hl> improve accuracy ease
+usage
+
+CACM-0461
+----------------------------------------------------------------
+<hl>computer</hl> <hl>analysis</hl> cacm october 1962 lipkin
+woodbury ca62119 jb march 17 1978 6:59 pm 461 5 461 461 5 461
+
+CACM-1916
+----------------------------------------------------------------
+<hl>analysis</hl> boolean program models timeshared paged
+environments directed graphs matrices frequently represent
+logical structure sequences <hl>computer</hl> instructions
+techniques addition data
+
+CACM-2947
+----------------------------------------------------------------
+<hl>analysis</hl> system nontechnical users ways comparable
+teractive bibliographical search retrieval systems additional
+features implemented pdp11 timesharing <hl>computer</hl> invoked
+crt microprogrammed
+
+CACM-2634
+----------------------------------------------------------------
+<hl>analysis</hl> oneway <hl>analysis</hl> variance 1.3 3.3 4.19
+4.22 4.49 5.5 ca74612 jb january 17 1978 2:54 pm 2634 5 2634
+
+CACM-3149
+----------------------------------------------------------------
+<hl>analysis</hl> cyclic order artificial intelligence
+threedimensional reconstruction picture processing
+<hl>computer</hl> graphics pattern recognition 3.2 3.6 8.2
+ca7965 dh august 22
+
+CACM-1325
+----------------------------------------------------------------
+<hl>computer</hl> diagnosis clinical electrocardiogram presented
+paper report hardware software system configuration function
+system remote online realtime digital <hl>computer</hl>
+diagnosis clinical
+
+CACM-2871
+----------------------------------------------------------------
+<hl>analysis</hl> programs present systems verification
+<hl>computer</hl> programs incomplete intermediate inductive
+assertions provided manually user termination proven incorrect
+programs treated unified <hl>analysis</hl> programs invariants
+express actually occurring program part paper devoted techniques
+automatic generation invariants part criteria invariants check
+simultaneously correctness
+
+CACM-1802
+----------------------------------------------------------------
+<hl>analysis</hl> variance <hl>analysis</hl> covariance
+regression <hl>analysis</hl> experimental design matrix direct
+product protection operator orthogonal matrix 5.14 5.5 ca69121
+jb february
+
+CACM-1272
+----------------------------------------------------------------
+<hl>computer</hl> output exemplified concordance preparing
+survey article lecture opportunities heavy editing chief
+interpretation expansion <hl>computer</hl> output processes
+factor <hl>analysis</hl> applications
+
+CACM-2751
+----------------------------------------------------------------
+<hl>computer</hl> generated pictures quality <hl>computer</hl>
+generated images threedimensional scenes depends shading
+technique paint objects cathoderay tube screen shading algorithm
+depends
+
+CACM-2923
+----------------------------------------------------------------
+<hl>analysis</hl> contrast predominant lowlevel termediate text
+highlevel data flow <hl>analysis</hl> deals programs essentially
+source level exploits control flow information implicit
+<hl>analysis</hl> arises aspects recent work advanced methods
+program certification optimization paper proposes simple general
+method highlevel data flow <hl>analysis</hl> free
+<hl>analysis</hl> problems illustrative application live
+variable <hl>analysis</hl> presented graphs involved constructed
+analyzed programs compiled avoiding costs lowlevel methods incur
+repeatedly
+
+CACM-0329
+----------------------------------------------------------------
+<hl>analysis</hl> report presents concept automatic
+<hl>analysis</hl> relativefrequency approach measuring
+significance words word groups sentences relativefrequency
+approach discussed detail application problems
+
+CACM-1003
+----------------------------------------------------------------
+<hl>computer</hl> continually stores heat distribution
+<hl>computer</hl> <hl>analysis</hl> method regarded physical
+laws process explicitly program results passing mathematical
+procedures conventionally program ... <hl>computer</hl>
+<hl>analysis</hl> method thermal diffusion biochemical systems
+thermal detection rapid biochemical reactions correct
+temperature data transient heat conduction losses cylindrical
+<hl>computer</hl> program developed temperature distribution
+system function radius time distribution corrected step
+subroutine calculates instantaneous chemical state action heat
+produced
+
+CACM-1034
+----------------------------------------------------------------
+<hl>analysis</hl> results lack technique control data system
+lifetime <hl>analysis</hl> geared determining workload
+relationships storage characteristics documents information
+network cacm july
+
+CACM-1885
+----------------------------------------------------------------
+<hl>computer</hl> system transformational grammar comprehensive
+system transformational grammar designed implemented ibm 3667
+<hl>computer</hl> system deals transformational model syntax
+lines chomskys <hl>analysis</hl> simple problemoriented
+programming language algorithm application transformations
+expressed paper present system discussing general attitudes
+underlying development system outlining system
+
+CACM-1507
+----------------------------------------------------------------
+<hl>analysis</hl> experimental system acquis ition
+<hl>analysis</hl> large bodies data derived scientific
+experiments architecture implementation largely based objectives
+characteristics general data
+
+CACM-1686
+----------------------------------------------------------------
+<hl>computer</hl> <hl>synthesis</hl> holograms 3d display
+optical digital holography reviewed mathematical model
+computational techniques authors digital holographic process
+discussed applications <hl>computer</hl> <hl>computer</hl>
+holograms made threedimensional objects give faithful
+reconstructions white light approach based point apertures image
+discussed photographs images reconstructed digital
+
+CACM-2437
+----------------------------------------------------------------
+<hl>analysis</hl> keytoaddress transformation methods abstract
+concept paper presents approach <hl>analysis</hl> performance
+keytoaddress transformation methods approach keys assumed
+selected key space ... <hl>analysis</hl> randomization
+performance <hl>analysis</hl> 3.7 3.72 3.73 3.74 3.79 4.9 5.9
+ca7313 jb january 2 1978 11:51 2258 4 2437
+
+CACM-2735
+----------------------------------------------------------------
+<hl>computer</hl> industry cacm july 1975 weber gilchrist
+discrimination women salaries employment programmers systems
+<hl>analysis</hl> keypunch operators machine operators 2.4 2.41
+
+CACM-1780
+----------------------------------------------------------------
+<hl>analysis</hl> symmetrically distributed data algorithm 32
+cacm february 1968 hunter harmonic <hl>analysis</hl> cosine
+series sine series function approximation curve fitting
+
+CACM-0726
+----------------------------------------------------------------
+<hl>analysis</hl> square rectangular lattice designs paper
+describes generalpurpose program handle incomplete block designs
+known square rectangular lattices flow diagrams method
+
+CACM-2447
+----------------------------------------------------------------
+<hl>analysis</hl> bivariate cubatures remainders obtained sard
+kernels numerical results <hl>computer</hl> graphs kernel
+functions cacm september 1973 barnhill pilcher cubatures sard
+
+CACM-1637
+----------------------------------------------------------------
+<hl>analysis</hl> simulation experiments comparison means length
+sample records research continued statistical <hl>analysis</hl>
+simulation experiments autocorrelated time series shown estimate
+lengths
+
+CACM-2701
+----------------------------------------------------------------
+<hl>analysis</hl> abstract onlycomplete paper jacm 231 january
+1976 algorithm global flow <hl>analysis</hl> reducible graphs
+presented algorithm shown treat general class
+
+CACM-2877
+----------------------------------------------------------------
+<hl>analysis</hl> procedure global data relationships program
+exposed codified static <hl>analysis</hl> methods paper
+procedure determines definitions possibly reach node control
+flow
+
+CACM-2560
+----------------------------------------------------------------
+<hl>computer</hl> twolevel storage system results presented
+<hl>analysis</hl> probabilistic model multiprogrammed
+<hl>computer</hl> system twolevel storage system sequential
+dependency accesses devices expressions
+
+CACM-1529
+----------------------------------------------------------------
+<hl>analysis</hl> matrix substructure petroleum blending problem
+analyzed order compare primal primaldual decomposition
+algorithms course <hl>analysis</hl> substructure discovered
+relevance relative performance
+
+CACM-2210
+----------------------------------------------------------------
+<hl>synthesis</hl> elementary outline theoremproving approach
+automatic program <hl>synthesis</hl> dwelling technical details
+method illustrated automatic construction recursive iterative
+programs operating natural
+
+CACM-1911
+----------------------------------------------------------------
+<hl>analysis</hl> class coordination phenomena natural languages
+considered frame work transformational theory account phenomena
+proposed machinery added syntactic component transformational
+grammar <hl>analysis</hl> problem class grammars outlined
+precise specification generative procedure paper inverse form
+lisp function definitions cacm april 1969 petrick postal
+
+CACM-2062
+----------------------------------------------------------------
+<hl>analysis</hl> data generated <hl>computer</hl> simulation
+experiment multiitem inventory model procedure cost
+<hl>computer</hl> time required achieve levels statistical
+precision calculated cost
+
+CACM-1045
+----------------------------------------------------------------
+<hl>analysis</hl> variance sequences operators isomorphic
+mappings special operator calculus developed hartley 1956
+mapping scheme found efficient programming <hl>analysis</hl>
+variance multifactor
+
+CACM-1917
+----------------------------------------------------------------
+<hl>analysis</hl> spectral <hl>analysis</hl> orthogonal
+polynomials orthogonal transformation virtual core memory
+permutation 3.15 3.83 5.12 5.14 ca6931 jb february 2 1978
+
+CACM-1921
+----------------------------------------------------------------
+<hl>analysis</hl> spectral <hl>analysis</hl> orthogonal
+polynomials orthogonal transformation convolution auto
+covariance autocorrelation crosscorrelation digital filtering
+permutation 3.5 3.83 5.12 5.14 ca6936
+
+CACM-1837
+----------------------------------------------------------------
+<hl>analysis</hl> spectral <hl>analysis</hl> orthogonal
+polynomials orthogonal transformation convolution auto
+covariance autocorrelation crosscorrelation digital filtering
+permutation 3.15 3.83 5.12 5.14 ca6919
+
+CACM-1605
+----------------------------------------------------------------
+<hl>computer</hl> time elapsed time considered definitive system
+effectiveness <hl>analysis</hl> variance techniques employed
+estimate system differences variables differences due design
+factors
+
+CACM-0825
+----------------------------------------------------------------
+<hl>analysis</hl> sparkchamber data operating <hl>computer</hl>
+program processes photographically recorded data input program
+consists sparkchamber photographs tracks highenergy particles
+recorded program
+
+CACM-0633
+----------------------------------------------------------------
+<hl>analysis</hl> biochemical systems iii <hl>analysis</hl>
+pattern recognition cacm february 1962 garfinkel polk higgins
+ochser ca6221 jb march 2 1978 3:43
+
+CACM-1424
+----------------------------------------------------------------
+<hl>analysis</hl> electronic digital circuits list processing
+mapping black diagrams digital circuits list structures list
+processing program written control data 36
+
+CACM-1650
+----------------------------------------------------------------
+<hl>analysis</hl> complete factorial experiments computational
+method calculation sums squares <hl>analysis</hl> variance
+complete factorial experiments computation main effect
+interaction means method
+
+CACM-3078
+----------------------------------------------------------------
+<hl>analysis</hl> availability <hl>computer</hl> systems
+<hl>computer</hl> aided algebra analytical results related
+availability <hl>computer</hl> system constructed unreliable
+processors presented paper results obtained
+
+CACM-2835
+----------------------------------------------------------------
+<hl>analysis</hl> compiler optimization simple method detection
+recursive procedures presented compiler optimization
+implementation considerations discussed modification algorithm
+improve optimization <hl>analysis</hl> determine
+
+CACM-2719
+----------------------------------------------------------------
+<hl>analysis</hl> describes operation metric explains
+implementation discusses limitations cacm september 1975
+wegbreit <hl>analysis</hl> programs performance
+<hl>analysis</hl> execution time execution behavior ...
+<hl>analysis</hl> means analyzing program performance deriving
+closedform expressions execution behavior paper discusses
+mechanization <hl>analysis</hl> describes system metric able
+analyze simple
+
+CACM-2820
+----------------------------------------------------------------
+<hl>analysis</hl> performed program entered subsequently edited
+<hl>analysis</hl> performed character character remarkable
+feature caps ability diagnose errors compile time run time
+<hl>computer</hl> assisted course introductory <hl>computer</hl>
+science cacm november 1976 wilcox davis tindall interactive
+programming table driven compilers error correction interpreters
+
+CACM-1989
+----------------------------------------------------------------
+<hl>analysis</hl> augmented transition network grammars
+<hl>analysis</hl> natural language sentences structurebuilding
+actions arcs grammar network allow reordering restructuring
+copying constituents produce <hl>analysis</hl> conditions arcs
+allow powerful selectivity rule meaningless analyses take
+advantage semantic information guide parsing advantage model
+natural language <hl>analysis</hl>
+
+CACM-2798
+----------------------------------------------------------------
+<hl>analysis</hl> interleaved memory systems blockage buffers
+model interleaved memory systems presented <hl>analysis</hl>
+model monte carlo simulation discussed simulations investigate
+performance
+
+CACM-1365
+----------------------------------------------------------------
+<hl>analysis</hl> extension fortran iv permits <hl>computer</hl>
+perform tedious algebraic computations arise fields areas
+successfully differentiation complicated expressions expansion
+truncated power <hl>analysis</hl> generation coefficients
+equations keplerian motion types analysiswhich arose solution
+specific practical problems physics engineering astronomy
+statistics astronauticsare discussed paper
+
+CACM-2176
+----------------------------------------------------------------
+<hl>analysis</hl> improvement expected conventional allocation
+<hl>analysis</hl> makes distribution function <hl>analysis</hl>
+completely distribution yields similar results suggests results
+depend distribution function
+
+CACM-2924
+----------------------------------------------------------------
+<hl>computer</hl> graphics approach surface representation
+teractive <hl>computer</hl> graphics method developed rapid
+generation arbitrary shaped threedimensional surfaces method
+<hl>synthesis</hl> spline theory
+
+CACM-2019
+----------------------------------------------------------------
+<hl>digitized</hl> hand printed numerals obtained sales clerks
+principle involves transforming quadrilateral terms convex hull
+pattern square amount overlap class characters
+
+CACM-2308
+----------------------------------------------------------------
+<hl>computer</hl> properly respect human dignity civil liberty
+significant factor improving efficiency urban process expected
+benefits <hl>computer</hl> usage outweigh costs look
+
+CACM-1668
+----------------------------------------------------------------
+<hl>analysis</hl> spectral <hl>analysis</hl> orthogonal
+polynomials orthogonal transformation virtual core memory
+permutation 3.15 3.83 5.12 5.14 ca681111 jb february 21 1978
+
+CACM-1623
+----------------------------------------------------------------
+<hl>analysis</hl> problem stated solved formac solution problem
+formac notable methods tried failed problem straightforward
+untenable hand involved elaborate formac language
+
+CACM-2391
+----------------------------------------------------------------
+<hl>synthesis</hl> reverse horner scheme reverse synthetic
+division binomial coefficients 5.11 5.3 5.5 ca72112 jb february
+1 1978 8:55 2391 5
+
+CACM-1632
+----------------------------------------------------------------
+<hl>analysis</hl> variance factorial experiments ease
+programming tabular method <hl>analysis</hl> variance complete
+factorial experiments fortran language demonstrated method total
+sum squares
+
+CACM-3086
+----------------------------------------------------------------
+<hl>analysis</hl> results produced cacm july 1978 fredman weide
+<hl>analysis</hl> algorithms combinatorial problems
+computational complexity computational models decision tree
+programs lower
+
+CACM-0931
+----------------------------------------------------------------
+<hl>analysis</hl> digital <hl>computer</hl> programs cacm
+february 1963 miller maloney ca6322 jb march 14 1978 2:23 pm
+1324 4 931 931
+
+CACM-1669
+----------------------------------------------------------------
+<hl>analysis</hl> spectral <hl>analysis</hl> orthogonal
+polynomials orthogonal transformation virtual core memory
+permutation 3.15 3.83 5.12 5.14 ca68111 jb february 21 1978
+
+CACM-0167
+----------------------------------------------------------------
+<hl>analysis</hl> validity checking cacm july 196 mcisaac ca676
+jb march 2 1978 9:15 pm 167 5 167 167 5 167
+
+CACM-3055
+----------------------------------------------------------------
+<hl>analysis</hl> algorithms dutch national flag problem
+solutions dutch national flag problem dijkstra meyer dijkstra
+starts simple program arrives improved program
+
+CACM-3026
+----------------------------------------------------------------
+<hl>analysis</hl> projection 11 series systems sperry univacs
+largescale main frame <hl>computer</hl> systems beginning 117
+1962 11 series progressed succession compatible
+
+CACM-2831
+----------------------------------------------------------------
+<hl>analysis</hl> pff replacement algorithm semimarkov model
+corrigendum cacm september 1976 chu opderbeck ca7698 dmm
+february 1 1978 9:54 2831 5
+
+CACM-3022
+----------------------------------------------------------------
+<hl>computer</hl> science faculties status minorities women
+results survey conducted fall 1975 determine status women
+minority faculty members academic <hl>computer</hl> science
+
+CACM-2683
+----------------------------------------------------------------
+<hl>synthesis</hl> loop predicates methods mechanical program
+verification require complete predicate specification loop
+tedious error prone producing program complete correct
+predicates
+
+CACM-2977
+----------------------------------------------------------------
+<hl>analysis</hl> suggests alternative model budget growth
+separation models budgeting growth growth stages development
+<hl>computer</hl> resource cacm april 1977 lucac jr
+
+CACM-0396
+----------------------------------------------------------------
+<hl>analysis</hl> debugging criteria resulting verifiably
+accurate programs programmer specifies program debugged memory
+areas set input data maximum repetition loops checkpoint
+
+CACM-2823
+----------------------------------------------------------------
+<hl>computer</hl> science results survey concerning women
+minority students faculty <hl>computer</hl> science years 1971
+1975 presented <hl>analysis</hl> data effective affirmative
+action <hl>computer</hl> science discrimination employment women
+minority graduate students revealed cacm october 1976 montanelli
+jr mamrak discrimination women discrimination minorities
+graduate
+
+CACM-3069
+----------------------------------------------------------------
+<hl>analysis</hl> algorithm interprocedural data flow
+<hl>analysis</hl> algorithm presented analyzed algorithm
+associates procedure program information variables modified
+possibly preserved call procedure
+
+CACM-0085
+----------------------------------------------------------------
+<hl>analysis</hl> floating point arithmetic cacm 1959 carr iii
+ca5951 jb march 22 1978 6:43 pm 1148 5 85 85 5
+
+CACM-2671
+----------------------------------------------------------------
+<hl>analysis</hl> 5.39 6.34 ca74312 jb january 18 1978 1:54 2671
+5 2671 2671 5 2671 2671 2671
+
+CACM-2811
+----------------------------------------------------------------
+<hl>analysis</hl> system applied good results pulse waves detect
+measure structural variations waveform parsing system modeled
+compilercompiler system user enter application
+

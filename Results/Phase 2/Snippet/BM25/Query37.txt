@@ -1,0 +1,845 @@
+CACM-2265
+----------------------------------------------------------------
+<hl>type</hl> checking algol 6 made attendant problems faced
+<hl>notion</hl> <hl>type</hl> checking discussed cacm november
+1972 ledgard <hl>type</hl> checking <hl>types</hl> lambda ...
+<hl>type</hl> checking paper attempts isolate <hl>notion</hl>
+<hl>type</hl> checking presents partial solution <hl>type</hl>
+checking problem based notions abstraction application functions
+program ... <hl>type</hl> checking programming languages treat
+computation classes objects numbers strings labels functions
+<hl>correct</hl> compilation execution question arises program
+properly constructed
+
+CACM-2956
+----------------------------------------------------------------
+<hl>data</hl> <hl>types</hl> highlevel languages number issues
+explored concerning <hl>notion</hl> <hl>data</hl> <hl>type</hl>
+set values set primitive operations values need notation
+iterating <hl>data</hl> <hl>type</hl> need simple notation
+allowing <hl>types</hl> parameters parameters restrictive
+fashion resulting problems conversion values <hl>type</hl> cacm
+june 1977 gries
+
+CACM-2651
+----------------------------------------------------------------
+<hl>data</hl> <hl>types</hl> includes provision
+programmerdefined <hl>data</hl> <hl>types</hl> <hl>data</hl>
+<hl>types</hl> generic routines programmer control <hl>type</hl>
+conversion flexible <hl>data</hl> <hl>type</hl> behavior context
+<hl>data</hl> representation cacm 1974 wegbreit <hl>data</hl>
+<hl>types</hl> modes mode unions <hl>type</hl> conversion
+coercion generic functions extensible languages <hl>data</hl>
+<hl>type</hl> definition
+
+CACM-3031
+----------------------------------------------------------------
+<hl>data</hl> <hl>types</hl> software validation <hl>data</hl>
+abstraction naturally algebraic axioms virtue axioms permit
+representationindependent formal specification <hl>data</hl>
+<hl>type</hl> shows employ algebraic ... <hl>data</hl>
+<hl>type</hl> correctness proof <hl>data</hl> <hl>type</hl>
+<hl>data</hl> structure specification 4.34 5.24 ca78128 dh
+january 18 1979 2:51 pm 33 4
+
+CACM-3103
+----------------------------------------------------------------
+<hl>system</hl> choosing efficient implementations abstract
+<hl>types</hl> library implementations discussed
+<hl>process</hl> discussed detail program general issues
+<hl>data</hl> structure selection reviewed cacm ...
+<hl>data</hl> structure selection overview levels abstraction
+proved helpful constructing maintaining programs programs
+designed abstract <hl>data</hl> <hl>types</hl> sets lists
+programmer time <hl>process</hl> filling lowlevel implementation
+details past programming systems provided single general purpose
+implementation abstract <hl>type</hl> programs produced abstract
+<hl>types</hl> inefficient
+
+CACM-0618
+----------------------------------------------------------------
+<hl>processes</hl> characterized main <hl>types</hl> markets
+<hl>type</hl> shown 195 196 estimated 197 cacm march 1962
+carlson ca62314 jb march 2 1978
+
+CACM-2958
+----------------------------------------------------------------
+<hl>data</hl> <hl>types</hl> development <hl>data</hl>
+structures abstract <hl>data</hl> <hl>types</hl> play
+significant role development software reliable efficient
+flexible paper presents discusses application ... <hl>data</hl>
+<hl>type</hl> correctness proof <hl>data</hl> <hl>type</hl>
+<hl>data</hl> structure specification software specification
+4.34 5.24 ca7765 jb december 29 1977 1:17 274
+
+CACM-3105
+----------------------------------------------------------------
+<hl>data</hl> <hl>types</hl> abstract <hl>data</hl>
+<hl>types</hl> <hl>type</hl> checking capabilities 4.2 4.35
+ca7852 dh february 26 1979 3:19 pm 1458 4 315 ... <hl>type</hl>
+checking approach extend stronglytyped language suitable
+extending languages support <hl>notion</hl> abstract
+<hl>data</hl> <hl>types</hl> cacm 1978 jones liskovb programming
+languages ... <hl>data</hl> access constraints apply simple
+objects objects components larger objects bank account records
+banks <hl>data</hl> base constraints stated declaratively
+enforced
+
+CACM-2957
+----------------------------------------------------------------
+<hl>relationship</hl> objects higherlevel object <hl>data</hl>
+<hl>type</hl> called aggregation developed criteria
+welldefinedness specifies aggregation abstractions relational
+databases defined collections aggregates structured
+<hl>types</hl> <hl>types</hl> support realworld abstractions
+troducing implementation detail incorporated programming
+languages cacm june 1977 smith smith <hl>data</hl> abstraction
+relational database
+
+CACM-0243
+----------------------------------------------------------------
+<hl>system</hl> <hl>check</hl> <hl>bit</hl> essentially parity
+<hl>check</hl> parity bits threedimensional codes discussed
+paper parity evaluations horizontal vertical main diagonal
+family codes
+
+CACM-3142
+----------------------------------------------------------------
+<hl>process</hl> assessed <hl>type</hl> errors occur easily
+corrected reaction consumers errorsto failure <hl>correct</hl>
+learned designers large management packages <hl>data</hl>
+results show
+
+CACM-1398
+----------------------------------------------------------------
+<hl>data</hl> screening solution multivariate <hl>type</hl>
+problems biological social sciences approach outlined solution
+<hl>type</hl> multivariate problem found biological social
+sciences medicine
+
+CACM-2941
+----------------------------------------------------------------
+<hl>types</hl> <hl>type</hl> coercions benefits <hl>type</hl>
+<hl>system</hl> breached occasionally difficulty making
+treatment variant records safe cacm august 1977 geschke morris
+jr
+
+CACM-1426
+----------------------------------------------------------------
+<hl>types</hl> policies examined admission based percentages
+discharge rates discharge rates minus constant fixed
+authorizations independent discharge rates <hl>type</hl> policy
+produced
+
+CACM-2937
+----------------------------------------------------------------
+<hl>data</hl> cacm august 1977 gannon <hl>data</hl>
+<hl>types</hl> experimentation language design redundancy
+reliable software 4.22 ca7786jb december 28 1977 7:32 2411
+
+CACM-2376
+----------------------------------------------------------------
+<hl>synchronization</hl> communicating <hl>processes</hl>
+formalization welldefined <hl>synchronization</hl> mechanism
+prove concurrently running <hl>processes</hl> <hl>system</hl>
+communicate correctly demonstrated <hl>system</hl> consisting
+sending <hl>processes</hl> deposit <hl>processes</hl> remove
+messages buffer formal description <hl>synchronization</hl>
+mechanism makes easy prove buffer overflow underflow senders
+receivers operate <hl>message</hl> frame buffer
+
+CACM-2243
+----------------------------------------------------------------
+<hl>type</hl> simpsons integration algorithm a437 cacm december
+1972 boland numerical integration product <hl>type</hl>
+quadrature simpsons rule 5.16 ca721212 jb january
+
+CACM-2244
+----------------------------------------------------------------
+<hl>type</hl> trapezoidal integration algorithm a436 cacm
+december 1972 boland numerical integration product <hl>type</hl>
+quadrature trapezoidal integration 5.16 ca721211 jb january
+
+CACM-2241
+----------------------------------------------------------------
+<hl>type</hl> threepoint gausslegendresimpsons integration
+algorithm a439 cacm december 1972 boland numerical integration
+product <hl>type</hl> quadrature gaussian quadrature simpsons
+rule 5.16
+
+CACM-2242
+----------------------------------------------------------------
+<hl>type</hl> twopoint gausslegendresimpsons integration
+algorithm a438 cacm december 1972 boland numerical integration
+product <hl>type</hl> quadrature gaussian quadrature simpsons
+rule 5.16
+
+CACM-2527
+----------------------------------------------------------------
+<hl>type</hl> checks subscripts detects <hl>types</hl>
+programmer errors cacm april 1973 hassitt lageschulte lyon
+computer architecture high level language machine emulators
+
+CACM-0982
+----------------------------------------------------------------
+<hl>notion</hl> plays central role proposed <hl>type</hl>
+translator experimental evidence presented support premise
+conception based cacm november 1964 faulk ca64111 jb
+
+CACM-3128
+----------------------------------------------------------------
+<hl>synchronization</hl> eventcounts sequencers
+<hl>synchronization</hl> concurrent <hl>processes</hl> requires
+controlling relative ordering events <hl>processes</hl>
+<hl>synchronization</hl> mechanism proposed abstract objects
+called eventcounts sequencers <hl>relationship</hl> mechanism
+protection mechanisms <hl>system</hl> explained eventcounts
+shown applicable situations confinement information matters
+implementation eventcount sequencers <hl>system</hl> shared
+memory cacm
+
+CACM-0867
+----------------------------------------------------------------
+<hl>types</hl> subareas xyspace model considers rectangular area
+constraint plane segments defined grid xyspace shown model
+incorporated algorithm successive approximations optimal
+
+CACM-1181
+----------------------------------------------------------------
+<hl>data</hl> transmission <hl>system</hl> office telephone
+method evolved transmitting <hl>data</hl> <hl>type</hl>
+originating laboratory situation direct central computer method
+requires specialized equipment
+
+CACM-1828
+----------------------------------------------------------------
+<hl>synchronization</hl> parallelaccessed <hl>data</hl> base
+problem considered <hl>data</hl> base manipulated simultaneously
+<hl>process</hl> rules <hl>synchronization</hl> maximize amount
+parallel activity allowed assumed <hl>data</hl> <hl>data</hl>
+base hierarchy directories online <hl>system</hl> methods
+<hl>synchronization</hl> <hl>processes</hl> examined validity
+discussed performance compared cacm november 1969 shoshani
+bernstein parallel
+
+CACM-1589
+----------------------------------------------------------------
+<hl>system</hl> requires minimum experience instruction growth
+overlaying <hl>system</hl> control language prevented
+processororiented statements variable <hl>type</hl> dimension
+declarations online situation processor ... <hl>system</hl>
+graphical orientation dialog algebraic language online graphical
+inputoutput console device computational aid casual user basic
+facilities graphical numeric input
+
+CACM-2632
+----------------------------------------------------------------
+<hl>system</hl> paper describes design philosophy hydrathe
+kernel operating <hl>system</hl> cmmp carnegiemellon
+multiminiprocessor philosophy realized introduction generalized
+<hl>notion</hl> resource physical virtual <hl>types</hl>
+specification operations applicable <hl>type</hl> sharing
+protection reference object improper application operations
+defined respect <hl>type</hl> object mechanisms provide coherent
+basis
+
+CACM-1719
+----------------------------------------------------------------
+<hl>message</hl> switching <hl>system</hl> cacm july 1968
+stimler brons realtime <hl>system</hl> analysis realtime
+<hl>system</hl> design realtime <hl>system</hl> performance
+criteria realtime <hl>system</hl> ... <hl>system</hl>
+performance continually increasing size complexity number
+<hl>types</hl> cost <hl>data</hl> processing systems causing
+reexamination government industry criteria methods calculating
+optimizing
+
+CACM-2912
+----------------------------------------------------------------
+<hl>processes</hl> solutions assume synchronizing mechanism
+<hl>data</hl> written <hl>process</hl> read <hl>processes</hl>
+cacm november 1977 lamport asynchronous multiprocessing
+multiprocess <hl>synchronization</hl> readerswriters problem ...
+<hl>data</hl> asynchronous <hl>process</hl> considered assumed
+<hl>process</hl> time modify <hl>data</hl> concurrent reading
+writing permitted general theorems proved algorithms presented
+illustrate include
+
+CACM-2084
+----------------------------------------------------------------
+<hl>system</hl> <hl>type</hl> 2 language bounded language 5.22
+5.24 ca7314 jb february 13 1978 3:37 pm 284 5 284 284 5
+
+CACM-2939
+----------------------------------------------------------------
+<hl>type</hl> checking performed compile time discussed cacm
+august 1977 liskov snyder atkinson schaffert programming
+languages <hl>data</hl> <hl>types</hl> <hl>data</hl>
+abstractions control
+
+CACM-0676
+----------------------------------------------------------------
+<hl>type</hl> incompletebeta functions cacm november 1963 tang
+ca631116 jb march 13 1978 3:27 pm 676 5 676 676 5 676
+
+CACM-2233
+----------------------------------------------------------------
+<hl>process</hl> <hl>data</hl> dependent strongly mr beales
+cyphers real merely matter time finds <hl>correct</hl> source
+document locates vault commonwealth virginia cacm ...
+<hl>message</hl> sequence numbers matches written final code
+primitive <hl>process</hl> advantage relative security source
+document known moment cypher decoded graders work <hl>types</hl>
+simulations turned entire <hl>process</hl> simulated encoding
+schemes machine analyzed signatures synthetic codes encoded
+messages hand texts variety methods obtain
+
+CACM-0251
+----------------------------------------------------------------
+<hl>data</hl> essential design preproduction cams utilized
+ballistic computers tank fire control systems cam profile
+generated introduces superelevation angle required tank
+
+CACM-0033
+----------------------------------------------------------------
+<hl>type</hl> 65 calculator cacm january 1958 kenny hunter
+ca5813 jb march 22 1978 9:25 pm 33 5 33 33 5
+
+CACM-2850
+----------------------------------------------------------------
+<hl>type</hl> statements <hl>system</hl> called effigy symbolic
+execution program testing debugging interpretively executes
+programs written simple pli style programming language includes
+
+CACM-2560
+----------------------------------------------------------------
+<hl>type</hl> storage <hl>system</hl> cacm january 1973 shedler
+multiprogrammed computer <hl>system</hl> storage <hl>system</hl>
+hierarchical index sets 4.32 ca7311 jb january 24
+
+CACM-2341
+----------------------------------------------------------------
+<hl>data</hl> <hl>type</hl> snobol4 <hl>data</hl> <hl>type</hl>
+called block implemented snobol4 block threedimensional
+aggregate characters form parallelepiped thought
+threedimensional extension string dimension
+
+CACM-0242
+----------------------------------------------------------------
+<hl>check</hl> digit verification note describes method
+utilizing geometric weight modulus 11 checking digits computer
+multiplication division addition <hl>attempt</hl> made show
+
+CACM-2794
+----------------------------------------------------------------
+<hl>relationship</hl> statespace problemreduction
+representations presents formalism based multipleinput
+multipleoutput operators basis viewing <hl>types</hl>
+representations manner representation language recognition
+problem based <hl>system</hl> employed resolutionbased theorem
+prover determines set clauses interpreted statespacer mode
+problemreduction mode presented analogous concepts
+problemreduction theorem proving terminology
+
+CACM-0605
+----------------------------------------------------------------
+<hl>data</hl> processing techniques tabulate make motion
+pictures vehicle movements model vehicle assigned digital
+identification giving points entry exit <hl>type</hl> vehicle
+
+CACM-1162
+----------------------------------------------------------------
+<hl>stream</hl> bits <hl>bit</hl> <hl>stream</hl> treated
+machine language program character <hl>stream</hl> user desire
+metalanguage map assembly language assembly language machine
+machine
+
+CACM-1432
+----------------------------------------------------------------
+<hl>system</hl> readily modified handle inputoutput nonstandard
+media basis handles standard media providing characterhandling
+subroutine suited nonstandard medium arranged called unused
+
+CACM-2470
+----------------------------------------------------------------
+<hl>data</hl> <hl>types</hl> simper operations rowing
+structuring uniting demonstrated completely primitive
+<hl>types</hl> introduced languages mechanism singleton
+<hl>data</hl> <hl>types</hl> deterministic nondeterministic
+functions ... <hl>system</hl> presented abstracts notions
+<hl>data</hl> item function relation argued <hl>system</hl>
+suitable set theory derivatives concise accurate description
+program semantics shown ... <hl>system</hl> local environment
+modeled <hl>data</hl> item imperative statements considered
+functions environment nature recursive functions briefly
+discussed technique presented introduced <hl>system</hl>
+<hl>system</hl> governing webs fen abstractions informally body
+paper cacm august 1973 maclennan semantics formal systems
+lambdacalculus extensible languages <hl>data</hl> <hl>types</hl>
+
+CACM-2321
+----------------------------------------------------------------
+<hl>synchronization</hl> error control signaling <hl>stream</hl>
+multiplexing switch control addition minimizing technological
+interdependence specific subsystem designs focus problems
+obtained discussion detailed ... <hl>data</hl> communications
+systems future systems combine computers digital terminals
+communications equipment present design optimization problems
+require reconsideration traditional functional responsibilities
+
+CACM-3021
+----------------------------------------------------------------
+<hl>message</hl> enciphered encryption key publicly revealed
+intended recipient decipher <hl>message</hl> knows decryption
+key <hl>message</hl> signed privately held decryption key verify
+<hl>message</hl> encrypted representing number raising publicly
+power taking remainder result divided publicly product large
+secret prime numbers decryption similaronly secret
+<hl>system</hl> rests part difficulty factoring published
+divisor cacm february 1978 rivest shamir adleman digital
+signatures publickey cryptosystems privacy authentication
+security
+
+CACM-1907
+----------------------------------------------------------------
+<hl>type</hl> recently literature finally comments made group
+related transmission procedures shown unreliable circumstances
+cacm 1969 bartlett scantlebury <hl>data</hl> transmission error
+
+CACM-2631
+----------------------------------------------------------------
+<hl>attempt</hl> made overcome problems information retrieval
+maintenance large dictionaries greater part infrequently method
+presented maps hyperbolic frequency distribution suited
+implementation <hl>types</hl> members subset index keys
+retrieval rectangular distribution key frequencies results
+simplified organization promises considerable cost advantages
+cacm june 1974
+
+CACM-2184
+----------------------------------------------------------------
+<hl>data</hl> names programming language names operating
+<hl>system</hl> functions discussed terms basic concepts order
+identify extent overlap suggested similarity idea directory
+<hl>type</hl> context manipulations contexts discussed length
+noted simple extension churchs lambda notation deals nicely
+ideas context manipulation function regarded abstraction
+
+CACM-2938
+----------------------------------------------------------------
+<hl>process</hl> <hl>synchronization</hl> processor sharing
+program validation modula 3.8 4.22 ca7785 jb december 28
+19777:39 2938 4 2938 2946 4 2938
+
+CACM-1152
+----------------------------------------------------------------
+<hl>type</hl> number representation multiple precision
+arithmetic cacm january 1964 gregory raney ca6412 jb march 1
+1978 5:41 1152 5 1152
+
+CACM-2167
+----------------------------------------------------------------
+<hl>system</hl> systems divided <hl>types</hl> <hl>type</hl>
+facilities manipulation simplification expressions finally
+discuss theoretical results related algebraic simplification
+describe positive results existence
+
+CACM-2051
+----------------------------------------------------------------
+<hl>data</hl> correspondence found pair words output list
+correspondence <hl>types</hl> frequency occurrence <hl>data</hl>
+separate listing correspondence wordpairs showing correspondence
+relative arbitrarily <hl>data</hl> cacm june 197 frantz
+comparative linguistics natural language processing comparative
+method historical linguistics diachronic linguistics genetic
+<hl>relationship</hl> sound change
+
+CACM-2369
+----------------------------------------------------------------
+<hl>types</hl> discusses <hl>relationship</hl> changed pair
+polygons rotation axis rotation table defined pair polygons
+remains fixed long rotation axis means rapidly
+
+CACM-2080
+----------------------------------------------------------------
+<hl>process</hl> communication <hl>message</hl> buffering
+<hl>process</hl> hierarchy <hl>process</hl> creation
+<hl>process</hl> removal 4.3 4.31 4.32 4.41 ca744 jb february 13
+1978 3:1 ... <hl>system</hl> paper describes philosophy
+structure multiprogramming <hl>system</hl> extended hierarchy
+operating systems suit diverse requirements program scheduling
+resource allocation <hl>system</hl> nucleus
+
+CACM-1827
+----------------------------------------------------------------
+<hl>system</hl> actions recorded supervisor call time occurrence
+event accurately recorded <hl>data</hl> items identified job
+<hl>type</hl> overhead <hl>data</hl> collection interference
+normal ... <hl>system</hl> software measurement facility part
+general purpose timesharing <hl>system</hl> date collection
+facility dcf implemented michigan terminal <hl>system</hl> mts
+system36 model <hl>system</hl> user program behavior performance
+structure mts outlined order explain implementation dcf events
+<hl>system</hl> identified recorded supervisor dumped magnetic
+tape
+
+CACM-3141
+----------------------------------------------------------------
+<hl>processes</hl> note presents improvement lelanns algorithm
+finding largest smallest set uniquely numbered
+<hl>processes</hl> arranged circle central controller exists
+number <hl>processes</hl>
+
+CACM-1143
+----------------------------------------------------------------
+<hl>data</hl> comparative study made variety numerical
+techniques fitting experimental <hl>data</hl> decay
+<hl>type</hl> forms involving sums exponentials statistical
+errors fitted parameters <hl>data</hl> results experiments
+radioactive tracers human animal subjects results show values
+fitted parameters sensitive variations fitting procedure great
+care sensitive
+
+CACM-2940
+----------------------------------------------------------------
+<hl>data</hl> <hl>types</hl> paper abstraction techniques
+extended simple <hl>data</hl> representation function definition
+iteration statement important poin interaction <hl>data</hl>
+control structure language
+
+CACM-3048
+----------------------------------------------------------------
+<hl>system</hl> model control <hl>stream</hl> replaces
+instruction <hl>data</hl> streams real <hl>system</hl>
+simulation <hl>system</hl> model yields timing resource usage
+statistics needed performance <hl>system</hl> case study
+implementation simulator model cpumemory subsystem ibm 3691
+results evaluating alternative <hl>system</hl> designs discussed
+experiments reveal case study ... <hl>stream</hl> concurrent
+computers 6.2 8.1 ca78113 dh january 26 1979 11:26 348 5 348 348
+5 348 348 348
+
+CACM-2835
+----------------------------------------------------------------
+<hl>type</hl> cacm september 1976 walter recursion compiler
+optimization 4.12 ca7694 jb january 4 1978 9:36 2835 5 2835 2835
+5
+
+CACM-1747
+----------------------------------------------------------------
+<hl>notion</hl> abstract machine programming language
+<hl>notion</hl> virtual computer explained examples applications
+criteria concern reading timeofday clock
+<hl>synchronization</hl> parallel <hl>processes</hl> protection
+... <hl>system</hl> adopt explicit criteria accepting rejecting
+proposed <hl>system</hl> features criteria kind input
+recordability input specifiability asynchronous reproducibility
+output criteria imply
+
+CACM-2289
+----------------------------------------------------------------
+<hl>type</hl> interconnection identical modules cells cell bits
+memory small amount combinational logic communicates mainly
+neighbors array chief computational advantage offered
+
+CACM-1740
+----------------------------------------------------------------
+<hl>system</hl> details construction brailler model 33 teletype
+modifying print head increasing resiliency platen description
+programming needed drive brailler presented cacm
+
+CACM-1591
+----------------------------------------------------------------
+<hl>system</hl> teaching <hl>system</hl> model incorporated
+operating <hl>system</hl> large computer model transferred
+control operating <hl>system</hl> execute functions teaching
+recovered control order <hl>system</hl> abacii written run
+operating <hl>system</hl> ibsys ibm 744 graphic <hl>system</hl>
+teaching <hl>system</hl> terminated rescheduled student studying
+course presented cathoderay ... <hl>system</hl> degree
+flexibility industrial executive training academic education
+discussed addition advantages <hl>type</hl> <hl>system</hl>
+computer programming operation considered cacm june 1967
+
+CACM-2931
+----------------------------------------------------------------
+<hl>process</hl> machine simulate <hl>process</hl> programs
+naturally enter giving descriptions <hl>processes</hl>
+definition precise meaning program requires explain objects
+computation statics problem
+
+CACM-1922
+----------------------------------------------------------------
+<hl>data</hl> link <hl>data</hl> link control procedures
+<hl>data</hl> link establishmenttermination procedures
+<hl>data</hl> link <hl>message</hl> transfer procedures
+<hl>data</hl> link error control procedures ... <hl>data</hl>
+communication control procedures usa standarad code information
+interchange cacm march 1969 <hl>data</hl> communication
+<hl>data</hl> communication control procedures <hl>data</hl>
+communication <hl>data</hl> communication <hl>message</hl>
+transfer procedures <hl>data</hl> communication error control
+procedures <hl>data</hl> communication pollingselection
+procedures communication communication control procedures
+communication establishmenttermination
+
+CACM-1543
+----------------------------------------------------------------
+<hl>system</hl> operation involves formulation terms secondorder
+differential coefficients good demonstration computers
+capability nonnumeric work assist formulation <hl>process</hl>
+precedes numerical <hl>data</hl> ... <hl>data</hl> processing
+stage reducing need human participation formulation
+<hl>types</hl> computer problems tensor calculus computer
+language designed facilitate symbolic mathematical computation
+
+CACM-1410
+----------------------------------------------------------------
+<hl>system</hl> performance requires description stochastic
+<hl>processes</hl> governing user inputs program activity paper
+statistical description user input <hl>process</hl> sdcarpa
+generalpurpose timesharing <hl>process</hl> assumed stationary
+defined interarrival time distribution <hl>data</hl> obtained
+justify satisfactorily common assumption interarrival times
+serially independent <hl>data</hl> justify rough
+
+CACM-2254
+----------------------------------------------------------------
+<hl>process</hl> partitioning array subarrays extended array
+language operation modes partitioning defined <hl>types</hl>
+arrays subarrays vary original array nearly arbitrary manner
+<hl>data</hl> structure partitioning consists dynamic tree
+structures derive maintain array control information sufficient
+detail design array languages description presented paper
+
+CACM-1033
+----------------------------------------------------------------
+<hl>system</hl> <hl>system</hl> designed intimate manmachine
+interaction generalpurpose problemsolving environment
+experimentally operational <hl>system</hl> utilizers
+arrayoriented symbolic source language powerful statement
+<hl>types</hl> <hl>system</hl> permits simple specification test
+argument arrays single statements completely symbolic operating
+<hl>system</hl> includes display entry program <hl>data</hl>
+sequence control
+
+CACM-1736
+----------------------------------------------------------------
+<hl>data</hl> transmission usaai tutorial standards cacm june
+1968 <hl>data</hl> transmission heading format heading format
+<hl>message</hl> format <hl>data</hl> transmission
+<hl>message</hl> headings
+
+CACM-3071
+----------------------------------------------------------------
+<hl>types</hl> gravitational field algorithm specialized
+dinverno russellclark requires special coordinate
+<hl>system</hl> spin coefficient formalism algorithm implemented
+formac designed complete classification
+
+CACM-1587
+----------------------------------------------------------------
+<hl>process</hl> method core storage allocation iterative
+<hl>process</hl> estimates machine time required method
+applicable iterative <hl>processes</hl> input <hl>data</hl>
+items chosen needed
+
+CACM-1505
+----------------------------------------------------------------
+<hl>system</hl> organization resource allocation paper
+introduces <hl>system</hl> resource management concepts
+<hl>process</hl> facility event processor <hl>attempt</hl> made
+give suggestions policy resource
+
+CACM-1482
+----------------------------------------------------------------
+<hl>system</hl> picture processingnot debugging bugsys picture
+processing measuring <hl>system</hl> depends pictorial input
+computers memory bugsys <hl>types</hl> applications authors
+<hl>system</hl> analysis
+
+CACM-1261
+----------------------------------------------------------------
+<hl>describing</hl> inputoutput <hl>relationship</hl> model
+element comprising network mode simplicity utilizing fortran iv
+programming <hl>system</hl> digital network simulator discussed
+illustrated simplicity
+
+CACM-2859
+----------------------------------------------------------------
+<hl>system</hl> limiting derived relative degree memory
+interference <hl>system</hl> size increases model limiting
+behavior <hl>system</hl> yields approximate results simple model
+suggests
+
+CACM-2867
+----------------------------------------------------------------
+<hl>system</hl> level cacm 1976 habermanna flon cooprider
+incremental machine design module <hl>data</hl> <hl>type</hl>
+address space virtual memory 4 4.3 4.35
+
+CACM-3002
+----------------------------------------------------------------
+<hl>system</hl> reduction storage <hl>data</hl> transfer costs
+paper presents model requests access <hl>system</hl> request
+requires information variable length dataitems probabilities
+access ... <hl>types</hl> systems derived selection parameters
+model optimization library routines storage large scale
+operating <hl>system</hl> cacm january 1977 babad
+<hl>system</hl> design
+
+CACM-1847
+----------------------------------------------------------------
+<hl>process</hl> take top element pushdown list examine inspect
+edges vz graph examined tree fundamental cycle added edge vz
+tree exactly
+
+CACM-1748
+----------------------------------------------------------------
+<hl>process</hl> state vector discussed nature basic operations
+<hl>processes</hl> considered connections <hl>processes</hl>
+protection analyzed general approach priorityoriented scheduling
+<hl>relationship</hl> conventional interrupt
+
+CACM-2094
+----------------------------------------------------------------
+<hl>type</hl> general nonlinear algorithm due osborne watson
+considered examples illustrate algorithm give satisfactory
+results successfully solve problems lead difficulties
+conventional
+
+CACM-3116
+----------------------------------------------------------------
+<hl>attempt</hl> detect unwanted interferences twodimensional
+static drafting medium show interferences threedimensional
+moving parts paper presents computer representation solids
+surfaces algorithms
+
+CACM-2887
+----------------------------------------------------------------
+<hl>types</hl> errors identified pilot study 132 error
+<hl>types</hl> found 1777 errors classified 14 runs 73 cobol
+students error density high ... <hl>data</hl> cobol error
+frequency correction errors studentoriented compilers
+improvement teaching programming language cobol studied economic
+importance widespread usage errorincluding design
+
+CACM-1874
+----------------------------------------------------------------
+<hl>type</hl> twos complement arithmetic ibm 36 series sequences
+residues considered relationships established shown sequence
+positive negative residues produced simply economically
+
+CACM-2948
+----------------------------------------------------------------
+<hl>system</hl> paper describes <hl>system</hl> fullduplex
+communication timeshared computer terminals <hl>system</hl>
+consists communications computer directly connected timeshared
+<hl>system</hl> number small remote <hl>types</hl>
+<hl>system</hl> design presented algorithms solve specific
+problems local echoing error detection correction telephone
+lines multiplexing character output cacm july
+
+CACM-1112
+----------------------------------------------------------------
+<hl>correct</hl> identifications made 95 percent error
+<hl>types</hl> cacm march 1964 damerau ca6432 jb march 1 1978
+2:21 1112 4 1112
+
+CACM-3006
+----------------------------------------------------------------
+<hl>types</hl> anomalous behavior occur paged virtual memory
+operating systems redefined <hl>type</hl> anomaly concerns fact
+reference strings paging algorithms increase mean
+
+CACM-2667
+----------------------------------------------------------------
+<hl>system</hl> <hl>data</hl> presented show execution
+characteristics <hl>types</hl> commonly programs largescale
+timeshared computer <hl>system</hl> software monitoring facility
+built supervisor <hl>data</hl> collection <hl>system</hl>
+operation <hl>data</hl> analyzed results analysis presented
+fortran compiler interactive line editor probability
+distribution functions <hl>data</hl> things cpu intervals io
+
+CACM-1960
+----------------------------------------------------------------
+<hl>system</hl> include ability user schedule parallel
+<hl>processes</hl> <hl>system</hl> primitive operations
+filememory <hl>relationship</hl> allocationscheduling policy
+dynamically takes account recent information user ...
+<hl>process</hl> management resource sharing multiaccess
+<hl>system</hl> esope main design principles multiaccess
+<hl>system</hl> esope emphasis basic ideas underlying design
+implementation details
+
+CACM-2002
+----------------------------------------------------------------
+<hl>data</hl> plotting software <hl>system</hl> amesplot
+extensible software <hl>system</hl> designed make display
+<hl>data</hl> simple painless neat <hl>system</hl>
+hardwareindependent implemented variety installations
+<hl>types</hl> <hl>data</hl> plots outlined elements combined
+<hl>system</hl> based simple modules demonstrated modules
+independently independent axis systems attributes plot enables
+plots ... <hl>data</hl> markers alphabetic characters
+transformations produce variety artistic effects cacm september
+197 hirschsoln computer graphics <hl>data</hl> potting
+<hl>data</hl> display syntax ... <hl>system</hl> formulate user
+supply minimum information fully integrable users program
+written conventional higher languages functions positioning
+locating scaling layout multiple
+
+CACM-1868
+----------------------------------------------------------------
+<hl>correct</hl> <hl>data</hl> <hl>correct</hl> input
+<hl>data</hl> correction keypunch key verifier verifier 2.4 2.42
+2.43 3.1 3.2 3.5 4.41 ca69712 jb february
+
+CACM-2815
+----------------------------------------------------------------
+<hl>data</hl> <hl>types</hl> separately compiled modules scheme
+designed work existing link editor linking loader matter
+deficient obscure runtime errors caused inconsistent
+
+CACM-2083
+----------------------------------------------------------------
+<hl>data</hl> bases fortran programming environment method
+definition users common structure automatic generation common
+dimension equivalence <hl>type</hl> declarations users routines
+definition <hl>data</hl> routines <hl>system</hl> implemented
+ibm 794 cdc 6 series ibm 36 method proved invaluable definition
+control common largescale programs cacm
+
+CACM-3106
+----------------------------------------------------------------
+<hl>types</hl> enables processing operations optimized
+<hl>type</hl> cacm 1978 clark list copying lisp space complexity
+constant workspace 4.34 4.49 5.25 ca7851
+
+CACM-3039
+----------------------------------------------------------------
+<hl>processes</hl> mutual interference despite frequent
+manipulations large shared <hl>data</hl> space technique
+developed nearly activity needed garbage detection collection
+performed additional <hl>synchronization</hl> constraints weak
+achieved severe complexities engendered illustrated cacm
+november 1978 dijkstra lamport martin scholten steffens
+multiprocessing finegrained interleaving cooperation
+
+CACM-3078
+----------------------------------------------------------------
+<hl>processes</hl> considerably reduced application symbol
+manipulation programs physical systems modeled markov semimarkov
+<hl>processes</hl> potential range application techniques wider
+problem availability <hl>process</hl> reliability redundant
+structures online computer <hl>system</hl> 3.82 5.5 5.7 8.1 8.3
+ca7871 dh february 7 1979 3:37 pm 378
+
+CACM-1571
+----------------------------------------------------------------
+<hl>system</hl> existing <hl>system</hl> planned additions
+<hl>data</hl> processing laboratory brain research institute
+ucla <hl>system</hl> represents <hl>attempt</hl> provide
+research workers institute ability
+

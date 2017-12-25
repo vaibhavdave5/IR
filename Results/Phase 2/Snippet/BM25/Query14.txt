@@ -1,0 +1,767 @@
+CACM-3164
+----------------------------------------------------------------
+<hl>database</hl> implementation constraints permissible
+sequences actions pad <hl>algorithms</hl> presented simple path
+matrix representation list artificial gradient experiments
+suggest large considerably <hl>sort</hl> acyclic digraph
+<hl>database</hl> integrity network deadlock 4.34 5.32 4.33
+ca7995 db january 14 198 11:56 3164 4 3164 1712
+
+CACM-3131
+----------------------------------------------------------------
+<hl>applications</hl> <hl>algorithms</hl> 8bit 16bit
+<hl>implementations</hl> focus included cacm march 1979 edgar
+lee number representation logarithmic arithmetic computational
+speed computational accuracy ... <hl>algorithms</hl> especially
+microcomputer control signal processing <hl>applications</hl>
+focus wideranging character floatingpoint numbers uniformity
+state distributions give focus twofold accuracy advantage
+
+CACM-2819
+----------------------------------------------------------------
+<hl>algorithms</hl> encoding string differ slightly earlier
+proposals analysis program attempts <hl>find</hl>
+<hl>optimal</hl> set codes representing substrings
+<hl>algorithms</hl> operation compared parameters
+
+CACM-2890
+----------------------------------------------------------------
+<hl>algorithms</hl> analytic models storeandforward
+communications network constructed <hl>find</hl>
+<hl>optimal</hl> message routing illustrate equilibrium
+stationary state maintained adaptive routing algorithm models
+<hl>optimal</hl> routing adaptive routing tends overuse direct
+path underuse alternate routes consider impact routing decision
+future state network form optimality
+
+CACM-2674
+----------------------------------------------------------------
+<hl>algorithms</hl> developed support display presented suitable
+noninteractive <hl>applications</hl> interactive
+<hl>applications</hl> <hl>algorithms</hl> implemented fortran
+cdc 64 computer results obtained <hl>implementations</hl> show
+... <hl>algorithms</hl> cell organized raster display raster
+scan computer graphics real time character generators previously
+limited alphanumeric characters display extends capabilities
+
+CACM-3058
+----------------------------------------------------------------
+<hl>applications</hl> discussed performance evaluated cacm
+october 1978 shneiderman jump searching sequential
+<hl>management</hl> search strategies <hl>database</hl>
+structures index searching 3.74 4.34
+
+CACM-2289
+----------------------------------------------------------------
+<hl>algorithms</hl> exploit possibilities parallelism especially
+problems solutions inherently serial parallelized
+<hl>algorithms</hl> presented solution spanning tree distance
+path problems direct <hl>applications</hl> <hl>algorithms</hl>
+exhibit computation time cases grows rate exceeding log2 number
+nodes graph straightforward cellular <hl>implementations</hl>
+wellknown serial <hl>algorithms</hl> problems require
+
+CACM-3087
+----------------------------------------------------------------
+<hl>database</hl> typing requests english casual users able
+obtain explicit answers large relational <hl>database</hl>
+aircraft flight maintenance data system called planes
+<hl>database</hl> optimize order searching relations methods
+discussed handling vague complex questions providing browsing
+ability included <hl>discussions</hl> important issues
+programming natural
+
+CACM-2964
+----------------------------------------------------------------
+<hl>optimal</hl> design storage parameters databases cacm 1977
+milman <hl>database</hl> organization storage parameter
+optimization resident overflow storage 3.73 3.74 ca7758 jb
+
+CACM-2716
+----------------------------------------------------------------
+<hl>sort</hl> orders temporary relations employing directory
+analysis maintaining locality page references
+<hl>algorithms</hl> implementing operators codds relational
+algebra presented methodology composing <hl>database</hl>
+<hl>database</hl> optimization inverted automatic programming
+query language data manipulation language high level language
+3.7 4.13 4.33 ca7513 jb january
+
+CACM-2484
+----------------------------------------------------------------
+<hl>algorithms</hl> results information structures list tree
+ring problem information organization storage reduced defining
+relations formulating <hl>algorithms</hl> set constraints
+results presented
+
+CACM-2900
+----------------------------------------------------------------
+<hl>optimal</hl> set network sites locate copies fileis known
+general polynomial complete heuristics aids finding
+<hl>optimal</hl> nearoptimal solutions needed paper present
+
+CACM-3085
+----------------------------------------------------------------
+<hl>optimal</hl> order presented algorithm <hl>find</hl> order
+computation takes 25 percent longer <hl>optimal</hl> time topt
+presented cases algorithm yields <hl>optimal</hl> order
+
+CACM-3033
+----------------------------------------------------------------
+<hl>find</hl> <hl>optimal</hl> quasi <hl>optimal</hl> solutions
+heuristic search method introduced paper combines positive
+aspects techniques compressed tables large number variables
+handled ... <hl>optimal</hl> decision table conversion tackled
+literature approaches dynamic programming branchandbound
+technique effective time space requirements independent easy
+table produce good <hl>optimal</hl> solutions branchandbound
+technique good heuristic direct search cluttered enormous search
+space number solutions increases number test variables according
+double
+
+CACM-2181
+----------------------------------------------------------------
+<hl>management</hl> supported national science foundation grant
+established appraise state art develop series recommendations
+improving computer education <hl>management</hl> provide
+committee material <hl>discussions</hl> condensation pedagogic
+substantive concerns raised consideration resource allocation
+issues involved preliminary committees recommendations improving
+computer education <hl>management</hl> report prepared
+
+CACM-3132
+----------------------------------------------------------------
+<hl>algorithms</hl> <hl>find</hl> central solutions pattern
+classification twoclass pattern recognition standard technique
+algorithm finding hyperplanes separates classes linearly
+separable training set ... <hl>algorithms</hl> finding central
+hyperplanes tested data sets frequently practice modified
+relaxation algorithm poor <hl>algorithms</hl> defined paper
+found good cacm march
+
+CACM-3057
+----------------------------------------------------------------
+<hl>optimal</hl> togram matching monotone gray level
+transformation paper investigates problem <hl>optimal</hl>
+togram matching monotone gray level transformation assigns
+picture points <hl>find</hl> transformed digital picture picture
+sum absolute errors gray level togram transformed picture
+reference picture minimized equivalent placing k1 linearly
+<hl>optimal</hl> togram matching presented time complexity ok1
+k2 monotone property dropped problem npcomplete restricted k2 2
+cacm october 1978 chang
+
+CACM-2816
+----------------------------------------------------------------
+<hl>optimal</hl> reorganization distributed space disk
+<hl>database</hl> organizations cost accessing <hl>database</hl>
+increase due structural caused updates insertions reorganizing
+databasethe access costs
+
+CACM-2931
+----------------------------------------------------------------
+<hl>applications</hl> logic big question methods logic
+significance direction applied parts computability theory
+programming languages offer obvious opportunity syntactic
+formalization advanced <hl>find</hl> abstractions represent
+structures experience independent workers method data types
+lattices partial orderings information content ordering
+continuous mappings demonstrated flexibility
+
+CACM-2997
+----------------------------------------------------------------
+<hl>algorithms</hl> <hl>optimal</hl> multiplicative constant
+cacm february 1977 preparata hong computational complexity
+convex hull <hl>optimal</hl> <hl>algorithms</hl> planar set poin
+ts spatial
+
+CACM-1724
+----------------------------------------------------------------
+<hl>sort</hl> design partial pass block <hl>sort</hl> arbitrary
+range key number work design generalization partial pass column
+<hl>sort</hl> ashenhurst amphisbaenic <hl>sort</hl> ...
+<hl>sort</hl> partial pass <hl>sort</hl> direct access devices
+column <hl>sort</hl> chaining reverse chaining <hl>sort</hl>
+amphisbaenic 5.31 ca6875 jb february 22 1978
+
+CACM-2812
+----------------------------------------------------------------
+<hl>management</hl> system navy material command support
+activity nmcsa computeraided analysis consists set procedures
+computer programs specifically designed aid process
+<hl>applications</hl>
+
+CACM-3075
+----------------------------------------------------------------
+<hl>algorithms</hl> bucket <hl>sort</hl> 3.74 4.34 5.25 5.31
+ca7883 dh february 7 1979 1:25 2714 4 375 375 4 375 375 ...
+<hl>algorithms</hl> parallel bucketsort algorithm presented
+requires time olog processors algorithm makes technique requires
+space product processors time realistic model model
+
+CACM-3011
+----------------------------------------------------------------
+<hl>applications</hl> despite unsophisticated nature systems
+<hl>management</hl> computing surprisingly common varied extent
+local governments <hl>management</hl> computing prevalent
+governments professional <hl>management</hl> practices ...
+<hl>management</hl> utilization computers american local
+governments traditional concepts <hl>management</hl> information
+systems mis bear relation information systems top
+<hl>management</hl> local governments ... <hl>management</hl>
+supportive computing tends control computing decisions
+department users control design implementation activities
+finally <hl>management</hl> computing clearly impacts top
+managers
+
+CACM-2324
+----------------------------------------------------------------
+<hl>algorithms</hl> 5.41 8.3 ca7274 jb january 3 1978 3:14 pm
+2324 5 2324 2324 5 2324 2324 2324 ... <hl>management</hl>
+science view nonlinear programming history integer continuous
+nonlinear programming presented obstacles practical mathematical
+programming techniques forecast contributions nonlinear
+programming
+
+CACM-3156
+----------------------------------------------------------------
+<hl>find</hl> connected components undirected graph vertices
+time time bound achieved n$n$log2n processors algorithm
+<hl>find</hl> transitive closure symmetric boolean matrix assume
+
+CACM-2263
+----------------------------------------------------------------
+<hl>optimal</hl> nearoptimal flowcharts <hl>algorithms</hl>
+<hl>algorithms</hl> deriving <hl>optimal</hl> nearoptimal
+flowcharts limited entry decision tables presented take account
+rule frequencies time needed ... <hl>algorithms</hl> derived
+treating decision tables elserule optimumapproaching algorithm
+shown equally valid tables including rule <hl>algorithms</hl>
+compared existing applied large decision ... <hl>algorithms</hl>
+called optimumfinding algorithm leads flowchart truly minimizes
+execution time decision table simple rules contracted complex
+rules called optimumapproaching algorithm
+
+CACM-1873
+----------------------------------------------------------------
+<hl>algorithms</hl> shown method computing related products
+accelerate pricing phase lp <hl>algorithms</hl> lp
+<hl>applications</hl> cacm july 1969 fox linear programming
+revised
+
+CACM-3112
+----------------------------------------------------------------
+<hl>applications</hl> cacm april 1978 baker realtime
+compactinggarbage collection list processing virtual memory
+<hl>database</hl> <hl>management</hl> storage
+<hl>management</hl> storage allocation lisp cdrcoding
+
+CACM-2308
+----------------------------------------------------------------
+<hl>applications</hl> data acquisition data <hl>management</hl>
+engineering analysis information systems 3.23 3.39 3.53 3.72
+3.82 3.89 ca7272 jb january 3 1978
+
+CACM-3017
+----------------------------------------------------------------
+<hl>database</hl> <hl>applications</hl> potential problems dealt
+structure arise traditional static directory structures problem
+performance penalty cacm february 1978 held stonebraker btree
+
+CACM-2959
+----------------------------------------------------------------
+<hl>applications</hl> computer user sba views application
+manipulation information twodimensional pictures tables business
+forms reports display terminal gradually automate application
+giving <hl>database</hl> language subset sba programming
+language cacm june 1977 zloof de jong programming language
+graphics user terface data flow forms
+
+CACM-2876
+----------------------------------------------------------------
+<hl>database</hl> systems traditionally privacy protection
+<hl>database</hl> systems understood control information user
+<hl>database</hl> paper concerned independent dimension privacy
+protection control user <hl>database</hl> ability condition
+supply information intended called intentional resolution
+privacy protection practical importance intentional resolution
+demonstrated examples realization discussed shown
+
+CACM-2976
+----------------------------------------------------------------
+<hl>database</hl> organizations cacm april 1977 yao
+<hl>database</hl> inverted organization <hl>database</hl>
+performance measurement information retrieval query answering
+3.7 3.72 4.33 ca7746
+
+CACM-2627
+----------------------------------------------------------------
+<hl>algorithms</hl> <hl>optimal</hl> scheduling
+<hl>algorithms</hl> deterministic scheduling models 4.32 5.39
+ca7474 jb january 17 1978 12:56 pm 2627 5 2627 2627
+
+CACM-3151
+----------------------------------------------------------------
+<hl>algorithms</hl> online <hl>algorithms</hl> 4.49 5.25 5.32
+ca7972 dh august 22 1979 2:7 pm 3151 4 3151 2997 5 3151 3151
+
+CACM-2146
+----------------------------------------------------------------
+<hl>algorithms</hl> straightforward logic presented simple
+dispersion <hl>algorithms</hl> discussed horizontal
+approximately onefourth onehalf percent reading writing
+<hl>algorithms</hl> today additional onefourth percent ...
+<hl>sort</hl> dispersion <hl>algorithms</hl> polyphase sorting
+procedure examinedhe optimum algorithm based minimizing total
+number unit strings read displayed logic algorithm complicated
+
+CACM-2337
+----------------------------------------------------------------
+<hl>algorithms</hl> algorithm finding minimum maximum elements
+set fewest comparisons proved <hl>optimal</hl> technique cacm
+june 1972 pohl sorting computational complexity computational
+
+CACM-1752
+----------------------------------------------------------------
+<hl>algorithms</hl> implemented results comparative simulation
+tracing development <hl>algorithms</hl> predecessor versions
+discussion emphasis balancing system performance relative
+characteristics system resources simulation <hl>management</hl>
+task scheduling paging system simulation memory
+<hl>management</hl> virtual memories 4.3 4.31 4.32 ca6854 jb
+february 23 1978 9:39 1751
+
+CACM-2834
+----------------------------------------------------------------
+<hl>applications</hl> <hl>algorithms</hl> presented generate
+nbit binary reflected gray code codewords fixed weight code
+<hl>algorithms</hl> efficient time required generate element
+constant
+
+CACM-2679
+----------------------------------------------------------------
+<hl>algorithms</hl> quicksort 64 shellsort 21 stringsort 27
+treesort3 245 quickersort 271 qsort 42 <hl>algorithms</hl> 271
+42 refinements algorithm 64 discussed <hl>algorithms</hl>
+quickersort requires fewest comparisons <hl>sort</hl> random
+arrays cacm march 1974 loeser sorting inplace sorting sorting
+efficiency sorting performance tests
+
+CACM-3067
+----------------------------------------------------------------
+<hl>database</hl> referencing memory <hl>management</hl>
+<hl>optimal</hl> memory policies paging program behavior program
+measurement segmentation working sets 4.3 8.1 ca7895 dh february
+
+CACM-2882
+----------------------------------------------------------------
+<hl>database</hl> architecture <hl>database</hl> performance
+evaluation invented list threaded list cellular list information
+retrieval <hl>database</hl> organizations query complexity
+stochastic model monte ... <hl>database</hl> organizations
+including inverted list threaded list cellular list
+organizations hybrid combinations systems effectiveness
+methodology demonstrated model study effect <hl>database</hl>
+
+CACM-2973
+----------------------------------------------------------------
+<hl>algorithms</hl> presented sorting n2 elements meshconnected
+processor array require routing comparison steps previous
+algorithm takes time log <hl>algorithms</hl> paper shown
+
+CACM-1886
+----------------------------------------------------------------
+<hl>optimal</hl> results necessarily generated factorization
+<hl>algorithms</hl> applicable problem factoring boolean
+switching expressions factoring polynomials encountered symbol
+manipulating systems cacm june ... <hl>optimal</hl> code
+expressions factorization set expressions compiled methods
+presented increasing efficiency object code produced factoring
+expressions finding set subexpressions occurs
+
+CACM-1905
+----------------------------------------------------------------
+<hl>implementations</hl> dantzigs simplex method linear
+programming based forming inverse basic matrix updating inverse
+step method <hl>implementations</hl> bad roundoff error
+properties
+
+CACM-2902
+----------------------------------------------------------------
+<hl>algorithms</hl> simple <hl>algorithms</hl> operating memory
+ordered lists free list performed surprisingly
+<hl>algorithms</hl> employing poweroftwo block sizes favorable
+processing requirements generally ... <hl>management</hl>
+dynamic storage allocation garbage collection list processing
+memory allocation memory <hl>management</hl> programming
+techniques simulation simulation memory <hl>management</hl>
+simulation techniques ... <hl>algorithms</hl> service simulation
+programs represented 18 test cases algorithm performance
+measured terms processing time memory usage external memory
+fragmentation <hl>algorithms</hl>
+
+CACM-3163
+----------------------------------------------------------------
+<hl>algorithms</hl> hirschberg kosaraju require time olog 2n
+olog complexity <hl>optimal</hl> earlier results shown deletion
+structure performed olog time result paper <hl>algorithms</hl>
+oshb trees complicated <hl>algorithms</hl> avl trees cacm
+september 1979 raihak zweben insertion onesided heightbalanced
+trees heightbalanced trees binary trees
+
+CACM-2272
+----------------------------------------------------------------
+<hl>algorithms</hl> proposed members make fuller memory space
+yield longer sorted strings extensive simulation results
+presented implications <hl>applications</hl> discussed cacm
+october
+
+CACM-1412
+----------------------------------------------------------------
+<hl>applications</hl> automated sophisticated usage data
+processing equipment sought coupled availability equipment
+suited realtime direct access processinghas led development
+banks central <hl>management</hl> kinds processing draw common
+store data contained direct access central data base includes
+indexes facilitate cross referencing account information
+
+CACM-2142
+----------------------------------------------------------------
+<hl>find</hl> representative picture <hl>algorithms</hl> monte
+carlo methods designed solve problem <hl>algorithms</hl>
+applicable large varied number fields important reconstruction
+possibly asymmetric
+
+CACM-2522
+----------------------------------------------------------------
+<hl>algorithms</hl> employed allocate system resources processes
+competing recent research timesharing paging systems developed
+working set model program behavior source allocation
+
+CACM-2750
+----------------------------------------------------------------
+<hl>optimal</hl> solution allocation problem clear number
+parameters involved makes intractable straightforward solution
+situation <hl>find</hl> set assumptions simplify problem greatly
+provide
+
+CACM-2944
+----------------------------------------------------------------
+<hl>find</hl> actions cancel code executed grouped achieve
+improved efficiency cacm july 1977 barth garbage collection
+global flow analysis list processing
+
+CACM-2957
+----------------------------------------------------------------
+<hl>database</hl> design topdown methodology <hl>database</hl>
+design separates decisions concerning aggregate structure
+decisions concerning key identification suggested aggregate
+types types support <hl>database</hl> data type aggregation
+<hl>database</hl> design data structure knowledge representation
+data definition language 3.65 3.69 3.79 4.29 4.33 4.34 ca7766
+
+CACM-2348
+----------------------------------------------------------------
+<hl>sort</hl> algorithm algorithm a426 cacm 1972 bron
+<hl>sort</hl> merge 5.31 ca72512 jb january 31 1978 9:33 1919 4
+2348 1969
+
+CACM-2817
+----------------------------------------------------------------
+<hl>database</hl> system <hl>database</hl> systems users access
+shared data assumption data satisfies consistency constraints
+paper defines concepts transaction consistency schedule shows
+
+CACM-2963
+----------------------------------------------------------------
+<hl>applications</hl> positions sequence match positions
+sequence running time log expected cacm 1977 hunt szymanski
+longest common subsequence efficient <hl>algorithms</hl> 3.73
+
+CACM-2967
+----------------------------------------------------------------
+<hl>database</hl> <hl>management</hl> 3.71 3.72 3.73 3.74 4.34
+4.6 6.22 8.2 ca7755 jb december 29 1977 2:7 2719 4 2967 2967
+
+CACM-3037
+----------------------------------------------------------------
+<hl>find</hl> prime factorization integers 2 time proportional
+cacm december 1978 gries misra primes <hl>algorithms</hl> data
+structures 5.25 5.24 5.29 ca78122
+
+CACM-0677
+----------------------------------------------------------------
+<hl>sort</hl> detailed statistics length maximal sorted strings
+result form internal <hl>sort</hl> phase merge <hl>sort</hl>
+tapes shown strings produced alternating method
+
+CACM-2481
+----------------------------------------------------------------
+<hl>optimal</hl> distribution program buffer primary memory
+studied programs lifetime function expressions distribution
+program maximizes fraction costtime integral primary fast buffer
+
+CACM-1483
+----------------------------------------------------------------
+<hl>implementations</hl> fortran iv representing manufacturers
+table constructed showing feature implementation items added
+fortran ii shown cacm february 1966 wright ca6624
+
+CACM-3103
+----------------------------------------------------------------
+<hl>implementations</hl> abstract types library
+<hl>implementations</hl> discussed process discussed detail
+program general issues data structure selection reviewed cacm
+1978 low abstract
+
+CACM-0867
+----------------------------------------------------------------
+<hl>optimal</hl> fits type closed area finally
+<hl>applications</hl> briefly cacm april 1963 gluss ca63424 jb
+march 14 1978 11:43 497 4
+
+CACM-2863
+----------------------------------------------------------------
+<hl>optimal</hl> variablespace page replacement algorithm
+criterion comparing variable space page replacement
+<hl>algorithms</hl> presented optimum page replacement algorithm
+called vmin shown <hl>algorithms</hl> virtual memory programs
+presented demonstrate improvement known realizable variable
+space <hl>algorithms</hl> cacm 1976 prieve fabry demand paging
+performance measurement
+
+CACM-1566
+----------------------------------------------------------------
+<hl>optimal</hl> starting values problem obtaining
+<hl>optimal</hl> starting values problem obtaining
+<hl>optimal</hl> starting values stated basic results proved
+table <hl>optimal</hl> polynomial
+
+CACM-1433
+----------------------------------------------------------------
+<hl>algorithms</hl> paper meant support effort attempted
+<hl>find</hl> characteristics pivot column found number
+repetitions transfer data tape core memory considered
+simplification
+
+CACM-1961
+----------------------------------------------------------------
+<hl>find</hl> elementary circuits graph theoretically efficient
+search algorithm presented exhaustive search <hl>find</hl>
+elementary circuits graph algorithm easily modified
+<hl>find</hl> elementary
+
+CACM-2397
+----------------------------------------------------------------
+<hl>sort</hl> corrigendum cacm january 1972 shell ca7216 jb
+february 1 1978 9:21 2397 5 2397 2397 5 2397 2397 2397
+
+CACM-2450
+----------------------------------------------------------------
+<hl>algorithms</hl> words working set commonly encountered
+literature dealing resource allocation dearth published data
+program measurements hope workers field <hl>find</hl>
+experimental
+
+CACM-1999
+----------------------------------------------------------------
+<hl>optimal</hl> polynomial initial approximations tabulated
+cacm september 197 wilson square root newtonraphson iteration
+<hl>optimal</hl> approximants 5.13 ca796 jb february 1
+
+CACM-0132
+----------------------------------------------------------------
+<hl>sort</hl> algorithm 23 cacm november 196 feurzeig ca6113 jb
+march 2 1978 8:3 pm 132 5 132 132 5 132
+
+CACM-0662
+----------------------------------------------------------------
+<hl>sort</hl> algorithm 175 cacm december 1963 juelich ca631212
+jb march 13 1978 2:52 pm 662 5 662 662 5 662
+
+CACM-0701
+----------------------------------------------------------------
+<hl>sort</hl> algorithm 175 cacm october 1963 schubert ca63124
+jb march 13 1978 5:29 pm 71 5 71 71 5 71
+
+CACM-0841
+----------------------------------------------------------------
+<hl>sort</hl> algorithm 175 cacm june 1963 shaw trimble ca6368
+jb march 14 1978 1:2 841 5 841 841 5 841
+
+CACM-3032
+----------------------------------------------------------------
+<hl>algorithms</hl> accomplishing delivery storeandforward
+packet switching computer network include transmission
+separately addressed packets multidestination addressing hot
+potato forwarding spanning tree <hl>algorithms</hl> add reverse
+path forwarding broadcast routing method exploits routing
+procedures data structures packet switching reverse path
+forwarding practical algorithm
+
+CACM-3171
+----------------------------------------------------------------
+<hl>implementations</hl> high level languages suitable
+circumstances method requires absolutely overhead time space
+execution program cacm october 1979 klint line number
+
+CACM-2748
+----------------------------------------------------------------
+<hl>implementations</hl> cacm june 1975 dewar threaded code
+snobol4 interpretors code generation 4.12 4.13 ca7565 jb january
+9 1978 1:11 pm
+
+CACM-2406
+----------------------------------------------------------------
+<hl>management</hl> systems distributed data bases paper reviews
+past work data definition language describing logical physical
+aspects data <hl>applications</hl> generalized data
+
+CACM-2907
+----------------------------------------------------------------
+<hl>optimal</hl> fixed poin presentation informal emphasis
+examples cacm november 1977 manna shamir recursive programs
+fixed poin ts fixedpoints <hl>optimal</hl> fixed
+
+CACM-2692
+----------------------------------------------------------------
+<hl>algorithms</hl> <hl>algorithms</hl> able clip polygons
+irregular convex planefaced volumes dimensions removing parts
+polygon lie volume dimensions <hl>algorithms</hl> permit
+clipping irregular <hl>algorithms</hl> easily handle difficult
+problem detecting vertex required corner clipping window
+<hl>algorithms</hl> achieve considerable simplicity clipping
+separately clipping plane window
+
+CACM-2563
+----------------------------------------------------------------
+<hl>sort</hl> algorithm cacm december 1974 bron ca741211 jb
+january 13 1978 3:43 pm 2563 4 2563 2348 5 2563 2563
+
+CACM-3036
+----------------------------------------------------------------
+<hl>optimal</hl> set tab stops fixed tab stops heuristic
+alternative achieve 8 percent <hl>optimal</hl> prepass cacm
+december 1978 peterson bitner howard ... <hl>optimal</hl> tab
+settings generation computer terminals tab settings selected set
+computer feature reduce number characters needed represent
+document transmission printing
+
+CACM-2722
+----------------------------------------------------------------
+<hl>algorithms</hl> tasks algorithm presented handle general
+intersection query main focus paper theoretical felt kd trees
+<hl>applications</hl> examples potential cacm september ...
+<hl>algorithms</hl> developed proven average running times
+record insertion log deletion root deletion random node log
+optimization guarantees logarithmic performance searches
+
+CACM-2924
+----------------------------------------------------------------
+<hl>algorithms</hl> teractive means manmachine communication
+software static dynamic graphics display basic technique
+employed modified lofting method sectional curves represented
+uniform <hl>algorithms</hl> enable teractive modification
+bspline representation sectional curves stages process spatial
+information graphically displayed user complex surfaces created
+combination number
+
+CACM-0089
+----------------------------------------------------------------
+<hl>find</hl> solution simultaneous linear equations polynomial
+coefficients cacm april 1959 larson marshall ca5943 jb march 22
+1978 7:12 pm 89
+
+CACM-1932
+----------------------------------------------------------------
+<hl>optimal</hl> starting values calculation square root newtons
+method considered pointed relative error measure goodness fit
+<hl>optimal</hl> results obtained initial approximation
+<hl>optimal</hl> types error logarithmic error appears simplify
+problem determining <hl>optimal</hl> initial approximation cacm
+february 1969 king phillips square root newtons
+
+CACM-3038
+----------------------------------------------------------------
+<hl>management</hl> authenticated mail signature verification
+document integrity guarantee conventional publickey encryption
+<hl>algorithms</hl> considered basis protocols cacm december
+1978 needham schroeder
+
+CACM-2691
+----------------------------------------------------------------
+<hl>algorithms</hl> verhelst conversion limitedentry decision
+tables flowcharts cacm january 1974 king johnson decision table
+flowcharting preprocessor <hl>optimal</hl> programs search 3.5
+
+CACM-2081
+----------------------------------------------------------------
+<hl>algorithms</hl> symbol manipulation matrix expressions
+<hl>find</hl> forms suited computation forms called normal forms
+completeness results obtained sense expression equivalent
+expression
+
+CACM-3153
+----------------------------------------------------------------
+<hl>algorithms</hl> partition main memory classes jobs
+considered initially closed system consisting process paging
+devices fixed numbers jobs studied determine <hl>optimal</hl>
+
+CACM-2483
+----------------------------------------------------------------
+<hl>optimal</hl> move selection tree searching
+<hl>algorithms</hl> heart cokos effectiveness conceptually
+simple addition interesting phenomenon called tree searching
+catastrophe plagued cokos <hl>algorithms</hl> command structure
+desiring chess program experimentation comparison made
+mysterious actions human players coko iii cacm july 1973
+kozdrowicki cooper
+
+CACM-2065
+----------------------------------------------------------------
+<hl>applications</hl> methods applied karyotyping chromosomes
+system separated programming tasks picture transformations
+maintenance picture structuring display <hl>management</hl>
+picture structuring considered vehicle
+
+CACM-3049
+----------------------------------------------------------------
+<hl>management</hl> system bagdams common means communicating
+descriptions graphical entities components sembegs bagdams
+facilities storing retrieving manipulating descriptions
+graphical entities provided
+
+CACM-2885
+----------------------------------------------------------------
+<hl>optimal</hl> constant factor transposition rule shown
+efficient empirical evidence suggests transposition fact
+<hl>optimal</hl> distribution search probabilities cacm february
+1976 rivest
+
+CACM-3169
+----------------------------------------------------------------
+<hl>optimal</hl> evaluation boolean expressions online query
+system cacm october 1979 gudes hoffman query boolean expression
+<hl>optimal</hl> evaluation information retrieval 3.5
+
+CACM-0856
+----------------------------------------------------------------
+<hl>sort</hl> program designed generalized selfgenerating
+<hl>sort</hl> applicable variety record statements description
+divided parts part presents operating environment defines
+general solution
+
+CACM-1423
+----------------------------------------------------------------
+<hl>applications</hl> numerical analysis widely existing
+<hl>algorithms</hl> fairly complicated require considerable
+storage space simple extension found conventional
+orthogonalization method inverting nonsingular
+
+CACM-2176
+----------------------------------------------------------------
+<hl>sort</hl> time standard terminology introduced input buffer
+allocation method analysis improvement expected conventional
+allocation analysis makes distribution function analysis
+completely
+

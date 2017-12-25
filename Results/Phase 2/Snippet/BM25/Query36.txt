@@ -1,0 +1,761 @@
+CACM-2739
+----------------------------------------------------------------
+<hl>language</hl> computer grammars natural <hl>language</hl>
+past years number systems computer analysis natural
+<hl>language</hl> sentences based augmented <hl>contextfree</hl>
+grammars <hl>contextfree</hl> grammar ... <hl>language</hl>
+analysis <hl>language</hl> implementation linguistic string
+parser cacm july 1975 sager grishman natural <hl>language</hl>
+<hl>parsing</hl> grammar programming languages 3.42 3.79
+
+CACM-2030
+----------------------------------------------------------------
+<hl>parsing</hl> paper presents canonical form contextsensitive
+derivations <hl>parsing</hl> <hl>algorithm</hl> finds
+contextsensitive analysis amount memory required
+<hl>algorithm</hl> essentially required store single ...
+<hl>language</hl> theory <hl>parsing</hl> <hl>parsing</hl>
+algorithms <hl>recognition</hl> algorithms 3.42 5.22 5.23 ca777
+jb february 1 1978 4:43 pm 23 5 23 ... <hl>algorithm</hl>
+presented blocks infinite analyses grammars loops
+<hl>algorithm</hl> compared previous parsers contextsensitive
+grammars general rewriting systems difference types analyses
+discussed
+
+CACM-2112
+----------------------------------------------------------------
+<hl>recognition</hl> <hl>parsing</hl> treated special cases
+translation problem cacm february 197 vere automata turing
+machines regular expression transduction expression
+<hl>contextfree</hl> languages ... <hl>contextfree</hl>
+languages formal procedure deriving set translation equations
+specifications pushdown translator translator consists mealy
+form finitestate automata interacting means pushdown
+
+CACM-2811
+----------------------------------------------------------------
+<hl>recognition</hl> carotid pulse waves general waveform
+<hl>parsing</hl> system general waveform <hl>parsing</hl> system
+application structural pattern <hl>recognition</hl> carotid
+pulse waves carotid ... <hl>recognition</hl> <hl>parsing</hl>
+waveform analysis pulse waves 3.12 3.34 3.63 4.12 ca76124 jb
+january 3 1978 1:43 pm 2811 5 2811
+
+CACM-2794
+----------------------------------------------------------------
+<hl>language</hl> <hl>recognition</hl> problem based cocke
+<hl>parsing</hl> <hl>algorithm</hl> illustration method
+representing problems firstorder logic inference system employed
+resolutionbased theorem prover determines
+
+CACM-1350
+----------------------------------------------------------------
+<hl>parsing</hl> <hl>algorithm</hl> arbitrary
+<hl>contextfree</hl> languages compared <hl>parsing</hl>
+algorithms selective toptobottom <hl>algorithm</hl> similar
+irons error correcting parse <hl>algorithm</hl> constituent
+analyzer extension ... <hl>contextfree</hl> languagesits
+relative efficiency proven greibach <hl>contextfree</hl> grammar
+standardform grammar gs constructed generates languages
+generated rules form cy ym yi <hl>language</hl>
+<hl>contextfree</hl> grammar equivalent standardform grammar gs
+structural descriptions sdgsx assigned sentence predictive
+analyzer structural descriptions sdgx assigned sentence original
+<hl>algorithm</hl> originally due abbott standardform grammar
+rules standard form supplemented additional information
+describing derivation original <hl>contextfree</hl> grammar
+technique performing sdgsx
+
+CACM-2110
+----------------------------------------------------------------
+<hl>contextfree</hl> <hl>parsing</hl> <hl>algorithm</hl>
+<hl>parsing</hl> <hl>algorithm</hl> efficient general
+<hl>contextfree</hl> <hl>algorithm</hl> known similar knuths lrk
+<hl>algorithm</hl> familiar topdown <hl>algorithm</hl> time
+bound proportional <hl>contextfree</hl> programming
+<hl>language</hl> grammars empirical comparison appears superior
+topdown bottomup algorithms studied griffiths petrick cacm
+february 197 earley syntax analysis
+
+CACM-2754
+----------------------------------------------------------------
+<hl>algorithm</hl> peak detection waveforms applications
+cardiography peaks digitized waveform detected
+<hl>algorithm</hl> incorporating piecewise linear approximation
+tabular <hl>parsing</hl> techniques parameters serve
+<hl>algorithm</hl> sufficient speed allow online realtime
+processing application demonstrated electrocardiogram cacm 1975
+horowitz peak detection digitized waveform piecewise linear
+approximation
+
+CACM-2084
+----------------------------------------------------------------
+<hl>contextfree</hl> languages cacm march 197 maurer ambiguity
+inherent ambiguity complement <hl>contextfree</hl>
+<hl>language</hl> chomskylanguage phrase structure
+<hl>language</hl> production system type 2
+
+CACM-1012
+----------------------------------------------------------------
+<hl>contextfree</hl> <hl>language</hl> analyzed directed
+production analyzer kunooettinger multiplepath syntactic
+analyzer english concrete directed production analyzer working
+<hl>parsing</hl> <hl>algorithm</hl> connection structures ...
+<hl>parsing</hl> systems automatic syntactic analysis recently
+important natural <hl>language</hl> data processing
+syntaxdirected compilers formal <hl>parsing</hl> system vutr
+consists finite disjoint
+
+CACM-1855
+----------------------------------------------------------------
+<hl>language</hl> processing <hl>language</hl> analysis
+<hl>parsing</hl> analysis procedure <hl>recognition</hl>
+procedure english sentences linguistics psycholinguistics
+transformational grammar limited dictionary predictive analysis
+3.42
+
+CACM-2581
+----------------------------------------------------------------
+<hl>parsing</hl> speech <hl>recognition</hl> speech
+understanding augmented transition network local
+<hl>parsing</hl> 3.42 3.65 3.69 ca74113 jb january 16 1978 1:41
+2581
+
+CACM-2301
+----------------------------------------------------------------
+<hl>parsing</hl> koster inventor affix based recursive
+procedures paper presents bottomup scheme <hl>parsing</hl> based
+extension floyd production <hl>language</hl> fpl included
+<hl>algorithm</hl>
+
+CACM-2836
+----------------------------------------------------------------
+<hl>contextfree</hl> grammar <hl>algorithm</hl> presented
+constructing optimal derivation tree structure weighted
+derivation tree addition correctness <hl>algorithm</hl>
+established method applied problems involving
+
+CACM-2703
+----------------------------------------------------------------
+<hl>contextfree</hl> grammars devised knuth mechanism including
+semantics <hl>contextfree</hl> <hl>language</hl> syntax
+<hl>language</hl> circularity problem grammar determine
+semantics sentences programs fact defined <hl>algorithm</hl>
+solves problem infinitely cases exponential amount timen
+improved version knuths circularity testing <hl>algorithm</hl>
+actually solves problem exponential time cacm
+
+CACM-2476
+----------------------------------------------------------------
+<hl>contextfree</hl> grammars cacm july 1973 hall artificial
+intelligence andor graphs <hl>language</hl> theory
+<hl>contextfree</hl> grammars 3.6 3.64 5.23 ca7371 jb january
+
+CACM-1399
+----------------------------------------------------------------
+<hl>recognition</hl> left recursion procedure obtaining
+structural descriptions <hl>contextfree</hl> grammar performing
+<hl>recognition</hl> according strongly equivalent
+leftrecursionfreegrammar effect allowing null strings rewriting
+
+CACM-2702
+----------------------------------------------------------------
+<hl>contextfree</hl> grammars <hl>parsing</hl> lrk grammars
+npcomplete problems 4.12 5.23 5.25 ca75125 jb january 5 1978
+4:28 pm 272 5 272 ... <hl>contextfree</hl> grammar member easily
+parsed subclass grammars lrk grammars considered time complexity
+problem analyzed considered fixed integer considered parameter
+test
+
+CACM-2061
+----------------------------------------------------------------
+<hl>algorithm</hl> construction boundedcontext parsers
+<hl>algorithm</hl> accepts arbitrary <hl>contextfree</hl>
+grammar constructs boundedcontext parser parser exists part
+paper definition <hl>contextfree</hl> grammar working ...
+<hl>algorithm</hl> discuss ed light experience gained compiler
+design <hl>algorithm</hl> claimed simultaneous design
+<hl>language</hl> compiler cacm 197 loeckx boundedcontext
+<hl>parsing</hl> boundedcontext ... <hl>contextfree</hl> grammar
+introduced connection structure boundedcontext parser pushdown
+automata generate reduction classes <hl>contextfree</hl> grammar
+defined finally <hl>algorithm</hl> essentially carries
+exhaustive
+
+CACM-1527
+----------------------------------------------------------------
+<hl>language</hl> sentences procedure makes sentence
+<hl>recognition</hl> device class grammars correctly decide
+grammatical ungrammatical sentences natural <hl>language</hl>
+make <hl>recognition</hl> device sort <hl>language</hl> set
+exhaustively exclusively generated grammar based rules grammar
+sentence recognizer evaluate sentences questions normal
+situation <hl>recognition</hl> function succeeds case
+
+CACM-2733
+----------------------------------------------------------------
+<hl>language</hl> specification parser generation translator
+writing systems syntax analysis lr <hl>parsing</hl> ll
+<hl>parsing</hl> ambiguous grammars 4.12 4.22 5.23 ca7582 jb
+
+CACM-1612
+----------------------------------------------------------------
+<hl>parsing</hl> rehabilitated note concerned efficiency
+toptobottom <hl>parsing</hl> <hl>algorithm</hl> connection
+programming <hl>language</hl> grammars shown instance retracing
+unprofitable paths eliminated suitable rearrangement
+
+CACM-2643
+----------------------------------------------------------------
+<hl>fast</hl> access individual bits considers problem
+minimizing storage needed tables reduction techniques developed
+problem shown reduce covering problem cacm june
+
+CACM-1265
+----------------------------------------------------------------
+<hl>contextfree</hl> grammar recognizers number diverse
+<hl>recognition</hl> procedures proposed <hl>parsing</hl>
+sentences respect <hl>contextfree</hl> grammar paper means
+common device procedure defined giving <hl>contextfree</hl>
+grammar formalization turing machine chosen make simple
+description <hl>parsing</hl> procedures considered attempt made
+compare <hl>recognition</hl> efficiencies procedures defined
+simple <hl>recognition</hl> realistic programming languages lisp
+algol made means program simulates turing machine univac m46
+computer algorithms producing grammars equivalent
+<hl>contextfree</hl>
+
+CACM-2050
+----------------------------------------------------------------
+<hl>parsing</hl> syntactic analysis natural <hl>language</hl>
+processing information retrieval <hl>language</hl> analysis text
+processing 3.42 3.71 ca765 jb february 13 1978 11:43
+
+CACM-2113
+----------------------------------------------------------------
+<hl>parsing</hl> syntactic analysis naturallanguage analysis
+linguistic data processing computational linguistics
+correlational grammar structure <hl>recognition</hl> pattern
+<hl>recognition</hl> matching procedures treestructure
+interpretation
+
+CACM-2698
+----------------------------------------------------------------
+<hl>contextfree</hl> languages practical approach leasterrors
+recognizer developed informally wellknown recognizer earley
+elements bellmans dynamic programming analyzer takes general
+class <hl>contextfree</hl> <hl>recognition</hl> consists
+leasterrors count corrected version input relative driver
+grammar <hl>algorithm</hl> design emphasizes practical aspects
+help programming cacm january 1974
+
+CACM-2921
+----------------------------------------------------------------
+<hl>parsing</hl> programming languages <hl>language</hl>
+generation formal definition compilers translators scanners 4.2
+5.21 5.23 ca7715 jb december 27 1977 11:1 1989
+
+CACM-1989
+----------------------------------------------------------------
+<hl>parsing</hl> advantage model natural <hl>language</hl>
+analysis discussed detail illustrated examples implementation
+experimental <hl>parsing</hl> system transition network grammars
+briefly cacm october ... <hl>language</hl> analysis augmented
+transition network grammars analysis natural <hl>language</hl>
+sentences structurebuilding actions arcs grammar network allow
+reordering restructuring copying constituents
+
+CACM-2980
+----------------------------------------------------------------
+<hl>fast</hl> graph operations number examples shown cacm april
+1977 tanimoto pavlidis picture processing pattern
+<hl>recognition</hl> segmentation region editing 3.63 ca7742
+
+CACM-1768
+----------------------------------------------------------------
+<hl>contextfree</hl> phrase structure grammars
+<hl>algorithm</hl> analyzing <hl>contextfree</hl> phrase
+structure grammar generating program parse sentence
+<hl>language</hl> sentence invalid parser toptobottom type
+<hl>algorithm</hl> quickly ascertaining substrings input
+sentence correspond target nonterminal symbols included
+generating <hl>algorithm</hl> parser implemented rca snobol
+tested successfully number
+
+CACM-1170
+----------------------------------------------------------------
+<hl>recognition</hl> learning logic developed infer word classes
+rules syntactic combination experience text analyzed
+characteristics form word classes depth dependency tree
+
+CACM-2310
+----------------------------------------------------------------
+<hl>language</hl> analysis humanities science humanities pattern
+<hl>recognition</hl> pattern generation interdisciplinary
+cooperation 1.3 2.19 3.42 3.43 ca72718 jb january 3 1978 ...
+<hl>language</hl> analysis humanities computer languageoriented
+humanities exhaustive listing detail indices concordances
+widespread accepted desirable implications computer science
+humanitiesa science entailing
+
+CACM-2492
+----------------------------------------------------------------
+<hl>parsing</hl> complex decision situations <hl>parsing</hl>
+technique proposed <hl>parsing</hl> based syntactical
+characteristics decision problem requires description problem
+decision grid chart format
+
+CACM-1525
+----------------------------------------------------------------
+<hl>algorithm</hl> proportional log2 major improvement methods
+computing time proportional n2 paper <hl>fast</hl> fourier
+transform <hl>algorithm</hl> briefly reviewed <hl>fast</hl>
+difference equation ... <hl>fast</hl> fourier transform cooley
+tukey proposed <hl>fast</hl> <hl>algorithm</hl> computing
+complex fourier transform shown major time savings compute large
+transforms digital
+
+CACM-1825
+----------------------------------------------------------------
+<hl>language</hl> syntaxdirected compiler <hl>language</hl>
+processor <hl>contextfree</hl> <hl>language</hl> algol 4.12 5.2
+5.23 ca69115 jb february 15 1978 12:52 pm 186 4 ...
+<hl>parsing</hl> input single nobackup scan number steps equal
+length input number steps derivation technique presented based
+original method knuth decreases
+
+CACM-2880
+----------------------------------------------------------------
+<hl>fast</hl> division technique constant divisors <hl>fast</hl>
+<hl>algorithm</hl> division constant divisors presented method
+proved implemented microcode ona binary machine adapted directly
+
+CACM-1917
+----------------------------------------------------------------
+<hl>fast</hl> fourier transform arbitrary factors
+<hl>algorithm</hl> 339 cacm march 1969 singleton <hl>fast</hl>
+fourier transform complex fourier transform multivariate fourier
+transform
+
+CACM-2402
+----------------------------------------------------------------
+<hl>recognition</hl> phase problem xray crystallography
+availability interactive threedimensional computer graphics
+systems coupled powerful digital computers encourages
+development algorithms adapted environment <hl>recognition</hl>
+techniques make number approaches xray structure determination
+based molecular model building chemical information frame
+structural hypotheses computationally tested refined
+<hl>recognition</hl> algorithms hindered fact crosscorrelation
+model correct structure computed fundamental incompleteness
+measured data compute upper bound crosscorrelation simple
+demonstrates information
+
+CACM-2215
+----------------------------------------------------------------
+<hl>recognition</hl> sequential pattern <hl>recognition</hl> spr
+procedure test features pattern selects feature tested receiving
+result test procedure classifies unknown pattern selects
+
+CACM-0462
+----------------------------------------------------------------
+<hl>recognition</hl> techniques electrocardiographic diagnosis
+programmed digital computers general pattern classification
+<hl>recognition</hl> devices phase lively interest artificial
+intelligence important choose class
+
+CACM-2054
+----------------------------------------------------------------
+<hl>recognition</hl> word <hl>recognition</hl> patternmatching
+pattern <hl>recognition</hl> timesharing remote access voice
+input speech input telephone inputoutput acoustic signal
+spokenword input talking
+
+CACM-1921
+----------------------------------------------------------------
+<hl>fast</hl> fourier transform <hl>algorithm</hl> 345 cacm
+march 1969 singleton <hl>fast</hl> fourier transform complex
+fourier transform multivariate fourier transform fourier series
+
+CACM-1837
+----------------------------------------------------------------
+<hl>fast</hl> fourier transform <hl>algorithm</hl> 345 cacm
+october 1969 singleton <hl>fast</hl> fourier transform complex
+fourier transform multivariate fourier transform fourier series
+
+CACM-2786
+----------------------------------------------------------------
+<hl>language</hl> small <hl>contextfree</hl> grammar
+compilercompiler make compiler translates <hl>language</hl>
+typesetting commands output maybe produced phototypesetter
+terminal forward reverse halfline motions
+
+CACM-2481
+----------------------------------------------------------------
+<hl>fast</hl> buffer storage virtual memory computer system
+<hl>fast</hl> buffer cache memory primary memory central
+processing unit considered optimal distribution program
+
+CACM-2195
+----------------------------------------------------------------
+<hl>recognition</hl> <hl>algorithm</hl> expressed figure merit
+multistage decision process able recognize input picture optimal
+system lines according figure merit due global
+
+CACM-1902
+----------------------------------------------------------------
+<hl>language</hl> computercontrolled grading scheme provision
+made testing programmersupplied data final runs systemsupplied
+data exercises run scheme mixed programs special
+<hl>recognition</hl>
+
+CACM-1737
+----------------------------------------------------------------
+<hl>contextfree</hl> phrase structure grammars cacm june 1968
+unger ca6868 jb february 22 1978 4:8 pm 1737 5 1737 1737 5
+
+CACM-3094
+----------------------------------------------------------------
+<hl>language</hl> cacm june 1978 cohen roth syntactic analysis
+analysis algorithmstopdown bottomup <hl>parsing</hl> relative
+efficiencies 4.12 5.23 5.24 5.25 5.7 ca7863 ... <hl>parsing</hl>
+algorithms paper describes approach determining minimum maximum
+average times parse sentences acceptable deterministic parser
+quantities presented form symbolic formulas
+
+CACM-1679
+----------------------------------------------------------------
+<hl>algorithm</hl> preserves order symmetry cooleyturkey
+<hl>fast</hl> fourier transform <hl>algorithm</hl> effecting
+twotoone reduction computation storage achieved series real
+discussed hardware software ... <hl>fast</hl> fourier transform
+<hl>algorithm</hl> realvalued series procedure presented
+calculating complex discrete fourier transform realvalued time
+series procedure number points series ... <hl>algorithm</hl>
+perform log2 complex multiply add operations require real
+storage locations analyzing npoint record cacm october 1968
+bergland <hl>fast</hl> fourier
+
+CACM-3176
+----------------------------------------------------------------
+<hl>algorithm</hl> compressing lr <hl>parsing</hl> tables works
+cacm november 1979 tarjan yao gaussian elimination
+<hl>parsing</hl> searching sparse matrix table compression table
+
+CACM-3132
+----------------------------------------------------------------
+<hl>recognition</hl> standard technique <hl>algorithm</hl>
+finding hyperplanes separates classes linearly separable
+training set traditional methods find hyperplane separates
+points hyperplane necessarily <hl>algorithm</hl> poor algorithms
+defined paper found good cacm march 1979 slagle pattern
+<hl>recognition</hl> pattern classification linear discriminants
+central hyperplanes centering
+
+CACM-1668
+----------------------------------------------------------------
+<hl>fast</hl> fourier transform arbitrary factors
+<hl>algorithm</hl> 339 cacm november 1968 singleton
+<hl>fast</hl> fourier transform multivariate fourier transform
+fourier series harmonic
+
+CACM-1309
+----------------------------------------------------------------
+<hl>language</hl> system developed makes <hl>fast</hl>
+preparation management reports regardless computational
+complexity format variety costs sufficiently low individually
+tailored reports prepared
+
+CACM-1669
+----------------------------------------------------------------
+<hl>fast</hl> fourier transform <hl>algorithm</hl> 338 cacm
+november 1968 singleton <hl>fast</hl> fourier transform complex
+fourier transform multivariate fourier transform fourier series
+
+CACM-2287
+----------------------------------------------------------------
+<hl>algorithm</hl> problem detection <hl>recognition</hl>
+contour lines solved color labeling method shown maps normal
+contour lines suffices distinguish socalled odd lines
+
+CACM-2886
+----------------------------------------------------------------
+<hl>language</hl> lefttoright evaluation scheme discussed cacm
+february 1976 bochmann attribute grammars semantics programming
+languages semantic attributes lefttoright <hl>parsing</hl>
+multipass compilers
+
+CACM-1569
+----------------------------------------------------------------
+<hl>contextfree</hl> phrase structure grammar pli procedure
+structure statements parallel structure notation grammar cacm
+july 1967 irwin ca6774 jb february 28
+
+CACM-2641
+----------------------------------------------------------------
+<hl>algorithm</hl> a479 cacm june 1974 page clustering pattern
+<hl>recognition</hl> feature selection minimal spanning trees
+3.63 5.39 5.5 ca7465 jb january
+
+CACM-1179
+----------------------------------------------------------------
+<hl>language</hl> programs processed high speeds
+<hl>language</hl> compatibility maintained programs debugged
+pufft system recompiled run ibjobibftc system supplied
+manufacturer cacm november ... <hl>fast</hl> fortran translator
+core resident compileandgo system designed ibm 79794 computer
+half 32k word core memory pufft monitor job sequencing
+
+CACM-1335
+----------------------------------------------------------------
+<hl>recognition</hl> proposed american stand ard cacm january
+1965 ca6512 jb march 8 1978 3: pm 1335 5 1335 1335 5
+
+CACM-2340
+----------------------------------------------------------------
+<hl>contextfree</hl> <hl>parsing</hl> 4.12 ca7265 jb january 3
+1978 4:28 pm 1542 4 234 1683 4 234 1693 4 234 1781
+
+CACM-1073
+----------------------------------------------------------------
+<hl>fast</hl> procedure generating exponential random variables
+<hl>fast</hl> method generating exponential random variables
+digital computer outlined cacm 1964 maclaren marsaglia bray
+
+CACM-2019
+----------------------------------------------------------------
+<hl>recognition</hl> character <hl>recognition</hl>
+normalization projective transformation central projection hand
+printed characters handwriting linear transformation size
+normalization mapping pattern preprocessor 3.63
+
+CACM-2370
+----------------------------------------------------------------
+<hl>recognition</hl> signal processing interactive
+computercontrolled scanning display system operation ibm thomas
+watson research center years system includes flyingspot scanners
+tv
+
+CACM-0204
+----------------------------------------------------------------
+<hl>recognition</hl> cacm april 196 wang ca647 jb march 22 1978
+1:47 pm 24 4 24 24 5 24 24 5
+
+CACM-1726
+----------------------------------------------------------------
+<hl>recognition</hl> character <hl>recognition</hl> text reading
+information retrieval unformatted text operatorcontrolled reader
+online reader textimage discrimination reading machine 3.63 3.79
+3.89
+
+CACM-2353
+----------------------------------------------------------------
+<hl>fast</hl> finitedifference solution biharmonic problems
+setting reynolds number equal method solving navierstrokes
+equations numerically results <hl>fast</hl> numerical method
+biharmonic problems
+
+CACM-1184
+----------------------------------------------------------------
+<hl>fast</hl> storage allocator <hl>fast</hl> storage
+bookkeeping method liststructure operations situations involving
+sizes blocks fixed size location scheme llllll l6 bell
+
+CACM-2423
+----------------------------------------------------------------
+<hl>language</hl> fortran algol subroutine called syntactic rule
+applied parse program typical onepass compilers constructed pgs
+translate source programs speeds approaching <hl>parsing</hl>
+table entries 82 words links code generators cacm november 1973
+mickunas schneider parser generators translator writing systems
+syntactic analysis
+
+CACM-1548
+----------------------------------------------------------------
+<hl>parsing</hl> decision tables reduction size decision tables
+accomplished techniques techniques considered paper
+<hl>parsing</hl> decision tables regard horizontal vertical data
+structures
+
+CACM-3079
+----------------------------------------------------------------
+<hl>algorithm</hl> reasoning equality simple technique reasoning
+equalities <hl>fast</hl> complete ground formulas function
+symbols equality presented proof correctness cacm july 1978
+
+CACM-1910
+----------------------------------------------------------------
+<hl>algorithm</hl> solving special class tridiagonal systems
+linear equations <hl>algorithm</hl> presented solving system
+linear equation buk tridiagonal special form shown
+<hl>algorithm</hl>
+
+CACM-1665
+----------------------------------------------------------------
+<hl>fast</hl> handcoded processors analyze <hl>language</hl>
+detect errors convenient easy cacm december 1968 johnson porter
+ackley ross character string compiler finitestate ...
+<hl>language</hl> terms subset regular expressions output system
+lexical processor reads string characters combines items defined
+regular expressions output item identified
+
+CACM-3045
+----------------------------------------------------------------
+<hl>parsing</hl> semantic processing continue result good
+approximation syntax error handling negligible increase
+<hl>parsing</hl> time space complexity parser table generator
+cacm
+
+CACM-2982
+----------------------------------------------------------------
+<hl>parsing</hl> cacm march 1977 bertsch precedence
+<hl>parsing</hl> storage requirement table 4.12 5.22 ca7731jb
+december 29 1977 6:34 1542 4 2982
+
+CACM-2545
+----------------------------------------------------------------
+<hl>language</hl> algorithms implementing kinds patterns snobol4
+general approach create bottomup parse topdown specification
+cacm february 1973 gimpel patterns snobol4 pattern
+
+CACM-2149
+----------------------------------------------------------------
+<hl>algorithm</hl> 413 cacm october 1971 lyness taylor
+coefficients taylor series cauchy integral numerical integration
+numerical differentiation interpolation complex variable complex
+
+CACM-2788
+----------------------------------------------------------------
+<hl>recognition</hl> curve detectionline fitting 3.63 ca75211 jb
+january 1 1978 9:15 2788 4 2788 291 4 2788 24 5 2788
+
+CACM-2910
+----------------------------------------------------------------
+<hl>recognition</hl> curve detection hough transformation
+template matching 3.63 6.9 ca77116 jb december 27 1977 7:23 2788
+4 291 291 4
+
+CACM-1836
+----------------------------------------------------------------
+<hl>algorithm</hl> presented obtaining linear precedence
+functions precedence matrix <hl>algorithm</hl> shown possess
+computational advantages cacm october 1969 bell boolean matrices
+syntax
+
+CACM-0281
+----------------------------------------------------------------
+<hl>fast</hl> high precision eminently practical exponential
+evaluation formulas derived formulation cacm october 1961
+feurzeig ca61913 jb march 16 1978 1:27
+
+CACM-2179
+----------------------------------------------------------------
+<hl>contextfree</hl> grammar lrk grammar precedence grammar
+syntactic analysis <hl>parsing</hl> <hl>algorithm</hl> parser
+finitestate machine deterministic pushdown automaton 4.12 5.22
+5.23 ca7173
+
+CACM-0633
+----------------------------------------------------------------
+<hl>recognition</hl> cacm february 1962 garfinkel polk higgins
+ochser ca6221 jb march 2 1978 3:43 pm 238 4 633 633 4
+
+CACM-2963
+----------------------------------------------------------------
+<hl>fast</hl> <hl>algorithm</hl> computing longest common
+subsequences previously published algorithms finding longest
+common subsequence sequences length bestcase running time
+<hl>algorithm</hl> problem
+
+CACM-1314
+----------------------------------------------------------------
+<hl>recognition</hl> identifiers reserved words rapid general
+features technique cacm february 1965 batson ca6521 jb march 7
+1978 11:1 pm 1314
+
+CACM-0617
+----------------------------------------------------------------
+<hl>fast</hl> results required instants action control system
+known working real time cacm march 1962 wheeling ca62315 jb
+march 2 1978
+
+CACM-0727
+----------------------------------------------------------------
+<hl>fast</hl> exceptionally accurate numerical method
+programming details numerous examples mathematical theory
+suppliedxtension method natural ndimensional problems means
+4dimensional cacm september
+
+CACM-1610
+----------------------------------------------------------------
+<hl>fast</hl> efficient application indicted personnel
+classification problem classical transportation problem worked
+detail cacm april 1967 dwyer galler ca6745 jb february
+
+CACM-1088
+----------------------------------------------------------------
+<hl>fast</hl> special integer programming <hl>algorithm</hl>
+approximates theoretical solution problem menu changed online
+postoptimized 3 percent saving food cost fortran program
+
+CACM-2252
+----------------------------------------------------------------
+<hl>language</hl> general purpose text editor incremental
+processing frequent recompilation entire routines essential
+points method syntax <hl>language</hl> restricted insof ar
+constructs
+
+CACM-2546
+----------------------------------------------------------------
+<hl>language</hl> extending existing <hl>language</hl> designer
+faced problem deriving natural grammar <hl>language</hl>
+proposing interactive approach grammar design problem designer
+presents sample <hl>algorithm</hl> <hl>algorithm</hl> constructs
+grammar reasonable generalization examples submitted designer
+implementation presently restricted subclass operator precedence
+grammars <hl>algorithm</hl> outlined applies larger
+
+CACM-1453
+----------------------------------------------------------------
+<hl>language</hl> syntax algol paper fortran ii computer program
+carrying elimination <hl>algorithm</hl> gornsimilar gaussian
+elimination linear systems algebraic equations applied numerous
+<hl>algorithm</hl> algol expressing revised algol 196 syntax
+completely nonrecursive terms <hl>contextfree</hl> portion
+concerned description ways intuitively understood previous
+recursive description
+
+CACM-3149
+----------------------------------------------------------------
+<hl>recognition</hl> 3.2 3.6 8.2 ca7965 dh august 22 1979 1:36
+pm 3149 5 3149 3149 5 3149 3149 3149
+
+CACM-0949
+----------------------------------------------------------------
+<hl>contextfree</hl> <hl>language</hl> conceived
+stringsgenerating device method expressing meaning grammar algol
+open criticism cacm december 1964 petrone vandoni ca641222 jb
+march
+
+CACM-3013
+----------------------------------------------------------------
+<hl>recognition</hl> edge detection 3.63 ca7821 jb march 28 1978
+1:56 pm 313 5 313 313 5 313 313 313
+
+CACM-1642
+----------------------------------------------------------------
+<hl>fast</hl> level 2 times larger slower level 1 cacm february
+1967 fisher shepard ca6721 jb february 28 1978 4:1 pm
+
+CACM-2926
+----------------------------------------------------------------
+<hl>fast</hl> access times performance strategy application
+presented compared strategy analyzed cacm september 1977
+mccreight btree index database tree storage structure
+
+CACM-3093
+----------------------------------------------------------------
+<hl>parsing</hl> driven information directly obtainable
+information present lr parser approach patterned levy graham
+rhodes appears provide error recovery simple powerful
+

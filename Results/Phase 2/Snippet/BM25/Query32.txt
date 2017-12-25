@@ -1,0 +1,758 @@
+CACM-3139
+----------------------------------------------------------------
+<hl>graph</hl> paper describes efficient <hl>heuristic</hl>
+methods color vertices <hl>graph</hl> rely comparison degrees
+structure <hl>graph</hl> <hl>method</hl> developed exact
+bipartite graphs important <hl>heuristic</hl> procedures
+<hl>find</hl> maximal cliques general graphs finally exact
+<hl>method</hl> performs randallbrown algorithm able color
+larger graphs <hl>heuristic</hl> methods classical
+
+CACM-2177
+----------------------------------------------------------------
+<hl>graph</hl> efficient <hl>method</hl> presented finding
+blocks cutnodes arbitrary undirected <hl>graph</hl>
+<hl>graph</hl> represented ordered list edges ii packed
+adjacency <hl>matrix</hl> denotes ... <hl>graph</hl> lobe lobe
+<hl>decomposition</hl> <hl>graph</hl> separable spanning tree
+web grammar 5.32 ca7175 jb february 3 1978 8:58 1961 4 2177 ...
+<hl>graph</hl> nodes increases ng depends type <hl>graph</hl> 1
+2 bounds attained values derived suitable families test graphs
+generated extension web
+
+CACM-3018
+----------------------------------------------------------------
+<hl>method</hl> determining keyword conflicts <hl>heuristic</hl>
+algorithm solves combinatorial optimization problem connection
+<hl>method</hl> optimization problem shown equivalent problem
+covering edges <hl>graph</hl> <hl>graph</hl> <hl>coloring</hl>
+problem established <hl>algorithms</hl> problems constructed
+algorithm consequences relationship keyword conflict problem
+edgecliquecover problem shown npcomplete pnp admit
+polynomialtime
+
+CACM-2289
+----------------------------------------------------------------
+<hl>graph</hl> problems adjacency <hl>matrix</hl> <hl>graph</hl>
+easily mapped array <hl>matrix</hl> element stored cell array
+typical row column operations readily implemented simple
+<hl>graph</hl> problems determination <hl>algorithms</hl>
+exploit possibilities parallelism <hl>especially</hl> problems
+solutions inherently serial parallelized <hl>algorithms</hl>
+presented solution spanning tree distance path
+<hl>algorithms</hl> exhibit computation time cases grows rate
+exceeding log2 number nodes <hl>graph</hl> straightforward
+cellular implementations wellknown serial <hl>algorithms</hl>
+problems require <hl>graph</hl> theory cellular logicinmemory
+arrays parallel processing special purpose computers
+<hl>algorithms</hl> distance spanning tree problems 5.32 6.22
+6.5 ca7291 jb
+
+CACM-2883
+----------------------------------------------------------------
+<hl>graph</hl> solved wellknown <hl>graph</hl> search
+<hl>algorithms</hl> relations representation minimization
+problem dynamic programming approach discussed showing
+<hl>graph</hl> search <hl>method</hl> lead substantial ...
+<hl>heuristic</hl> search methods edge contour detection paper
+presents <hl>method</hl> detecting edges contours noisy pictures
+properties edge embedded figure merit edge ...
+<hl>heuristic</hl> search methods computing time depend amount
+noise picture experimental results show information shape
+contour object embedded figure merit allowing
+
+CACM-2490
+----------------------------------------------------------------
+<hl>algorithms</hl> <hl>graph</hl> manipulation algorithm a447
+efficient <hl>algorithms</hl> presented partitioning
+<hl>graph</hl> connected components biconnected components
+simple paths algorithm partitioning <hl>graph</hl> simple
+
+CACM-3156
+----------------------------------------------------------------
+<hl>find</hl> connected components undirected <hl>graph</hl>
+vertices time time bound achieved n$n$log2n processors algorithm
+<hl>find</hl> transitive closure symmetric boolean
+<hl>matrix</hl> assume
+
+CACM-2484
+----------------------------------------------------------------
+<hl>graph</hl> natural view process designing data base
+constructing tree <hl>graph</hl> general <hl>method</hl>
+constructing tree <hl>graph</hl> provided important elements
+general construction <hl>algorithms</hl> results information
+structures list tree ring problem information organization
+storage reduced defining relations formulating
+<hl>algorithms</hl> set constraints results presented
+
+CACM-2368
+----------------------------------------------------------------
+<hl>graph</hl> <hl>algorithms</hl> <hl>graph</hl> processing
+shannon switching games game playing <hl>graph</hl> theory
+positional games demonstration programs game theory spinning
+trees 3.69 ... <hl>graph</hl> algorithm winning shannon
+switching games tutorial paper computer program wins shannon
+switching games games played graphs program good implementation
+
+CACM-2630
+----------------------------------------------------------------
+<hl>graph</hl> <hl>algorithms</hl> presented construct shortest
+paths pair vertices directed <hl>graph</hl> <hl>algorithms</hl>
+generalize floyd algorithm dantzig algorithm finding shortest
+path pair
+
+CACM-1839
+----------------------------------------------------------------
+<hl>singular</hl> <hl>decomposition</hl> complex <hl>matrix</hl>
+algorithm 358 f1 45 cacm october 1969 businger goulub
+<hl>singular</hl> values <hl>matrix</hl> <hl>decomposition</hl>
+squares solution pseudoinverse
+
+CACM-1961
+----------------------------------------------------------------
+<hl>find</hl> elementary circuits <hl>graph</hl> theoretically
+efficient search algorithm presented exhaustive search
+<hl>find</hl> elementary circuits <hl>graph</hl> algorithm
+easily modified <hl>find</hl> elementary
+
+CACM-2619
+----------------------------------------------------------------
+<hl>graph</hl> <hl>coloring</hl> conditions existence solutions
+timetable problem sufficient condition presented existence
+solution gotlieb classteacher timetable problem relationships
+established classteacher timetable
+
+CACM-1529
+----------------------------------------------------------------
+<hl>decomposition</hl> programming analysis <hl>matrix</hl>
+substructure petroleum blending problem analyzed order compare
+primal primaldual <hl>decomposition</hl> <hl>algorithms</hl>
+course analysis substructure discovered relevance
+
+CACM-1847
+----------------------------------------------------------------
+<hl>graph</hl> fast <hl>method</hl> presented finding
+fundamental set cycles undirected finite <hl>graph</hl> spanning
+tree grown vertices examined turn unexamined vertices stored
+<hl>graph</hl> examined tree fundamental cycle added edge vz
+tree exactly stage vertices <hl>graph</hl> large store required
+creases n2 time ng <hl>graph</hl> involved bounded 2 3 shown
+bounds attained terms storage algorithm similar gotlieb corneil
+superior welch terms speed similar welch
+
+CACM-2877
+----------------------------------------------------------------
+<hl>graph</hl> program definitions live edge <hl>graph</hl>
+procedure interval ordered edge listing data structure handles
+reducible irreducible graphs indistinguishably cacm march
+
+CACM-1905
+----------------------------------------------------------------
+<hl>method</hl> linear programming lu <hl>decomposition</hl>
+standard computer implementations dantzigs simplex
+<hl>method</hl> linear programming <hl>based</hl> forming
+inverse basic <hl>matrix</hl> updating inverse <hl>method</hl>
+implementations bad roundoff error properties paper theoretical
+background implementation <hl>based</hl> lu
+<hl>decomposition</hl> computed row interchanges basic
+<hl>matrix</hl> implementation slow
+
+CACM-2980
+----------------------------------------------------------------
+<hl>graph</hl> scheme <hl>based</hl> definitions <hl>graph</hl>
+properties satisfied spurious region present editing equivalent
+fast <hl>graph</hl> operations number examples shown cacm april
+
+CACM-1504
+----------------------------------------------------------------
+<hl>algorithms</hl> finding fundamental set cycles undirected
+linear <hl>graph</hl> adjacency <hl>matrix</hl> <hl>graph</hl>
+algorithm presented paper finds spanning tree constructs set
+fundamental
+
+CACM-2052
+----------------------------------------------------------------
+<hl>graph</hl> independently relation activities conflict
+additional constraints time space connected component
+<hl>graph</hl> found algorithm gotlieb corneil corresponds set
+events scheduled
+
+CACM-3040
+----------------------------------------------------------------
+<hl>algorithms</hl> constraint networks constraint satisfaction
+<hl>graph</hl> <hl>coloring</hl> network consistency relaxation
+scene labeling search 3.63 3.64 5.25 5.3 5.32 ca781111 dh
+
+CACM-2172
+----------------------------------------------------------------
+<hl>graph</hl> plotter algorithm 412 cacm july 1971 cermak plot
+<hl>graph</hl> line printer plot 4.41 ca7171 jb february 2 1978
+4:32
+
+CACM-2290
+----------------------------------------------------------------
+<hl>graph</hl> algorithm a43 cacm august 1972 purdom jr moore
+predominator predominator <hl>graph</hl> theory directed
+<hl>graph</hl> shortest path articulation connectivity program
+
+CACM-2695
+----------------------------------------------------------------
+<hl>graph</hl> theoretic algorithm examines arbitrary
+<hl>matrix</hl> determines permuted tridiagonal form algorithm
+requires arithmetic number comparisons number assignments number
+increments linear <hl>matrix</hl> permutable tridiagonal form
+algorithm explicit tridiagonal form early rejection occur cacm
+january 1974 gibbs poole jr tridiagonal <hl>matrix</hl>
+permutation <hl>graph</hl> bandwidth sparse <hl>matrix</hl> 5.14
+5.32 ca7414 jb january 18 1978 2:31 pm 2695 5 2695 2695 5 2695
+2695
+
+CACM-2752
+----------------------------------------------------------------
+<hl>graph</hl> set basic cycles algorithm 492 cacm june 1975
+gibbs basic cycle cycle <hl>graph</hl> 5.32 3.24 ca7561 jb
+january 9
+
+CACM-2430
+----------------------------------------------------------------
+<hl>graph</hl> algorithm a459 cacm october 1973 syslom algorithm
+<hl>graph</hl> theory circuit search algorithm path search
+algorithm searching 3.74 4.22 5.32
+
+CACM-1563
+----------------------------------------------------------------
+<hl>method</hl> finding hamilton paths knights tours warnsdorffs
+rule finding knights tour generalized applied problem finding
+hamilton path <hl>graph</hl> graphtheoretic justification
+
+CACM-2763
+----------------------------------------------------------------
+<hl>graph</hl> basic cyclesfundamental cycle spanning tree
+vertex adjacency <hl>matrix</hl> 5.32 3.24 ca7554 jb january 9
+1978 2:39 pm 1961 4
+
+CACM-3164
+----------------------------------------------------------------
+<hl>graph</hl> acyclic state request creates cycle nodes
+detached entered acyclically process important areas database
+implementation constraints permissible sequences actions pad
+
+CACM-2461
+----------------------------------------------------------------
+<hl>graph</hl> plotter algorithm r412 cacm august 1973 watkins
+ca73813 jb january 23 1978 1:3 2461 5 2461 2461 5 2461
+
+CACM-1481
+----------------------------------------------------------------
+<hl>graph</hl> plotter algorithm 278 cacm february 1966 lloyd
+ca6626d jb march 23 1978 7:3 pm 1481 5 1481 1481 5
+
+CACM-2161
+----------------------------------------------------------------
+<hl>graph</hl> corrigendum cacm september 1971 paton ca7193 jb
+february 2 1978 2:24 pm 2161 5 2161 2161 5 2161 2161
+
+CACM-2790
+----------------------------------------------------------------
+<hl>graph</hl> algorithm r459 cacm february 1975 syslo ca7529 jb
+january 12 1978 2:54 pm 279 5 279 279 5 279
+
+CACM-3124
+----------------------------------------------------------------
+<hl>algorithms</hl> cacm february 1979 gullw jenkins nested
+arrays apl arrays recursive data structures trees datadriven
+<hl>algorithms</hl> theory arrays 4.22 5.29
+
+CACM-2769
+----------------------------------------------------------------
+<hl>matrix</hl> directed <hl>graph</hl> digraph boolean
+<hl>matrix</hl> binary relation 5.3 5.32 ca7548 jb january 9
+1978 3:49 pm 1151 4 2769
+
+CACM-1983
+----------------------------------------------------------------
+<hl>graph</hl> tree spanning tree 5.32 ca717 jb february 1 1978
+9:24 1983 5 1983 1983 5 1983 1983 1983
+
+CACM-2195
+----------------------------------------------------------------
+<hl>method</hl> suitable parallel processing operations relative
+state computed parallel number stages equal length curves log2
+approximate <hl>method</hl> cacm 1971 montanari
+<hl>heuristic</hl> methods global recognition parallel
+processing dynamic programming interaction <hl>graph</hl>
+secondary optimization problem 3.63 3.66 5.42 ca7154 jb february
+3
+
+CACM-1822
+----------------------------------------------------------------
+<hl>graph</hl> 5.32 5.42 ca69118 jb february 15 1978 12:21 pm
+1822 5 1822 1822 5 1822 1822 1822
+
+CACM-1432
+----------------------------------------------------------------
+<hl>method</hl> control output alphanumeric information digital
+<hl>graph</hl> plotter cacm 1966 cohn ca6655 jb march 3 1978 1:1
+1432 5 1432
+
+CACM-2444
+----------------------------------------------------------------
+<hl>graph</hl> algorithm a457 cacm september 1973 bron kerbosch
+cliques maximal complete subgraphs clusters backtracking
+algorithm branch bound technique recursion 3.71
+
+CACM-1145
+----------------------------------------------------------------
+<hl>algorithms</hl> unknown interesting cases practical
+partially successful techniques gitgraph <hl>isomorphism</hl>
+testerincorporates variety processes attempt narrow search
+<hl>isomorphism</hl> demonstrate exists scheme
+
+CACM-2189
+----------------------------------------------------------------
+<hl>graph</hl> vertices hamitonian circuits equivalent .5n 1
+specific permutations elements termed rosary permutations
+defined corresponds circular permutations mirrorimage generated
+successively <hl>algorithms</hl> treating vertices presented
+easy derive permutations .5n 1 rosary permutations cycling
+permutations taking reverse orderprocedures performed fairly
+efficiently computer
+
+CACM-2275
+----------------------------------------------------------------
+<hl>singular</hl> <hl>decomposition</hl> constrain unknown
+function approximation represents probability distribution
+nonnegative number test cases presented set actual experimental
+data analyzed procedures
+
+CACM-2697
+----------------------------------------------------------------
+<hl>decomposition</hl> converges floatingpoint precision proved
+computed lu <hl>decomposition</hl> converges floatingpoint
+arithmetic limits lu diagonals floating point roughly machine
+precision limits <hl>matrix</hl> elements subdiagonals
+superdiagonals 1 4n2k3 operations needed entire lu
+<hl>decomposition</hl> takes words storage considerable savings
+array subscripting achieved upper ... <hl>method</hl> solving
+class tridiagonal linear systems solution linear systems real
+symmetric diagonally dominanttridiagonal coefficient matrices
+constant diagonals considered proved diagonals
+
+CACM-2701
+----------------------------------------------------------------
+<hl>graph</hl> edges algorithm worst case time bound oe log
+function operations shown programming terms number operations
+proportional number exits program
+
+CACM-2178
+----------------------------------------------------------------
+<hl>graph</hl> processing formal semantics simple programming
+language extension graspe processing directed graphs defined
+graspe consists type directed <hl>graph</hl> data structure ...
+<hl>graph</hl> processing programming language formal semantics
+directed <hl>graph</hl> lisp network data structure flowchart
+syntax language definition 4.2 4.22 5.23 5.24
+
+CACM-1899
+----------------------------------------------------------------
+<hl>method</hl> procedure employing lu <hl>decomposition</hl>
+algorithm 35 cacm 1969 bartels golub simplex <hl>method</hl>
+linear programming lu <hl>decomposition</hl> roundoff errors
+computational
+
+CACM-2568
+----------------------------------------------------------------
+<hl>graph</hl> formulation school scheduling algorithm problem
+classically titled examination schedule problem takes forms
+literature formulations presented terminology classical network
+theory
+
+CACM-2408
+----------------------------------------------------------------
+<hl>method</hl> methods solving biharmonic equation compared
+<hl>method</hl> direct eigenvalueeigenvector
+<hl>decomposition</hl> <hl>method</hl> iterative solving poisson
+equation directly iteration cacm november 1973
+
+CACM-1791
+----------------------------------------------------------------
+<hl>matrix</hl> <hl>decomposition</hl> <hl>matrix</hl> factors
+<hl>matrix</hl> modifier <hl>matrix</hl> perturbation 5.14
+ca6812 jb february 23 1978 2:5 pm 1791 5 1791 1791
+
+CACM-2015
+----------------------------------------------------------------
+<hl>graph</hl> formulation problem merging productions
+productions generated correspond minimum cost
+inversearborescence <hl>graph</hl> validity technique
+demonstrated weak precedence grammars defined productions
+
+CACM-2059
+----------------------------------------------------------------
+<hl>graph</hl> formulation <hl>graph</hl> operations node andor
+link deletion insertion union intersection comparison traversal
+graphs graphs represented linked lists language syntactically
+
+CACM-3100
+----------------------------------------------------------------
+<hl>method</hl> inducing knowledge abstraction sequence training
+examples proposed <hl>method</hl> interference matching induces
+abstractions finding relational properties common exemplars
+tasks solved
+
+CACM-2925
+----------------------------------------------------------------
+<hl>graph</hl> fast algorithm finding cycles utilized developed
+closedform expression term number contour poin ts upper bound
+number operations required execute
+
+CACM-2934
+----------------------------------------------------------------
+<hl>graph</hl> cacm august 1977 lawler <hl>graph</hl> network
+shortest path algorithm ranking 5.32 ca7789 jb december 28 1977
+7: 186 4
+
+CACM-1721
+----------------------------------------------------------------
+<hl>method</hl> proposed calculate intersection points plane
+curves theory <hl>singular</hl> points system differential
+equations developing <hl>method</hl> intersection point
+determined identified <hl>singular</hl> <hl>singular</hl> point
+stable integrals start neighborhood <hl>singular</hl> point
+approach point integral parameter tends infinity addition
+<hl>method</hl> systematically searching intersection points
+
+CACM-1934
+----------------------------------------------------------------
+<hl>graph</hl> theory programming storage minimization
+topological orderingtree 4.12 5.32 ca6924 jb february 2 1978
+11:11 187 4 1934 1934 4
+
+CACM-2125
+----------------------------------------------------------------
+<hl>method</hl> extracting smooth polygonal contour digitized
+image illustrated ordered sequence contour points connection
+<hl>graph</hl> image obtained modified ledley algorithm image
+
+CACM-3172
+----------------------------------------------------------------
+<hl>graph</hl> searching growing objects 3.15 3.64 3.66 8.1
+ca7915 db january 17 198 1:13 3172 4 3172 3116 5 3172
+
+CACM-2819
+----------------------------------------------------------------
+<hl>find</hl> optimal set codes representing substrings
+<hl>algorithms</hl> operation compared parameters
+<hl>algorithms</hl> optimized obtain high degree compression
+sample texts cacm november ... <hl>method</hl> general applies
+equally english pli digital data system consists encoder
+analysis program decoder <hl>algorithms</hl> encoding string
+differ slightly earlier
+
+CACM-1935
+----------------------------------------------------------------
+<hl>method</hl> binary nature offers potential information
+retrieval systems cacm february 1969 arora dent binary pattern
+examination <hl>graph</hl> theory information retrieval
+
+CACM-3125
+----------------------------------------------------------------
+<hl>graph</hl> testing algorithm shown execution cost nearly
+linear size program leads smaller optimizer requires execution
+time cacm february 1979 morel
+
+CACM-2986
+----------------------------------------------------------------
+<hl>matrix</hl> directed <hl>graph</hl> wirthweber precedence
+relation linear precedence function slr grammar tcanonical
+precedence relation 4.12 5.23 5.25 ca7736 jb december
+
+CACM-3153
+----------------------------------------------------------------
+<hl>algorithms</hl> partition main memory classes jobs
+considered initially closed system consisting process paging
+devices fixed numbers jobs studied determine optimal
+<hl>decomposition</hl> approach treating closed system single
+server response times open system external arrivals studied
+object investigate effect memory alocation parameters
+
+CACM-1925
+----------------------------------------------------------------
+<hl>graph</hl> contour map navigation 3.1 ca6932 jb february 2
+1978 9:41 1925 5 1925 1925 5 1925 1925 5 1925
+
+CACM-2402
+----------------------------------------------------------------
+<hl>algorithms</hl> adapted environment pictorial pattern
+recognition techniques make number approaches xray structure
+determination <hl>based</hl> molecular model building chemical
+information frame ... <hl>based</hl> autocorrelation patterson
+function <hl>especially</hl> large structures significant
+crystallography biological macromolecules hasbeen continue field
+intense interest cacm january 1972 lesk
+
+CACM-2920
+----------------------------------------------------------------
+<hl>graph</hl> representation game construct explicitly set safe
+states study properties cacm october 1977 devillers operating
+system multiprogramming timesharing resource allocation
+
+CACM-2554
+----------------------------------------------------------------
+<hl>eigenvalue</hl> problem algorithm reducing generalized
+<hl>eigenvalue</hl> problem ax lambda bx ordinary problem case
+symmetric band matrices positive definite order <hl>matrix</hl>
+
+CACM-2767
+----------------------------------------------------------------
+<hl>algorithms</hl> <hl>algorithms</hl> considered schedule
+events general purpose discrete simulation system
+<hl>algorithms</hl> <hl>based</hl> endorder tree structure event
+notices indexed linear list
+
+CACM-2389
+----------------------------------------------------------------
+<hl>algorithms</hl> solve problems expressed language rely
+<hl>heuristic</hl> programming language search
+<hl>algorithms</hl> detailed cacm february 1972 eastman
+automated design architecture <hl>heuristic</hl>
+
+CACM-3085
+----------------------------------------------------------------
+<hl>heuristic</hl> algorithm <hl>matrix</hl> multiplication
+<hl>matrix</hl> chain product 5.14 ca7873 dh february 8 1979
+2:46 pm 375 4 385 385 4 ... <hl>matrix</hl> chain products paper
+discusses computation <hl>matrix</hl> chain products form m1 m2
+mn mis matrices order matrices computed affects number
+
+CACM-3132
+----------------------------------------------------------------
+<hl>algorithms</hl> <hl>find</hl> central solutions pattern
+classification twoclass pattern recognition standard technique
+algorithm finding hyperplanes separates classes linearly
+separable training set ... <hl>algorithms</hl> finding central
+hyperplanes tested data sets frequently practice modified
+relaxation algorithm poor <hl>algorithms</hl> defined paper
+found good cacm march
+
+CACM-2081
+----------------------------------------------------------------
+<hl>matrix</hl> operators areext ended sequence operators
+cumulative operators <hl>algorithms</hl> symbol manipulation
+<hl>matrix</hl> expressions <hl>find</hl> forms suited
+computation forms called normal <hl>matrix</hl> <hl>matrix</hl>
+concatenation <hl>matrix</hl> sequences programming languages
+sequence operations symbol manipulation 4.12 4.22 5.14 5.41
+ca743 jb february 13 1978
+
+CACM-1456
+----------------------------------------------------------------
+<hl>graph</hl> structures experimental system lisp make
+conceptual dictionary dictionary associates english word
+syntactic information definitional material references contexts
+define words
+
+CACM-2213
+----------------------------------------------------------------
+<hl>matrix</hl> pencils generalized <hl>eigenvalue</hl> problem
+algorithm 45 cacm february 1971 dell weil thompson eigenvalues
+<hl>matrix</hl> roots pencil roots 5.1 5.3
+
+CACM-3138
+----------------------------------------------------------------
+<hl>method</hl> modified givens transformations applied lp
+problems efficient numerically stable <hl>method</hl> presented
+problem updating orthogonal <hl>decomposition</hl>
+<hl>matrix</hl> column row vectors
+
+CACM-1924
+----------------------------------------------------------------
+<hl>algorithms</hl> lead enormous savings number page faults
+occurring small part total <hl>matrix</hl> main memory time
+examination addition multiplication inversion
+<hl>algorithms</hl> <hl>matrix</hl> representation submatrix
+partition page cases induced fewer page faults rowbyrow
+representation number pagepulls required <hl>matrix</hl>
+manipulation <hl>algorithms</hl> studied function
+<hl>matrix</hl> <hl>algorithms</hl> array processing paging
+<hl>algorithms</hl> paged memory systems virtual memory systems
+array storage allocation storage allocation 4.12 4.39 5.14
+
+CACM-2923
+----------------------------------------------------------------
+<hl>method</hl> highlevel data flow analysis free escape jump
+statements avoids large graphs compiling large programs
+facilitates updating data flow information
+
+CACM-3008
+----------------------------------------------------------------
+<hl>graph</hl> embedding linear lists proximity average
+proximity trees 4.34 5.24 5.25 5.32 ca7835 jb march 28 1978 1:7
+pm 15
+
+CACM-2155
+----------------------------------------------------------------
+<hl>describing</hl> semantics data structures <hl>based</hl>
+directed graphs named edges transformations graphs addition
+implementation facility part programming language programmer
+expressed semantics
+
+CACM-2145
+----------------------------------------------------------------
+<hl>heuristic</hl> <hl>method</hl> simulates human approaches
+wiring design theoretically interesting timeconsuming
+<hl>method</hl> mazerunning <hl>based</hl> lees algorithm help
+performs 9 percent required ... <hl>heuristic</hl>
+etchingpattern layout program application program developed
+computerize tedious errorprone vitally important wiring design
+printed circuit boards help helps automate ...
+<hl>heuristic</hl> path respect performance function
+pointtopoint pointtoline connection bring number successful
+wiring connections close 1 percent cacm november 1971 aramaki
+
+CACM-2950
+----------------------------------------------------------------
+<hl>algorithms</hl> <hl>based</hl> abstract model scheduling
+system formalizes notion priority classes scheduling
+<hl>algorithms</hl> defined related existing <hl>algorithms</hl>
+criterion implementation efficiency algorithm
+<hl>algorithms</hl> include commonly implemented timeinvariant
+<hl>algorithms</hl> dependence processing rates priorities
+derived abstract model framework implementing flexible
+schedulers real operating systems
+
+CACM-1727
+----------------------------------------------------------------
+<hl>graph</hl> oneentry subgraph locally estimated jump
+frequencies supervisor overhead decreasing program segmentation
+algorithm jump frequencies program segmentation problem 4.11
+4.19
+
+CACM-3033
+----------------------------------------------------------------
+<hl>find</hl> optimal quasi optimal solutions <hl>heuristic</hl>
+search <hl>method</hl> introduced paper combines positive
+aspects techniques compressed tables large number variables
+handled ... <hl>heuristic</hl> direct search cluttered enormous
+search space number solutions increases number test variables
+according double exponential paper suggest heuristically guided
+
+CACM-1423
+----------------------------------------------------------------
+<hl>matrix</hl> generalized inverse <hl>matrix</hl> important
+analysis extension concept inverse applies matrices applications
+numerical analysis widely existing <hl>algorithms</hl> fairly
+complicated require <hl>method</hl> inverting nonsingular
+matrices generalized inverse extra effort additional storage
+requirements algorithm generalized inverse <hl>matrix</hl>
+including special case mn nonsingular
+
+CACM-1828
+----------------------------------------------------------------
+<hl>graph</hl> data base hierarchy directories online system
+methods synchronization processes examined validity discussed
+performance compared cacm november 1969 shoshani bernstein
+
+CACM-2523
+----------------------------------------------------------------
+<hl>coloring</hl> technique scene analysis <hl>method</hl>
+converting picture cartoon map regions correspond differently
+textured regions texture edges picture detected solid regions
+
+CACM-2094
+----------------------------------------------------------------
+<hl>algorithms</hl> mainly <hl>based</hl> exchange
+<hl>algorithms</hl> remes 1934 1935 solution paper application
+problems type general nonlinear algorithm due osborne watson
+considered
+
+CACM-3131
+----------------------------------------------------------------
+<hl>algorithms</hl> <hl>especially</hl> microcomputer control
+signal processing applications focus wideranging character
+floatingpoint numbers uniformity state distributions give focus
+twofold accuracy advantage
+
+CACM-2266
+----------------------------------------------------------------
+<hl>method</hl> polynomial deflation cacm november 1972 patrick
+parallel numerical <hl>algorithms</hl> real polynomials real
+zeros newtons <hl>method</hl> starting values guaranteed
+convergence
+
+CACM-1873
+----------------------------------------------------------------
+<hl>algorithms</hl> shown <hl>method</hl> computing related
+products accelerate pricing phase lp <hl>algorithms</hl> lp
+applications cacm july 1969 fox linear programming revised
+
+CACM-2273
+----------------------------------------------------------------
+<hl>method</hl> rule mask <hl>algorithms</hl> generating
+computer programs decision tables <hl>algorithms</hl> allow
+handling limited entry extended entry mixed entry tables
+<hl>algorithms</hl> ... <hl>algorithms</hl> combine degree
+advantages mask methods tree methods cacm october 1972 dathe
+decision tables rule mask rule mask <hl>method</hl> rule
+
+CACM-3037
+----------------------------------------------------------------
+<hl>method</hl> arithmetic complexity algorithm presented
+mairson version simpler elegant easily extended <hl>find</hl>
+prime factorization integers 2 time proportional cacm december
+
+CACM-3134
+----------------------------------------------------------------
+<hl>method</hl> organization retrieval attribute <hl>based</hl>
+information systems normal multiplication table directory
+information system <hl>algorithms</hl> organization retrieval
+information <hl>method</hl> suitable queries <hl>algorithms</hl>
+evaluating appropriateness approach information system class
+information systems normal multiplication table <hl>method</hl>
+yields rapid retrieval economical space requirement conventional
+
+CACM-2606
+----------------------------------------------------------------
+<hl>method</hl> compared graggbulirshstoer taylor series
+<hl>method</hl> taylor series <hl>method</hl> <hl>method</hl>
+shown superior speed accuracy <hl>method</hl> shown superior
+solution required singularity
+
+CACM-2561
+----------------------------------------------------------------
+<hl>heuristic</hl> approach inductive inference fact retrieval
+systems <hl>heuristic</hl> procedures presented developed
+perform inferences generalizing information procedures make
+similarity structure imposed
+
+CACM-2903
+----------------------------------------------------------------
+<hl>algorithms</hl> solve pattern matching problems recursion
+troduction <hl>algorithms</hl> manipulate stack translated
+recursive <hl>algorithms</hl> stack operations occur
+<hl>algorithms</hl> subjected transformation <hl>method</hl>
+
+CACM-2146
+----------------------------------------------------------------
+<hl>algorithms</hl> polyphase sorting procedure examinedhe
+optimum algorithm <hl>based</hl> minimizing total number unit
+strings read displayed logic algorithm complicated dispersion
+<hl>algorithms</hl> <hl>algorithms</hl> discussed horizontal
+approximately onefourth onehalf percent reading writing
+<hl>algorithms</hl> today additional onefourth percent
+improvement achieved utilizing modified optimum algorithm
+
+CACM-2890
+----------------------------------------------------------------
+<hl>algorithms</hl> analytic models storeandforward
+communications network constructed <hl>find</hl> optimal message
+routing illustrate equilibrium stationary state maintained
+adaptive routing algorithm models
+
+CACM-2247
+----------------------------------------------------------------
+<hl>decomposition</hl> shown unconventional decompositions
+distinct advantages goals outlined criteria arriving
+decompositions discussed unconventional <hl>decomposition</hl>
+implemented conventional assumption module consists subroutines
+

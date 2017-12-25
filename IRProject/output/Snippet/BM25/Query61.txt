@@ -1,0 +1,200 @@
+CACM-2711
+----------------------------------------------------------------
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> ... <hl>types</hl>
+includes provision programmerdefined <hl>data</hl>
+<hl>types</hl> <hl>data</hl> <hl>types</hl> generic routines
+<hl>programmer</hl> control <hl>type</hl> conversion flexible
+<hl>data</hl> <hl>type</hl> behavior context efficient
+representation cacm 1974 wegbreit <hl>data</hl> <hl>types</hl>
+modes mode unions <hl>type</hl> conversion coercion generic
+functions <hl>extensible</hl> <hl>languages</hl> <hl>data</hl>
+<hl>type</hl> <hl>definition</hl> <hl>data</hl>
+
+CACM-2307
+----------------------------------------------------------------
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> ... <hl>types</hl>
+includes provision programmerdefined <hl>data</hl>
+<hl>types</hl> <hl>data</hl> <hl>types</hl> generic routines
+<hl>programmer</hl> control <hl>type</hl> conversion flexible
+<hl>data</hl> <hl>type</hl> behavior context efficient
+representation cacm 1974 wegbreit <hl>data</hl> <hl>types</hl>
+modes mode unions <hl>type</hl> conversion coercion generic
+functions <hl>extensible</hl> <hl>languages</hl> <hl>data</hl>
+<hl>type</hl> <hl>definition</hl> <hl>data</hl>
+
+CACM-1236
+----------------------------------------------------------------
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> ... <hl>types</hl>
+includes provision programmerdefined <hl>data</hl>
+<hl>types</hl> <hl>data</hl> <hl>types</hl> generic routines
+<hl>programmer</hl> control <hl>type</hl> conversion flexible
+<hl>data</hl> <hl>type</hl> behavior context efficient
+representation cacm 1974 wegbreit <hl>data</hl> <hl>types</hl>
+modes mode unions <hl>type</hl> conversion coercion generic
+functions <hl>extensible</hl> <hl>languages</hl> <hl>data</hl>
+<hl>type</hl> <hl>definition</hl> <hl>data</hl>
+
+CACM-1457
+----------------------------------------------------------------
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> ... <hl>types</hl>
+includes provision programmerdefined <hl>data</hl>
+<hl>types</hl> <hl>data</hl> <hl>types</hl> generic routines
+<hl>programmer</hl> control <hl>type</hl> conversion flexible
+<hl>data</hl> <hl>type</hl> behavior context efficient
+representation cacm 1974 wegbreit <hl>data</hl> <hl>types</hl>
+modes mode unions <hl>type</hl> conversion coercion generic
+functions <hl>extensible</hl> <hl>languages</hl> <hl>data</hl>
+<hl>type</hl> <hl>definition</hl> <hl>data</hl>
+
+CACM-3134
+----------------------------------------------------------------
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> ... <hl>types</hl>
+includes provision programmerdefined <hl>data</hl>
+<hl>types</hl> <hl>data</hl> <hl>types</hl> generic routines
+<hl>programmer</hl> control <hl>type</hl> conversion flexible
+<hl>data</hl> <hl>type</hl> behavior context efficient
+representation cacm 1974 wegbreit <hl>data</hl> <hl>types</hl>
+modes mode unions <hl>type</hl> conversion coercion generic
+functions <hl>extensible</hl> <hl>languages</hl> <hl>data</hl>
+<hl>type</hl> <hl>definition</hl> <hl>data</hl>
+
+CACM-0634
+----------------------------------------------------------------
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> ... <hl>types</hl>
+includes provision programmerdefined <hl>data</hl>
+<hl>types</hl> <hl>data</hl> <hl>types</hl> generic routines
+<hl>programmer</hl> control <hl>type</hl> conversion flexible
+<hl>data</hl> <hl>type</hl> behavior context efficient
+representation cacm 1974 wegbreit <hl>data</hl> <hl>types</hl>
+modes mode unions <hl>type</hl> conversion coercion generic
+functions <hl>extensible</hl> <hl>languages</hl> <hl>data</hl>
+<hl>type</hl> <hl>definition</hl> <hl>data</hl>
+
+CACM-2451
+----------------------------------------------------------------
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> ... <hl>types</hl>
+includes provision programmerdefined <hl>data</hl>
+<hl>types</hl> <hl>data</hl> <hl>types</hl> generic routines
+<hl>programmer</hl> control <hl>type</hl> conversion flexible
+<hl>data</hl> <hl>type</hl> behavior context efficient
+representation cacm 1974 wegbreit <hl>data</hl> <hl>types</hl>
+modes mode unions <hl>type</hl> conversion coercion generic
+functions <hl>extensible</hl> <hl>languages</hl> <hl>data</hl>
+<hl>type</hl> <hl>definition</hl> <hl>data</hl>
+
+CACM-2160
+----------------------------------------------------------------
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> ... <hl>types</hl>
+includes provision programmerdefined <hl>data</hl>
+<hl>types</hl> <hl>data</hl> <hl>types</hl> generic routines
+<hl>programmer</hl> control <hl>type</hl> conversion flexible
+<hl>data</hl> <hl>type</hl> behavior context efficient
+representation cacm 1974 wegbreit <hl>data</hl> <hl>types</hl>
+modes mode unions <hl>type</hl> conversion coercion generic
+functions <hl>extensible</hl> <hl>languages</hl> <hl>data</hl>
+<hl>type</hl> <hl>definition</hl> <hl>data</hl>
+
+CACM-2114
+----------------------------------------------------------------
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> ... <hl>types</hl>
+includes provision programmerdefined <hl>data</hl>
+<hl>types</hl> <hl>data</hl> <hl>types</hl> generic routines
+<hl>programmer</hl> control <hl>type</hl> conversion flexible
+<hl>data</hl> <hl>type</hl> behavior context efficient
+representation cacm 1974 wegbreit <hl>data</hl> <hl>types</hl>
+modes mode unions <hl>type</hl> conversion coercion generic
+functions <hl>extensible</hl> <hl>languages</hl> <hl>data</hl>
+<hl>type</hl> <hl>definition</hl> <hl>data</hl>
+
+CACM-2990
+----------------------------------------------------------------
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> ... <hl>types</hl>
+includes provision programmerdefined <hl>data</hl>
+<hl>types</hl> <hl>data</hl> <hl>types</hl> generic routines
+<hl>programmer</hl> control <hl>type</hl> conversion flexible
+<hl>data</hl> <hl>type</hl> behavior context efficient
+representation cacm 1974 wegbreit <hl>data</hl> <hl>types</hl>
+modes mode unions <hl>type</hl> conversion coercion generic
+functions <hl>extensible</hl> <hl>languages</hl> <hl>data</hl>
+<hl>type</hl> <hl>definition</hl> <hl>data</hl>
+

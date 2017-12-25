@@ -1,0 +1,600 @@
+CACM-1524
+----------------------------------------------------------------
+<hl>polynomial</hl> <hl>root</hl> finding searching
+<hl>root</hl> <hl>polynomial</hl> generally difficult know
+accept number adequate approximation <hl>root</hl> paper
+algorithm presented terminate iteration process
+
+CACM-1763
+----------------------------------------------------------------
+<hl>polynomial</hl> equations algorithm 326 cacm april 1968
+nonweiler <hl>root</hl> finders <hl>polynomial</hl> equation
+roots quadratic equation roots cubic equation roots biquadratic
+
+CACM-1999
+----------------------------------------------------------------
+<hl>root</hl> slow divide machine slow division preferable
+iterative scheme square <hl>root</hl> classical heron scheme
+problem optimal initial approximants considered optimal
+
+CACM-1893
+----------------------------------------------------------------
+<hl>root</hl> finders roots <hl>polynomial</hl> equations
+<hl>polynomial</hl> zeros rootsquaring operations graeffe method
+resultant procedure subresultant procedure testing roots
+acceptance criteria 5.15
+
+CACM-2660
+----------------------------------------------------------------
+<hl>polynomial</hl> <hl>root</hl> finding real zeros 5.15 ca7441
+jb february 1 1978 1:36 266 4 266 2266 5 266 266 5
+
+CACM-1667
+----------------------------------------------------------------
+<hl>root</hl> finders roots <hl>polynomial</hl> equations
+<hl>polynomial</hl> zeros rootsquaring operations graeffe method
+resultant procedure subresultant procedure testing roots
+acceptance criteria 5.15
+
+CACM-1620
+----------------------------------------------------------------
+<hl>polynomial</hl> approximations function evaluation routines
+method nested multiplication commonly function evaluation
+routines evaluate approximation polynomials <hl>polynomial</hl>
+evaluation methods developed <hl>recent</hl>
+
+CACM-0397
+----------------------------------------------------------------
+<hl>material</hl> field columns 167 identification field columns
+688 format reference <hl>material</hl> flexible format
+identification rigid reference <hl>material</hl> includes
+basically index
+
+CACM-1882
+----------------------------------------------------------------
+<hl>root</hl> positive definite matrix algorithm 298 cacm june
+1969 duke matrix symmetric matrix positive definite matrix
+matrix square <hl>root</hl> 5.14
+
+CACM-1949
+----------------------------------------------------------------
+<hl>isolation</hl> computer scientists cacm december 197 wagner
+algol fortran finiteness assumptions intellectual
+<hl>isolation</hl> integer variable range memory finiteness
+finite word
+
+CACM-1440
+----------------------------------------------------------------
+<hl>root</hl> calculation ibm system36 starting approximations
+square <hl>root</hl> calculation newtons method presented form
+facilitate ibm system36 square <hl>root</hl> routines
+approximations
+
+CACM-1615
+----------------------------------------------------------------
+<hl>root</hl> locus diagrams technique digital computer draw
+ordinary timelag <hl>root</hl> locus diagrams ordinary diagrams
+drawn faster accurately timelag diagrams impossible
+
+CACM-1932
+----------------------------------------------------------------
+<hl>root</hl> problem obtaining optimal starting values
+calculation square <hl>root</hl> newtons method considered
+pointed relative error measure goodness fit optimal results
+
+CACM-2808
+----------------------------------------------------------------
+<hl>material</hl> teaching purposes relevant interesting
+historical <hl>material</hl> acceleration methods developed
+purpose evaluating constants problems cacm january 1975 todd
+lemniscate acceleration
+
+CACM-0848
+----------------------------------------------------------------
+<hl>root</hl> logarithm germ idea previous papers picked years
+functions desirable transform argument short range symmetric 1.1
+give examples usage square
+
+CACM-1644
+----------------------------------------------------------------
+<hl>polynomial</hl> makes computed <hl>polynomial</hl>
+approximation true square <hl>polynomial</hl> simple method
+adjust ing constant term computed <hl>polynomial</hl>
+approximation true squares <hl>polynomial</hl>
+
+CACM-0334
+----------------------------------------------------------------
+<hl>root</hl> quaterimaginary number system cacm april 1961
+nadler ca61334 jb march 16 1978 11:16 pm 334 5 334 334 5
+
+CACM-1520
+----------------------------------------------------------------
+<hl>root</hl> complex number algorithm 312 cacm october 1967
+friedland ca67112a jb february 27 1978 1:49 pm 152 5 152 152
+
+CACM-1014
+----------------------------------------------------------------
+<hl>interested</hl> interactions impossible ignore experimental
+designs problem getting error terms natural look computer handle
+bulk work involved computing interactions program
+
+CACM-1726
+----------------------------------------------------------------
+<hl>material</hl> technical journals simpler <hl>material</hl>
+instance claims sections patents applications utmost accuracy
+unsupervised mode advocated textual portions page located rapid
+
+CACM-2385
+----------------------------------------------------------------
+<hl>polynomial</hl> algorithm a419 cacm february 1972 jenkins
+traub roots roots <hl>polynomial</hl> zeros <hl>polynomial</hl>
+5.15 ca7226 jb january 31 1978 4:14
+
+CACM-1031
+----------------------------------------------------------------
+<hl>root</hl> equation fx means computing roots sequence related
+equations cacm july 1964 beyer ca64716 jb march 9 1978 7:44 pm
+
+CACM-0672
+----------------------------------------------------------------
+<hl>recent</hl> developments affecting adp tax administration
+cacm december 1963 leibowitz ca63122 jb march 13 1978 3:14 pm
+672 5 672
+
+CACM-1867
+----------------------------------------------------------------
+<hl>interested</hl> ratio lj expected length jth sequence
+generated technique number memory cells complexvariable theory
+shown lj 2 asymptotically average interval
+
+CACM-1643
+----------------------------------------------------------------
+<hl>polynomial</hl> factorization methods <hl>polynomial</hl>
+factorization find zeros time require division
+<hl>polynomial</hl> accepted factor shown accuracy division
+increased dividing order ascending
+
+CACM-1623
+----------------------------------------------------------------
+<hl>interested</hl> problem stated general mathematical sense
+interest areas circuit analysis cacm march 1967 neidleman ca6736
+jb february 28 1978 1:27
+
+CACM-2999
+----------------------------------------------------------------
+<hl>recent</hl> work development generalpurpose computerbased
+statistical data processing capabilities handling
+multidimensional arrays data presented attention general
+problems multidimensional table array
+
+CACM-1456
+----------------------------------------------------------------
+<hl>material</hl> references contexts define words relations
+class inclusion possession active passive actions definitional
+<hl>material</hl> resulting structure serves powerful vehicle
+research
+
+CACM-1832
+----------------------------------------------------------------
+<hl>root</hl> 5.1 ca69114 jb february 15 1978 1:38 pm 1832 4
+1832 1999 4 1832 2159 4 1832 1832 5
+
+CACM-3114
+----------------------------------------------------------------
+<hl>isolation</hl> word processing text editing program
+maintenance hash coding compression bandwidth compression
+longest common subsequence comparison molecular evolution 3.63
+3.73
+
+CACM-1803
+----------------------------------------------------------------
+<hl>root</hl> finding algorithm 365 cacm december 1969 bach
+downhill method complex relaxation method complex iteration
+complex equation transcendental complex equation
+
+CACM-1940
+----------------------------------------------------------------
+<hl>polynomial</hl> derivative values horner scheme algorithm
+337 cacm january 1969 smith function evaluation
+<hl>polynomial</hl> evaluation algol procedure horners scheme
+4.22
+
+CACM-1689
+----------------------------------------------------------------
+<hl>polynomial</hl> derivative values horner scheme algorithm
+337 cacm september 1968 pankiewicz function evaluation
+<hl>polynomial</hl> evaluation algol procedure horners scheme
+5.12
+
+CACM-2266
+----------------------------------------------------------------
+<hl>polynomial</hl> real zeros algorithm based newtons method
+simultaneously approximates zeros <hl>polynomial</hl> real zeros
+algorithm conceptually suitable parallel computation determines
+starting
+
+CACM-1254
+----------------------------------------------------------------
+<hl>recent</hl> addition mad language made iteration structure
+mad statement algol statement fortran statement expressions cacm
+june 1965 galler fischer ca6561
+
+CACM-1495
+----------------------------------------------------------------
+<hl>root</hl> known yx algorithm illustrated equation yy ln cacm
+january 1966 thacher jr ca6612 jb march 3 1978 4:27 pm
+
+CACM-2090
+----------------------------------------------------------------
+<hl>polynomial</hl> distribution <hl>polynomial</hl> expansion
+3.1 3.17 3.2 4.13 4.9 ca738 jb february 13 1978 3:49 pm 29 5 29
+29
+
+CACM-0281
+----------------------------------------------------------------
+<hl>recent</hl> notes approximate natural antilogy considered
+indirect formulations describing note produce family fast high
+precision eminently practical exponential evaluation formulas
+
+CACM-2822
+----------------------------------------------------------------
+<hl>material</hl> granted provided acms copyright notice
+reference made publication data issue fact reprinting privileges
+granted permission association computing machinery cacm
+
+CACM-0111
+----------------------------------------------------------------
+<hl>polynomial</hl> equations numerical techniques presented
+computing roots <hl>polynomial</hl> equations applying
+recommended scaling inversion rules basic bairstow newtonraphson
+iterative techniques applied
+
+CACM-1253
+----------------------------------------------------------------
+<hl>material</hl> understandable reader familiar algebraic
+languages cacm june 1965 tonge keller newell ca6562 jb march 7
+1978 12:45 pm 1253
+
+CACM-1420
+----------------------------------------------------------------
+<hl>root</hl> prime generator passes usual statistical tests
+addition significant bits random significant bitsa property
+generators modulus 2k possess cacm june
+
+CACM-1875
+----------------------------------------------------------------
+<hl>polynomial</hl> spline approximation quadratic programming
+problem approximation function fitting set data approximating
+function required derivations sign range approximation studied
+approaches
+
+CACM-0492
+----------------------------------------------------------------
+<hl>interested</hl> mathematics introduction summary sufficient
+cacm august 1962 schay jr spruth ca62836 jb march 17 1978 9:2 pm
+911 5
+
+CACM-1015
+----------------------------------------------------------------
+<hl>polynomial</hl> approximations partitioning intervals method
+nearminimax <hl>polynomial</hl> approximation byproduct method
+formula estimate maximum error degree approximation formula
+partitioning algorithm obtained
+
+CACM-0276
+----------------------------------------------------------------
+<hl>material</hl> presented paper part design plan core
+allocation portion asciimatic programming system project
+asciimatic concerned application computer techniques activities
+headquarters
+
+CACM-0531
+----------------------------------------------------------------
+<hl>interested</hl> maintenance psychiatric case register
+maryland reports hundred psychiatric agencies refer patient
+records linked order provide unduplicated counts individuals
+care
+
+CACM-0116
+----------------------------------------------------------------
+<hl>recent</hl> motor trip mexico writer came adding device
+referred sumador chino chinese adder survey literature history
+mathematics instruments calculation uncovered
+
+CACM-0341
+----------------------------------------------------------------
+<hl>polynomial</hl> algorithm 1 cacm april 1961 herndon ca61427
+jb march 16 1978 11:38 pm 341 5 341 341 5 341
+
+CACM-0842
+----------------------------------------------------------------
+<hl>polynomial</hl> algorithm 174 cacm june 1963 gibb ca6367 jb
+march 14 1978 1:21 842 5 842 842 5 842 842
+
+CACM-1080
+----------------------------------------------------------------
+<hl>polynomial</hl> coefficients algorithm 227 cacm 1964 cyvin
+ca6459 jb march 9 1978 11:57 pm 18 5 18 18 5 18
+
+CACM-2458
+----------------------------------------------------------------
+<hl>polynomial</hl> algorithm r429 cacm august 1973 williams
+ca73816 jb january 23 1978 1:26 2458 5 2458 2458 5 2458 2458
+
+CACM-2676
+----------------------------------------------------------------
+<hl>polynomial</hl> algorithm r419 cacm march 1973 withers
+ca7437 jb january 18 1978 11:11 2676 5 2676 2676 5 2676 2676
+
+CACM-0062
+----------------------------------------------------------------
+<hl>polynomial</hl> curve fitting cacm september 1959 lesh
+ca5997 jb march 22 1978 4:44 pm 62 5 62 62 5 62
+
+CACM-0325
+----------------------------------------------------------------
+<hl>polynomial</hl> equation algorithm 3 cacm 1961 alexander
+ca6159 jb march 16 1978 1:58 pm 325 5 325 325 5 325
+
+CACM-1599
+----------------------------------------------------------------
+<hl>polynomial</hl> equation algorithm 3 cacm 1967 kohfeld
+ca6756d jb march 23 1978 4:3 pm 1599 5 1599 1599 5 1599
+
+CACM-1946
+----------------------------------------------------------------
+<hl>polynomial</hl> resultants bezouts determinant collins
+reduced algorithm algorithms computing resultant polynomials
+variables key repetitive step computation solving systems
+<hl>polynomial</hl> equations ... <hl>polynomial</hl> resultant
+elimination bezouts determinant sylvesters determinant reduced
+prs algorithm euclidean algorithm multivariate
+<hl>polynomial</hl> equations 4.4 5.1 5.15 5.41 ca6913
+
+CACM-0112
+----------------------------------------------------------------
+<hl>polynomial</hl> equation algorithm 3 cacm december 196
+ellenberger ca6124 jb march 2 1978 6:44 pm 112 5 112 112 5
+
+CACM-0179
+----------------------------------------------------------------
+<hl>polynomial</hl> pnx recursion algorithm cacm june 196 galler
+ca6611 jb march 2 1978 9:35 pm 179 5 179 179 5
+
+CACM-0180
+----------------------------------------------------------------
+<hl>polynomial</hl> lnx recursion algorithm cacm june 196 galler
+ca661 jb march 2 1978 9:36 pm 18 5 18 18 5
+
+CACM-0181
+----------------------------------------------------------------
+<hl>polynomial</hl> hnx recursion algorithm cacm june 196 galler
+ca669 jb march 2 1978 9:37 pm 181 5 181 181 5
+
+CACM-0182
+----------------------------------------------------------------
+<hl>polynomial</hl> tnx recursion algorithm cacm june 196 galler
+ca668 jb march 2 1978 9:38 pm 182 5 182 182 5
+
+CACM-0342
+----------------------------------------------------------------
+<hl>polynomial</hl> equation barstowhitchcock algorithm 3 cacm
+april 1961 herndon ca61426 jb march 16 1978 11:39 pm 342 5 342
+342
+
+CACM-0647
+----------------------------------------------------------------
+<hl>polynomial</hl> equation algorithm 3 cacm january 1962 cohen
+ca62112 jb march 2 1978 4:32 pm 647 5 647 647 5
+
+CACM-0764
+----------------------------------------------------------------
+<hl>polynomial</hl> elements algorithm 17 cacm august 1963
+hennion ca63834 jb march 13 1978 8:9 pm 764 5 764 764 5
+
+CACM-2440
+----------------------------------------------------------------
+<hl>polynomial</hl> algorithm r429 cacm september 1973 driessen
+hunt lem ca73915 jb january 23 1978 8:34 244 5 244 244 5
+
+CACM-1294
+----------------------------------------------------------------
+<hl>recent</hl> paper gregory raney technique doubleprecision
+floatingpoint arithmetic similar technique developed
+tripleprecision floatingpoint arithmetic purpose note describe
+technique multiplication division
+
+CACM-2181
+----------------------------------------------------------------
+<hl>material</hl> study curricular needs regional meetings
+united states held 197 broad cross section invited academicians
+practitioners considered state curricula business
+
+CACM-0226
+----------------------------------------------------------------
+<hl>polynomial</hl> equation bairstowhitchcock method algorithm
+3 cacm february 196 grau ca626 jb march 22 1978 2:2 pm 226 5 226
+
+CACM-0388
+----------------------------------------------------------------
+<hl>polynomial</hl> equations bairstow hitchcock method
+algorithm 3 cacm february 1961 vandergraft ca6121 jb march 17
+1978 12:54 388 5 388
+
+CACM-0765
+----------------------------------------------------------------
+<hl>polynomial</hl> squares surface fit algorithm 164 cacm
+august 1963 bitterli ca63833 jb march 13 1978 8:1 pm 765 5 765
+
+CACM-1450
+----------------------------------------------------------------
+<hl>polynomial</hl> roots real simple algorithm 283 cacm april
+1966 kerner ca6643e jb march 23 1978 7:19 pm 145 5 145
+
+CACM-3058
+----------------------------------------------------------------
+<hl>root</hl> number records multiple level variable size jump
+strategies explored applications discussed performance evaluated
+cacm october 1978 shneiderman jump searching
+
+CACM-0089
+----------------------------------------------------------------
+<hl>polynomial</hl> coefficients cacm april 1959 larson marshall
+ca5943 jb march 22 1978 7:12 pm 89 5 89 89 5 89
+
+CACM-0884
+----------------------------------------------------------------
+<hl>polynomial</hl> squares surface fit algorithm 164 cacm april
+1963 clark kubik phillips ca6347 jb march 14 1978 12:25 pm 884
+
+CACM-0125
+----------------------------------------------------------------
+<hl>polynomial</hl> transformer algorithm 29 cacm november 196
+mackinney ca6111 jb march 2 1978 7:6 pm 125 5 125 125 5
+
+CACM-1333
+----------------------------------------------------------------
+<hl>recent</hl> article wolfe simpler slightly flexible
+algorithm presented deals case negative addends cacm january
+1965 ross ca6514 jb march 8
+
+CACM-2291
+----------------------------------------------------------------
+<hl>polynomial</hl> algorithm a429 cacm august 1972 squire
+polynomials roots polynomialstheory equations routhhurwitz
+criterion 5.15 ca72811 jb january 3 1978 9:21
+
+CACM-2486
+----------------------------------------------------------------
+<hl>material</hl> mathematical formulas solutions problems
+devised information system american institute physics include
+representation special characters foreign alphabets mathematical
+symbols input
+
+CACM-0177
+----------------------------------------------------------------
+<hl>polynomial</hl> equation bairstow hitchcock method grau
+communications acm february 196 algorithm cacm june 196 thacher
+jr ca6613 jb march 2
+
+CACM-0340
+----------------------------------------------------------------
+<hl>polynomial</hl> algorithm 13 cacm april 1961 herndon ca61428
+jb march 16 1978 11:37 pm 1611 5 34 34 5 34
+
+CACM-1386
+----------------------------------------------------------------
+<hl>polynomial</hl> integer coefficients presented algorithm
+extension technique kronecker proof prime factoring
+<hl>polynomial</hl> found finite number steps algorithm consists
+factoring singlevariable
+
+CACM-1197
+----------------------------------------------------------------
+<hl>polynomial</hl> qd algorithm method finds simultaneously
+zeros <hl>polynomial</hl> developed rutishauser tested number
+polynomials real coefficients slowly converging method
+quotientdifference qd
+
+CACM-1441
+----------------------------------------------------------------
+<hl>recent</hl> methods due butcher gear compared classic
+rungekutta kuttanystrom adams methods newer onestep methods due
+butcher found slightly superior method
+
+CACM-2696
+----------------------------------------------------------------
+<hl>polynomial</hl> cell rectangular grid emphasis avoiding
+excessive undulation grid points proposed method extension
+method univariate interpolation developed earlier author
+likewise
+
+CACM-1638
+----------------------------------------------------------------
+<hl>polynomial</hl> <hl>polynomial</hl> approaches 2 approaches
+infinity recursive formulas obtained mean standard deviation
+length jth sequence mathematical proofs results based assumption
+
+CACM-1933
+----------------------------------------------------------------
+<hl>root</hl> 261 1 largest prime mersenne number construction
+pseudorandom number generator increased cycle length cacm
+february 1969 payne rabung bogyo
+
+CACM-1586
+----------------------------------------------------------------
+<hl>polynomial</hl> linear combination polynomials satisfying
+threeterm recursion convergence properties method derived cacm
+june 1967 golub robertson ca6766 jb february 28
+
+CACM-1121
+----------------------------------------------------------------
+<hl>recent</hl> paper describing notations symbol manipulation
+barnett comm acm 6august 1963 cacm march 1964 barnett gerard
+sambles ca6431 jb march
+
+CACM-0327
+----------------------------------------------------------------
+<hl>polynomial</hl> resultant procedure algorithm 59 cacm 1961
+bareiss fisherkeller ca6157 jb march 16 1978 11:1 pm 1667 5 327
+327
+
+CACM-0962
+----------------------------------------------------------------
+<hl>root</hl> cdc36 january 196 late hans maehly completed
+summary approximations elementary functions cdc164 computer
+approximations techniques suggested maehly equally applicable
+
+CACM-0819
+----------------------------------------------------------------
+<hl>polynomial</hl> evaluation revised cacm july 1963 eisman
+ca6375 jb march 14 1978 8:46 162 4 819 819 4 819 162
+
+CACM-1362
+----------------------------------------------------------------
+<hl>material</hl> paper equally applicable principle proposed
+iso international 7bit code information interchange cacm october
+1966 ca6615 jb march 2 1978
+
+CACM-1037
+----------------------------------------------------------------
+<hl>polynomial</hl> elements algorithm 17 cacm july 1964 priebe
+ca6471 jb march 9 1978 8:13 pm 137 4 137 1234 4
+
+CACM-1806
+----------------------------------------------------------------
+<hl>root</hl> modifications original method proposed program
+fortran based modified method algorithm 365 numerical examples
+included cacm december 1969 bach downhill
+
+CACM-1032
+----------------------------------------------------------------
+<hl>material</hl> organization make access information efficient
+identification information paper suggests metalanguage recently
+discussed paper goffman verhoeff belzer object language
+searching
+
+CACM-1516
+----------------------------------------------------------------
+<hl>recent</hl> years makes essential storage requirements
+information minimum fully automatic rapid threepart compressor
+body information greatly reduce slow external storage
+
+CACM-2837
+----------------------------------------------------------------
+<hl>recent</hl> algorithm hyafil cacm september 1976 yap
+selection problem algorithms comparison problems concrete
+computational complexity upper bounds worstcase analysis 5.25
+
+CACM-2391
+----------------------------------------------------------------
+<hl>polynomial</hl> synthesis reverse horner scheme reverse
+synthetic division binomial coefficients 5.11 5.3 5.5 ca72112 jb
+february 1 1978 8:55 2391
+
+CACM-1046
+----------------------------------------------------------------
+<hl>recent</hl> paper presented interesting programming system
+developed ferranti atlas computer present paper describes major
+features system expands points original authors
+

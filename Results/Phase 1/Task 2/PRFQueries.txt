@@ -1,0 +1,64 @@
+articles exist deal tss time sharing system operating system ibm computers design pm memory computer virtual input
+interested articles written prieve udo pooch prieve pooch march pm program computer number language
+intermediate languages construction multitargeted compilers tcoll programming language compiler grammar contextfree syntax
+im interested mechanisms communicating disjoint processes possibly exclusively distributed environment descriptions complete mechanisms implementations opposed theoretical work abstract problem remote procedure calls messagepassing examples interests data programming language control program graphical
+id papers design implementation editing interfaces windowmanagers command interpreters essential issues human interface design views improvements user efficiency effectiveness satisfaction language computer display data online interactive
+interested articles robotics motion planning geometric combinatorial aspects interested dynamics arm motion computer pm language equations problem march
+interested distributed algorithms concurrent programs processes communicate synchronize message passing areas interest include faulttolerance techniques understanding correctness algorithms program programming operating routing problem network
+addressing schemes resources networks resource addressing network operating systems computer allocation information scheduling deadlock timesharing
+security considerations local networks network operating systems distributed systems data information computer simulation time model
+parallel languages languages parallel computation programming pm program language algorithm processing
+setl high level languages language programming data programs pm program
+portable operating systems software program pm data number january
+code optimization space efficiency expressions program storage pm 4.12 time
+find discussions optimal implementations sort algorithms database management applications information algorithm routing storage design time
+find discussions horizontal microcode optimization special emphasis optimization loops global optimization algorithm analysis flow code program data
+find descriptions handling operating systems based multiple processes message passing set computer programs program multiprogramming software
+optimization intermediate machine code language program pm compiler time 4.12
+languages compilers parallel processors especially highly horizontal microcoded machines code compaction programming algorithm pm language computers expressions
+parallel algorithms processing list algorithm time clipping january
+graph theoretic algorithms applicable sparse matrices matrix algorithm data pm january method
+computational complexity intractability classcomplete reductions algorithms efficiency problem algorithm 5.25 analysis set number
+interested hiddenline hiddensurface algorithms cylinders toroids spheres cones specialized topic computer graphics method clipping pm january surface display
+distributed computing structures algorithms data pm routing distribution algorithm january
+applied stochastic processes data pm process march programming algorithm
+performance evaluation modelling computer systems information timesharing model measurement design january
+concurrency control mechanisms operating systems data programming protection design computer access
+memory management aspects operating systems paging data model storage virtual allocation
+information packet radio networks interest algorithms packet routing dealing network topography interested hardware network computer computing distributed january simulation communication
+numbertheoretic algorithms especially involving prime number series sieves chinese remainder theorem generator algorithm complement pm arithmetic numbers
+articles text formatting systems including systems examples tnroff scribe bravo data retrieval information programming memory processing
+id find articles describing singular decomposition digital image processing applications include finding approximations original image restoring images subject noise article subject andrews patterson outer product expansions digital image processing american mathematical andrews patterson display computer picture graphics raster algorithm
+id find articles describing graph algorithms based eigenvalue decomposition singular decomposition ajacency matrix graph im especially interested heuristic algorithms graph coloring graph isomorphism method algorithm problem search pm 5.32 january
+articles sensitivity eigenvalue decomposition real matrices zeroone matrices im especially interested separation eigenspaces distinct eigenvalues articles subject davis kahn rotation eigenvectors permutation siam numerical analysis vol 7 1 stewart error bounds approximate invariant subspaces closed linear operators siam numerical analysis vol 8 4 davis kahn stewart matrix algorithm january pm 5.14 problem
+interested isolation root polynomial recent material heindel square february pm roots error optimal
+probabilistic algorithms especially dealing algebraic symbolic manipulation examples rabiin probabilistic algorithm finite field siam waztch probabilistic testing polynomial identities siam rabinm storage pm computer january method functions
+fast algorithm contextfree language recognition parsing grammar grammars precedence analysis pm analyzer
+articles describing relationship data types concurrency type process synchronization attempt processes type correct messagepassing system notion types messagesie check sender message receiver treating bit stream type programming language abstract languages pm errors
+type module dont want entire literature abstract data types im sure phrase avoid im interested questions check module matches contexts language program programming languages structure pm
+type compatibility mean languages allow programmer defined types want restrict extensible languages allow definition abstract data types programmersupplied definitions operators programming language program structure design abstractions
+list articles dealing data types languages referenced frequently papers languages catch languages interesting type structures missed programming language program structure design processing
+theory distributed systems databases subtopics special interest include reliability faulttolerance distributed systems atomicity distributed transactions synchronization algorithms resource allocation lower bounds models asynchronous parallel systems theory communicating processes protocols box 2158 yale station haven conn 652 computer operating 4.32 process program programming
+computer performance evaluation techniques pattern recognition clustering la 783 pm model measurement february models 3.63
+analysis perception shape humans computers shape descriptions shape recognition computer twodimensional shapes measures circularity shape matching method methods pattern gamma pm processing
+texture analysis computer digitized texture analysis texture synthesis perception texture pm algorithm january data numerical science
+operations research models optimize information system performance includes fine tuning decisions secondary index selection reorganization distributed databases data computer time memory storage access
+application fuzzy subset theory clustering information retrieval problems includes performance evaluation automatic indexing considerations data query search learning program model
+bayesian decision models optimize information retrieval system performance includes stopping rules determine user cease scanning output retrieval search data storage query document model automatic
+computer science principles data structures numerical methods generating optimization linear programming algorithms includes issues khachian russian ellipsoidal algorithm complexity algorithms time structure january pm list processing
+role information retrieval knowledge based systems expert systems language data model organization query february
+parallel processors information retrieval pm storage processing time solution processor
+parallel processors paging algorithms time memory processing algorithm program pm
+modelling simulation agricultural ecosystems event computer pm model digital march
+mathematical induction group theory integers modulo probability binomial coefficients binomial theorem homomorphism morphism transitivity relations relation matrix syracuse university 313 link hall syracuse 1321 algorithm series number pm program february
+semantics programming languages including abstract specifications data types denotational semantics proofs correctness hoare dijkstra university massachusetts amherst ma 13 language programs program type 5.24 formal
+dealing star height regular languages regular expressions regular events language functions algorithm wave program pm
+articles relation algebraic theory semigroups monoids study automata regular languages program language manipulation formal pm data
+abstracts articles backus programming liberated von neumann style functional style algebra programs cacm 21 re millo lipton perlis letter acm forum cacm 22 62963 backus de millo lipton perlis program language languages march output pm
+algorithms statistical packages anova regression squares generalized linear models system design capabilities statistical formula interest students test wilcoxon sign tests multivariate univariate components included data analysis algorithm february pm computer
+dictionary construction accessing methods fast retrieval words lexical items morphologically related information hashing indexing methods applied english spelling natural language problems analysis search processing february transformation program
+hardware software relating database management systems database packages back end computers special associative hardware microcomputers attached disk heads things rap relational network codasyl hierarchical models systems system ims adabas total data memory computer storage information design
+information retrieval articles gerard salton clustering bibliographic coupling citations cocitations vector space model boolean search methods inverted feedback salton data automatic string query algorithm 3.74
+results relating parallel complexity theory prams uniform circuits algorithm program pm method graph text
+algorithms parallel computation especially comparisons parallel sequential algorithms processing time algorithm list january program
+list articles el1 ecl el1 el1 dont remember algorithm pm data processing march set

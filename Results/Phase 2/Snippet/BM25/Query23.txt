@@ -1,0 +1,727 @@
+CACM-3137
+----------------------------------------------------------------
+<hl>distributed</hl> processing system design cost minimization
+<hl>distributed</hl> database interactive <hl>computing</hl>
+economic modeling transaction processing 4.32 4.33 6.2 8.1
+ca7943 dh
+
+CACM-2849
+----------------------------------------------------------------
+<hl>distributed</hl> packet switching local computer networks
+ethernet branching broadcast communication system carrying
+digital data packets locally <hl>distributed</hl>
+<hl>computing</hl> stations packet ... <hl>distributed</hl>
+control <hl>distributed</hl> <hl>computing</hl> broadcast
+communication statistical arbitration 3.81 4.32 6.35 ca7674 jb
+january 4 1978 12:49 pm 2849 4
+
+CACM-3148
+----------------------------------------------------------------
+<hl>distributed</hl> <hl>computing</hl> programming
+<hl>distributed</hl> loosely coupled systems problem growing
+interest paper describes approach <hl>distributed</hl>
+<hl>computing</hl> level general purpose programming languages
+
+CACM-1745
+----------------------------------------------------------------
+<hl>computing</hl> free enterprise <hl>computing</hl> economics
+computer installation management government regulation
+communications services <hl>distributed</hl> data base program
+leasing 2.3 2.4 3.8 ... <hl>computing</hl> communications
+effective operation free enterprise creating envisioned
+information service industry dependent accomplishments
+restructuring information processing industry clear division
+costs
+
+CACM-2276
+----------------------------------------------------------------
+<hl>distributed</hl> random numbers exponentially
+<hl>distributed</hl> quantities efficient compared terms memory
+requirements speed <hl>algorithms</hl> number procedures convert
+taylor series expansions directly
+
+CACM-2081
+----------------------------------------------------------------
+<hl>structures</hl> suitable high level algorithmic language
+mathematical programming paper investigates special structure
+matrices utilized efficient <hl>computing</hl> saving memory
+space superfluous <hl>algorithms</hl> symbol manipulation matrix
+expressions find forms suited computation forms called normal
+forms completeness results obtained sense expression equivalent
+expression
+
+CACM-1873
+----------------------------------------------------------------
+<hl>algorithms</hl> shown method <hl>computing</hl> related
+products accelerate pricing phase lp <hl>algorithms</hl> lp
+applications cacm july 1969 fox linear programming revised
+
+CACM-1411
+----------------------------------------------------------------
+<hl>algorithms</hl> computation means standard deviations
+correlation coefficients <hl>algorithms</hl> computation basic
+statistics compared performance systematically generated test
+data statistics calculated mean <hl>computing</hl> formulas
+correction due accumulated error term recursive computation
+statistic usual <hl>computing</hl> formulas evaluated double
+precision large errors noted calculation
+
+CACM-2949
+----------------------------------------------------------------
+<hl>distributed</hl> computer network correctness proofs
+computer networks <hl>distributed</hl> control network topology
+routing problem networks <hl>distributed</hl> operating system
+store forward packet
+
+CACM-2832
+----------------------------------------------------------------
+<hl>algorithms</hl> based observation typical context infrequent
+relative retrievals data cached speed retrieval retrieval
+started position previous retrieval auxiliary
+<hl>structures</hl> built
+
+CACM-3141
+----------------------------------------------------------------
+<hl>algorithms</hl> <hl>distributed</hl> systems operating
+systems 4.32 4.35 5.25 5.32 ca7952 dh june 5 1979 2:35 pm 3141 5
+3141 3141
+
+CACM-3082
+----------------------------------------------------------------
+<hl>distributed</hl> system concept event happening
+<hl>distributed</hl> system examined shown define partial
+ordering events <hl>distributed</hl> algorithm synchronizing
+system logical clocks totally
+
+CACM-2578
+----------------------------------------------------------------
+<hl>distributed</hl> control cacm november 1974 dijkstra
+multiprocessing networks selfstabilization synchronization
+mutual exclusion robustness sharing error recovery
+<hl>distributed</hl> control harmonious cooperation
+
+CACM-2406
+----------------------------------------------------------------
+<hl>structures</hl> data definition languages concentrate
+declaration logical data <hl>structures</hl> concern
+<hl>structures</hl> physically realized computer system need
+data definition languages describe
+
+CACM-2890
+----------------------------------------------------------------
+<hl>algorithms</hl> adaptive routing quadratic routing alternate
+routing storeandforward network <hl>distributed</hl> network
+computer network message switching 3.81 8 8.1 8.3 ca7613
+
+CACM-3124
+----------------------------------------------------------------
+<hl>algorithms</hl> cacm february 1979 gullw jenkins nested
+arrays apl arrays recursive data <hl>structures</hl> trees
+datadriven <hl>algorithms</hl> theory arrays 4.22 5.29
+
+CACM-3086
+----------------------------------------------------------------
+<hl>computing</hl> measure uai bi decision tree complexity
+<hl>computing</hl> measure union possibly overlapping intervals
+shown log comparisons linear functions interval endpoints
+
+CACM-3043
+----------------------------------------------------------------
+<hl>distributed</hl> storage paper examples <hl>distributed</hl>
+processes shows include procedures coroutines classes monitors
+processes semaphores buffers path expressions inputoutput
+special cases ... <hl>distributed</hl> processes concurrent
+programming concept language concept concurrent processes common
+variables introduced processes communicate synchronize means
+procedure calls guarded regions
+
+CACM-2433
+----------------------------------------------------------------
+<hl>structures</hl> utilize storage method express parallel
+<hl>algorithms</hl> cacm october 1973 millstein array processing
+parallelism detection explicit parallelism array allocation
+parallel ... <hl>structures</hl> illiac iv fortran part effort
+design implement fortran compiler illiac iv extended fortran
+called ivtran developed language means expressing
+<hl>structures</hl> suitable exploiting illiac iv parallelism
+paper reviews hardware characteristics illiac singles
+unconventional features expected influence language compiler
+design implications
+
+CACM-3166
+----------------------------------------------------------------
+<hl>computing</hl> standard deviations accuracy
+<hl>algorithms</hl> numerical computation standard deviation
+unweighted sampled data analyzed <hl>algorithms</hl> wellknown
+statistical computational literature <hl>algorithms</hl>
+specifically
+
+CACM-2630
+----------------------------------------------------------------
+<hl>computing</hl> sets shortest paths graph <hl>algorithms</hl>
+presented construct shortest paths pair vertices directed graph
+<hl>algorithms</hl> generalize floyd algorithm dantzig algorithm
+
+CACM-2963
+----------------------------------------------------------------
+<hl>computing</hl> longest common subsequences previously
+published <hl>algorithms</hl> finding longest common subsequence
+sequences length bestcase running time algorithm problem
+presented running
+
+CACM-2130
+----------------------------------------------------------------
+<hl>computing</hl> equipment generalization ramamoorthys
+suggestions made order allow application circumstances ideal
+cacm january 197 lowe automatic segmentation cyclic program
+<hl>structures</hl>
+
+CACM-3025
+----------------------------------------------------------------
+<hl>computing</hl> technology include accelerating transition
+batch oriented time sharing <hl>computing</hl> systems
+transferring hardware technology dec minicomputer design
+manufacturing supporting minicomputer
+
+CACM-2834
+----------------------------------------------------------------
+<hl>algorithms</hl> presented generate nbit binary reflected
+gray code codewords fixed weight code <hl>algorithms</hl>
+efficient time required generate element constant applications
+
+CACM-0052
+----------------------------------------------------------------
+<hl>distributed</hl> points surface ndimensional sphere
+corrigendum cacm october 1959 cook ca5917 jb march 22 1978 4:12
+pm 52 5 52
+
+CACM-2454
+----------------------------------------------------------------
+<hl>algorithms</hl> closed queueing networks exponential servers
+methods presented <hl>computing</hl> equilibrium distribution
+customers closed queueing networks exponential servers
+expressions marginal distributions
+
+CACM-2999
+----------------------------------------------------------------
+<hl>structures</hl> <hl>computing</hl> techniques time series
+cross tabulation 3.1 3.2 3.3 3.7 4 ca7721 jb december 3 1977
+3:12 2999 5
+
+CACM-2216
+----------------------------------------------------------------
+<hl>distributed</hl> branching ratios applicable family sorting
+<hl>algorithms</hl> discussed hoare singleton van emden solution
+integral equation advanced <hl>algorithms</hl> family makes
+minor
+
+CACM-2169
+----------------------------------------------------------------
+<hl>computing</hl> machines paper description language run time
+data <hl>structures</hl> implementation cacm august 1971 hall jr
+symbolic algebra rational function manipulation
+
+CACM-2484
+----------------------------------------------------------------
+<hl>algorithms</hl> results information <hl>structures</hl> list
+tree ring problem information organization storage reduced
+defining relations formulating <hl>algorithms</hl> set
+constraints results presented
+
+CACM-2197
+----------------------------------------------------------------
+<hl>computing</hl> network <hl>computing</hl> regional
+<hl>computing</hl> networks remote <hl>computing</hl> shared
+<hl>computing</hl> 1.52 2.11 ca7152 jb february 3 1978 3:17 pm
+2197 ... <hl>computing</hl> networks suggested means stimulating
+spread <hl>computing</hl> capabilities institutions higher
+learning construction regional <hl>computing</hl> networks
+network constructed san francisco bay
+
+CACM-2883
+----------------------------------------------------------------
+<hl>algorithms</hl> relations representation minimization
+problem dynamic programming approach discussed showing graph
+search method lead substantial improvements <hl>computing</hl>
+time heuristic search
+
+CACM-1780
+----------------------------------------------------------------
+<hl>distributed</hl> data algorithm 32 cacm february 1968 hunter
+harmonic analysis cosine series sine series function
+approximation curve fitting trigonometric series
+
+CACM-1862
+----------------------------------------------------------------
+<hl>computing</hl> capabilities future progress retarded cacm
+august 1969 finerman university education <hl>computing</hl>
+science academic programs university <hl>computing</hl> centers
+surveys <hl>computing</hl> ... <hl>computing</hl> capabilities
+argentine chilean universities author reports trip universities
+argentina chile november 1968 describing university conditions
+<hl>computing</hl> activities universities experiencing
+<hl>computing</hl> service academic activities limited number
+computers small capacity larger ibm 364 exception
+<hl>computing</hl> science academic programs rare situation
+means <hl>computing</hl> developments strive excellence system
+hard overcome universities especially strong european traditions
+adapt slowly academic resources disciplines superimposed severe
+technological
+
+CACM-3032
+----------------------------------------------------------------
+<hl>algorithms</hl> add reverse path forwarding broadcast
+routing method exploits routing procedures data
+<hl>structures</hl> packet switching reverse path forwarding
+practical algorithm
+
+CACM-0088
+----------------------------------------------------------------
+<hl>distributed</hl> points surface ndimensional sphere cacm
+april 1959 hicks wheeling ca5944 jb march 22 1978 7:1 pm 2333 5
+88
+
+CACM-1810
+----------------------------------------------------------------
+<hl>computing</hl> today shown arise aggravated source concluded
+folding mechanism normal part <hl>computing</hl> systems cacm
+december 1969 sayre paging automatic paging
+
+CACM-2402
+----------------------------------------------------------------
+<hl>algorithms</hl> adapted environment pictorial pattern
+recognition techniques make number approaches xray structure
+determination based molecular model building chemical
+information frame <hl>algorithms</hl> hindered fact
+crosscorrelation model correct structure computed fundamental
+incompleteness measured data compute upper bound
+crosscorrelation simple demonstrates information basis
+
+CACM-1423
+----------------------------------------------------------------
+<hl>computing</hl> generalized inverse matrix generalized
+inverse matrix important analysis extension concept inverse
+applies matrices applications numerical analysis widely existing
+<hl>algorithms</hl>
+
+CACM-3156
+----------------------------------------------------------------
+<hl>computing</hl> connected components parallel computers
+present parallel algorithm n2 processors find connected
+components undirected graph vertices time time bound achieved
+
+CACM-2816
+----------------------------------------------------------------
+<hl>distributed</hl> space disk database organizations cost
+accessing database increase due structural caused updates
+insertions reorganizing databasethe access costs reduced basic
+
+CACM-2092
+----------------------------------------------------------------
+<hl>structures</hl> <hl>algorithms</hl> question answering cacm
+march 197 schwarcz burger simmons question answering natural
+language protosynthex iii lisp semantics artificial intelligence
+
+CACM-1525
+----------------------------------------------------------------
+<hl>computing</hl> fast fourier transform cooley tukey proposed
+fast algorithm <hl>computing</hl> complex fourier transform
+shown major time savings compute large transforms
+<hl>computing</hl> time algorithm proportional log2 major
+improvement methods <hl>computing</hl> time proportional n2
+paper fast fourier transform algorithm briefly reviewed fast
+<hl>computing</hl> needed trigonometric function values problem
+<hl>computing</hl> large fourier transform system virtual memory
+considered solution proposed method compute complex fourier
+
+CACM-3011
+----------------------------------------------------------------
+<hl>computing</hl> involving unsophisticated applications
+despite unsophisticated nature systems management
+<hl>computing</hl> surprisingly common varied extent local
+governments management <hl>computing</hl> prevalent governments
+<hl>computing</hl> tends control <hl>computing</hl> decisions
+department users control design implementation activities
+finally management <hl>computing</hl> clearly impacts top
+managers involving improvements
+
+CACM-2114
+----------------------------------------------------------------
+<hl>structures</hl> inverted indexsequential multilist derived
+<hl>algorithms</hl> retrieve records generalized structure
+presented cacm february 197 hsiao attributevalue pair index
+keyword record
+
+CACM-3035
+----------------------------------------------------------------
+<hl>computing</hl> effort higher education empirical evaluation
+findings study designed address pressing problems strategic
+planning <hl>computing</hl> effort higher education presented
+planning ... <hl>computing</hl> services cacm december 1978
+wetherbe dock computer management computer budget university
+<hl>computing</hl> computer planning 2.41 3.51 ca78124 dh
+january
+
+CACM-2766
+----------------------------------------------------------------
+<hl>structures</hl> linear time bounded workspace bounded
+workspace copying algorithm arbitrary list <hl>structures</hl>
+algorithm operates linear time require tag bits previous
+
+CACM-3037
+----------------------------------------------------------------
+<hl>algorithms</hl> data <hl>structures</hl> 5.25 5.24 5.29
+ca78122 dh january 22 1979 11:12 2896 4 337 2972 4 337 337 4
+
+CACM-1431
+----------------------------------------------------------------
+<hl>structures</hl> basic facts data <hl>structures</hl>
+reviewed efficient algorithm presented constructing storage
+mapping function structure <hl>structures</hl> definition cacm
+1966 deuel ca6656
+
+CACM-3164
+----------------------------------------------------------------
+<hl>algorithms</hl> presented simple path matrix representation
+list artificial gradient experiments suggest large considerably
+faster asymptotically onr number nodes expected number
+
+CACM-2810
+----------------------------------------------------------------
+<hl>computing</hl> field term professional means things people
+general technical social standards professional term generally
+applied practitioner researcher broad definition
+<hl>computing</hl>
+
+CACM-3090
+----------------------------------------------------------------
+<hl>computing</hl> organizational impacts <hl>computing</hl>
+management information systems sociology <hl>computing</hl>
+information systems service integration urban information
+systems 2.11 3.53 ca7867 dh
+
+CACM-2371
+----------------------------------------------------------------
+<hl>distributed</hl> computer network hypothetical application
+system existing network discussed cacm april 1972 walden
+interprocess communication timesharing computer networks
+resource sharing
+
+CACM-2900
+----------------------------------------------------------------
+<hl>distributed</hl> data management 4.33 ca771116 jb december
+27 1977 8:45 29 5 29 29 5 29 29 29
+
+CACM-2926
+----------------------------------------------------------------
+<hl>distributed</hl> wide distribution record lengths exists
+strategy results shallow trees fast access times performance
+strategy application presented compared strategy analyzed
+
+CACM-2665
+----------------------------------------------------------------
+<hl>structures</hl> bounded workspace <hl>algorithms</hl>
+presented list structure copying bounded workspace primarily
+theoretical interest shows cell tag bits task performed time
+
+CACM-1889
+----------------------------------------------------------------
+<hl>computing</hl> undergraduate education instructional usage
+academic applications curriculum development orientation project
+regional center consortium remote <hl>computing</hl> 1.5 1.52
+1.59 2.49 ... <hl>computing</hl> smaller colleges universities
+progress report technical means routine computer service smaller
+colleges universities provided remote terminals central facility
+access
+
+CACM-2969
+----------------------------------------------------------------
+<hl>distributed</hl> databases optimal location 3.81 3.51 4.33
+ca7753 jb december 29 1977 2:22 2969 5 2969 2969 5 2969 2969
+
+CACM-2838
+----------------------------------------------------------------
+<hl>algorithms</hl> recovering discarded list
+<hl>structures</hl> manner presented analyzed determine
+sufficient conditions list processor needs wait collector
+techniques shown require processing
+
+CACM-1946
+----------------------------------------------------------------
+<hl>computing</hl> polynomial resultants bezouts determinant
+collins reduced algorithm <hl>algorithms</hl> <hl>computing</hl>
+resultant polynomials variables key repetitive step computation
+solving systems polynomial
+
+CACM-2709
+----------------------------------------------------------------
+<hl>structures</hl> issue program control <hl>structures</hl>
+history heated controversy put issue solid footing paper reviews
+numerous theoretical results control <hl>structures</hl>
+explores <hl>structures</hl> explored include review control
+<hl>structures</hl> results timespace limitations theorems
+relating relative power control <hl>structures</hl> notions
+equivalence conclusion impact theoretical
+
+CACM-1153
+----------------------------------------------------------------
+<hl>distributed</hl> random numbers faster general readily
+applicable binary decimal computers cacm january 1964 marsaglia
+maclaren bray ca6411 jb march 1
+
+CACM-2975
+----------------------------------------------------------------
+<hl>structures</hl> cacm april 1977 hollander data
+<hl>structures</hl> directed graphs uniform insertion 4.34
+ca7747 jb december 29 1977 5:4 2975 4
+
+CACM-3158
+----------------------------------------------------------------
+<hl>computing</hl> insecure network method implementing secure
+personal <hl>computing</hl> network central facilities proposed
+method employs publickey encryption device hardware keys user
+
+CACM-2314
+----------------------------------------------------------------
+<hl>structures</hl> data <hl>structures</hl> programming
+primitives semantics advanced programming systems 1.3 4.2 4.22
+4.3 4.32 5.23 5.24 ca72714 jb january 3 ... <hl>algorithms</hl>
+coded language form debugged modified made efficient run data
+general frameworkthe requirements applicable design advanced
+programming systems wide range
+
+CACM-1224
+----------------------------------------------------------------
+<hl>computing</hl> center environment investigation generally
+unavailable parameters descriptive <hl>computing</hl> center
+environment obtained actual data collection reduction results
+month collection tabulated
+
+CACM-3165
+----------------------------------------------------------------
+<hl>algorithms</hl> area computation point inclusion algorithm
+applied set soil maps converted computerreadable form means
+coordinate digitizer cacm september 1979 nagy
+
+CACM-2822
+----------------------------------------------------------------
+<hl>computing</hl> machinery general permission republish profit
+part material granted provided acms copyright notice reference
+made publication data issue fact reprinting
+
+CACM-3084
+----------------------------------------------------------------
+<hl>distributed</hl> number extra accesses estimated shown low
+holds cumulative distribution function keys known computational
+experiments confirm results cacm july 1978
+
+CACM-2780
+----------------------------------------------------------------
+<hl>computing</hl> elements inverse sparse matrix recursive
+algorithm <hl>computing</hl> inverse matrix lu factors based
+relationships takahashi al examined formulas algorithm
+dependency
+
+CACM-2828
+----------------------------------------------------------------
+<hl>algorithms</hl> hidden surface <hl>algorithms</hl>
+hierarchical data <hl>structures</hl> geometric models 5.31 8.2
+ca7613 jb january 3 1978 4:42 pm 1892 4
+
+CACM-1349
+----------------------------------------------------------------
+<hl>computing</hl> capabilities western european universities
+report authors trip universities western europe summer 1966
+descriptions <hl>computing</hl> activities institution visited
+present equipment
+
+CACM-2311
+----------------------------------------------------------------
+<hl>computing</hl> system generations generation scope
+development projects technological world view system developer
+examined cacm july 1972 benjamin <hl>computing</hl> milieu
+management
+
+CACM-1010
+----------------------------------------------------------------
+<hl>computing</hl> facilities limited scientific research
+inability interact strongly users full power research
+<hl>computing</hl> instrument terminals give user ability
+generate correct
+
+CACM-2594
+----------------------------------------------------------------
+<hl>structures</hl> programming systems permit arbitrary linked
+list <hl>structures</hl> enable user create complicated
+<hl>structures</hl> sufficient protection deletions result
+unreachable data elements <hl>structures</hl> ensures
+correctness program accomplished explicit structure declaration
+facility restriction permissible operations executiontime checks
+cacm october 1974 shneiderman scheuermann structured
+
+CACM-2198
+----------------------------------------------------------------
+<hl>structures</hl> conventional programming languages problem
+high level interrogation update functions acting network
+<hl>structures</hl> mentioned discussion problem catering high
+volume transactions ... <hl>structures</hl> storage
+<hl>structures</hl> information retrieval transaction processing
+3.5 3.7 3.72 3.73 3.74 4.29 ca7151 jb february 3 1978 3:18 pm
+
+CACM-2357
+----------------------------------------------------------------
+<hl>computing</hl> online access online <hl>computing</hl>
+remote manager real time multiplexer implementation effort
+operating overhead user reactions remote terminals operating
+system
+
+CACM-2950
+----------------------------------------------------------------
+<hl>algorithms</hl> based abstract model scheduling system
+formalizes notion priority classes scheduling
+<hl>algorithms</hl> defined related existing <hl>algorithms</hl>
+criterion implementation efficiency algorithm
+<hl>algorithms</hl> include commonly implemented timeinvariant
+<hl>algorithms</hl> dependence processing rates priorities
+derived abstract model framework implementing flexible
+schedulers real operating systems
+
+CACM-2283
+----------------------------------------------------------------
+<hl>algorithms</hl> rectangular hexagonal triangular arrays
+report thinning <hl>algorithms</hl> developed rectangular
+hexagonal triangular arrays approach development algorithm
+pictorial results produced <hl>algorithms</hl>
+<hl>algorithms</hl> compared found algorithm operating
+triangular array sensitive image irregularities noise yield
+thinned image reduced number points concluded algorithm
+operating
+
+CACM-2884
+----------------------------------------------------------------
+<hl>algorithms</hl> classical permutation enumeration
+<hl>algorithms</hl> encounter special cases requiring additional
+computation nth permutation generating permutations marks
+<hl>algorithms</hl> attribute special cases <hl>algorithms</hl>
+produce permutation single exchange marks <hl>algorithms</hl>
+infrequently exchange marks rules generating permutation simple
+performance tests counted execution assignment statements
+
+CACM-3128
+----------------------------------------------------------------
+<hl>distributed</hl> systems mechanism defined formally examples
+relationship mechanism protection mechanisms system explained
+eventcounts shown applicable situations confinement information
+matters implementation
+
+CACM-0072
+----------------------------------------------------------------
+<hl>computing</hl> cacm august 1959 hollingsworth ca5981 jb
+march 22 1978 6:18 pm 72 5 72 72 5 72 72 72
+
+CACM-2032
+----------------------------------------------------------------
+<hl>structures</hl> tree <hl>structures</hl> <hl>structures</hl>
+scatter tables hashing functions information retrieval 3.7 3.74
+ca775 jb february 13 1978 8:49 15 4
+
+CACM-1831
+----------------------------------------------------------------
+<hl>structures</hl> cacm october 1969 stanfel information
+retrieval searching tree <hl>structures</hl> double chaining 3.7
+3.73 3.74 ca69115 jb february 15 1978
+
+CACM-2226
+----------------------------------------------------------------
+<hl>algorithms</hl> zeroone programming problem purpose note
+report computational experience additional recently summarized
+gue al <hl>algorithms</hl> zeroone linear programming problem
+error
+
+CACM-0147
+----------------------------------------------------------------
+<hl>computing</hl> center directors cacm october 196 ca611 jb
+march 2 1978 8:38 pm 147 5 147 147 5 147 147
+
+CACM-2951
+----------------------------------------------------------------
+<hl>computing</hl> applications network <hl>computing</hl> node
+research clearly reveals sufficient system data obtainable
+diverse arpa network systems studied detail describe predict
+
+CACM-0481
+----------------------------------------------------------------
+<hl>computing</hl> cacm september 1962 armerding gruenberger
+marks parkin ca62911 jb march 17 1978 7:3 pm 481 5 481 481 5
+
+CACM-2903
+----------------------------------------------------------------
+<hl>algorithms</hl> solve pattern matching problems recursion
+troduction <hl>algorithms</hl> manipulate stack translated
+recursive <hl>algorithms</hl> stack operations occur
+<hl>algorithms</hl> subjected transformation method
+
+CACM-2954
+----------------------------------------------------------------
+<hl>structures</hl> algorithm presented copies cyclic list
+<hl>structures</hl> bounded workspace linear time unlike
+previous similar algorithm makes assumptions storage allocation
+system
+
+CACM-0080
+----------------------------------------------------------------
+<hl>computing</hl> critical rotational speeds flexible shafts
+automatic computer cacm june 1959 schwartz ca5964 jb march 22
+1978 6:35 pm 8
+
+CACM-0371
+----------------------------------------------------------------
+<hl>algorithms</hl> 2 3 algorithm 15 <hl>algorithms</hl> 25 26
+cacm march 1961 wilkinson ca61311 jb march 17 1978 12:35 371 5
+
+CACM-1658
+----------------------------------------------------------------
+<hl>algorithms</hl> zeroone programming problem paper concerned
+review examination existing <hl>algorithms</hl> zeroone
+programming problem computational experience summarized machine
+time storage requirements
+
+CACM-3008
+----------------------------------------------------------------
+<hl>structures</hl> storing <hl>structures</hl> preserving
+logical adjacencies proximity important consideration
+combinatorial problem storing arrays kinds list
+<hl>structures</hl> examined embeddings graphs model
+
+CACM-0069
+----------------------------------------------------------------
+<hl>computing</hl> centers ibm 65s cacm august 1959 hamblen
+ca5984 jb march 22 1978 6:7 pm 69 5 69 69 5
+
+CACM-0527
+----------------------------------------------------------------
+<hl>structures</hl> recursive process list <hl>structures</hl>
+obtained compared description list structure discussed author
+previous publication cacm august 1962 banerji ca6281 jb
+
+CACM-1588
+----------------------------------------------------------------
+<hl>structures</hl> andor inability perform complete range
+programming language operations data list <hl>structures</hl>
+problems eliminated listprocessing facilities pli basic concepts
+list
+
+CACM-2819
+----------------------------------------------------------------
+<hl>algorithms</hl> encoding string differ slightly earlier
+proposals analysis program attempts find optimal set codes
+representing substrings <hl>algorithms</hl> operation compared
+parameters
+
+CACM-2627
+----------------------------------------------------------------
+<hl>algorithms</hl> known minimizing mean finishing time
+addition presenting analyzing <hl>algorithms</hl> shown general
+meanfinishingtime problem independent tasks polynomial complete
+unlikely admit
+

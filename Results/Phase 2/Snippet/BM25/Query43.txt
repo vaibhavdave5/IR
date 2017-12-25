@@ -1,0 +1,779 @@
+CACM-2569
+----------------------------------------------------------------
+<hl>computer</hl> generation gamma random variates nonintegral
+<hl>shape</hl> parameters <hl>shape</hl> parameter integral
+generating gamma random variables digital <hl>computer</hl>
+straightforward simple method
+
+CACM-3107
+----------------------------------------------------------------
+<hl>shape</hl> parameters rejection method generating beta
+variates method compared previously published methods
+theoretically <hl>computer</hl> timings suggested method
+advantages speed programming
+
+CACM-3125
+----------------------------------------------------------------
+<hl>shape</hl> program graph testing algorithm shown execution
+cost nearly linear size program leads smaller optimizer requires
+execution time cacm february
+
+CACM-2754
+----------------------------------------------------------------
+<hl>shape</hl> algorithm sufficient speed allow online realtime
+processing application demonstrated electrocardiogram cacm 1975
+horowitz peak detection digitized waveform piecewise linear
+
+CACM-2771
+----------------------------------------------------------------
+<hl>computer</hl> synthesis begins primitive solids cube wedge
+cylinder solid moved scaled rotated solids added subtracted
+algorithms perform addition practical designers
+
+CACM-2883
+----------------------------------------------------------------
+<hl>shape</hl> contour object embedded figure merit allowing
+extraction contours noisy picture separation touching objects
+cacm february 1976 martelli picture processing
+
+CACM-2847
+----------------------------------------------------------------
+<hl>computer</hl> paper describes method generating gamma
+variates appears costly wallaces recently suggested method large
+<hl>shape</hl> parameter cost computation proportional wallaces
+
+CACM-3046
+----------------------------------------------------------------
+<hl>computer</hl> generation gamma random variables ii rejection
+method proposed generating gamma variates nonintegral
+<hl>shape</hl> parameter 1 method similar methods fishman
+
+CACM-3098
+----------------------------------------------------------------
+<hl>computer</hl> generation gamma random variables method
+generating random variables gamma distribution nonintegral
+<hl>shape</hl> parameter proposed method similar methods
+recently wallace
+
+CACM-2829
+----------------------------------------------------------------
+<hl>computer</hl> generated images 1974 catmull developed
+algorithm rendering images bivariate surface patches paper
+describes extensions algorithm areas texture simulation lighting
+<hl>shape</hl> size weighting function chosen digital signal
+processing theory patch rendering algorithm accurate computation
+surface normal patch picture element permitting
+
+CACM-2113
+----------------------------------------------------------------
+<hl>analysis</hl> naturallanguage <hl>analysis</hl> linguistic
+data processing computational linguistics correlational grammar
+structure <hl>recognition</hl> pattern <hl>recognition</hl>
+<hl>matching</hl> procedures treestructure interpretation
+machine translation ... <hl>matching</hl> procedures
+substantially reduced description makes frequent examples fully
+operational implementation parser experimental english sentence
+analyzer structuring area <hl>computers</hl> central
+
+CACM-1528
+----------------------------------------------------------------
+<hl>computer</hl> drawn letters detailed <hl>descriptions</hl>
+fonts letters letter <hl>shapes</hl> entirely numbers basic
+vectors general form fonts easily drawn variety
+<hl>computers</hl>
+
+CACM-2455
+----------------------------------------------------------------
+<hl>shape</hl> small integer experiment performed compare trees
+standard avl trees balanced trees basis mean retrieval time
+amount restructuring expected worst
+
+CACM-3149
+----------------------------------------------------------------
+<hl>twodimensional</hl> linestructure data cacm june 1979
+shapira freeman scene <hl>analysis</hl> cyclic order artificial
+intelligence threedimensional reconstruction picture processing
+<hl>computer</hl> graphics <hl>recognition</hl> 3.2 3.6 8.2
+ca7965 dh august 22 1979 1:36 pm 3149 5 3149 3149 5 3149 3149
+3149
+
+CACM-1272
+----------------------------------------------------------------
+<hl>computer</hl> output exemplified concordance preparing
+survey article lecture opportunities heavy editing chief
+interpretation expansion <hl>computer</hl> output processes
+factor <hl>analysis</hl> applications
+
+CACM-2232
+----------------------------------------------------------------
+<hl>recognition</hl> geometrical concept object work clarify
+word description made precise <hl>computer</hl> algorithms
+feature extraction obtained focus theoretical subject matter
+results <hl>descriptions</hl> alternate widths widths calculated
+illustrative graphical tabular comparisons substantial variation
+widthatangle magnitude found principal conclusion settheoretic
+widthatangle pattern feature
+
+CACM-2341
+----------------------------------------------------------------
+<hl>shape</hl> environment blocks operations mainly composing
+printable output variety graphical problems including
+flowcharting bargraphs logic diagrams mathematicalequation
+formation text justification
+
+CACM-2310
+----------------------------------------------------------------
+<hl>analysis</hl> humanities <hl>computer</hl> languageoriented
+humanities exhaustive listing detail indices concordances
+widespread accepted desirable implications <hl>computer</hl>
+science humanitiesa science entailing gathering
+<hl>computers</hl> major role language <hl>analysis</hl>
+humanities establishing sciencehus areas humanities rigor
+precision analyzing literature teaching student write
+composition <hl>computer</hl> critically
+
+CACM-2703
+----------------------------------------------------------------
+<hl>circularity</hl> problem attribute grammars attribute
+grammars extension contextfree grammars devised knuth mechanism
+including semantics contextfree language syntax language
+<hl>circularity</hl> problem
+
+CACM-2910
+----------------------------------------------------------------
+<hl>matching</hl> cacm november 1977 stockman picture processing
+pattern <hl>recognition</hl> curve detection hough
+transformation template <hl>matching</hl> 3.63 6.9 ca77116 jb
+december
+
+CACM-2054
+----------------------------------------------------------------
+<hl>computer</hl> cacm june 197 elder speech
+<hl>recognition</hl> word <hl>recognition</hl> patternmatching
+pattern <hl>recognition</hl> timesharing remote access voice
+input speech input telephone ... <hl>computer</hl> processing
+system online digital <hl>computer</hl> processing system
+considered ordinary telephone complete terminal device input
+<hl>computer</hl> provided sequence spoken words
+<hl>recognition</hl> program technique depends simplifying
+restrictions small vocabulary set known speakers moment silence
+input word experimental results presented giving error
+
+CACM-3135
+----------------------------------------------------------------
+<hl>recognition</hl> chemical structure search information
+retrieval crystal structure <hl>analysis</hl> drug
+<hl>analysis</hl> design 3.13 3.63 3.74 ca7941 dh 21 1979 1:5
+
+CACM-1553
+----------------------------------------------------------------
+<hl>computers</hl> development <hl>computer</hl> program eliza
+capable conversing natural language discussed importance context
+human machine understanding stressed argued adequacy level
+understanding
+
+CACM-3197
+----------------------------------------------------------------
+<hl>computer</hl> area line acms policy statement comm acm 5 nov
+1962 547549 organizational <hl>descriptions</hl> provided order
+describe standardization activities pertinent
+
+CACM-0462
+----------------------------------------------------------------
+<hl>computer</hl> pattern <hl>recognition</hl> techniques
+electrocardiographic diagnosis programmed digital
+<hl>computers</hl> general pattern classification
+<hl>recognition</hl> devices phase lively interest artificial
+intelligence important
+
+CACM-1399
+----------------------------------------------------------------
+<hl>recognition</hl> left recursion procedure obtaining
+structural <hl>descriptions</hl> contextfree grammar performing
+<hl>recognition</hl> according strongly equivalent
+leftrecursionfreegrammar effect allowing null strings rewriting
+
+CACM-0825
+----------------------------------------------------------------
+<hl>analysis</hl> sparkchamber data operating <hl>computer</hl>
+program processes photographically recorded data input program
+consists sparkchamber photographs tracks highenergy particles
+recorded program
+
+CACM-2402
+----------------------------------------------------------------
+<hl>recognition</hl> phase problem xray crystallography
+availability interactive threedimensional <hl>computer</hl>
+graphics systems coupled powerful digital <hl>computers</hl>
+encourages development algorithms adapted environment
+<hl>recognition</hl> techniques make number approaches xray
+structure determination based molecular model building chemical
+information frame structural hypotheses computationally tested
+refined <hl>recognition</hl> algorithms hindered fact
+crosscorrelation model correct structure computed fundamental
+incompleteness measured data compute upper bound
+crosscorrelation simple demonstrates information
+
+CACM-2196
+----------------------------------------------------------------
+<hl>computer</hl> time heuristic procedures proposed tested
+slightly results paper describes <hl>computer</hl> aided
+heuristic technique modest amount <hl>computer</hl> time
+realtime solve
+
+CACM-1260
+----------------------------------------------------------------
+<hl>analysis</hl> small <hl>computer</hl> <hl>analysis</hl>
+carried ibm 141 <hl>computer</hl> 4 bcd core memory cacm 1965
+marshall nelson wilenzick ca65511 jb march
+
+CACM-2811
+----------------------------------------------------------------
+<hl>recognition</hl> carotid pulse waves general waveform
+parsing system general waveform parsing system application
+structural pattern <hl>recognition</hl> carotid pulse waves
+carotid ... <hl>recognition</hl> parsing waveform
+<hl>analysis</hl> pulse waves 3.12 3.34 3.63 4.12 ca76124 jb
+january 3 1978 1:43 pm 2811 5 2811
+
+CACM-2201
+----------------------------------------------------------------
+<hl>twodimensional</hl> film animation system animator
+<hl>computer</hl> animation system designed overcome inherent
+disadvantages conventional <hl>computer</hl> animation
+techniqueshe dec338 serves input terminal
+
+CACM-0409
+----------------------------------------------------------------
+<hl>computer</hl> system based master concept provisions
+accepting storing retrieving <hl>descriptions</hl> instances
+large complex data sets algorithms defined data sets data
+
+CACM-2308
+----------------------------------------------------------------
+<hl>computers</hl> urban society survey <hl>computers</hl> urban
+society covers broad range activities found city future scope
+applications limited imagination inventiveness future
+<hl>computer</hl> properly respect human dignity civil liberty
+significant factor improving efficiency urban process expected
+benefits <hl>computer</hl> usage outweigh costs look
+
+CACM-2988
+----------------------------------------------------------------
+<hl>measures</hl> response time memory utilization graphically
+displayed multiphase analytically soluble model proposed broadly
+applicable <hl>analysis</hl> teractive <hl>computer</hl> systems
+nonpaged memories ... <hl>computer</hl> systems empirical
+analyses analytic studies based applying methodology actual
+multiaccess teractive system reported relations workload
+variables memory requirement distribution
+
+CACM-3100
+----------------------------------------------------------------
+<hl>matching</hl> discussed directions future research
+considered cacm 1978 hayesroth mcdermott rule induction
+knowledge acquisition partial <hl>matching</hl> interference
+graph <hl>matching</hl> learning
+
+CACM-1726
+----------------------------------------------------------------
+<hl>analysis</hl> areas rescanned higher resolution suitable
+character <hl>recognition</hl> error rates order .1 percent
+obtained simple problem involving photographs telephone company
+<hl>recognition</hl> character <hl>recognition</hl> text reading
+information retrieval unformatted text operatorcontrolled reader
+online reader textimage discrimination reading machine 3.63 3.79
+3.89
+
+CACM-1002
+----------------------------------------------------------------
+<hl>computer</hl> time spent timeseries <hl>analysis</hl>
+multiplications minimum multiplication method devised digital
+filtering expectation line realtime <hl>analysis</hl> biological
+data filters constructed
+
+CACM-1855
+----------------------------------------------------------------
+<hl>analysis</hl> language processing language <hl>analysis</hl>
+parsing <hl>analysis</hl> procedure <hl>recognition</hl>
+procedure english sentences linguistics psycholinguistics
+transformational grammar limited dictionary predictive
+<hl>analysis</hl> ... <hl>analysis</hl> procedure techniques
+keeping size <hl>analysis</hl> record reasonable limits avoiding
+need dynamic application transformational rules number examples
+output produced program
+
+CACM-0633
+----------------------------------------------------------------
+<hl>analysis</hl> biochemical systems iii <hl>analysis</hl>
+pattern <hl>recognition</hl> cacm february 1962 garfinkel polk
+higgins ochser ca6221 jb march 2 1978 3:43
+
+CACM-2556
+----------------------------------------------------------------
+<hl>matching</hl> automatic parsing approximate match compiler
+program statement <hl>analysis</hl> syntax <hl>analysis</hl>
+3.62 3.63 3.65 ca7315 jb january 24 1978 4:38
+
+CACM-3162
+----------------------------------------------------------------
+<hl>matching</hl> algorithm shown modify boyermoore string
+<hl>matching</hl> algorithm worst case running time linear
+multiple occurrences pattern present text cacm september
+
+CACM-2746
+----------------------------------------------------------------
+<hl>matching</hl> machine keywords pattern <hl>matching</hl>
+machine process text string single pass construction pattern
+<hl>matching</hl> machine takes time proportional sum lengths
+... <hl>matching</hl> aid bibliographic search paper describes
+simple efficient algorithm locate occurrences finite number
+keywords string text algorithm consists constructing finite ...
+<hl>matching</hl> machine processing text string independent
+number keywords algorithm improve speed library bibliographic
+search program factor 5 1 cacm june
+
+CACM-2289
+----------------------------------------------------------------
+<hl>analysis</hl> <hl>analysis</hl> types networks algorithms
+exhibit computation time cases grows rate exceeding log2 number
+nodes graph straightforward cellular implementations wellknown
+... <hl>twodimensional</hl> checkerboard type interconnection
+identical modules cells cell bits memory small amount
+combinational logic communicates mainly neighbors array chief
+computational
+
+CACM-2751
+----------------------------------------------------------------
+<hl>computer</hl> generated pictures quality <hl>computer</hl>
+generated images threedimensional scenes depends shading
+technique paint objects cathoderay tube screen shading algorithm
+depends
+
+CACM-2230
+----------------------------------------------------------------
+<hl>twodimensional</hl> space paper cadep problemoriented
+language positioning geometric patterns <hl>twodimensional</hl>
+space presented language specifically designed automatic
+generation integrated circuit masks
+
+CACM-3136
+----------------------------------------------------------------
+<hl>computer</hl> systems econometric models <hl>computer</hl>
+market developed study relationships system price hardware
+performance single <hl>measures</hl> priceperformance groschs
+law shown simplified <hl>computer</hl> systems market developing
+small business <hl>computer</hl> systems market unstable low
+price predictability cacm april 1979 cale gremillion mckenney
+priceperformance
+
+CACM-2339
+----------------------------------------------------------------
+<hl>descriptions</hl> numerical codes <hl>computer</hl> program
+primary emphasis computerized construction reference verbal
+<hl>descriptions</hl> program results study clearly show
+procedures feasible cacm
+
+CACM-3057
+----------------------------------------------------------------
+<hl>matching</hl> monotone gray level transformation paper
+investigates problem optimal togram <hl>matching</hl> monotone
+gray level transformation assigns picture points gray level
+<hl>matching</hl> presented time complexity ok1 k2 monotone
+property dropped problem npcomplete restricted k2 2 cacm october
+1978 chang wong optimal
+
+CACM-2215
+----------------------------------------------------------------
+<hl>computer</hl> simulated experiments character
+<hl>recognition</hl> presented results approach promising cacm
+february 1971 slagle lee sequential pattern <hl>recognition</hl>
+game tree searching
+
+CACM-2947
+----------------------------------------------------------------
+<hl>computers</hl> sitar lowcost teractive text handling text
+<hl>analysis</hl> system nontechnical users ways comparable
+teractive bibliographical search retrieval systems additional
+features ... <hl>analysis</hl> linguistic <hl>analysis</hl>
+command languages 3.4 3.7 ca7775 jb december 28 1977 1:2 2947 5
+2947 2947 5 2947 2947
+
+CACM-1427
+----------------------------------------------------------------
+<hl>computer</hl> radioisotope scanning field assuming
+increasing importance medical diagnosis scan
+<hl>twodimensional</hl> pattern made dots areas increased source
+activity represented scan
+
+CACM-0495
+----------------------------------------------------------------
+<hl>measures</hl> resulting parameters inversion matrix
+coefficients required procedures matrix inversion take advantage
+symmetry programmed highspeed <hl>computer</hl> n2 elements
+stored manipulated
+
+CACM-2893
+----------------------------------------------------------------
+<hl>computer</hl> utilization <hl>computer</hl> adoption
+american local government city government <hl>computers</hl>
+county government <hl>computers</hl> 2 2.45 2.49 2.9 ca77127 jb
+december ... <hl>computers</hl> innovation american local
+governments <hl>computers</hl> electronic data processing major
+technological innovation operations american local government
+paper establishes substantial variation <hl>computer</hl>
+technology level financial support provide edp extensiveness
+sophistication automated applications central question addressed
+explain differences governments extent adopt <hl>computers</hl>
+
+CACM-1182
+----------------------------------------------------------------
+<hl>shapes</hl> functions similarity context reliable criterion
+detecting pairs words similar meaning cacm october 1965
+rubenstein goodenough ca65113 jb march 6
+
+CACM-2924
+----------------------------------------------------------------
+<hl>computer</hl> graphics approach surface representation
+teractive <hl>computer</hl> graphics method developed rapid
+generation arbitrary shaped threedimensional surfaces method
+synthesis spline theory <hl>shapes</hl> separately generated
+joined system successfully terfaced variety analytical routines
+structural medical graphical applications cacm october 1977 wu
+shengchuan abel
+
+CACM-2979
+----------------------------------------------------------------
+<hl>humans</hl> make deductive inductive inferences form
+optimize heuristic rules machines reach similar results vehicle
+investigations game poker conceptual framework provided
+
+CACM-2903
+----------------------------------------------------------------
+<hl>matching</hl> problems recursion troduction algorithms
+manipulate stack translated recursive algorithms stack
+operations occur algorithms subjected transformation method
+recursion elimination called <hl>matching</hl> algorithm knuth
+morris pratt derived steps simple nonlinear stack algorithm cacm
+november 1977 bird program transformation optimization programs
+recursion
+
+CACM-3170
+----------------------------------------------------------------
+<hl>humans</hl> cacm october1979 lamport program specification
+program verification inductive assertions 5.24 ca7913 db january
+16 198 5:2 pm 317 4
+
+CACM-2894
+----------------------------------------------------------------
+<hl>computer</hl> service measurement measurement methodology
+applicable teractive <hl>computer</hl> service primary purpose
+enable external useroriented assessment <hl>computer</hl>
+performance frequently ternal system
+
+CACM-3047
+----------------------------------------------------------------
+<hl>analysis</hl> tasks benefit registration image model surface
+imaged automatic navigation visible light radar images requires
+exact alignment images digital terrain <hl>matching</hl> real
+image synthetic image obtained surface model known positions
+light sources synthetic image intensity calculated reflectance
+map convenient describing
+
+CACM-1381
+----------------------------------------------------------------
+<hl>computers</hl> undergraduate mathematics curriculum
+<hl>computers</hl> permit widespread application mathematical
+ideas requiring computation science technology extremely
+significant understanding society student interest
+<hl>computers</hl> present paper suggests portion undergraduate
+mathematical curriculum preparation mathematics persons
+professional mathematicians modified include extensions
+clarifications <hl>computers</hl> early introduction
+
+CACM-1844
+----------------------------------------------------------------
+<hl>computers</hl> memoryprocessor pair assigned process
+terminal jobs arrive <hl>computers</hl> serves master control
+<hl>computer</hl> supervises collection distribution messages
+remote terminals simplest <hl>computer</hl> active terminal user
+occupies dedicated disk drive share <hl>computer</hl> terminal
+users simple manner ratio users <hl>computers</hl> dependent
+size power ... <hl>computer</hl> problem <hl>computer</hl>
+rollin rollout 6.21 ca6912 jb february 15 1978 3:52 pm 1844 5
+1844 1844 5 1844 1844 ... <hl>computer</hl> sharing system
+alternative approach design organization general purpose
+interactive multiterminal computing system presented system
+organization conceptually simple arrangement bank ...
+<hl>computers</hl> potential highly system low cost economic
+configurations range systems sizes span order magnitude finally
+problem programs developed remote terminal
+
+CACM-2711
+----------------------------------------------------------------
+<hl>matching</hl> environment stored entities documents compared
+incoming patterns search requests appears indexing property
+space entity lies circumstances indexing system expressible
+
+CACM-2968
+----------------------------------------------------------------
+<hl>measures</hl> run time detailed <hl>analysis</hl> code
+presented level believed languageand compilerindependent quality
+resulting trees overhead spent building analyzed guidelines
+efficient
+
+CACM-2370
+----------------------------------------------------------------
+<hl>recognition</hl> signal processing interactive
+computercontrolled scanning display system operation ibm thomas
+watson research center years system includes flyingspot scanners
+tv <hl>computer</hl> dotmode vector displays analog input output
+facilities variety experimental equipment system design
+programming support typical applications scanner control optical
+
+CACM-2303
+----------------------------------------------------------------
+<hl>computers</hl> reminiscences 19451947 period preceding
+founding acm dominated large <hl>computer</hl> eniac
+characteristics foreshadow later developments cacm july 1972 alt
+history
+
+CACM-3049
+----------------------------------------------------------------
+<hl>descriptions</hl> graphical entities components sembegs
+bagdams facilities storing retrieving manipulating
+<hl>descriptions</hl> graphical entities provided received
+application programs graphics packages graphical ...
+<hl>computer</hl> graphics describe graphical entities commonly
+held provide graphical input output functional capabilities
+sembegs built basic graphical data management system
+
+CACM-1929
+----------------------------------------------------------------
+<hl>computers</hl> microfilm plotters digital <hl>computers</hl>
+widely processing information data kinds including pictorial
+information contained photographs graphical representations
+efficient conversion facilities <hl>computer</hl> retrieving
+graphical form needed commonly employed devices obtaining
+permanent graphical output digital <hl>computers</hl> microfilm
+plotter regrettably present models provision
+
+CACM-1527
+----------------------------------------------------------------
+<hl>recognition</hl> device class grammars correctly decide
+grammatical ungrammatical sentences natural language make
+<hl>recognition</hl> device sort reason data fully expressible
+set <hl>recognition</hl> function succeeds case posed question
+drawn set sentences expressing data correctly grammatical terms
+grammar set sentences sentence <hl>recognition</hl> procedure
+
+CACM-2287
+----------------------------------------------------------------
+<hl>recognition</hl> contour lines solved color labeling method
+shown maps normal contour lines suffices distinguish socalled
+odd lines tangency problem involved <hl>computer</hl> memory
+space simplifying control program suggested cacm september 1972
+mor lamdan automatic scanning contour maps digitizing contour
+lines topology
+
+CACM-1653
+----------------------------------------------------------------
+<hl>measures</hl> performance overhead cpu speed perspective
+appropriateness instruction mixes kernels simulators tools
+discussed pitfalls encountered <hl>analysis</hl> simulation
+synthesis presented levels
+
+CACM-0320
+----------------------------------------------------------------
+<hl>twodimensional</hl> nature enabling fully express consider
+sequential parallel aspects logic compiled directly
+<hl>computer</hl> program eliminate need flow charting hand
+coding
+
+CACM-0069
+----------------------------------------------------------------
+<hl>descriptions</hl> statistical programs university computing
+centers ibm 65s cacm august 1959 hamblen ca5984 jb march 22 1978
+6:7 pm 69
+
+CACM-0094
+----------------------------------------------------------------
+<hl>twodimensional</hl> points cacm march 1959 howell ca5932 jb
+march 22 1978 8:4 pm 75 5 94 94 5 94 94
+
+CACM-2375
+----------------------------------------------------------------
+<hl>analysis</hl> disk scheduling policies wellknown scheduling
+policies movable head disks compared performance criteria
+expected seek time system orientedand expected waiting
+<hl>measures</hl> function differentiate scheduling policies
+wide range input loading conditions selection implementation
+maximum performance twopolicy algorithm discussed cacm march
+1972
+
+CACM-2494
+----------------------------------------------------------------
+<hl>analysis</hl> methods cluster <hl>analysis</hl> cacm june
+1973 ling <hl>computer</hl> graphics cluster <hl>analysis</hl>
+numerical taxonomy hierarchical clustering factor
+<hl>analysis</hl> 3.1 3.3 ... <hl>computer</hl> generated aid
+cluster <hl>analysis</hl> <hl>computer</hl> generated graphic
+method conjunction hierarchical scheme cluster <hl>analysis</hl>
+illustrated graphic principle representation elements data
+
+CACM-2367
+----------------------------------------------------------------
+<hl>computers</hl> society proposed course <hl>computer</hl>
+scientists purpose paper describe course concerned effects
+<hl>computers</hl> society responsibilities <hl>computer</hl>
+scientists society impact <hl>computers</hl>
+
+CACM-2387
+----------------------------------------------------------------
+<hl>computers</hl> <hl>computer</hl> management economies scale
+2.41 ca7224 jb january 31 1978 4:25 pm 1653 4 2387 2387 4 2387
+2387
+
+CACM-1482
+----------------------------------------------------------------
+<hl>computers</hl> memory bugsys types applications authors
+system <hl>analysis</hl> linear graphs main concept system
+collection programmable pointers visualized family bugs cacm
+
+CACM-2980
+----------------------------------------------------------------
+<hl>analysis</hl> graphs major problem picture processing
+elimination large number spurious regions result initial
+segmentation region growing techniques regions eliminated basis
+
+CACM-2407
+----------------------------------------------------------------
+<hl>descriptions</hl> presented program organization problems
+implementation discussed cacm december 1973 couger education
+undergraduate curricula management systems information systems
+information <hl>analysis</hl>
+
+CACM-1518
+----------------------------------------------------------------
+<hl>computer</hl> systems formidable general technique ease
+problem macroscopic simulation paper reports applicability
+technique system36 paper describes experimental model
+system36its hardware
+
+CACM-1809
+----------------------------------------------------------------
+<hl>analysis</hl> ph <hl>computer</hl> science program numerical
+<hl>analysis</hl> study methods procedures obtain approximate
+solutions mathematical problems emphasis scientific calculation
+difficulties education <hl>analysis</hl> program
+<hl>computer</hl> science department emphasize awareness
+problems <hl>computer</hl> implementation experimental
+procedures need solid background applied mathematics cacm
+december 1969
+
+CACM-2942
+----------------------------------------------------------------
+<hl>matching</hl> string processing pattern implementation
+algorithms pascal 4.29 ca7771 jb december 28 1977 8:15 2942 5
+2942 2942 5 2942
+
+CACM-0146
+----------------------------------------------------------------
+<hl>computers</hl> engineering classroom instruction april 293
+<hl>computer</hl> committee college engineering university
+michigan acts steering committee ford foundation project
+<hl>computers</hl> engineering
+
+CACM-0252
+----------------------------------------------------------------
+<hl>computer</hl> system paper describes method duplexcomputer
+programming <hl>computers</hl> military defense system method
+combines special programs basic data processing program package
+
+CACM-2153
+----------------------------------------------------------------
+<hl>computer</hl> system developed purdue university teach
+portions undergraduate course numerical methods instructional
+unit lesson divided modes instruction allow student press
+
+CACM-1604
+----------------------------------------------------------------
+<hl>analysis</hl> computing center environment empirical
+distributions program lengths execution times processing times
+loading times 1 jobs serviced university computing center
+
+CACM-0068
+----------------------------------------------------------------
+<hl>computers</hl> data processing related fields study made
+university programs united states fields <hl>computers</hl> data
+processing operations research closely related fields
+
+CACM-2030
+----------------------------------------------------------------
+<hl>analysis</hl> amount memory required algorithm essentially
+required store single complete derivation addition modified
+version basic algorithm presented blocks infinite analyses
+
+CACM-2967
+----------------------------------------------------------------
+<hl>computer</hl> graphics associative processing line drawings
+apld system utilizes hardware associative memory creates
+modifies deletes stores retrieves <hl>twodimensional</hl> line
+drawings
+
+CACM-1808
+----------------------------------------------------------------
+<hl>computers</hl> cryptographic techniques maintain
+confidentiality information processed <hl>computers</hl> dealt
+special emphasis paid unique characteristics <hl>computer</hl>
+make cryptographic methods relative security
+
+CACM-2322
+----------------------------------------------------------------
+<hl>computers</hl> cacm july 1972 foster <hl>computer</hl>
+architecture projection microcomputers <hl>computer</hl> design
+<hl>computer</hl> organization 1.2 2.1 6 6.2 ca7276 jb january
+
+CACM-1515
+----------------------------------------------------------------
+<hl>computer</hl> system inference execution data retrieval
+paper presents rand project concerned <hl>computers</hl>
+assistants logical <hl>analysis</hl> large collections factual
+data system
+
+CACM-1590
+----------------------------------------------------------------
+<hl>computer</hl> procedure determines pitch periods
+<hl>recognition</hl> peak structure speech waveform speech
+sounds sampled microphone analogtodigital converter attached
+interconnected ibm 79pdp1
+
+CACM-2966
+----------------------------------------------------------------
+<hl>computer</hl> simulations presented show large improvements
+achieved proper choice location multiple reference poin ts cacm
+1977 shapiro <hl>matching</hl> searching match
+
+CACM-2163
+----------------------------------------------------------------
+<hl>computers</hl> organizations acm curriculum committee
+<hl>computer</hl> education management carrying study curriculum
+development management information systems education colleges
+universities grant national <hl>computers</hl> discussed plans
+committee outlined initial approach committee describe education
+effective <hl>computers</hl> organizations classify positions
+education required survey educational programs
+
+CACM-2880
+----------------------------------------------------------------
+<hl>measures</hl> cacm february 1976 artzy hinds saal constant
+divisors division algorithms bit addressable memory microprogram
+4.13 4.49 6.32 ca7627 jb
+
+CACM-2825
+----------------------------------------------------------------
+<hl>computer</hl> programs cacm october 1976 frane
+<hl>analysis</hl> variance cluster <hl>analysis</hl> contingency
+tables data <hl>analysis</hl> discriminant <hl>analysis</hl>
+factor <hl>analysis</hl> graphics outliers
+

@@ -1,0 +1,236 @@
+CACM-3077
+----------------------------------------------------------------
+<hl>types</hl> includes provision programmerdefined
+<hl>data</hl> <hl>types</hl> <hl>data</hl> <hl>types</hl>
+generic routines <hl>programmer</hl> control <hl>type</hl>
+conversion flexible <hl>data</hl> <hl>type</hl> behavior context
+efficient representation cacm 1974 wegbreit <hl>data</hl>
+<hl>types</hl> modes mode unions <hl>type</hl> conversion
+coercion generic functions <hl>extensible</hl>
+<hl>languages</hl> <hl>data</hl> <hl>type</hl>
+<hl>definition</hl> <hl>data</hl> ... <hl>liberated</hl>
+<hl>von</hl> <hl>neumann</hl> <hl>style</hl> <hl>functional</hl>
+<hl>style</hl> <hl>algebra</hl> <hl>programs</hl> conventional
+<hl>programming</hl> languages growing enormous stronger
+inherent defects basic level fat weak ... build higher level
+<hl>style</hl> conventional languages <hl>functional</hl>
+<hl>style</hl> <hl>programming</hl> <hl>algebra</hl>
+<hl>programs</hl> variables range <hl>programs</hl> operations
+combining forms <hl>algebra</hl> transform <hl>programs</hl> ...
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data
+
+CACM-3140
+----------------------------------------------------------------
+<hl>types</hl> includes provision programmerdefined
+<hl>data</hl> <hl>types</hl> <hl>data</hl> <hl>types</hl>
+generic routines <hl>programmer</hl> control <hl>type</hl>
+conversion flexible <hl>data</hl> <hl>type</hl> behavior context
+efficient representation cacm 1974 wegbreit <hl>data</hl>
+<hl>types</hl> modes mode unions <hl>type</hl> conversion
+coercion generic functions <hl>extensible</hl>
+<hl>languages</hl> <hl>data</hl> <hl>type</hl>
+<hl>definition</hl> <hl>data</hl> ... <hl>liberated</hl>
+<hl>von</hl> <hl>neumann</hl> <hl>style</hl> <hl>functional</hl>
+<hl>style</hl> <hl>algebra</hl> <hl>programs</hl> conventional
+<hl>programming</hl> languages growing enormous stronger
+inherent defects basic level fat weak ... build higher level
+<hl>style</hl> conventional languages <hl>functional</hl>
+<hl>style</hl> <hl>programming</hl> <hl>algebra</hl>
+<hl>programs</hl> variables range <hl>programs</hl> operations
+combining forms <hl>algebra</hl> transform <hl>programs</hl> ...
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data
+
+CACM-1705
+----------------------------------------------------------------
+<hl>types</hl> includes provision programmerdefined
+<hl>data</hl> <hl>types</hl> <hl>data</hl> <hl>types</hl>
+generic routines <hl>programmer</hl> control <hl>type</hl>
+conversion flexible <hl>data</hl> <hl>type</hl> behavior context
+efficient representation cacm 1974 wegbreit <hl>data</hl>
+<hl>types</hl> modes mode unions <hl>type</hl> conversion
+coercion generic functions <hl>extensible</hl>
+<hl>languages</hl> <hl>data</hl> <hl>type</hl>
+<hl>definition</hl> <hl>data</hl> ... <hl>liberated</hl>
+<hl>von</hl> <hl>neumann</hl> <hl>style</hl> <hl>functional</hl>
+<hl>style</hl> <hl>algebra</hl> <hl>programs</hl> conventional
+<hl>programming</hl> languages growing enormous stronger
+inherent defects basic level fat weak ... build higher level
+<hl>style</hl> conventional languages <hl>functional</hl>
+<hl>style</hl> <hl>programming</hl> <hl>algebra</hl>
+<hl>programs</hl> variables range <hl>programs</hl> operations
+combining forms <hl>algebra</hl> transform <hl>programs</hl> ...
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data
+
+CACM-2705
+----------------------------------------------------------------
+<hl>types</hl> includes provision programmerdefined
+<hl>data</hl> <hl>types</hl> <hl>data</hl> <hl>types</hl>
+generic routines <hl>programmer</hl> control <hl>type</hl>
+conversion flexible <hl>data</hl> <hl>type</hl> behavior context
+efficient representation cacm 1974 wegbreit <hl>data</hl>
+<hl>types</hl> modes mode unions <hl>type</hl> conversion
+coercion generic functions <hl>extensible</hl>
+<hl>languages</hl> <hl>data</hl> <hl>type</hl>
+<hl>definition</hl> <hl>data</hl> ... <hl>liberated</hl>
+<hl>von</hl> <hl>neumann</hl> <hl>style</hl> <hl>functional</hl>
+<hl>style</hl> <hl>algebra</hl> <hl>programs</hl> conventional
+<hl>programming</hl> languages growing enormous stronger
+inherent defects basic level fat weak ... build higher level
+<hl>style</hl> conventional languages <hl>functional</hl>
+<hl>style</hl> <hl>programming</hl> <hl>algebra</hl>
+<hl>programs</hl> variables range <hl>programs</hl> operations
+combining forms <hl>algebra</hl> transform <hl>programs</hl> ...
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data
+
+CACM-2922
+----------------------------------------------------------------
+<hl>types</hl> includes provision programmerdefined
+<hl>data</hl> <hl>types</hl> <hl>data</hl> <hl>types</hl>
+generic routines <hl>programmer</hl> control <hl>type</hl>
+conversion flexible <hl>data</hl> <hl>type</hl> behavior context
+efficient representation cacm 1974 wegbreit <hl>data</hl>
+<hl>types</hl> modes mode unions <hl>type</hl> conversion
+coercion generic functions <hl>extensible</hl>
+<hl>languages</hl> <hl>data</hl> <hl>type</hl>
+<hl>definition</hl> <hl>data</hl> ... <hl>liberated</hl>
+<hl>von</hl> <hl>neumann</hl> <hl>style</hl> <hl>functional</hl>
+<hl>style</hl> <hl>algebra</hl> <hl>programs</hl> conventional
+<hl>programming</hl> languages growing enormous stronger
+inherent defects basic level fat weak ... build higher level
+<hl>style</hl> conventional languages <hl>functional</hl>
+<hl>style</hl> <hl>programming</hl> <hl>algebra</hl>
+<hl>programs</hl> variables range <hl>programs</hl> operations
+combining forms <hl>algebra</hl> transform <hl>programs</hl> ...
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data
+
+CACM-2850
+----------------------------------------------------------------
+<hl>types</hl> includes provision programmerdefined
+<hl>data</hl> <hl>types</hl> <hl>data</hl> <hl>types</hl>
+generic routines <hl>programmer</hl> control <hl>type</hl>
+conversion flexible <hl>data</hl> <hl>type</hl> behavior context
+efficient representation cacm 1974 wegbreit <hl>data</hl>
+<hl>types</hl> modes mode unions <hl>type</hl> conversion
+coercion generic functions <hl>extensible</hl>
+<hl>languages</hl> <hl>data</hl> <hl>type</hl>
+<hl>definition</hl> <hl>data</hl> ... <hl>liberated</hl>
+<hl>von</hl> <hl>neumann</hl> <hl>style</hl> <hl>functional</hl>
+<hl>style</hl> <hl>algebra</hl> <hl>programs</hl> conventional
+<hl>programming</hl> languages growing enormous stronger
+inherent defects basic level fat weak ... build higher level
+<hl>style</hl> conventional languages <hl>functional</hl>
+<hl>style</hl> <hl>programming</hl> <hl>algebra</hl>
+<hl>programs</hl> variables range <hl>programs</hl> operations
+combining forms <hl>algebra</hl> transform <hl>programs</hl> ...
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data
+
+CACM-0209
+----------------------------------------------------------------
+<hl>types</hl> includes provision programmerdefined
+<hl>data</hl> <hl>types</hl> <hl>data</hl> <hl>types</hl>
+generic routines <hl>programmer</hl> control <hl>type</hl>
+conversion flexible <hl>data</hl> <hl>type</hl> behavior context
+efficient representation cacm 1974 wegbreit <hl>data</hl>
+<hl>types</hl> modes mode unions <hl>type</hl> conversion
+coercion generic functions <hl>extensible</hl>
+<hl>languages</hl> <hl>data</hl> <hl>type</hl>
+<hl>definition</hl> <hl>data</hl> ... <hl>liberated</hl>
+<hl>von</hl> <hl>neumann</hl> <hl>style</hl> <hl>functional</hl>
+<hl>style</hl> <hl>algebra</hl> <hl>programs</hl> conventional
+<hl>programming</hl> languages growing enormous stronger
+inherent defects basic level fat weak ... build higher level
+<hl>style</hl> conventional languages <hl>functional</hl>
+<hl>style</hl> <hl>programming</hl> <hl>algebra</hl>
+<hl>programs</hl> variables range <hl>programs</hl> operations
+combining forms <hl>algebra</hl> transform <hl>programs</hl> ...
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data
+
+CACM-0196
+----------------------------------------------------------------
+<hl>types</hl> includes provision programmerdefined
+<hl>data</hl> <hl>types</hl> <hl>data</hl> <hl>types</hl>
+generic routines <hl>programmer</hl> control <hl>type</hl>
+conversion flexible <hl>data</hl> <hl>type</hl> behavior context
+efficient representation cacm 1974 wegbreit <hl>data</hl>
+<hl>types</hl> modes mode unions <hl>type</hl> conversion
+coercion generic functions <hl>extensible</hl>
+<hl>languages</hl> <hl>data</hl> <hl>type</hl>
+<hl>definition</hl> <hl>data</hl> ... <hl>liberated</hl>
+<hl>von</hl> <hl>neumann</hl> <hl>style</hl> <hl>functional</hl>
+<hl>style</hl> <hl>algebra</hl> <hl>programs</hl> conventional
+<hl>programming</hl> languages growing enormous stronger
+inherent defects basic level fat weak ... build higher level
+<hl>style</hl> conventional languages <hl>functional</hl>
+<hl>style</hl> <hl>programming</hl> <hl>algebra</hl>
+<hl>programs</hl> variables range <hl>programs</hl> operations
+combining forms <hl>algebra</hl> transform <hl>programs</hl> ...
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data
+
+CACM-1764
+----------------------------------------------------------------
+<hl>types</hl> includes provision programmerdefined
+<hl>data</hl> <hl>types</hl> <hl>data</hl> <hl>types</hl>
+generic routines <hl>programmer</hl> control <hl>type</hl>
+conversion flexible <hl>data</hl> <hl>type</hl> behavior context
+efficient representation cacm 1974 wegbreit <hl>data</hl>
+<hl>types</hl> modes mode unions <hl>type</hl> conversion
+coercion generic functions <hl>extensible</hl>
+<hl>languages</hl> <hl>data</hl> <hl>type</hl>
+<hl>definition</hl> <hl>data</hl> ... <hl>liberated</hl>
+<hl>von</hl> <hl>neumann</hl> <hl>style</hl> <hl>functional</hl>
+<hl>style</hl> <hl>algebra</hl> <hl>programs</hl> conventional
+<hl>programming</hl> languages growing enormous stronger
+inherent defects basic level fat weak ... build higher level
+<hl>style</hl> conventional languages <hl>functional</hl>
+<hl>style</hl> <hl>programming</hl> <hl>algebra</hl>
+<hl>programs</hl> variables range <hl>programs</hl> operations
+combining forms <hl>algebra</hl> transform <hl>programs</hl> ...
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data
+
+CACM-0210
+----------------------------------------------------------------
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 6 <hl>21</hl>
+<hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl>
+6 <hl>21</hl> <hl>21</hl> 6 <hl>21</hl> <hl>21</hl> 6
+<hl>21</hl> <hl>21</hl> 6 <hl>21</hl> ... <hl>types</hl>
+includes provision programmerdefined <hl>data</hl>
+<hl>types</hl> <hl>data</hl> <hl>types</hl> generic routines
+<hl>programmer</hl> control <hl>type</hl> conversion flexible
+<hl>data</hl> <hl>type</hl> behavior context efficient
+representation cacm 1974 wegbreit <hl>data</hl> <hl>types</hl>
+modes mode unions <hl>type</hl> conversion coercion generic
+functions <hl>extensible</hl> <hl>languages</hl> <hl>data</hl>
+<hl>type</hl> <hl>definition</hl> <hl>data</hl>
+

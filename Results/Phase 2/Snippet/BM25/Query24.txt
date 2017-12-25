@@ -1,0 +1,659 @@
+CACM-1696
+----------------------------------------------------------------
+<hl>stochastic</hl> matrix algorithm identifying ergodic
+subchains transient states <hl>stochastic</hl> matrix presented
+applications markov renewal programming construction variable
+length codes reviewed
+
+CACM-0020
+----------------------------------------------------------------
+<hl>processes</hl> technique discussed <hl>applied</hl>
+iterative procedure solution equation accelerates rate
+convergence iteration converges induces convergence iteration
+diverges illustrative cacm june
+
+CACM-1410
+----------------------------------------------------------------
+<hl>stochastic</hl> <hl>processes</hl> governing user inputs
+program activity paper statistical description user input
+process sdcarpa generalpurpose timesharing system tss input
+process
+
+CACM-0268
+----------------------------------------------------------------
+<hl>stochastic</hl> evaluation static storage allocation cacm
+october 1961 cohen ca61113 jb march 16 1978 12:48 pm 268 5 268
+268
+
+CACM-1194
+----------------------------------------------------------------
+<hl>applied</hl> operation history establishment acm repository
+moore school university pennsylvania reviewed briefly principles
+presented paramount provision information services easy
+accessibility
+
+CACM-3120
+----------------------------------------------------------------
+<hl>processes</hl> work compilerwriter easier conceptually
+practice forget problems outset avoids special processing
+problem technique <hl>applied</hl> construction algol 68
+compiler examples
+
+CACM-0942
+----------------------------------------------------------------
+<hl>applied</hl> statistical research involving extensive
+computations moderately large quantity data wehave found
+numerical <hl>processes</hl> required built completely small
+number basic
+
+CACM-3043
+----------------------------------------------------------------
+<hl>processes</hl> concurrent programming concept language
+concept concurrent <hl>processes</hl> common variables
+introduced <hl>processes</hl> communicate synchronize means
+procedure calls guarded regions concept <hl>processes</hl> shows
+include procedures coroutines classes monitors
+<hl>processes</hl> semaphores buffers path expressions
+inputoutput special cases cacm november 1978 hansen concurrent
+
+CACM-2342
+----------------------------------------------------------------
+<hl>processes</hl> operate formation partial rules calculation
+transition rules applicable hardware <hl>processes</hl> software
+<hl>processes</hl> symmetry <hl>processes</hl> required cacm
+june 1972 gilbert ... <hl>processes</hl> kinds interference
+communicating parallel <hl>processes</hl> examined dijkstra
+knuth solutions mutual exclusion problem subproblems form
+parallel programs informal proofs correctness ...
+<hl>processes</hl> formal programs interference mutual exclusion
+operating systems parallel <hl>processes</hl> 4 4.1 4.3 4.32
+4.42 5.24 6.2 ca7263 jb january
+
+CACM-2882
+----------------------------------------------------------------
+<hl>stochastic</hl> evaluation model database organization data
+retrieval systems experimental work valuation large scale data
+retrieval systems scarce due difficulty prohibitive
+
+CACM-3141
+----------------------------------------------------------------
+<hl>processes</hl> note presents improvement lelanns algorithm
+finding largest smallest set uniquely numbered
+<hl>processes</hl> arranged circle central controller exists
+number <hl>processes</hl>
+
+CACM-1435
+----------------------------------------------------------------
+<hl>stochastic</hl> convergence problem factor selection problem
+motive response problem cacm 1966 burdick naylor ca6652 jb march
+3 1978 1:2 1435
+
+CACM-1540
+----------------------------------------------------------------
+<hl>stochastic</hl> monte carlo nature results compare
+nonpreference assignment algorithm cacm september 1967 busam
+ca6796 jb february 27 1978 3:15 pm
+
+CACM-2371
+----------------------------------------------------------------
+<hl>processes</hl> timesharing system communication system
+extended <hl>processes</hl> distributed computer network
+hypothetical application system existing network discussed cacm
+april 1972 walden
+
+CACM-1235
+----------------------------------------------------------------
+<hl>stochastic</hl> approach grammatical coding english computer
+program assign word english text form class part speech program
+operates high speed limited
+
+CACM-2535
+----------------------------------------------------------------
+<hl>stochastic</hl> nature arrival process user computer affects
+performance timeshared computercommunications system concluded
+values system parameters noticeable improvement performance
+computer model
+
+CACM-1846
+----------------------------------------------------------------
+<hl>processes</hl> simultaneous events occur problems simulating
+discrete event systems computer systems conventional digital
+computer dealt systems assumed network interconnected sequential
+<hl>processes</hl> introduced abstraction problem developed
+admits solution majority commonly encountered problems technique
+find method simulating parallel events report found cases
+
+CACM-2740
+----------------------------------------------------------------
+<hl>processes</hl> <hl>processes</hl> synchronize means
+semaphores extended semaphores queue semaphores number parallel
+<hl>processes</hl> carefully justified semaphore constructions
+explained system proved free <hl>processes</hl> operating system
+semaphores semaphore applications queue semaphores deadlock
+deadly embrace hierarchical structuring multiprogramming
+operating system structure asynchronous structuring buffering
+
+CACM-3078
+----------------------------------------------------------------
+<hl>processes</hl> considerably reduced application symbol
+manipulation programs physical systems modeled markov semimarkov
+<hl>processes</hl> potential range application techniques wider
+problem availability
+
+CACM-1441
+----------------------------------------------------------------
+<hl>applied</hl> system trivial function evaluations study made
+determine methods numerical integration require computation time
+amount truncation error <hl>applied</hl> system ordinary
+
+CACM-2320
+----------------------------------------------------------------
+<hl>processes</hl> operations defined clarifies meaning programs
+permits large class timedependent errors caught compile time
+combination critical regions event variables enables
+<hl>processes</hl> degree desired concepts sufficiently safe
+operating systems user programs cacm july 1972 hansen structured
+multiprogramming programming languages operating systems
+
+CACM-2931
+----------------------------------------------------------------
+<hl>applied</hl> parts computability theory programming
+languages offer obvious opportunity syntactic formalization
+advanced semantical theory complete examples give wideranging
+mathematical answers
+
+CACM-2376
+----------------------------------------------------------------
+<hl>processes</hl> formalization welldefined synchronization
+mechanism prove concurrently running <hl>processes</hl> system
+communicate correctly demonstrated system consisting sending
+<hl>processes</hl> deposit messages buffer
+
+CACM-1272
+----------------------------------------------------------------
+<hl>processes</hl> factor analysis applications
+<hl>processes</hl> factor analysis applications quick unbiased
+evaluation large volume incoming mail telegrams yielding summary
+reports humans
+
+CACM-0293
+----------------------------------------------------------------
+<hl>applied</hl> mathematics laboratory david taylor model basin
+cacm september 1961 richstone ca6191 jb march 16 1978 1:1 pm 293
+5
+
+CACM-2672
+----------------------------------------------------------------
+<hl>processes</hl> computer music computer composition music
+theory 3.44 3.65 ca74311 jb january 18 1978 1:56 2672 5 2672
+2672 5
+
+CACM-0927
+----------------------------------------------------------------
+<hl>applied</hl> ultraviolet absorption spectroscopy cacm
+february 1963 white shapiro pratt ca6326 jb march 14 1978 2:19
+pm 927 5 927
+
+CACM-1135
+----------------------------------------------------------------
+<hl>processes</hl> class permits writing extremely compact
+programs comparatively complex applications terms tables control
+expressions express information characteristic application
+furthermorelocal process <hl>processes</hl> represented
+languages opposed emphasizing formal contentsindependent
+syntactical definitions relies exclusively nonprocedural
+representation process sets tables relations data results
+control
+
+CACM-0618
+----------------------------------------------------------------
+<hl>processes</hl> characterized main types markets type shown
+195 196 estimated 197 cacm march 1962 carlson ca62314 jb march 2
+1978
+
+CACM-2504
+----------------------------------------------------------------
+<hl>processes</hl> computer music computer compositionmusic
+theory 3.44 3.65 ca73516 jb january 23 1978 4:27 pm 254 5 254
+254 5
+
+CACM-2255
+----------------------------------------------------------------
+<hl>processes</hl> computer music computer composition music
+theory 3.44 3.65 ca721114 jb january 27 1978 1:22 pm 2255 5 2255
+2255
+
+CACM-2920
+----------------------------------------------------------------
+<hl>processes</hl> resources operating system safe situations
+realized endangering smooth running system process specifies
+future needs flowchart needdefined steps global approach
+
+CACM-0412
+----------------------------------------------------------------
+<hl>processes</hl> algol translation cacm january 1961 gray
+ca6112 jb march 17 1978 1:29 412 5 412 412 5 412 412
+
+CACM-2378
+----------------------------------------------------------------
+<hl>processes</hl> supervisor handles io external devicesthe
+directory systemschedules active <hl>processes</hl> manages
+memory handle errors small set primitive functions execute
+process
+
+CACM-2742
+----------------------------------------------------------------
+<hl>stochastic</hl> convergence additional problem lies fact
+significant amount bookkeeping time required future events
+proper sequence paper presents method significantly reducing
+
+CACM-3020
+----------------------------------------------------------------
+<hl>applied</hl> complex pli program aim demonstrate systematic
+recursionremoval techniques complex knuths sturdy toddler obtain
+measurements cost procedure linkage pli savings
+
+CACM-1748
+----------------------------------------------------------------
+<hl>processes</hl> considered connections <hl>processes</hl>
+protection analyzed general approach priorityoriented scheduling
+relationship conventional interrupt systems explained aspects
+timeoriented scheduling considered implementation
+
+CACM-1438
+----------------------------------------------------------------
+<hl>applied</hl> problem finding zeros functions plane plane
+cacm april 1966 cain jr ca66411 jb march 3 1978 1:23 1438 5
+
+CACM-2912
+----------------------------------------------------------------
+<hl>processes</hl> solutions assume synchronizing mechanism data
+written process read <hl>processes</hl> cacm november 1977
+lamport asynchronous multiprocessing multiprocess
+synchronization readerswriters problem
+
+CACM-3039
+----------------------------------------------------------------
+<hl>processes</hl> mutual interference despite frequent
+manipulations large shared data space technique developed nearly
+activity needed garbage detection collection performed
+additional
+
+CACM-1563
+----------------------------------------------------------------
+<hl>applied</hl> problem finding hamilton path graph
+graphtheoretic justification method cacm july 1967 pohl ca6771
+jb february 28 1978 8:28 1563
+
+CACM-3128
+----------------------------------------------------------------
+<hl>processes</hl> requires controlling relative ordering events
+<hl>processes</hl> synchronization mechanism proposed abstract
+objects called eventcounts sequencers <hl>processes</hl> control
+ordering events directly
+
+CACM-0825
+----------------------------------------------------------------
+<hl>processes</hl> photographically recorded data input program
+consists sparkchamber photographs tracks highenergy particles
+recorded program scans measures performs preliminary
+interpretation photographs
+
+CACM-2705
+----------------------------------------------------------------
+<hl>applied</hl> mathematics found similarly programming
+development natural languages flexion wordorder based language
+types speaks programming language design based general abstract
+
+CACM-1587
+----------------------------------------------------------------
+<hl>processes</hl> input data items chosen needed method input
+data continuously relocated space made apportioned output tables
+overflow occurs important special
+
+CACM-1233
+----------------------------------------------------------------
+<hl>applied</hl> symbols appearing proposed american standard
+flowchart symbols symbols se cacm july 1965 ca6572 jb march 6
+1978 9:1 pm
+
+CACM-1753
+----------------------------------------------------------------
+<hl>processes</hl> sharing multics basic concepts involved
+design multics operating system introduced multics concepts
+<hl>processes</hl> address space virtual memory defined paging
+
+CACM-2409
+----------------------------------------------------------------
+<hl>applied</hl> assumed fourier transforms known explicitly
+approximate solution depends positive parameters cacm november
+1973 stenger integral equations wienerhopf convolution
+approximate
+
+CACM-1110
+----------------------------------------------------------------
+<hl>applied</hl> class parabolic partial differential equations
+reduces problem system ordinary differential equations
+application method shows considerable advantage conventional
+finite difference
+
+CACM-2327
+----------------------------------------------------------------
+<hl>processes</hl> information cacm july 1972 arbib automata
+theory brain theory network complexity resolution redundancy
+potential command frog visual system reticular
+
+CACM-1886
+----------------------------------------------------------------
+<hl>applied</hl> orders factors expressions information computed
+correct sequence factors need retained memory minimal amount
+time assignment algorithm executed order minimize
+
+CACM-1673
+----------------------------------------------------------------
+<hl>applied</hl> cacm november 1968 greenspan
+initialboundaryvalue problem wave equation boundaryvalue
+technique 5.15 5.17 ca68116 jb february 21 1978 2:48 pm
+
+CACM-1382
+----------------------------------------------------------------
+<hl>applied</hl> mathematicians years discusses broad terms
+information relate undergraduate training mathematicians cacm
+september 1966 macon ca6694 jb march 2 1978
+
+CACM-1199
+----------------------------------------------------------------
+<hl>processes</hl> control functions experiments performed model
+results experiments application results discussed cacm september
+1965 hutchinson ca6597jb march 6 1978 7:29
+
+CACM-2848
+----------------------------------------------------------------
+<hl>processes</hl> automated result interview structure complete
+decision tables sets decision rules purpose paper provide
+procedure synthesizing decision rules provide aid
+
+CACM-3056
+----------------------------------------------------------------
+<hl>processes</hl> cacm october 1978 morris counting 5.11 ca7815
+dh january 29 1979 5:52 pm 356 5 356 356 5 356
+
+CACM-2767
+----------------------------------------------------------------
+<hl>stochastic</hl> scheduling distributions especially chosen
+show advantages limitations algorithms endorder tree algorithm
+shown advantageous replacement algorithm simulation languages
+promising algorithm
+
+CACM-2210
+----------------------------------------------------------------
+<hl>applied</hl> transform recursively defined functions
+iterative programs frequently major gain inefficiency emphasized
+order construct program loops recursion principle mathematical
+induction
+
+CACM-0111
+----------------------------------------------------------------
+<hl>applied</hl> great reliability high degree accuracy rapid
+convergence realized numerical examples shown illustrate
+pitfalls show circumvented application recommended procedures
+cacm
+
+CACM-1383
+----------------------------------------------------------------
+<hl>applied</hl> logic human affairs changed existence logical
+engine result longer think terms single discipline mathematics
+terms complex mathematical sciences cacm
+
+CACM-2900
+----------------------------------------------------------------
+<hl>applied</hl> priori sites included optimal allocation cacm
+november 1977 grapa belford allocation computer networks
+distributed data management 4.33 ca771116 jb
+
+CACM-2228
+----------------------------------------------------------------
+<hl>processes</hl> shown scheduler introduce artificial
+deadlocks habermanns method prevent permanent blocking situation
+<hl>processes</hl> receive resource requests shown deadlock
+prevention necessarily
+
+CACM-1631
+----------------------------------------------------------------
+<hl>applied</hl> random numbers computer simulations cacm
+february 1967 gorenstein ca67211 jb february 28 1978 2:1 pm 1631
+5 1631 1631
+
+CACM-2836
+----------------------------------------------------------------
+<hl>applied</hl> problems involving probabilistic parsing
+combinatorial optimization cacm september 1976 loui derivation
+tree parse tree probabilistic grammar structural ambiguity
+combinatorial
+
+CACM-0298
+----------------------------------------------------------------
+<hl>applied</hl> onehalf million generated numbers lying
+interval sets integers obtained bits generated numbers tests
+substantiated randomness numbers set integers coming
+
+CACM-0095
+----------------------------------------------------------------
+<hl>applied</hl> expanded equivalent set equations functions
+practical functions satisfy sufficiently simple differential
+equations functions eliminated procedure trigonometric inverse
+trigonometric exponential
+
+CACM-1008
+----------------------------------------------------------------
+<hl>applied</hl> schedule meeting parallel sessions cacm
+september 1964 schultz brooks schwartz ca6493 jb march 9 1978
+6:16 pm 18 5
+
+CACM-1554
+----------------------------------------------------------------
+<hl>applied</hl> ndimensional hyperobject hypersurface cacm
+august 1967 noll ca6781 jb february 27 1978 4:48 pm 1554 5 1554
+1554 5
+
+CACM-1809
+----------------------------------------------------------------
+<hl>applied</hl> mathematics cacm december 1969 parter ph
+program numerical analysis course separation education 1.52
+ca69123 jb february 15 1978 4:25
+
+CACM-1541
+----------------------------------------------------------------
+<hl>processes</hl> essential feature nature language role
+process concept presented means extended cacm september 1967
+parente krasnow ca6795 jb february 27
+
+CACM-0078
+----------------------------------------------------------------
+<hl>applied</hl> devices problems purpose note establish
+mathematical framework model practical procedures assist
+extension ideas problems cacm june 1959 wouk ca5966
+
+CACM-2519
+----------------------------------------------------------------
+<hl>processes</hl> turns vicious circle effects include ways
+augmenting written natural language notational linguistic
+devices exhibition structure inherent information communicating
+sophisticated
+
+CACM-2895
+----------------------------------------------------------------
+<hl>processes</hl> specifications constrain ts order events
+computation occur language write specifications readerswriters
+problem writer priority readerswriters problem cacm december
+1977
+
+CACM-3013
+----------------------------------------------------------------
+<hl>applied</hl> set test pictures compared standard digital
+laplacian gradient operator distance center centroid
+neighborhood edge briefly considered turns equivalent standard
+
+CACM-2953
+----------------------------------------------------------------
+<hl>applied</hl> schematic recursive procedure proc sx px nx sfx
+sgx mx fi procedures general form arise connection tree
+traversal sorting
+
+CACM-2383
+----------------------------------------------------------------
+<hl>processes</hl> computer music computer composition music
+theory 3.44 3.65 ca7228 jb january 31 1978 3:54 pm 2383 5 2383
+2383
+
+CACM-2581
+----------------------------------------------------------------
+<hl>processes</hl> string phonemes ambiguity error system
+locallyorganized sense builds local parse structures reliable
+word candidates recognized input utterance local structures
+
+CACM-1637
+----------------------------------------------------------------
+<hl>applied</hl> simulation experiments cacm february 1967
+fishman ca6725 jb february 28 1978 3:34 pm 1637 5 1637 1637 5
+1637
+
+CACM-2080
+----------------------------------------------------------------
+<hl>processes</hl> communication cacm april 197 hansen
+multiprogramming operating systems parallel <hl>processes</hl>
+process concept process communication message buffering process
+hierarchy process
+
+CACM-2062
+----------------------------------------------------------------
+<hl>applied</hl> analysis data generated computer simulation
+experiment multiitem inventory model procedure cost computer
+time required achieve levels statistical precision calculated
+
+CACM-1518
+----------------------------------------------------------------
+<hl>processes</hl> model mechanized simscript consists 175
+statements auxiliary programs job generator creates properties
+system36 jobs simulated cacm november 1967 katz
+
+CACM-2185
+----------------------------------------------------------------
+<hl>applied</hl> degree suggests efficient object code cacm june
+1971 glaswin compiling multiplications fixed point arithmetic
+4.12 ca7165 jb february 3
+
+CACM-2580
+----------------------------------------------------------------
+<hl>processes</hl> computer music computer composition music
+theory formal languages probabilistic grammars 3.44 3.65 5.23
+ca74114 jb january 16 1978 1:35
+
+CACM-1707
+----------------------------------------------------------------
+<hl>applied</hl> upper triangular matrix yields positive matrix
+preassigned positive spectrum cacm august 1968 hall porsching
+test matrices positive matrices similarity
+
+CACM-2000
+----------------------------------------------------------------
+<hl>applied</hl> give significant variation goodmanlance method
+solution twopoint boundary problems resulting method applies
+numerical solution optimal control problems eulerlagrange
+formulation
+
+CACM-0243
+----------------------------------------------------------------
+<hl>processes</hl> encoding error detection based parity
+evaluations prescribed dimensions array effectiveness codes
+increased introducing system check bit essentially parity check
+
+CACM-2307
+----------------------------------------------------------------
+<hl>processes</hl> fulfilled dynamic document environment
+outlined clustered searched information retrieved interactive
+usercontrolled search process methods automatic query
+modification based user
+
+CACM-3140
+----------------------------------------------------------------
+<hl>processes</hl> proofs theorems programs argued formal
+verifications programs matter obtained play key role development
+computer science software engineering proofs mathematics
+
+CACM-2523
+----------------------------------------------------------------
+<hl>applied</hl> construction cloud cover maps cloud cover
+pictures obtained satellites cacm april 1973 strong iii
+rosenfeld picture processing scene analysis
+
+CACM-0278
+----------------------------------------------------------------
+<hl>processes</hl> tractable cacm october 1961 roberts jr ca6113
+jb march 16 1978 1:22 pm 278 5 278 278 5 278
+
+CACM-2019
+----------------------------------------------------------------
+<hl>applied</hl> digitized hand printed numerals obtained sales
+clerks principle involves transforming quadrilateral terms
+convex hull pattern square amount overlap class
+
+CACM-1308
+----------------------------------------------------------------
+<hl>processes</hl> englishlike input language tailored draftsmen
+designers describe part output desired approach mathematical
+model consists group surfacedefining quadric equations created
+
+CACM-2268
+----------------------------------------------------------------
+<hl>applied</hl> set test problems programs tested included
+appendix problems criteria investigation found program based
+rational extrapolation showed performance cacm november
+
+CACM-1385
+----------------------------------------------------------------
+<hl>processes</hl> data processing yun chou hsueh science
+operation programming campaign 19586 attempt made bring concepts
+linear programming ordinary chinese workers
+
+CACM-2555
+----------------------------------------------------------------
+<hl>applied</hl> expressions involving variableprecision
+operations sumei error bounds denotes operations precision ei
+denotes error operations ith argument paper presents efficient
+
+CACM-1180
+----------------------------------------------------------------
+<hl>applied</hl> accordance definitions symbolic terms presented
+systematically assertion table process definition includes
+special case recursive assertions complete programs imperatives
+show
+
+CACM-1911
+----------------------------------------------------------------
+<hl>applied</hl> conditions determining sequence subtrees
+performed solution syntactic analysis problem class grammars
+outlined precise specification generative procedure paper
+inverse form
+
+CACM-2810
+----------------------------------------------------------------
+<hl>applied</hl> practitioner researcher broad definition
+computing practitioner regarded professional types
+institutionsacademic industry government professional society
+educate employ regulate mold practitioner
+
+CACM-2811
+----------------------------------------------------------------
+<hl>applied</hl> good results pulse waves detect measure
+structural variations waveform parsing system modeled
+compilercompiler system user enter application specific
+information
+
+CACM-1749
+----------------------------------------------------------------
+<hl>processes</hl> sequential <hl>processes</hl> hierarchical
+levels independent abstractions implemented hierarchical
+structure proved vital verification logical soundness design
+correctness implementation cacm 1968
+

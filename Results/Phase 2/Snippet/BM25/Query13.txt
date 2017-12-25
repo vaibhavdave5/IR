@@ -1,0 +1,677 @@
+CACM-2897
+----------------------------------------------------------------
+<hl>code</hl> elaborate optimizations improve object
+<hl>code</hl> contexts concatenate statement <hl>code</hl>
+produced compiler expansionoptimization strategy compares
+favorably <hl>code</hl> produced conventional pli ...
+<hl>code</hl> generation technique compilers recent developments
+optimizing techniques allowed design compilers emerge compiler
+translates parsed source <hl>code</hl> lower level <hl>code</hl>
+... <hl>code</hl> generation pli compiler concatenation program
+<hl>optimization</hl> <hl>optimization</hl> techniques data flow
+analysis 4.12 4.13 4.22 ca77123 jb february 1 198
+
+CACM-1947
+----------------------------------------------------------------
+<hl>code</hl> <hl>optimization</hl> methods analyzing control
+flow data flow programs compilation applied transforming program
+improve object time <hl>efficiency</hl> dominance relationships
+indicating
+
+CACM-2680
+----------------------------------------------------------------
+<hl>space</hl> allocation disk storage devices amount
+<hl>space</hl> required storage exceeds amount online decisions
+made permanently resident mountable decisions affect number ...
+<hl>optimization</hl> disk filesfile systems scheduling
+<hl>space</hl> allocation memory hierarchy 3.72 3.73 4.39 ca7433
+jb january 18 1978 12:32 pm 268
+
+CACM-1886
+----------------------------------------------------------------
+<hl>code</hl> expressions factorization set expressions compiled
+methods presented increasing <hl>efficiency</hl> object
+<hl>code</hl> produced factoring expressions finding set
+subexpressions occurs expressions
+
+CACM-1795
+----------------------------------------------------------------
+<hl>code</hl> serial parallel computation cacm december 1969
+fateman <hl>code</hl> <hl>optimization</hl> sequencing
+operations detection common subexpressions 4.12 ca691217 jb
+february 15
+
+CACM-2748
+----------------------------------------------------------------
+<hl>code</hl> efficient arrangement interpretive <hl>code</hl>
+related bells notion threaded <hl>code</hl> requires
+<hl>space</hl> amenable machine independent implementations cacm
+june 1975 dewar
+
+CACM-2495
+----------------------------------------------------------------
+<hl>code</hl> generation arithmetic expressions instruction sets
+presentday computers cacm june 1973 stockhausen arithmetic
+expressions <hl>code</hl> generation compilers objectcode
+<hl>optimization</hl> register
+
+CACM-2491
+----------------------------------------------------------------
+<hl>code</hl> concept threaded <hl>code</hl> presented
+alternative machine language <hl>code</hl> hardware software
+realizations software realized interpretive <hl>code</hl>
+needing interpreter extensions optimizations
+
+CACM-2944
+----------------------------------------------------------------
+<hl>code</hl> executed grouped achieve improved
+<hl>efficiency</hl> cacm july 1977 barth garbage collection
+global flow analysis list processing <hl>optimization</hl>
+reference counts
+
+CACM-2904
+----------------------------------------------------------------
+<hl>optimization</hl> algorithms cacm november 1977 cocke
+compilers <hl>optimization</hl> compiled <hl>code</hl> program
+analysis operator strength reduction test replacement strongly
+connected region
+
+CACM-3080
+----------------------------------------------------------------
+<hl>code</hl> system proving programs written high level
+language correctly translated low level language primary system
+post <hl>optimization</hl> step <hl>code</hl> generation
+
+CACM-1195
+----------------------------------------------------------------
+<hl>optimization</hl> processing ibm 79 system programs
+completely selfchecking test validity accuracy input materials
+provided national aeronautics <hl>space</hl> administration cacm
+september
+
+CACM-2253
+----------------------------------------------------------------
+<hl>optimization</hl> transforming original algorithm machine
+<hl>code</hl> goal generate <hl>code</hl> handling tedious
+address calculations necessitated complicated data structures
+paper preoccupied indexing
+
+CACM-1651
+----------------------------------------------------------------
+<hl>code</hl> <hl>efficiency</hl> evaluation large lp problems
+doubtless benefit input system suited bulk data handling input
+<hl>code</hl> users standpoint input appears
+
+CACM-2559
+----------------------------------------------------------------
+<hl>space</hl> allocation hashcoded table altered table entries
+rescattered <hl>space</hl> technique accomplishing rescattering
+presented technique independent length table hashing function
+utilized
+
+CACM-3171
+----------------------------------------------------------------
+<hl>space</hl> execution program cacm october 1979 klint line
+number administration diagnostic messages abstract machine
+<hl>code</hl> 4.12 4.13 4.2 4.42 ca7914
+
+CACM-2537
+----------------------------------------------------------------
+<hl>space</hl> text storage <hl>optimization</hl> dynamic
+programming 3.73 4.1 5.41 ca7332 jb january 24 1978 1:12 pm 1973
+4 2537 1992 ... <hl>space</hl> text strings compiler diagnostic
+messages method relies hand selection set text strings common
+messages phrases stored storage technique rise
+
+CACM-1564
+----------------------------------------------------------------
+<hl>code</hl> generated line time <hl>optimization</hl>
+attempted elimination obviously unnecessary tests conditions
+decision table preprocessor language developed cobol users
+preprocessor written
+
+CACM-2701
+----------------------------------------------------------------
+<hl>code</hl> improvement problems solved algorithm cacm
+december 1975 graham wegman global flow analysis data flow
+<hl>code</hl> <hl>optimization</hl> common subexpression
+elimination
+
+CACM-2033
+----------------------------------------------------------------
+<hl>space</hl> time required identify message nonmember set
+reject time allowable error frequency methods intended reduce
+amount <hl>space</hl> required hashcoded information ...
+<hl>efficiency</hl> storage <hl>efficiency</hl> 3.73 3.74 3.79
+ca774 jb february 13 1978 9:18 1676 4 233 1682 4 233 1728 4
+
+CACM-2423
+----------------------------------------------------------------
+<hl>code</hl> generator realizable assembly language fortran
+algol subroutine called syntactic rule applied parse program
+typical onepass compilers constructed pgs translate
+<hl>code</hl> generators cacm november 1973 mickunas schneider
+parser generators translator writing systems syntactic analysis
+normalform grammars pushdown automata translation grammars
+
+CACM-3005
+----------------------------------------------------------------
+<hl>code</hl> utilizes variable length fields method fixed
+length op <hl>code</hl> address fields frequent instructions
+consist single 1byte field consequence instruction
+
+CACM-2464
+----------------------------------------------------------------
+<hl>optimization</hl> algorithm a454 cacm august 1973 richardson
+kuester <hl>optimization</hl> constrained <hl>optimization</hl>
+boxs algorithm 5.41 ca7381 jb january 23 1978 1:34
+
+CACM-2858
+----------------------------------------------------------------
+<hl>code</hl> length minimized minimizing assigned address point
+program algorithm suitable arbitrary program structure choice
+<hl>optimization</hl> criteria cacm june 1976 frieder
+
+CACM-2835
+----------------------------------------------------------------
+<hl>optimization</hl> simple method detection recursive
+procedures presented compiler <hl>optimization</hl>
+implementation considerations discussed modification algorithm
+improve <hl>optimization</hl> analysis determine subset values
+
+CACM-1235
+----------------------------------------------------------------
+<hl>space</hl> half wordevents corpus identified small
+dictionary function words frequently occurring lexical words
+suffix tests logicaldecision rules employed <hl>code</hl>
+additional
+
+CACM-3054
+----------------------------------------------------------------
+<hl>code</hl> <hl>optimization</hl> techniques detailed
+implementation combining effective improvements quicksort
+discussion implement assembly language analytic results
+describing performance programs summarized variety
+
+CACM-1362
+----------------------------------------------------------------
+<hl>code</hl> extension ascii asa tutorial american standard
+<hl>code</hl> information interchange ascii number control
+characters principle <hl>code</hl> extension representation
+information directly ... <hl>code</hl> extension concepts
+graphic substitution syntactic representation meet similar
+requirements covered topics truly concerned <hl>code</hl>
+extension linked discussion <hl>code</hl> applications ...
+<hl>code</hl> manner characters previously completely paper
+presents set mutually consistent philosophies regarding
+<hl>code</hl> extension applications suggests corollary set
+doctrines application
+
+CACM-2929
+----------------------------------------------------------------
+<hl>optimization</hl> technique known inline substitution
+analyzed <hl>optimization</hl> consists replacing procedure
+invocation modified copy procedure body general problem inline
+substitution minimize
+
+CACM-2716
+----------------------------------------------------------------
+<hl>space</hl> utilization performing global query
+<hl>optimization</hl> exploiting disjoint pipelined concurrency
+coordinating sort orders temporary relations employing directory
+analysis maintaining locality
+
+CACM-0048
+----------------------------------------------------------------
+<hl>code</hl> minimumdistancethree <hl>code</hl> 64 1bit
+<hl>code</hl> words employed station identification
+<hl>code</hl> embedding shiftregister <hl>code</hl> period 123
+permits <hl>code</hl> employed punctuation ... <hl>code</hl>
+indexing applications communication shiftregister <hl>code</hl>
+1 calling 64 wireless telemetering stations fixed cyclical order
+high degree redundancy permitting singleerror
+
+CACM-2711
+----------------------------------------------------------------
+<hl>space</hl> retrieval performance correlate inversely
+<hl>space</hl> density approach based <hl>space</hl> density
+computations choose optimum indexing vocabulary collection
+documents typical evaluation <hl>space</hl> 3.71 3.73 3.74 3.75
+ca75111 jb january 6 1978 1:14 2711 5 2711 2711 5 2711 2711 2711
+
+CACM-1807
+----------------------------------------------------------------
+<hl>code</hl> significantly reducing compilation speed cacm
+december 1969 busam england fortran <hl>optimization</hl>
+expressions compilers compilation subscripts register allocation
+loops common
+
+CACM-2433
+----------------------------------------------------------------
+<hl>code</hl> structuring crucial illiac <hl>optimization</hl>
+problem satisfactory method data allocation presented language
+structures utilize storage method express parallel algorithms
+cacm
+
+CACM-1652
+----------------------------------------------------------------
+<hl>code</hl> direct application problems area information
+retrieval document classification computeraided teaching text
+editing <hl>code</hl> called ipc information processing
+<hl>code</hl> 8bit ... <hl>code</hl> nonnumeric information
+processing applications online systems <hl>code</hl>
+specifically designed simplify internal information processing
+operations online computer system respect nonnumeric
+
+CACM-1655
+----------------------------------------------------------------
+<hl>code</hl> extension procedures information interchange
+proposed usa standard cacm december 1968 standard <hl>code</hl>
+<hl>code</hl> information interchange characters shift shift
+escape
+
+CACM-2344
+----------------------------------------------------------------
+<hl>optimization</hl> parameters controllable scheduling
+algorithm affect system performance predictable manner benefit
+<hl>optimization</hl> features control scheduling algorithm
+marked effect measure performance ... <hl>optimization</hl>
+performance timesharing systems simulation simulation model
+timesharing system finite noncontiguous store infinite auxiliary
+store study variation system parameters store
+<hl>optimization</hl> parameters controllable scheduling
+algorithm marked effect system performance system performance
+based mean cost delay jobs processed shown significant
+improvements
+
+CACM-3129
+----------------------------------------------------------------
+<hl>space</hl> limited records added jobs batch processing mode
+online transactions transaction job generates demand vector
+designates <hl>space</hl> required record addition
+
+CACM-2892
+----------------------------------------------------------------
+<hl>efficiency</hl> models system studied measurements line
+<hl>efficiency</hl> arpanet presented extrapolation measurements
+anticipate overhead heavily loaded network similar results
+derived recently
+
+CACM-1756
+----------------------------------------------------------------
+<hl>code</hl> proposed usa standard cacm april 1968 usa standard
+card <hl>code</hl> punched card punched card <hl>code</hl>
+holepatterns holepatterns assignment punched
+
+CACM-2722
+----------------------------------------------------------------
+<hl>space</hl> data structure storage information retrieved
+associative searches kd tree defined examples shown storage
+requirements significant advantage structure single data
+
+CACM-2745
+----------------------------------------------------------------
+<hl>space</hl> algorithm computing maximal common subsequences
+problem finding longest common subsequence strings solved
+quadratic time <hl>space</hl> algorithm presented solve problem
+
+CACM-1231
+----------------------------------------------------------------
+<hl>optimization</hl> redundant instructions discarded final
+stage compilation simple optimizing technique called peephole
+<hl>optimization</hl> method examplesare cacm july 1965 mckeeman
+ca6574
+
+CACM-3066
+----------------------------------------------------------------
+<hl>code</hl> walkthroughs <hl>code</hl> inspections personnel
+selection 4.6 ca7896 dh february 5 1979 1:47 366 5 366 366 5 366
+366 ... <hl>code</hl> walkthroughsinspections paper describes
+experiment program testing employing 59 highly experienced data
+processing professionals methods test small pli program results
+
+CACM-2078
+----------------------------------------------------------------
+<hl>space</hl> planning problems involving arrangement objects
+threespace objective function primarily consists derivatives
+distance objects arrangement called <hl>space</hl> planning
+problems representational
+
+CACM-2389
+----------------------------------------------------------------
+<hl>space</hl> planning computer language set programs language
+allow formulating solving class <hl>space</hl> planning problems
+language extension algol includes means represent
+
+CACM-2836
+----------------------------------------------------------------
+<hl>optimization</hl> cacm september 1976 loui derivation tree
+parse tree probabilistic grammar structural ambiguity
+combinatorial <hl>optimization</hl> 5.23 5.49 ca7693 jb january
+
+CACM-2834
+----------------------------------------------------------------
+<hl>code</hl> applications algorithms presented generate nbit
+binary reflected gray <hl>code</hl> codewords fixed weight
+<hl>code</hl> algorithms efficient time required generate
+element
+
+CACM-1465
+----------------------------------------------------------------
+<hl>efficiency</hl> dictates effectiveness compiler increased
+means compiler substantial life needs clear logical structure
+reliability sound data processing techniques compiler based
+
+CACM-2524
+----------------------------------------------------------------
+<hl>space</hl> suitably defined structures presented search
+algorithms intended reduce number comparisons required achieve
+desired result methods derived inequalities satisfied metrics
+
+CACM-1066
+----------------------------------------------------------------
+<hl>code</hl> undergone radical change longer adequate merely
+reduce mathematical algorithm simplex method computer
+<hl>code</hl> advanced <hl>code</hl> cope variety situations
+respective
+
+CACM-2533
+----------------------------------------------------------------
+<hl>code</hl> sign sequence fffx ordered cacm march 1973 salzer
+gray <hl>code</hl> sign sequences ordering positive monotonic
+functions binary system galois
+
+CACM-2611
+----------------------------------------------------------------
+<hl>optimization</hl> algorithm r454 cacm august 1974 shere
+ca74813 jb january 17 1978 9:28 2611 5 2611 2611 5 2611 2611
+
+CACM-1369
+----------------------------------------------------------------
+<hl>space</hl> iterative procedure determining half rotations
+ndimensional euclidean <hl>space</hl> method variant cyclic
+jacobi procedure utilizers elementary plane rotations obtain
+half
+
+CACM-3083
+----------------------------------------------------------------
+<hl>efficiency</hl> method derived tradeoff analysis cacm july
+1978 halatsis philokyprou hash <hl>code</hl> scatter storage
+open addressing chaining pseudochaining collision resolution
+
+CACM-0117
+----------------------------------------------------------------
+<hl>efficiency</hl> internal sorting methods cacm november 196
+nagler ca61118 jb march 2 1978 6:51 pm 117 5 117 117 5
+
+CACM-2508
+----------------------------------------------------------------
+<hl>efficiency</hl> quicksort algorithm r42 cacm 1973 wheeler
+sorting quicksort 3.73 4.49 5.31 5.6 ca73512 jb january 23 1978
+4:35 pm
+
+CACM-3173
+----------------------------------------------------------------
+<hl>code</hl> chunks frequently occurring configurations
+prestatements lines <hl>code</hl> cacm november 1979 mayer basic
+learning instruction 1.5 3.36 4.22 ca79111 db
+
+CACM-2645
+----------------------------------------------------------------
+<hl>efficiency</hl> languages enabling users estimate
+<hl>efficiency</hl> computer programs presented program
+<hl>efficiency</hl> wishes estimate written language gotoless
+programming language includes features <hl>efficiency</hl>
+processors languages processor syntaxdirected translator
+compiles program symbolic formula representing execution time
+program sound processor set procedures program processor
+
+CACM-0149
+----------------------------------------------------------------
+<hl>efficiency</hl> solving linear programming problems simplex
+algorithm cacm september 196 dickson frederick ca698 jb march 2
+1978 8:43 pm 149
+
+CACM-2964
+----------------------------------------------------------------
+<hl>optimization</hl> resident overflow storage 3.73 3.74 ca7758
+jb december 29 1977 1:48 2964 5 2964 2964 5 2964 2964 2964
+
+CACM-1757
+----------------------------------------------------------------
+<hl>code</hl> calendar date machinetomachine data interchange
+proposed usa standard cacm april 1968 usa standard data
+<hl>code</hl> calendar date machinetomachine data
+
+CACM-2569
+----------------------------------------------------------------
+<hl>efficiency</hl> rejection method shown <hl>efficiency</hl>
+johnks method paper concludes nonintegral mix procedures yields
+combination accuracy <hl>efficiency</hl> 1 johnks method 1
+
+CACM-3125
+----------------------------------------------------------------
+<hl>optimization</hl> suppression partial redundancies
+elimination redundant computations moving invariant computations
+loops separately invariants moved outward loop loop propose move
+expression
+
+CACM-1676
+----------------------------------------------------------------
+<hl>optimization</hl> occurs pass ii doloop machinedependent
+<hl>optimization</hl> pass iii cacm november 1968 mendicino
+martin ranelletti zwakenberg compiler compilercompiler machine
+independence
+
+CACM-1331
+----------------------------------------------------------------
+<hl>code</hl> structures protection manipulation variablelength
+items items made variable number characters number bits control
+information partition symbols inserted mark separations
+
+CACM-1670
+----------------------------------------------------------------
+<hl>code</hl> punched card punched card <hl>code</hl>
+holepatterns holepatterns assignment punched card systems 1.1
+1.4 2 2.12 2.43 2.44 3.1 3.2
+
+CACM-2950
+----------------------------------------------------------------
+<hl>efficiency</hl> algorithm developed results definition
+timeinvariant algorithms include commonly implemented
+timeinvariant algorithms dependence processing rates priorities
+derived abstract model framework
+
+CACM-0195
+----------------------------------------------------------------
+<hl>code</hl> cacm 196 patterson ca652 jb march 22 1978 1:33 pm
+195 5 195 195 5 195 195 195
+
+CACM-3018
+----------------------------------------------------------------
+<hl>optimization</hl> problem connection method
+<hl>optimization</hl> problem shown equivalent problem covering
+edges graph complete subgraphs objective minimizing number
+complete subgraphs relationship
+
+CACM-1542
+----------------------------------------------------------------
+<hl>space</hl> required compiler interpreter performance
+obtained role microprogramming stressed opens dimension
+processing interpretive <hl>code</hl> structure content higher
+level language matched
+
+CACM-3134
+----------------------------------------------------------------
+<hl>space</hl> compared common approaches algorithms evaluating
+appropriateness approach information system class information
+systems normal multiplication table method yields rapid
+retrieval <hl>space</hl> requirement conventional systems method
+incorporates improved modification inverted technique cacm march
+1979 motzkin information retrieval inverted multiattribute
+retrieval multilist
+
+CACM-2616
+----------------------------------------------------------------
+<hl>optimization</hl> practice extensions theory computation
+computability suggested cacm august 1974 cavouras decision
+tables program <hl>optimization</hl> debugging semantics theory
+programming systems
+
+CACM-1187
+----------------------------------------------------------------
+<hl>code</hl> table standards cacm october 1965 crosby ca6518 jb
+march 6 1978 6:42 pm 1187 5 1187 1187 5 1187
+
+CACM-3175
+----------------------------------------------------------------
+<hl>code</hl> letter assigned probabilities representing plain
+text letters probabilities updated parallel <hl>code</hl>
+letters joint letter probabilities iterating updating scheme
+results
+
+CACM-0066
+----------------------------------------------------------------
+<hl>code</hl> 256 characters cacm september 1959 bemer ca5993 jb
+march 22 1978 4:5 pm 66 5 66 66 5 66
+
+CACM-1289
+----------------------------------------------------------------
+<hl>code</hl> information interchange cacm april 1965 ca6542 jb
+march 7 1978 4:3 pm 1289 5 1289 1289 5 1289 1289
+
+CACM-1414
+----------------------------------------------------------------
+<hl>code</hl> information interchange proposed american standard
+cacm june 1966 ca6667 jb march 3 1978 8:39 1414 5 1414 1414 5
+
+CACM-1064
+----------------------------------------------------------------
+<hl>code</hl> information interchange proposed american standard
+cacm june 1964 ca6463 jb march 9 1978 9:46 pm 164 5 164 164
+
+CACM-0598
+----------------------------------------------------------------
+<hl>efficiency</hl> answers question cobol compiler forced
+generation efficient object program purpose article present
+answer creation full utilization wellconstructed cobol library
+
+CACM-0693
+----------------------------------------------------------------
+<hl>optimization</hl> problems involving unimodal functions
+variables technique proven optimal sense onedimensional
+fibonaccian search valuable kinds calculations cacm october 1963
+krolak
+
+CACM-1232
+----------------------------------------------------------------
+<hl>code</hl> punched cards ecma standard cacm july 1965 ca6573
+jb march 6 1978 9:6 pm 1232 5 1232 1232 5
+
+CACM-1275
+----------------------------------------------------------------
+<hl>code</hl> structures protection manipulation variable length
+items corrigendum cacm april 1965 ramamoorthy ca65416 jb march 7
+1978 3:31 pm 1275
+
+CACM-2230
+----------------------------------------------------------------
+<hl>space</hl> paper cadep problemoriented language positioning
+geometric patterns twodimensional <hl>space</hl> presented
+language specifically designed automatic generation integrated
+circuit masks turns
+
+CACM-2195
+----------------------------------------------------------------
+<hl>optimization</hl> process discussed method suitable parallel
+processing operations relative state computed parallel number
+stages equal length curves log2 approximate method
+
+CACM-0230
+----------------------------------------------------------------
+<hl>code</hl> compatibility cacm february 196 bemer ca622 jb
+march 22 1978 2:25 pm 23 5 23 23 5 23 23
+
+CACM-2586
+----------------------------------------------------------------
+<hl>code</hl> generation arithmetic expressions instruction sets
+presentday computers errata cacm october 1974 stockhausen
+ca74112 jb january 16 1978 11:5 2586
+
+CACM-1708
+----------------------------------------------------------------
+<hl>efficiency</hl> lisp computation paged machine problem
+levels storage programs explored context lisp system core memory
+buffer large virtual memory stored
+
+CACM-2133
+----------------------------------------------------------------
+<hl>optimization</hl> theory assignment problem rectangular
+matrices 5.39 5.4 ca71121 jb february 2 1978 9:38 2133 4 2133
+2133 4 2133
+
+CACM-1065
+----------------------------------------------------------------
+<hl>code</hl> information interchange ascii serialbybit data
+transmission proposed american standard cacm june 1964 ca6462 jb
+march 9 1978 9:47 pm
+
+CACM-2801
+----------------------------------------------------------------
+<hl>code</hl> results conventional bcd <hl>code</hl> simple
+removal redundant bits long decimal message subdivided
+threedigit blocks separately compressed result differs
+asymptotic
+
+CACM-0333
+----------------------------------------------------------------
+<hl>code</hl> cacm 1961 bemer smith jr williams jr ca6151 jb
+march 16 1978 11:14 pm 333 4 333 23 5
+
+CACM-1204
+----------------------------------------------------------------
+<hl>code</hl> information interchange proposed american standard
+cacm september 1965 ca6592 jb march 6 1978 7:41 pm 124 5 124 124
+
+CACM-2374
+----------------------------------------------------------------
+<hl>efficiency</hl> fixed partitioning cacm march 1972 coffman
+jr ryan jr storage partitioning memory management dynamic
+storage allocation <hl>space</hl> sharing multiprogrammed
+
+CACM-2812
+----------------------------------------------------------------
+<hl>optimization</hl> design algorithm program generation
+alternative specifications program modules logical database
+structures cacm december 1976 nunamaker jr konsynski jr ho
+
+CACM-2359
+----------------------------------------------------------------
+<hl>space</hl> records conditions satisfied superior
+conventional isam method chaining overflow records linked list
+techniques conditions long overflow chains significant overflow
+<hl>space</hl> constraints record keys small compared total
+record size significant index opposed sequential mode hashed
+overflow time locate record dependent
+
+CACM-0164
+----------------------------------------------------------------
+<hl>efficiency</hl> cacm august 196 smith jr ca682 jb march 2
+1978 9:2 pm 25 4 164 21 4 164 214
+
+CACM-2290
+----------------------------------------------------------------
+<hl>optimization</hl> optimizing compiler 4.12 5.32 ca72812 jb
+january 3 1978 9:19 187 4 229 234 4 229 229 4 229
+
+CACM-1259
+----------------------------------------------------------------
+<hl>space</hl> gain power cacm 1965 weldon baker ca65512 jb
+march 7 1978 1:5 pm 1259 5 1259 1259 5 1259
+
+CACM-3033
+----------------------------------------------------------------
+<hl>space</hl> requirements independent easy table produce good
+quasi optimal solutions branchandbound technique good heuristic
+direct search cluttered enormous search <hl>space</hl>
+

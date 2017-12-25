@@ -1,0 +1,774 @@
+CACM-1829
+----------------------------------------------------------------
+<hl>human</hl> <hl>user</hl> respond commands <hl>user</hl>
+program similar <hl>interface</hl> routine calls take place
+actions <hl>human</hl> program interact symmetrical equal basis
+medium <hl>human</hl> program <hl>interfaces</hl> transient
+swapping version small resident part provision swapped
+submonitors cacm november 1969 bond rightnour graphic monitor
+manmachine
+
+CACM-2035
+----------------------------------------------------------------
+<hl>editing</hl> online <hl>efficiency</hl> online environment
+scroll <hl>editing</hl> small machine system tape filing tape
+oriented system text <hl>editing</hl> 3.73 4.1 4.11 ...
+<hl>editing</hl> automatic filing maintenance program
+preparation assembly focuses preparation <hl>editing</hl>
+continuously displayed 234character text strings manuscripts
+positioned <hl>user</hl> edited simply <hl>command</hl> set
+augmented <hl>user</hl> machine small aids program
+<hl>design</hl> providing display scope premarked randomly
+addressable linc tapes standard items environment
+<hl>design</hl> efficient tape algorithms minimize limitations
+small memory techniques developed handling scroll
+<hl>editing</hl> filing layered system structure outlined lap6 2
+
+CACM-2321
+----------------------------------------------------------------
+<hl>interface</hl> computers data communications systems future
+systems combine computers digital terminals communications
+equipment present <hl>design</hl> optimization problems require
+reconsideration traditional <hl>interfaces</hl> means computers
+digital terminals connect communications systems required
+<hl>interfaces</hl> consideration problems coordination
+synchronization error control signaling stream multiplexing
+switch
+
+CACM-2299
+----------------------------------------------------------------
+<hl>design</hl> philosophy developing sophisticated utility
+program illustrated actual <hl>design</hl>
+<hl>implementation</hl> text editor versatile data structure
+employed small number programmed subroutines <hl>editing</hl>
+function cacm august 1972 benjamin <hl>command</hl> processing
+context searching executive program garbage collection
+interpreter list processing macro language paging
+
+CACM-2873
+----------------------------------------------------------------
+<hl>design</hl> <hl>user</hl> oriented languages lg specifically
+designed nonprogrammers easy learn close natural language
+geometry cacm april 1976 raymond interactive programming ...
+<hl>implementation</hl> language flexible definition geometric
+objects elements computes parameters displays results capability
+geometric figure collection parameters displaying loci
+parameters characteristic
+
+CACM-1978
+----------------------------------------------------------------
+<hl>interface</hl> <hl>user</hl> greatly simplified paper
+discuss advantages accrued systems <hl>design</hl>
+considerations interactive routines <hl>implementation</hl>
+online squares datafitting program peg presented
+
+CACM-3147
+----------------------------------------------------------------
+<hl>design</hl> business application systems paper discusses
+model finding efficient <hl>implementation</hl> business
+application system logical specifications determined advance
+model <hl>views</hl> program
+
+CACM-2106
+----------------------------------------------------------------
+<hl>issues</hl> allow undue effort solution interesting problems
+capable exposing outstanding <hl>issues</hl> significance
+capable exposing outstanding <hl>issues</hl> significance chosen
+machine seful ... <hl>interpreters</hl> 1.52 3.51 4.13 4.21
+ca729 jb february 14 1978 1:15 216 5 216 216 5 216 216 216 ...
+<hl>design</hl> evaluation management information systems
+requires understanding related computer technology concepts
+paging priority interrupt systems explained machine language
+level machine ... <hl>issues</hl> great depth committed
+equipment provided manufacturer able provide student diagnostic
+aids great depth allow student ready access machine capable
+
+CACM-1923
+----------------------------------------------------------------
+<hl>interfaces</hl> high level languages basic inputoutput
+support facilities shown technique provide potentially
+inexpensive methods programs communicate deeply embedded
+facilities <hl>command</hl>
+
+CACM-2003
+----------------------------------------------------------------
+<hl>design</hl> application circuit project characteristics
+interactive software system intended constitute
+<hl>interface</hl> designer computer steps <hl>design</hl>
+process presented main emphasis description <hl>user</hl>
+oriented languages operating levels interaction based imol
+interactive monitor language designed perform control functions
+software system <hl>design</hl> criteria provide ...
+<hl>design</hl> examined hand adopted <hl>design</hl> criteria
+provide sufficient generality extend languages computerassisted
+applications cacm september 197 bracchi somalvico interaction
+graphics <hl>design</hl> circuit <hl>design</hl> software system
+software organization language monitor language graphic language
+extended fortran 3.24 3.25 4.13 4.22 4.3 ca792
+
+CACM-1409
+----------------------------------------------------------------
+<hl>design</hl> objectives originally conceived special seminar
+research project computer <hl>design</hl> usable educational
+machineand easily modifiable hardware basic research computer
+systems
+
+CACM-1742
+----------------------------------------------------------------
+<hl>improvements</hl> display processor <hl>design</hl> lie
+circular path making <hl>improvements</hl> original simple
+<hl>design</hl> general purpose computer trip degree physical
+separation display <hl>design</hl> cacm june 1968 myer display
+processor <hl>design</hl> display system computer graphics
+graphic terminal displays graphics display generator display
+channel
+
+CACM-1699
+----------------------------------------------------------------
+<hl>command</hl> language symbolic <hl>command</hl> language
+interactive systems <hl>user</hl> learning factors online
+searching 3.72 3.74 3.79 3.81 ca6892 jb february 22 ...
+<hl>design</hl> conducted moore school information systems
+laboratory basic assumption research information retrieval
+system manmachine dialogue remote inquiry terminal provide
+searcher
+
+CACM-1937
+----------------------------------------------------------------
+<hl>command</hl> language system <hl>user</hl> easy means data
+retrieval display requests data displayed tables graphs produced
+format ready publication paper statements
+
+CACM-2357
+----------------------------------------------------------------
+<hl>design</hl> criteria <hl>implementation</hl> cost overhead
+<hl>user</hl> reactions cacm 1972 christman timesharing remote
+computing online access online computing remote manager real
+<hl>implementation</hl> effort operating overhead <hl>user</hl>
+reactions remote terminals operating system 3.79 3.89 4.39 4.41
+ca7253 jb january 31 1978 11:4
+
+CACM-1671
+----------------------------------------------------------------
+<hl>design</hl> <hl>implementation</hl> system alleviate problem
+rule evaluation linguist area phonology presented permits
+<hl>user</hl> define online sets rules statable framework
+presented
+
+CACM-0251
+----------------------------------------------------------------
+<hl>design</hl> paper presents digital computer program rapid
+calculation manufacturing data <hl>essential</hl>
+<hl>design</hl> preproduction cams utilized ballistic computers
+tank fire control
+
+CACM-2629
+----------------------------------------------------------------
+<hl>command</hl> language selectable peruser basis 1 subsystems
+including dozen languageshis paper discusses nature
+<hl>implementation</hl> system <hl>user</hl> <hl>command</hl>
+<hl>interface</hl> cacm july
+
+CACM-0892
+----------------------------------------------------------------
+<hl>editing</hl> printed output summarizing results operations
+examples typical application significant features machine
+<hl>implementation</hl> cacm march 1963 climenson ca63328 jb
+march
+
+CACM-1605
+----------------------------------------------------------------
+<hl>design</hl> factors experiment data obtained variables
+programmer time computer time elapsed time considered definitive
+system <hl>effectiveness</hl> analysis variance techniques
+employed <hl>design</hl> factors eliminated statistical analysis
+experimental results provided strong evidence important system
+differences critique experimental <hl>design</hl> implications
+experimentation cacm 1967
+
+CACM-2483
+----------------------------------------------------------------
+<hl>effectiveness</hl> conceptually simple addition interesting
+phenomenon called tree searching catastrophe plagued cokos
+entire development troubles <hl>human</hl> player standard
+exponential growth <hl>command</hl> structure desiring chess
+program experimentation comparison made mysterious actions
+<hl>human</hl> players coko iii cacm july 1973 kozdrowicki
+cooper artificial
+
+CACM-2145
+----------------------------------------------------------------
+<hl>design</hl> printed circuit boards help helps automate
+<hl>design</hl> stage step closer production logical
+<hl>design</hl> <hl>design</hl> wiring patterns twolayer circuit
+boards <hl>human</hl> approaches wiring <hl>design</hl>
+theoretically interesting timeconsuming method mazerunning based
+lees algorithm help performs 9 percent required wiring heuristic
+path
+
+CACM-2169
+----------------------------------------------------------------
+<hl>efficiency</hl> considerable effort spent ensure minimum
+amount machine dependence <hl>implementation</hl> permitting
+system installed quickly easily variety computing machines paper
+description
+
+CACM-2812
+----------------------------------------------------------------
+<hl>design</hl> information systems paper describes
+computeraided analysis <hl>design</hl> development integrated
+financial management system navy material <hl>command</hl>
+support activity nmcsa computeraided ... <hl>design</hl> problem
+statement language problem statement analyzer physical system
+<hl>design</hl> accurately defined systems systems optimization
+<hl>design</hl> algorithm 2.44 3.5 4.33 ... <hl>design</hl>
+computer selection performance evaluation major components
+problem statement language problem statement analyzer generator
+alternative designs performance evaluator statement requirements
+
+CACM-1408
+----------------------------------------------------------------
+<hl>improvements</hl> paper problem attacked changing drum
+modifying manner operates outset drum functional definition
+simple <hl>design</hl> scheme eschenbach introduced enormously
+increases
+
+CACM-1238
+----------------------------------------------------------------
+<hl>satisfaction</hl> reporting requirement accounting
+requirements posed definite problems system <hl>design</hl>
+handling reporting function practical satisfactory solution
+developed expanding basic system
+
+CACM-2622
+----------------------------------------------------------------
+<hl>user</hl> authentication scheme requiring secrecy computer
+computer operating systems <hl>user</hl> authenticates entering
+secret password known solely system system compares password
+<hl>user</hl> intruder know access table penetrate system invert
+determine input produces output paper discusses <hl>issues</hl>
+surrounding selection suitable plausible arguments
+
+CACM-1764
+----------------------------------------------------------------
+<hl>papers</hl> half transcript panel discussion condensed dr
+organick edited panelists remarks referred <hl>papers</hl> van
+dam kahn discussion half session pertinent
+
+CACM-2947
+----------------------------------------------------------------
+<hl>editing</hl> functions simple <hl>command</hl> language
+designating function search template consisting textual string
+desired strings delimiting context hit delivered extensive
+experience
+
+CACM-2542
+----------------------------------------------------------------
+<hl>design</hl> evaluation system critical failure software
+system <hl>design</hl> <hl>implementation</hl> methodology
+performance proposed <hl>design</hl> evaluated actually
+implemented paper reasons failure explored
+
+CACM-3012
+----------------------------------------------------------------
+<hl>user</hl> reactions gathe red questionnaire results show
+important role played frequently chosen laboratory reference
+leaders influencing system implications study <hl>design</hl>
+
+CACM-1571
+----------------------------------------------------------------
+<hl>design</hl> determination <hl>interface</hl> parameters
+biological scientist digital computer cacm july 1967 betyar
+ca6772 jb february 28 1978 9:8 1571 5
+
+CACM-3035
+----------------------------------------------------------------
+<hl>implementation</hl> university years methodology implemented
+<hl>effectiveness</hl> planning methodology assessed terms
+improvement delivery computing services major institutional
+roles instruction research administration
+
+CACM-3102
+----------------------------------------------------------------
+<hl>issues</hl> programming language aid keeping track physical
+units feet sec discussed method introduction relationships units
+watt voltsamps yard feet subsequent
+
+CACM-2105
+----------------------------------------------------------------
+<hl>user</hl> draws description sampleddata system specifies
+description transmitted large scale computer <hl>design</hl>
+simulated graphic representation processed signal scope
+successful <hl>design</hl>
+
+CACM-2716
+----------------------------------------------------------------
+<hl>interface</hl> approach implementing smart
+<hl>interface</hl> support relational view data proposed basic
+idea employ automatic programming techniques <hl>interface</hl>
+analyzes efficiently refines <hl>user</hl> relational algebra
+<hl>interface</hl> called squiral designed approach detail
+squiral seeks minimize query response time space utilization
+performing global query
+
+CACM-1252
+----------------------------------------------------------------
+<hl>design</hl> programming computer applications notation
+suggestions made <hl>implementation</hl> larger goal cacm june
+1965 smith ca6563 jb march 7 1978 12:41
+
+CACM-2469
+----------------------------------------------------------------
+<hl>design</hl> speed independent processor modules developed
+investigation petri net <hl>implementation</hl> cacm august 1973
+misunas speed independent asynchronous petri net 6.1
+
+CACM-2887
+----------------------------------------------------------------
+<hl>effectiveness</hl> software based correction cobol
+surprisingly highfrequency errors errorprone implies minimal
+error inducing <hl>design</hl> 8 percent cobol misspellings
+classifiable error ... <hl>design</hl> lack research types
+errors identified pilot study 132 error types found 1777 errors
+classified 14 runs 73 cobol students
+
+CACM-2247
+----------------------------------------------------------------
+<hl>effectiveness</hl> modularization dependent criteria
+dividing system modules system <hl>design</hl> problem presented
+conventional unconventional decomposition shown unconventional
+decompositions distinct advantages goals
+
+CACM-1281
+----------------------------------------------------------------
+<hl>user</hl> required values time computer converses
+<hl>user</hl> input process checks errors standard data
+<hl>editing</hl> values input cacm april 1965 pyle
+
+CACM-2399
+----------------------------------------------------------------
+<hl>implementation</hl> discussed cacm january 1972 irons djorup
+<hl>editing</hl> text cathoderay tube entry display timesharing
+3.7 4.3 ca7214 jb february 1
+
+CACM-1698
+----------------------------------------------------------------
+<hl>design</hl> cacm september 1968 denning statistical models
+inputoutput operating system <hl>design</hl> inputoutput
+<hl>design</hl> 4.3 4.41 5.5 ca6893 jb february 22
+
+CACM-1962
+----------------------------------------------------------------
+<hl>editing</hl> functions time functions typical generated
+<hl>human</hl> beings multiple functions 14 produced long
+periods time hours sufficiently high sampling rates
+<hl>human</hl> reactions 2 samples functions variety purposes
+control machine tools sound synthesizers person controls program
+operates small computer functions stored
+
+CACM-2514
+----------------------------------------------------------------
+<hl>user</hl> interactively <hl>design</hl> test array grammars
+<hl>user</hl> control rule selection procedure derivation parse
+weighted programming matrices choice instance selection schemes
+
+CACM-2786
+----------------------------------------------------------------
+<hl>design</hl> <hl>implementation</hl> system typesetting
+mathematics language designed easy learn people secretaries
+mathematical typists know mathematics typesetting experience
+language learned hour
+
+CACM-1465
+----------------------------------------------------------------
+<hl>efficiency</hl> dictates <hl>effectiveness</hl> compiler
+increased means compiler substantial life needs clear logical
+structure reliability sound data processing techniques compiler
+based
+
+CACM-2820
+----------------------------------------------------------------
+<hl>design</hl> <hl>implementation</hl> table driven interactive
+diagnostic programming system caps highly interactive diagnostic
+compilerinterpreter beginning programmers prepare debug execute
+fairly simple <hl>implementation</hl> increase flexibility
+multilingual system 5 students caps learn fortran pli cobolin
+conjunction computer assisted course introductory computer
+science cacm
+
+CACM-3040
+----------------------------------------------------------------
+<hl>efficiency</hl> algorithm developed achieve level
+consistency desired order preprocess problem subsequent
+backtrack search function alternative backtrack search
+explicitly determining solutions
+
+CACM-1747
+----------------------------------------------------------------
+<hl>design</hl> computer <hl>design</hl> criteria computer
+systems computer systems <hl>design</hl> input equipment input
+equipment <hl>design</hl> operating systems operating systems
+<hl>design</hl> multiprogramming <hl>design</hl> virtual
+computers programming languages programming language
+<hl>design</hl> program semantics programming language semantics
+determinism reproducibility repeatability deterministic
+computers protection memory
+
+CACM-1853
+----------------------------------------------------------------
+<hl>design</hl> factors <hl>essential</hl> success plex
+processing system <hl>implementation</hl> cacm september 1969
+hansen data structure data representation list structure list
+representation
+
+CACM-1534
+----------------------------------------------------------------
+<hl>design</hl> <hl>implementation</hl> operating system dad
+detail system designed control data 36 large drum backing store
+intended allow integration remote console
+
+CACM-2522
+----------------------------------------------------------------
+<hl>design</hl> <hl>implementation</hl> evaluation working set
+dispatcher behavior computer system largely dependent algorithms
+employed allocate system resources processes competing recent
+research
+
+CACM-1960
+----------------------------------------------------------------
+<hl>design</hl> principles multiaccess system esope emphasis
+basic ideas underlying <hl>design</hl> <hl>implementation</hl>
+details main features system include ability <hl>user</hl>
+schedule parallel
+
+CACM-2841
+----------------------------------------------------------------
+<hl>user</hl> system examined features part practical 3d system
+designing spaceforms cacm august 1976 clark realtime graphics
+computeraided <hl>design</hl> picture processing
+
+CACM-1188
+----------------------------------------------------------------
+<hl>design</hl> language idea constructing computer
+<hl>design</hl> language making algollike programming language
+presented computer designer benefit <hl>design</hl> language
+higher level computer
+
+CACM-3011
+----------------------------------------------------------------
+<hl>design</hl> <hl>implementation</hl> activities finally
+management computing clearly impacts top managers involving
+<hl>improvements</hl> decision information cacm march 1978
+dutton kraemer computer
+
+CACM-2439
+----------------------------------------------------------------
+<hl>user</hl> program control timesharing environment
+userwritten programs dartmouth timesharing system communicate
+remote terminals simultaneously control interactions terminals
+programs written standard
+
+CACM-1612
+----------------------------------------------------------------
+<hl>efficiency</hl> toptobottom parsing algorithm connection
+programming language grammars shown instance retracing
+unprofitable paths eliminated suitable rearrangement productions
+defining grammar <hl>essential</hl>
+
+CACM-3031
+----------------------------------------------------------------
+<hl>implementation</hl> axioms <hl>implementation</hl> limited
+testing programs <hl>design</hl> time conventional
+<hl>implementation</hl> accomplished cacm december 1978 guttag
+horowitz musser abstract data type
+
+CACM-1392
+----------------------------------------------------------------
+<hl>design</hl> facets <hl>design</hl> <hl>implementation</hl>
+mathematical expression manipulation algorithms discussed
+concrete examples provided formac expand differentiation
+algorithms basic formac utility routine
+
+CACM-2246
+----------------------------------------------------------------
+<hl>efficiency</hl> 4.12 4.21 4.22 ca72129 jb january 27 1978
+11:2 2246 5 2246 2246 5 2246 2246 2246
+
+CACM-2527
+----------------------------------------------------------------
+<hl>implementation</hl> high level language machine computing
+machines directly execute statements high level language
+proposed past report describes actual <hl>implementation</hl>
+machine
+
+CACM-3146
+----------------------------------------------------------------
+<hl>essential</hl> skills software engineering team work
+software project management software <hl>design</hl> methodology
+communication skills realistic environment sample software
+projects undertaken
+
+CACM-1502
+----------------------------------------------------------------
+<hl>editing</hl> detail remarks theoretical experimental
+justification form emphasis system providing maximum convenience
+power <hl>user</hl> notable features ability handle piece text
+
+CACM-2950
+----------------------------------------------------------------
+<hl>implementation</hl> cacm july 1977 ruschitzka fabry
+scheduling algorithms scheduling models priority operating
+systemsprocessor sharing <hl>implementation</hl>
+<hl>efficiency</hl> 4.31 4.32 4.34 4.35
+
+CACM-1435
+----------------------------------------------------------------
+<hl>design</hl> computer simulation experiments industrial
+systems aim paper provide background information existing
+literature experimental <hl>design</hl> techniques applicable
+<hl>design</hl> computer simulation
+
+CACM-1307
+----------------------------------------------------------------
+<hl>essential</hl> aided composing commands computer system
+<hl>user</hl> required learn remember vocabulary language
+vocabulary displayed onmenus means computerdrive scope selects
+vocabulary
+
+CACM-2572
+----------------------------------------------------------------
+<hl>design</hl> desirability computerized community information
+utilities accepting inevitability desirability technology sure
+feasibility internally externally proposed project wait
+complementary techniques evaluate <hl>design</hl> carefully
+think side effects man world view proposals community
+information utilities examined framework conclusion drawn
+society position justify construction
+
+CACM-2314
+----------------------------------------------------------------
+<hl>editing</hl> optimization packaging <hl>implementation</hl>
+generalized environment structure model allow programming
+control regimes including multiprocesses coroutines backtracking
+alternative methods procedure invocation ... <hl>design</hl>
+advanced programming systems wide range applications aspects
+programming systems highlighted good interactive facilities
+programmable control structures sophisticated data communication
+
+CACM-3025
+----------------------------------------------------------------
+<hl>user</hl> requirements <hl>user</hl> developments pdp1s
+contributions computing technology include accelerating
+transition batch oriented time sharing computing systems
+transferring hardware technology
+
+CACM-2959
+----------------------------------------------------------------
+<hl>user</hl> sba <hl>views</hl> application manipulation
+information twodimensional pictures tables business forms
+reports display terminal gradually automate application giving
+examples system
+
+CACM-3137
+----------------------------------------------------------------
+<hl>design</hl> operating parameters cost transaction technique
+illustrated application <hl>design</hl> interactive transaction
+processing system cacm april 1979 bucci streeter distributed
+processing ... <hl>design</hl> distributed information systems
+macro model distributed information system presented model
+describes major costs information system perspective enduser
+making evident
+
+CACM-3190
+----------------------------------------------------------------
+<hl>id</hl> discussed timing computed outlined page undetected
+programming error times resulting regression equation slightly
+error cacm february 1967 solomon ca67214
+
+CACM-1053
+----------------------------------------------------------------
+<hl>design</hl> <hl>implementation</hl> generalpurpose input
+routine generalpurpose input routine discussed advocated fortran
+philosophy programs examined exemplified cacm june 1964 hassitt
+ca64614
+
+CACM-2036
+----------------------------------------------------------------
+<hl>implementation</hl> facility existing timesharing systems
+cacm july 197 grant timesharing <hl>command</hl> languages
+pseudoteletype interaction conditional job control operating
+systems 3.8
+
+CACM-2078
+----------------------------------------------------------------
+<hl>design</hl> data structures computer graphics computeraided
+<hl>design</hl> engineering <hl>design</hl> architectural
+<hl>design</hl> robots 3.2 3.2 2 3.26 3.41 3.63 ca746 jb
+
+CACM-2604
+----------------------------------------------------------------
+<hl>design</hl> problem partitioning region nonoverlapping
+subregions areas proportions total cost servicing minimum
+conversational manner <hl>user</hl> easily obtain partitionings
+modifying boundary
+
+CACM-2990
+----------------------------------------------------------------
+<hl>user</hl> query unfortunately formal proofs difficult
+construct average case present study retrieval evaluation based
+optimizing performance specific <hl>user</hl> query concept
+
+CACM-2957
+----------------------------------------------------------------
+<hl>design</hl> topdown methodology database <hl>design</hl>
+separates decisions concerning aggregate structure decisions
+concerning key identification suggested aggregate types types
+support realworld
+
+CACM-1030
+----------------------------------------------------------------
+<hl>design</hl> automation systems evaluation boolean functions
+characterize computer simulated constitutes major portion
+simulation system general procedural classes evaluating
+functions defined
+
+CACM-2181
+----------------------------------------------------------------
+<hl>issues</hl> presentation summary discussions condensation
+pedagogic substantive concerns raised consideration resource
+allocation <hl>issues</hl> involved preliminary committees
+recommendations improving computer education
+
+CACM-1603
+----------------------------------------------------------------
+<hl>interface</hl> elements keyboards graphic input devices
+interval timers software relieves <hl>user</hl> program details
+inputoutput timing buffering task scheduling parallel processing
+
+CACM-1912
+----------------------------------------------------------------
+<hl>user</hl> evaluate <hl>effectiveness</hl> alternative
+appointment systems clinical environment cacm april 1969 katz
+simulation scheduling appointment system outpatient department
+medicine health
+
+CACM-2753
+----------------------------------------------------------------
+<hl>design</hl> system equipment furniture layouts designer
+problem solver dps demonstrates computer perform simple
+<hl>design</hl> tasks designs furniture equipment layouts task
+... <hl>design</hl> <hl>design</hl> synthesis diagnostic search
+heuristics planning problem solving representations search
+strategies space planning spatial representations 3.2 3.25 3.64
+3.66 ... <hl>design</hl> tasks architecture engineering urban
+planning natural resource management space planning tasks
+involve manipulating twodimensional representations objects
+create feasible optimal
+
+CACM-1272
+----------------------------------------------------------------
+<hl>editing</hl> function amount condensation text language
+processing operations contends <hl>editing</hl> regarded
+opportunity unwelcome necessity heavy <hl>editing</hl> goes mere
+correction improvement ... <hl>editing</hl> function language
+data processing automatic abstracting citation indexing
+mechanical translation procedures <hl>editing</hl> required
+automatic method leaves desired paper discusses
+
+CACM-2718
+----------------------------------------------------------------
+<hl>design</hl> dbtg data structures functional approach
+database <hl>design</hl> introduced approach goal
+<hl>design</hl> derive data structure capable supporting set
+anticipated queries <hl>design</hl> data structures conforming
+data base task group specifications automatic programming
+technology utilized program typically generate procedure
+generate declaratives cacm
+
+CACM-2960
+----------------------------------------------------------------
+<hl>views</hl> data abstraction cacm june 1977 ledgard taylor
+ca7763 jb december 29 1977 1:28 296 5 296 296 5 296
+
+CACM-1682
+----------------------------------------------------------------
+<hl>implementation</hl> basic system multiprogramming
+environment <hl>implementation</hl> remote terminal basic system
+context existing multiprogramming computer system burroughs b55
+<hl>implementation</hl> combines unique
+
+CACM-1519
+----------------------------------------------------------------
+<hl>user</hl> ctss multics simultaneously depending installation
+adjust schedulers online users line jobs common <hl>command</hl>
+language system includes multilevel deviceindependent store
+
+CACM-2308
+----------------------------------------------------------------
+<hl>human</hl> dignity civil liberty significant factor
+improving <hl>efficiency</hl> urban process expected benefits
+computer usage outweigh costs look forward expansion usage
+
+CACM-1457
+----------------------------------------------------------------
+<hl>implementation</hl> advantages programming languages
+retrieval application examined suggestions made <hl>design</hl>
+programming facilities aid information retrieval cacm march 1966
+salton ca66315
+
+CACM-3087
+----------------------------------------------------------------
+<hl>design</hl> <hl>implementation</hl> system illustrated
+detailed examples operation system components examples system
+operation language processing portion system number augmented
+transition networks
+
+CACM-1769
+----------------------------------------------------------------
+<hl>human</hl> work activity production service computer
+developments hardware programming timesharing education data
+communication displays judged effectively remove barriers
+barriersmashing potentialities
+
+CACM-2978
+----------------------------------------------------------------
+<hl>design</hl> alternatives virtual memory indexes class index
+structures virtual memory environment <hl>design</hl>
+alternatives class index structures analyzed alternatives
+include choice
+
+CACM-2151
+----------------------------------------------------------------
+<hl>user</hl> program measurement timeshared environment general
+discussion measurement software systems description hardware
+software scheme measuring <hl>user</hl> programs timeshared
+environment tx2 <hl>implementation</hl> system characteristics
+<hl>implementation</hl> reported scenario showing system
+presented finally shown timesharing systems provide similar
+measuring facilities cacm october 1971
+
+CACM-0972
+----------------------------------------------------------------
+<hl>command</hl> control system air force permits operators
+access large data computer manmachine <hl>interface</hl>
+satisfied communication consoles operators enter queries view
+
+CACM-1810
+----------------------------------------------------------------
+<hl>design</hl> demand paging unit built ibm research center
+belady nelson oneil permitting quality compared folding
+discussed shown care unit performs
+
+CACM-2867
+----------------------------------------------------------------
+<hl>design</hl> philosophy construction family operating systems
+shown concepts module level coincide hierarchy functions family
+members share software result <hl>implementation</hl> runtime
+
+CACM-1454
+----------------------------------------------------------------
+<hl>user</hl> <hl>essential</hl> create language familiar
+engineering statements programmingoriented conventions
+unnecessarily complicated task cacm april 1966 scheff ca6641 jb
+march 3
+

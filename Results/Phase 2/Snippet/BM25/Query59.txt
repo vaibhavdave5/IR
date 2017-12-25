@@ -1,0 +1,908 @@
+CACM-1456
+----------------------------------------------------------------
+<hl>retrieval</hl> aspects meaning directed graph structures
+experimental system lisp make conceptual <hl>dictionary</hl>
+<hl>dictionary</hl> associates <hl>english</hl> word syntactic
+<hl>information</hl> definitional material ...
+<hl>information</hl> answering simple <hl>english</hl> questions
+important conclusion lisp list processing languages ideally
+suited producing complex associative structures inadequate
+vehicles <hl>language</hl>
+
+CACM-1700
+----------------------------------------------------------------
+<hl>natural</hl> <hl>language</hl> searching peekaboo idea
+punched card <hl>information</hl> <hl>retrieval</hl>
+<hl>methods</hl> mated idea superimposed punching produce
+programming technique cuts computer run <hl>items</hl>
+meaningful <hl>words</hl> inclusive operation search time
+logical product operation mask similarly constructed question
+mask equal question mask question <hl>words</hl> ...
+<hl>natural</hl> <hl>language</hl> searching text searching
+<hl>information</hl> compaction computer search technique 3.74
+ca6891 jb february 22 1978 9:38 17 5 17
+
+CACM-1855
+----------------------------------------------------------------
+<hl>english</hl> sentences program produces syntactic analyses
+<hl>english</hl> sentences respect transformational grammar main
+features analyzer limited <hl>dictionary</hl> <hl>english</hl>
+<hl>words</hl> pursues analysis ... <hl>information</hl> cacm
+august 1969 dewar bratley syntactic analysis <hl>language</hl>
+processing <hl>language</hl> analysis parsing analysis procedure
+recognition procedure <hl>english</hl> sentences linguistics ...
+<hl>dictionary</hl> grammar outline account analysis procedure
+techniques keeping size analysis record reasonable limits
+avoiding need dynamic application transformational rules number
+
+CACM-2437
+----------------------------------------------------------------
+<hl>hashing</hl> <hl>hashing</hl> techniques <hl>hashing</hl>
+<hl>methods</hl> hash coding key transformation keytoaddress
+transformation direct addressing randomizing random access
+scatter storage <hl>information</hl> <hl>retrieval</hl> ...
+<hl>methods</hl> potential <hl>methods</hl> analysis
+<hl>methods</hl> performance classified key distributions
+partial transformations identified analytically approach
+<hl>applied</hl> group transformation <hl>methods</hl> keys
+selected
+
+CACM-1235
+----------------------------------------------------------------
+<hl>dictionary</hl> function <hl>words</hl> frequently occurring
+<hl>lexical</hl> <hl>words</hl> suffix tests logicaldecision
+rules employed code additional <hl>words</hl> finally remaining
+<hl>words</hl> assigned class
+
+CACM-3041
+----------------------------------------------------------------
+<hl>dictionary</hl> lookup <hl>english</hl> presented
+performance obtained contrasted techniques cacm november 1978
+sheil tree search <hl>dictionary</hl> lookup binary search heaps
+balanced ... <hl>lexical</hl> ordering left subtrees median
+split tree mst <hl>lexical</hl> median nodes descendents split
+force search tree perfectly balanced achieving space ...
+<hl>information</hl> <hl>retrieval</hl> 3.74 5.25 5.39 ca78111
+dh january 25 1979 9:49 341 4 341 341 4 341 3126 4 341
+
+CACM-1681
+----------------------------------------------------------------
+<hl>language</hl> <hl>information</hl> <hl>retrieval</hl> remote
+typewriter console easy <hl>english</hl> <hl>natural</hl>
+command <hl>language</hl> designed simplify communication man
+machine remote typewriter console developed ... <hl>natural</hl>
+<hl>language</hl> communication online searching remote console
+communication <hl>information</hl> <hl>retrieval</hl> manmachine
+communication remote terminal communication translator document
+<hl>retrieval</hl> conversational mode ... <hl>english</hl>
+detailed illustration transformations performed sample request
+point request string system macro flowchart easy
+<hl>english</hl> included appendix printout <hl>retrieval</hl>
+demonstration ... <hl>retrieval</hl> <hl>language</hl> symbolic
+command <hl>language</hl> 3.74 3.81 4.19 ca6816 jb february 21
+1978 3:59 pm 1681 4 1681 1699 4
+
+CACM-2307
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> control dynamic library
+collections <hl>items</hl> continually added retired cacm july
+1972 salton automatic <hl>indexing</hl> automatic search
+<hl>retrieval</hl> iterative
+
+CACM-3087
+----------------------------------------------------------------
+<hl>natural</hl> <hl>language</hl> systems limited domains
+relationship system cacm july 1978 waltz question answering
+relational database <hl>natural</hl> <hl>language</hl> database
+front end <hl>information</hl> <hl>retrieval</hl>
+<hl>natural</hl> <hl>language</hl> programming 3.42 3.6 3.69
+3.74 3.79 ca7871 dh february 8 1979 4:26 pm 2155 4 387 ...
+<hl>english</hl> <hl>language</hl> question answering system
+large relational database typing requests <hl>english</hl>
+casual users able obtain explicit answers large relational
+database ... <hl>problems</hl> system components construct
+formal query relational database optimize order searching
+relations <hl>methods</hl> discussed handling vague complex
+questions providing browsing
+
+CACM-2050
+----------------------------------------------------------------
+<hl>methods</hl> variables compares favorably <hl>methods</hl>
+sample total text processed cacm june 197 damerau content
+analysis parsing syntactic analysis <hl>natural</hl>
+<hl>language</hl> <hl>information</hl> <hl>retrieval</hl>
+<hl>language</hl> analysis text processing 3.42 3.71 ca765 jb
+february 13 1978 11:43 135 4 25 1659 4 25
+
+CACM-0144
+----------------------------------------------------------------
+<hl>english</hl> <hl>words</hl> form sparse set alphabetic
+combinations present <hl>methods</hl> inefficient computer
+systems substituted terminals numeric representations entire
+<hl>words</hl> common phrases
+
+CACM-1703
+----------------------------------------------------------------
+<hl>related</hl> services achieving goals illustrated
+<hl>methods</hl> adopted trac t64 interactive <hl>language</hl>
+<hl>related</hl> family languages oppressive rigidity
+standardization avoided accommodation technique
+<hl>language</hl> explicit standardization <hl>language</hl>
+undertaken organizational source <hl>language</hl>
+organizational trademark trac published standards services
+relying reliable public identification <hl>methods</hl> usefully
+
+CACM-2795
+----------------------------------------------------------------
+<hl>natural</hl> <hl>language</hl> analyzer combined memory
+inference model generating sentences meaning structures program
+employs <hl>information</hl> <hl>retrieval</hl> deduction
+capabilities memory model model ... <hl>natural</hl>
+<hl>language</hl> based underlying languagefree representation
+meaning program based model able produce sentence paraphrases
+demonstrate understanding respect context generator operates ...
+<hl>information</hl> relating conceptual syntactic roles stored
+wordsense <hl>dictionary</hl> surface grammatical knowledge
+stored formal grammar cacm february 1975 goldman artificial
+intelligence
+
+CACM-2705
+----------------------------------------------------------------
+<hl>related</hl> program style cacm december 1975 naur analogies
+<hl>related</hl> social aspectspure <hl>applied</hl> mathematics
+<hl>language</hl> quality <hl>language</hl> development
+artificial auxiliary languages ... <hl>natural</hl> languages
+mathematics social aspects programming illuminated analogies
+similar aspects mathematics <hl>natural</hl> languages split
+pure <hl>applied</hl> mathematics found similarly programming
+
+CACM-1665
+----------------------------------------------------------------
+<hl>items</hl> <hl>words</hl> allowable <hl>language</hl> terms
+subset regular expressions output system <hl>lexical</hl>
+processor reads string characters combines <hl>items</hl>
+defined regular expressions ... <hl>lexical</hl> processors
+finite state techniques practical application theory finitestate
+automata generate <hl>lexical</hl> processors dealt tutorial
+article aed rword system developed ... <hl>lexical</hl>
+processors aedo mad produced techniques employed independent
+nature <hl>items</hl> evaluated word events substituted
+character string processors generalized decisionmaking
+mechanisms <hl>lexical</hl> processing convenient advantages
+speed important consideration designing system automatic
+generation <hl>lexical</hl> processor goal processor completely
+eliminated backup rereading nearly <hl>language</hl> detect
+errors convenient easy cacm december 1968 johnson porter ackley
+ross character string compiler finitestate automata finitestate
+machine <hl>lexical</hl>
+
+CACM-2905
+----------------------------------------------------------------
+<hl>hashing</hl> functions single probe retrieving method static
+sets refinement <hl>hashing</hl> <hl>retrieval</hl> item static
+table single probe considered set identifiers <hl>methods</hl>
+... <hl>methods</hl> extend results larger sets presented rough
+comparison ordinary <hl>hashing</hl> shows method conveniently
+practical applications cacm november 1977 sprugnoli
+<hl>hashing</hl> <hl>methods</hl> hash coding direct addressing
+identifiertoaddress transformations perfect <hl>hashing</hl>
+functions perfect hash coding reduction scatter storage 3.7 3.74
+4.34 ca771111 ... <hl>hashing</hl> functions functions
+transforming elements unique addresses method quotient reduction
+method shown complete sense set smallest table elements stored
+retrieved
+
+CACM-1926
+----------------------------------------------------------------
+<hl>construction</hl> minimum nontext <hl>items</hl> written
+entirely fortran iv cacm march 1969 berns text processing
+<hl>indexing</hl> printing documentation text editing formatting
+
+CACM-2258
+----------------------------------------------------------------
+<hl>hashing</hl> <hl>hashing</hl> techniques <hl>hashing</hl>
+<hl>methods</hl> hash coding keys key transformation
+keytoaddress transformation direct addressing direct access
+method randomizing random access
+
+CACM-2990
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> term accuracy
+performance <hl>information</hl> <hl>retrieval</hl> systems
+evaluated number ways published evaluation work based measuring
+<hl>retrieval</hl> performance average user ...
+<hl>indexing</hl> systems successfully experimental situations
+inverse document frequency weighting thesaurus
+<hl>construction</hl> phrase generation cacm march 1977 yu
+salton <hl>information</hl> <hl>retrieval</hl> ...
+<hl>retrieval</hl> evaluation based optimizing performance
+specific user query concept query term accuracy troduced
+probability occurrence query term documents relevant query
+
+CACM-1725
+----------------------------------------------------------------
+<hl>words</hl> memory lewin proves readout method distinct
+binary <hl>words</hl> 2m 1 memory accesses proves number memory
+accesses method unlike <hl>methods</hl> <hl>information</hl>
+<hl>retrieval</hl> ordered <hl>retrieval</hl> theorem column
+digit values digit variety column sensing arrangement digit
+readout digit variety readout memory access ...
+<hl>retrieval</hl> binary <hl>words</hl> associative memory
+lewin based special readout circuits digit values present
+individual digit columns memory circuits individual digit
+
+CACM-1359
+----------------------------------------------------------------
+<hl>applied</hl> <hl>information</hl> storage <hl>retrieval</hl>
+applications manipulation data strings complex processing
+function <hl>information</hl> storage <hl>retrieval</hl>
+applications data string manipulation discussed context
+
+CACM-1112
+----------------------------------------------------------------
+<hl>spelling</hl> errors method assumes word found
+<hl>dictionary</hl> error wrong missing extra letter single
+transposition unidentified input word compared
+<hl>dictionary</hl> testing
+
+CACM-2711
+----------------------------------------------------------------
+<hl>indexing</hl> document <hl>retrieval</hl> pattern matching
+environment stored entities documents compared incoming patterns
+search requests appears <hl>indexing</hl> property space entity
+lies ... <hl>information</hl> <hl>retrieval</hl> automatic
+<hl>indexing</hl> content analysis document space 3.71 3.73 3.74
+3.75 ca75111 jb january 6 1978 1:14 2711 5
+
+CACM-2127
+----------------------------------------------------------------
+<hl>natural</hl> <hl>language</hl> questionanswering systems
+1969 recent experiments programming <hl>natural</hl>
+<hl>language</hl> questionanswering systems reviewed summarize
+<hl>methods</hl> developed syntactic semantic logical analysis
+... <hl>natural</hl> <hl>language</hl> artificial
+intelligencelanguage processing fact <hl>retrieval</hl>
+semantics 3.6 3.64 3.7 3.74 ca714 jb february 14 1978 2:1 pm
+1155 ... <hl>natural</hl> <hl>language</hl> subsets small scale
+experimental systems paradigm evolved guide research efforts
+field approaches semantic analysis logical inference seen
+effective
+
+CACM-2268
+----------------------------------------------------------------
+<hl>methods</hl> represented include multistep <hl>methods</hl>
+predictorcorrectors singlestep <hl>methods</hl> rungekutta
+extrapolation <hl>methods</hl> polynomial rational testing
+procedure evaluation criteria <hl>applied</hl> set test
+
+CACM-0661
+----------------------------------------------------------------
+<hl>indexing</hl> lambdanotation <hl>methods</hl>
+<hl>indexing</hl> sequentially stored elements sparse
+multidimensional arrays scheme notation cacm december 1963
+barnett ca631213 jb march 13
+
+CACM-2688
+----------------------------------------------------------------
+<hl>accessing</hl> implies need careful data organization paged
+memory typical inverted similar approaches multikey
+<hl>retrieval</hl> article analyses cost proposes method called
+... <hl>retrieval</hl> algorithm inverted multiple key
+<hl>hashing</hl> 3.7 3.73 3.74 3.79 ca7421 jb january 18 1978
+1:37 pm 216 4 2688
+
+CACM-1525
+----------------------------------------------------------------
+<hl>methods</hl> computing time proportional n2 paper
+<hl>fast</hl> fourier transform algorithm briefly reviewed
+<hl>fast</hl> difference equation <hl>methods</hl> accurately
+computing needed trigonometric ... <hl>fast</hl> fourier
+transform cooley tukey proposed <hl>fast</hl> algorithm
+computing complex fourier transform shown major time savings
+compute large transforms digital ... <hl>words</hl> core storage
+exceeds factor maximum radix transform size fixed allocation
+amount core storage method compute large mixed radix transforms
+
+CACM-1331
+----------------------------------------------------------------
+<hl>items</hl> <hl>items</hl> made variable number characters
+number bits control <hl>information</hl> partition symbols
+inserted mark separations errors identification control
+characters lead
+
+CACM-1625
+----------------------------------------------------------------
+<hl>methods</hl> simplification <hl>applied</hl> programs
+written algollike <hl>language</hl> discussed simplifications
+based form program knowledge obtained processor understanding
+program supposed <hl>methods</hl> implemented
+
+CACM-1441
+----------------------------------------------------------------
+<hl>methods</hl> numerical integration <hl>applied</hl> system
+trivial function evaluations study made determine
+<hl>methods</hl> numerical integration require computation time
+amount truncation error
+
+CACM-2111
+----------------------------------------------------------------
+<hl>spelling</hl> correction systems programs specialized
+techniques shown efficiently incorporating <hl>spelling</hl>
+correction algorithms compilers operating systems include syntax
+semantics <hl>information</hl> organization <hl>spelling</hl>
+errors sample 36 coding performing <hl>spelling</hl> correction
+presented systems perform <hl>spelling</hl> correction number
+debugging runs program decreased saving programmer
+
+CACM-2051
+----------------------------------------------------------------
+<hl>related</hl> languages investigator arrange data input
+aligning pairs suspected cognates program tabulates
+correspondences list processing techniques sort count pair
+<hl>words</hl> ... <hl>natural</hl> <hl>language</hl> processing
+comparative method historical linguistics diachronic linguistics
+genetic relationship sound change sound correspondence regular
+correspondence list processing 3.42
+
+CACM-3126
+----------------------------------------------------------------
+<hl>hashing</hl> functions single probe retrieving method static
+sets cacm february 1979 anderson <hl>hashing</hl>
+<hl>hashing</hl> <hl>methods</hl> hash coding direct addressing
+identifier
+
+CACM-0329
+----------------------------------------------------------------
+<hl>words</hl> word groups sentences relativefrequency approach
+discussed detail application <hl>problems</hl> automatic
+<hl>indexing</hl> automatic abstracting included report summary
+automatic analysis studies ... <hl>indexing</hl> survey
+recommendations preparation widespread automatic scanners read
+documents transmit contents machines analysis report presents
+concept automatic analysis relativefrequency approach
+
+CACM-1885
+----------------------------------------------------------------
+<hl>natural</hl> <hl>language</hl> syntax <hl>language</hl>
+processing <hl>language</hl> analysis sentence generation
+<hl>lexical</hl> insertion computational linguistics syntax 3.42
+ca6968 jb february 17 1978
+
+CACM-2739
+----------------------------------------------------------------
+<hl>language</hl> computer grammars <hl>natural</hl>
+<hl>language</hl> past years number systems computer analysis
+<hl>natural</hl> <hl>language</hl> sentences based augmented
+contextfree grammars contextfree grammar ... <hl>natural</hl>
+<hl>language</hl> analysis <hl>language</hl> implementation
+linguistic string parser cacm july 1975 sager grishman
+<hl>natural</hl> <hl>language</hl> parsing grammar programming
+languages 3.42
+
+CACM-1527
+----------------------------------------------------------------
+<hl>retrieval</hl> segments stored <hl>information</hl>
+explicitly implicitly represented questions posed
+<hl>natural</hl> <hl>language</hl> sentences procedure makes
+sentence recognition device class grammars correctly
+<hl>natural</hl> <hl>language</hl> make recognition device sort
+reason data fully expressible set sentences <hl>natural</hl>
+<hl>language</hl> set exhaustively exclusively generated grammar
+based
+
+CACM-1236
+----------------------------------------------------------------
+<hl>retrieval</hl> systeman illustration fully automatic
+document <hl>retrieval</hl> system operating ibm 794 system
+characterized fact hundred <hl>methods</hl> analyze documents
+search requests ... <hl>methods</hl> results obtained
+combination analysis procedures general relied retrieve wanted
+<hl>information</hl> typical search request present report
+illustrate systems operations evaluation
+
+CACM-1194
+----------------------------------------------------------------
+<hl>applied</hl> operation history establishment acm repository
+moore school university pennsylvania reviewed briefly principles
+presented paramount provision <hl>information</hl> services easy
+accessibility ... <hl>indexing</hl> system detail main catalog
+describe documents inverted lists provided repository system
+<hl>retrieval</hl> concept coordination cacm october 1965
+rubinoff white ... <hl>information</hl> system direct user
+access online teletypewriter console direct user access details
+system organization unrestricted expandable search vocabulary
+user access
+
+CACM-2519
+----------------------------------------------------------------
+<hl>natural</hl> <hl>language</hl> notational linguistic devices
+exhibition structure inherent <hl>information</hl> communicating
+sophisticated interactive system controlled computer cacm 1973
+pager complex <hl>information</hl> ... <hl>information</hl>
+nature difficulty involved communicating mathematical results
+scientists computer based <hl>information</hl>
+<hl>retrieval</hl> system examined problem analyzed terms
+psychological informationprocessing processes
+
+CACM-1415
+----------------------------------------------------------------
+<hl>english</hl> sentences shorter kernellike constituent
+sentences microsentenceshas suggested avenue conducting
+automatic <hl>retrieval</hl> <hl>natural</hl> <hl>language</hl>
+messages explore prospects step authors attempted
+
+CACM-2484
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> <hl>information</hl>
+structure organization storage allocation tree graph 3.7 3.73
+3.74 5.32 ca7372 jb january 23 1978 1:14 pm ...
+<hl>information</hl> organization storage logical structure data
+base represented tree graph <hl>natural</hl> view process
+designing data base constructing tree graph general
+<hl>construction</hl> method set binary relations algorithm
+constructing subsets set algorithm selecting element set objects
+relations algorithms results <hl>information</hl> structures
+list
+
+CACM-2631
+----------------------------------------------------------------
+<hl>information</hl> attempt made overcome <hl>problems</hl>
+<hl>information</hl> <hl>retrieval</hl> maintenance large
+dictionaries greater part infrequently method presented maps
+hyperbolic frequency distribution suited ...
+<hl>information</hl> theory organization direct access
+<hl>information</hl> <hl>retrieval</hl> character string bit
+vector 3.42 3.7 3.73 3.74 5.6 ca74615 jb january 17
+
+CACM-2396
+----------------------------------------------------------------
+<hl>english</hl> muse computer model <hl>natural</hl>
+<hl>language</hl> processing based semantic memory network
+quillians tlc muse model understand simple <hl>english</hl>
+processes <hl>english</hl>
+
+CACM-2141
+----------------------------------------------------------------
+<hl>methods</hl> compressing map data illustrated choices
+generated encoding data stringssequence codesby <hl>methods</hl>
+directions relationships developed compression alternatives
+avoid comparing technique
+
+CACM-2764
+----------------------------------------------------------------
+<hl>english</hl> paper describes working analysis generation
+program <hl>natural</hl> <hl>language</hl> handles paragraph
+length input core system preferential choice deep semantic
+patterns
+
+CACM-2753
+----------------------------------------------------------------
+<hl>applied</hl> 5 <hl>problems</hl> slow limited scope ideas
+general demonstrates need selectivity controlling search
+<hl>methods</hl> achieve taskspecific <hl>information</hl>
+planning diagnostic procedures
+
+CACM-0727
+----------------------------------------------------------------
+<hl>problems</hl> deltaufu fu treated numerically exceptionally
+<hl>fast</hl> exceptionally accurate numerical method
+programming details numerous examples mathematical theory
+suppliedxtension method <hl>natural</hl>
+
+CACM-1939
+----------------------------------------------------------------
+<hl>english</hl> cacm january 1969 friedman transformational
+grammar <hl>natural</hl> <hl>language</hl> syntax
+<hl>language</hl> processing sentence generation computational
+linguistics syntax 3.42 ca6911 jb
+
+CACM-1809
+----------------------------------------------------------------
+<hl>methods</hl> procedures obtain approximate solutions
+mathematical <hl>problems</hl> emphasis scientific calculation
+difficulties education broad area center question background
+emphasis numerical analysis
+
+CACM-2092
+----------------------------------------------------------------
+<hl>natural</hl> <hl>language</hl> protosynthex iii lisp
+semantics artificial intelligence computational linguistics
+<hl>language</hl> processing fact <hl>retrieval</hl> 3.42 3.61
+ca736 jb february 13 ... <hl>natural</hl> <hl>language</hl>
+inference questionanswering aspects protosynthex iii pro totype
+<hl>language</hl> processing system exemplified detail system
+written lisp 1.5 operates q32
+
+CACM-3134
+----------------------------------------------------------------
+<hl>information</hl> storage <hl>retrieval</hl> paper describes
+method organization <hl>retrieval</hl> attribute based
+<hl>information</hl> systems normal multiplication table
+directory <hl>information</hl> system algorithms organization
+... <hl>information</hl> <hl>retrieval</hl> inverted
+multiattribute <hl>retrieval</hl> multilist normal
+multiplication table queries rapid <hl>retrieval</hl> space
+economy 3.7 3.73 3.79 ca7935 dh 21 ... <hl>information</hl>
+method suitable queries requesting group <hl>information</hl>
+<hl>items</hl> possess set attributes possibly attributes
+examples results respect number disk accesses disk
+
+CACM-0944
+----------------------------------------------------------------
+<hl>information</hl> storage <hl>retrieval</hl> properties
+applicable <hl>problems</hl> involving large quantities data
+<hl>problems</hl> quantity word length distribution stored
+<hl>information</hl> known priori rapidly
+
+CACM-0440
+----------------------------------------------------------------
+<hl>items</hl> identifying <hl>information</hl> individually
+unreliable collectively considerable discriminating power rules
+<hl>applied</hl> generally <hl>retrieval</hl> systems developed
+methodological study linkage vital health
+
+CACM-1675
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> relevance
+<hl>indexing</hl> classification 3.7 3.71 3.74 ca68114 jb
+february 21 1978 2:57 pm 1675 5 1675 1675 5
+
+CACM-2923
+----------------------------------------------------------------
+<hl>information</hl> reflect program derives global
+<hl>information</hl> helpful solving familiar global flow
+analysis <hl>problems</hl> illustrative application live
+variable analysis presented graphs ... <hl>information</hl>
+implicit parse tree need highlevel flow analysis arises aspects
+recent work advanced <hl>methods</hl> program certification
+optimization paper proposes simple
+
+CACM-0891
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> system
+<hl>information</hl> <hl>retrieval</hl> problem solution
+presented posed technical library limited bubget personnel
+solution general applicable types <hl>retrieval</hl>
+<hl>problems</hl>
+
+CACM-2808
+----------------------------------------------------------------
+<hl>methods</hl> actually computing played enormous part
+development mathematics account <hl>methods</hl> usedmost
+derivations made elementary <hl>methods</hl> material teaching
+purposes relevant interesting
+
+CACM-2139
+----------------------------------------------------------------
+<hl>hashing</hl> subset signature <hl>information</hl>
+compression <hl>information</hl> <hl>retrieval</hl> searching
+3.74 5.3 5.6 ca71124 jb february 2 1978 1:14 2139 5 2139
+
+CACM-2883
+----------------------------------------------------------------
+<hl>problems</hl> dynamic programming shortest path heuristic
+search <hl>methods</hl> problem solving <hl>methods</hl> 3.63
+3.64 3.66 5.42 ca7624 jb january 5 1978 ... <hl>methods</hl>
+computing time depend amount noise picture experimental results
+show <hl>information</hl> shape contour object embedded figure
+merit allowing extraction contours
+
+CACM-2274
+----------------------------------------------------------------
+<hl>english</hl> discourse semantic networks system generating
+<hl>english</hl> sentences form semantic nets nodes wordsense
+meanings paths primarily deep case relations grammar
+
+CACM-2203
+----------------------------------------------------------------
+<hl>hashing</hl> <hl>hashing</hl> techniques <hl>hashing</hl>
+<hl>methods</hl> hash coding keys key transformation
+keytoaddress transformation direct addressing direct access
+method randomizing random accessfile ... <hl>methods</hl>
+<hl>applied</hl> set existing presented method <hl>applied</hl>
+load factor bucket size varied wide range addition variables
+pertinent specific method take
+
+CACM-2033
+----------------------------------------------------------------
+<hl>methods</hl> intended reduce amount space required hashcoded
+<hl>information</hl> conventional <hl>methods</hl> reduction
+space accomplished exploiting possibility small fraction errors
+commission tolerable <hl>methods</hl> applications envisaged
+performance improved smaller core resident hash area conjunction
+<hl>methods</hl> secondary timeconsuming test catch small
+fraction errors <hl>methods</hl> ... <hl>retrieval</hl>
+tradeoffs <hl>retrieval</hl> efficiency storage efficiency 3.73
+3.74 3.79 ca774 jb february 13 1978 9:18 1676 4 233 1682 4 ...
+<hl>methods</hl> examined compared conventional hashcoding
+method computational factors considered size hash area space
+time required identify message nonmember set reject
+
+CACM-2140
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> query multiattribute
+<hl>retrieval</hl> update 3.73 3.74 3.79 ca71123 jb february 2
+1978 1:18 214 4 214 2452 4
+
+CACM-2650
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> artificial intelligence
+<hl>spelling</hl> correction systems cacm 1974 wagner error
+correction regular languages regular events finite state
+automata compiler ... <hl>language</hl> nearest number edit
+operations input string viewed reasonable correction possibly
+erroneous string originally intended string calculation method
+presented requires
+
+CACM-0137
+----------------------------------------------------------------
+<hl>english</hl> <hl>words</hl> cacm october 196 swift ca6111 jb
+march 2 1978 8:11 pm 137 5 137 137 5 137 137
+
+CACM-1699
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> teletypewriter
+experiments designed evaluate capabilities mechanized
+<hl>information</hl> <hl>retrieval</hl> systems emphasis
+interactive manmachine <hl>language</hl> mechanical
+psychological limitations design conducted ...
+<hl>retrieval</hl> experiments conclusions resulting detailed
+cacm september 1968 rubinoff bergman franks rubinoff
+<hl>information</hl> <hl>retrieval</hl> testing
+<hl>information</hl> system evaluation experimental document
+<hl>retrieval</hl> document perusal manmachine communication
+remote console communication teletypewriter communication remote
+terminal communication <hl>retrieval</hl> command
+<hl>language</hl> symbolic command <hl>language</hl> interactive
+
+CACM-2516
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> probabilistic analysis
+employed determine effect hierarchical storage organizations
+<hl>information</hl> <hl>retrieval</hl> operations data storage
+hardware assumed consist nlevels linearly ...
+<hl>information</hl> <hl>retrieval</hl> hierarchical storage 3.7
+3.72 3.73 3.74 3.79 3.9 6.2 6.34 ca7354 jb january 24 1978 8:48
+2516 5
+
+CACM-3120
+----------------------------------------------------------------
+<hl>problems</hl> outset avoids special processing problem
+technique <hl>applied</hl> <hl>construction</hl> algol 68
+compiler examples implementation discussed cacm january 1979
+banatre routeau
+
+CACM-2532
+----------------------------------------------------------------
+<hl>hashing</hl> <hl>information</hl> storage <hl>retrieval</hl>
+3.74 5.3 5.5 ca7337 jb january 24 1978 1:3 2532 4 2532 2631 4
+2532 2746
+
+CACM-2916
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> linear time bound
+pattern matching text editing 3.74 4.4 5.25 ca7711 jb december
+27 1977 9:43 2916 4 ... <hl>fast</hl> string searching algorithm
+algorithm presented searches location occurrence character
+string pat string string search operation characters pat matched
+starting <hl>information</hl> gained starting match end pattern
+algorithm proceed large jumps text searched algorithm unusual
+property cases characters string inspected number
+
+CACM-1457
+----------------------------------------------------------------
+<hl>problems</hl> automatic <hl>information</hl>
+<hl>retrieval</hl> automatic <hl>information</hl>
+<hl>retrieval</hl> programs require manipulation variety data
+structures including linear text sparse matrices tree list ...
+<hl>retrieval</hl> application examined suggestions made design
+programming facilities aid <hl>information</hl>
+<hl>retrieval</hl> cacm march 1966 salton ca66315 jb march 3
+1978
+
+CACM-1051
+----------------------------------------------------------------
+<hl>items</hl> multiword <hl>items</hl> introduced
+variablelength <hl>items</hl> spaceutilization <hl>problems</hl>
+finally examples illustrate multiword lists paper attempts draw
+recent papers <hl>applied</hl> concepts ... <hl>items</hl> list
+concept originally proposed newell simon shaw single computer
+<hl>words</hl> elements list report describes consecutive
+<hl>words</hl> element results considerable
+
+CACM-1324
+----------------------------------------------------------------
+<hl>english</hl> questions computer survey fifteen experimental
+<hl>english</hl> <hl>language</hl> questionanswering systems
+programmed operating reviewed systems range conversation machine
+programs make sentences <hl>english</hl> logical calculi systems
+classified liststructured databased graphic databased textbased
+inferential principles <hl>methods</hl> operations detailed
+discussed concluded database questionanswer passed
+
+CACM-2000
+----------------------------------------------------------------
+<hl>problems</hl> eulerlagrange formulation quantitative
+estimates presented variation nearly <hl>fast</hl>
+<hl>problems</hl> context cacm september 197 kimble goodmanlance
+boundaryvalue <hl>problems</hl> newtons method
+
+CACM-1888
+----------------------------------------------------------------
+<hl>methods</hl> cacm june 1969 blue boundary <hl>problems</hl>
+differential equations finite differences functional
+approximation iterative <hl>methods</hl> nonlinear equations
+spline functions 5.13
+
+CACM-2229
+----------------------------------------------------------------
+<hl>construction</hl> rational negative powers formal series
+<hl>methods</hl> generation fractional negative powers formal
+series poisson series chebyshev series shown elementary
+operations
+
+CACM-1726
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> unformatted text
+operatorcontrolled reader online reader textimage discrimination
+reading machine 3.63 3.79 3.89 6.29 6.35 ca6873 jb february ...
+<hl>methods</hl> converting unstructured printed material
+computer code experimentally investigated operatorcontrolled
+mode depending human demarcation regions page guiding scanner
+implemented means
+
+CACM-2991
+----------------------------------------------------------------
+<hl>hashing</hl> <hl>hashing</hl> techniques <hl>hashing</hl>
+<hl>methods</hl> hash coding keys key transformation
+keytoaddress transformation direct addressing direct access
+direct access method randomizing
+
+CACM-2846
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> systems underlying mary
+tree structure trie parameter trie fields nodes trie large hold
+key pointer fields ctrie bit <hl>retrieval</hl> time measured
+terms bit inspections key order logmn storage requirement order
+nmlog2 bits improvement storage requirements <hl>retrieval</hl>
+time achieved
+
+CACM-1808
+----------------------------------------------------------------
+<hl>information</hl> processed computers dealt special emphasis
+paid unique characteristics computer make cryptographic
+<hl>methods</hl> relative security costs preferred
+<hl>methods</hl> included paper
+
+CACM-2208
+----------------------------------------------------------------
+<hl>hashing</hl> algorithm utilization storage studied twolevel
+memory hierarchy storage level <hl>fast</hl> store divided
+number storage areas entry filed hierarchy <hl>hashing</hl>
+
+CACM-2987
+----------------------------------------------------------------
+<hl>methods</hl> representing curves regions cacm march 1977
+burton boundary line representation cartography computer
+graphics computersearchable structures contour representation
+geographic <hl>information</hl> <hl>retrieval</hl> tersection
+curves linedrawing processing poin ts polygons regional boundary
+representation spatial <hl>information</hl> 3.14 3.23 3.3 3.79
+8.2 ca7735 jb
+
+CACM-2106
+----------------------------------------------------------------
+<hl>information</hl> systems requires understanding
+<hl>related</hl> computer technology concepts paging priority
+interrupt systems explained machine <hl>language</hl> level
+machine exposition fulfill criteria ... <hl>language</hl>
+management <hl>information</hl> systems interpreters 1.52 3.51
+4.13 4.21 ca729 jb february 14 1978 1:15 216 5 216 216 5
+
+CACM-1206
+----------------------------------------------------------------
+<hl>information</hl> compute maximum permitted error mpe values
+ordinate selfjudgment principle sjp discard wrong
+<hl>information</hl> compute mean values parameters mpes terms
+
+CACM-2643
+----------------------------------------------------------------
+<hl>fast</hl> access individual bits considers problem
+minimizing storage needed tables reduction techniques developed
+problem shown reduce covering problem cacm june
+
+CACM-2623
+----------------------------------------------------------------
+<hl>information</hl> coding techniques cacm august 1974 hahn
+maintenance <hl>information</hl> <hl>retrieval</hl> utility
+programs text compression coding techniques data storage data
+management
+
+CACM-2032
+----------------------------------------------------------------
+<hl>hashing</hl> functions <hl>information</hl>
+<hl>retrieval</hl> 3.7 3.74 ca775 jb february 13 1978 8:49 15 4
+232 1676 4 232 1682 4
+
+CACM-1032
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> systems
+<hl>information</hl> storage <hl>retrieval</hl> systems composed
+major components identification <hl>information</hl> tagging
+effective <hl>retrieval</hl> searching strategy enter circumvent
+scanning
+
+CACM-2715
+----------------------------------------------------------------
+<hl>english</hl> query <hl>language</hl> relational model data
+xrm relational memory system sequel <hl>language</hl> covered
+previous papers reviewed sequel relational data sublanguages
+
+CACM-2906
+----------------------------------------------------------------
+<hl>language</hl> aimed business data processing
+<hl>problems</hl> concepts bdl mimic evolved years businesses
+<hl>methods</hl> results sublanguages components defining
+business forms describing <hl>language</hl> nonprocedural
+<hl>language</hl> data flow <hl>language</hl> business
+application business data processing structured programming
+modular programming format specification design methodology 3.5
+
+CACM-3176
+----------------------------------------------------------------
+<hl>hashing</hl> <hl>hashing</hl> poor worstcase performance
+propose good worstcase method storing static table entries
+integer 1 method requires <hl>words</hl> storage ologn
+
+CACM-2932
+----------------------------------------------------------------
+<hl>problems</hl> <hl>methods</hl> illustrative examples
+practical theoretical significance directions research discussed
+cacm september 1977 rabin complexity computations algebraic
+complexity tractable <hl>problems</hl>
+
+CACM-2160
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> inverted key
+<hl>words</hl> multilist queries searches 3.7 3.73 3.74 ca7194
+jb february 2 1978 2:22 pm 216 4 ... <hl>retrieval</hl> basis
+ranges values attribute <hl>retrieval</hl> basis single
+permitted organization proposed based atoms boolean algebra
+generated queries desirable properties claimed
+
+CACM-1110
+----------------------------------------------------------------
+<hl>applied</hl> class parabolic partial differential equations
+reduces problem system ordinary differential equations
+application method shows considerable advantage conventional
+finite difference
+
+CACM-2664
+----------------------------------------------------------------
+<hl>methods</hl> employing parallelism tapesorting presented
+method <hl>natural</hl> parallelism method approximately achieve
+goal reducing processing time divisor number processors cacm
+april
+
+CACM-2699
+----------------------------------------------------------------
+<hl>language</hl> high level setl settheoretically oriented
+<hl>language</hl> high level repertoire semantic objects
+includes finite sets ordered ntuples sets ordered ntuples
+<hl>language</hl> <hl>methods</hl> interest optimizer techniques
+allow relations inclusion membership established domains ranges
+tabulated mappings estimated singlevaluedness tabulated mappings
+proved facts
+
+CACM-0292
+----------------------------------------------------------------
+<hl>information</hl> <hl>retrieval</hl> <hl>language</hl> legal
+studies cacm september 1961 kehl horty bacon mitchell ca6192 jb
+march 16 1978 9:51 pm 292
+
+CACM-2494
+----------------------------------------------------------------
+<hl>methods</hl> factor analysis <hl>methods</hl> cluster
+analysis cacm june 1973 ling computer graphics cluster analysis
+numerical taxonomy hierarchical clustering factor analysis
+

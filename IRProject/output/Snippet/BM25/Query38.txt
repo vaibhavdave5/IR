@@ -1,0 +1,240 @@
+CACM-3103
+----------------------------------------------------------------
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data ...
+<hl>parsing</hl> <hl>algorithm</hl> <hl>parsing</hl>
+<hl>algorithm</hl> efficient general <hl>contextfree</hl>
+<hl>algorithm</hl> known similar knuths lrk <hl>algorithm</hl>
+familiar topdown <hl>algorithm</hl> time bound proportional n3
+... <hl>types</hl> includes provision programmerdefined
+<hl>data</hl> <hl>types</hl> <hl>data</hl> <hl>types</hl>
+generic routines programmer control <hl>type</hl> conversion
+flexible <hl>data</hl> <hl>type</hl> behavior context efficient
+... <hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching
+
+CACM-2082
+----------------------------------------------------------------
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data ...
+<hl>parsing</hl> <hl>algorithm</hl> <hl>parsing</hl>
+<hl>algorithm</hl> efficient general <hl>contextfree</hl>
+<hl>algorithm</hl> known similar knuths lrk <hl>algorithm</hl>
+familiar topdown <hl>algorithm</hl> time bound proportional n3
+... <hl>types</hl> includes provision programmerdefined
+<hl>data</hl> <hl>types</hl> <hl>data</hl> <hl>types</hl>
+generic routines programmer control <hl>type</hl> conversion
+flexible <hl>data</hl> <hl>type</hl> behavior context efficient
+... <hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching
+
+CACM-2958
+----------------------------------------------------------------
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data ...
+<hl>parsing</hl> <hl>algorithm</hl> <hl>parsing</hl>
+<hl>algorithm</hl> efficient general <hl>contextfree</hl>
+<hl>algorithm</hl> known similar knuths lrk <hl>algorithm</hl>
+familiar topdown <hl>algorithm</hl> time bound proportional n3
+... <hl>types</hl> includes provision programmerdefined
+<hl>data</hl> <hl>types</hl> <hl>data</hl> <hl>types</hl>
+generic routines programmer control <hl>type</hl> conversion
+flexible <hl>data</hl> <hl>type</hl> behavior context efficient
+... <hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching
+
+CACM-3031
+----------------------------------------------------------------
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data ...
+<hl>parsing</hl> <hl>algorithm</hl> <hl>parsing</hl>
+<hl>algorithm</hl> efficient general <hl>contextfree</hl>
+<hl>algorithm</hl> known similar knuths lrk <hl>algorithm</hl>
+familiar topdown <hl>algorithm</hl> time bound proportional n3
+... <hl>types</hl> includes provision programmerdefined
+<hl>data</hl> <hl>types</hl> <hl>data</hl> <hl>types</hl>
+generic routines programmer control <hl>type</hl> conversion
+flexible <hl>data</hl> <hl>type</hl> behavior context efficient
+... <hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching
+
+CACM-2867
+----------------------------------------------------------------
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data ...
+<hl>parsing</hl> <hl>algorithm</hl> <hl>parsing</hl>
+<hl>algorithm</hl> efficient general <hl>contextfree</hl>
+<hl>algorithm</hl> known similar knuths lrk <hl>algorithm</hl>
+familiar topdown <hl>algorithm</hl> time bound proportional n3
+... <hl>types</hl> includes provision programmerdefined
+<hl>data</hl> <hl>types</hl> <hl>data</hl> <hl>types</hl>
+generic routines programmer control <hl>type</hl> conversion
+flexible <hl>data</hl> <hl>type</hl> behavior context efficient
+... <hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching
+
+CACM-2705
+----------------------------------------------------------------
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data ...
+<hl>parsing</hl> <hl>algorithm</hl> <hl>parsing</hl>
+<hl>algorithm</hl> efficient general <hl>contextfree</hl>
+<hl>algorithm</hl> known similar knuths lrk <hl>algorithm</hl>
+familiar topdown <hl>algorithm</hl> time bound proportional n3
+... <hl>types</hl> includes provision programmerdefined
+<hl>data</hl> <hl>types</hl> <hl>data</hl> <hl>types</hl>
+generic routines programmer control <hl>type</hl> conversion
+flexible <hl>data</hl> <hl>type</hl> behavior context efficient
+... <hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching
+
+CACM-2941
+----------------------------------------------------------------
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data ...
+<hl>parsing</hl> <hl>algorithm</hl> <hl>parsing</hl>
+<hl>algorithm</hl> efficient general <hl>contextfree</hl>
+<hl>algorithm</hl> known similar knuths lrk <hl>algorithm</hl>
+familiar topdown <hl>algorithm</hl> time bound proportional n3
+... <hl>types</hl> includes provision programmerdefined
+<hl>data</hl> <hl>types</hl> <hl>data</hl> <hl>types</hl>
+generic routines programmer control <hl>type</hl> conversion
+flexible <hl>data</hl> <hl>type</hl> behavior context efficient
+... <hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching
+
+CACM-3105
+----------------------------------------------------------------
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data ...
+<hl>parsing</hl> <hl>algorithm</hl> <hl>parsing</hl>
+<hl>algorithm</hl> efficient general <hl>contextfree</hl>
+<hl>algorithm</hl> known similar knuths lrk <hl>algorithm</hl>
+familiar topdown <hl>algorithm</hl> time bound proportional n3
+... <hl>types</hl> includes provision programmerdefined
+<hl>data</hl> <hl>types</hl> <hl>data</hl> <hl>types</hl>
+generic routines programmer control <hl>type</hl> conversion
+flexible <hl>data</hl> <hl>type</hl> behavior context efficient
+... <hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept ... computer <hl>network</hl> correctness proofs
+computer <hl>networks</hl> <hl>distributed</hl> control
+<hl>network</hl> topology routing problem <hl>networks</hl>
+<hl>distributed</hl> <hl>operating</hl> system store forward
+packet switching
+
+CACM-2651
+----------------------------------------------------------------
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data ...
+<hl>parsing</hl> <hl>algorithm</hl> <hl>parsing</hl>
+<hl>algorithm</hl> efficient general <hl>contextfree</hl>
+<hl>algorithm</hl> known similar knuths lrk <hl>algorithm</hl>
+familiar topdown <hl>algorithm</hl> time bound proportional n3
+... <hl>types</hl> includes provision programmerdefined
+<hl>data</hl> <hl>types</hl> <hl>data</hl> <hl>types</hl>
+generic routines programmer control <hl>type</hl> conversion
+flexible <hl>data</hl> <hl>type</hl> behavior context efficient
+... <hl>types</hl> includes provision programmerdefined
+<hl>data</hl> <hl>types</hl> <hl>data</hl> <hl>types</hl>
+generic routines programmer control <hl>type</hl> conversion
+flexible <hl>data</hl> <hl>type</hl> behavior context efficient
+... <hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept
+
+CACM-1359
+----------------------------------------------------------------
+laboratory mit conceived marvin minsky cacm 197 hodes
+<hl>image</hl> <hl>processing</hl> biomedical <hl>image</hl>
+<hl>processing</hl> online <hl>image</hl> <hl>processing</hl>
+semiautomatic <hl>image</hl> <hl>processing</hl> data ...
+<hl>parsing</hl> <hl>algorithm</hl> <hl>parsing</hl>
+<hl>algorithm</hl> efficient general <hl>contextfree</hl>
+<hl>algorithm</hl> known similar knuths lrk <hl>algorithm</hl>
+familiar topdown <hl>algorithm</hl> time bound proportional n3
+... <hl>types</hl> includes provision programmerdefined
+<hl>data</hl> <hl>types</hl> <hl>data</hl> <hl>types</hl>
+generic routines programmer control <hl>type</hl> conversion
+flexible <hl>data</hl> <hl>type</hl> behavior context efficient
+... <hl>types</hl> includes provision programmerdefined
+<hl>data</hl> <hl>types</hl> <hl>data</hl> <hl>types</hl>
+generic routines programmer control <hl>type</hl> conversion
+flexible <hl>data</hl> <hl>type</hl> behavior context efficient
+... <hl>processes</hl> <hl>concurrent</hl> programming concept
+language concept <hl>concurrent</hl> <hl>processes</hl> common
+variables introduced <hl>processes</hl> <hl>communicate</hl>
+<hl>synchronize</hl> means procedure calls guarded regions
+concept
+
